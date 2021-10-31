@@ -1,0 +1,565 @@
+{
+  "totalResultsCount": 28,
+  "geonames": [
+    {
+      "adminCode1": "38",
+      "lng": "23.45",
+      "geonameId": 733192,
+      "toponymName": "Blagoevgrad",
+      "countryId": "732800",
+      "fcl": "A",
+      "population": 305123,
+      "countryCode": "BG",
+      "name": "Blagoevgrad",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "01"
+      },
+      "countryName": "Bulgaria",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Blagoevgrad",
+      "lat": "41.73333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "39",
+      "lng": "27.23333",
+      "geonameId": 732771,
+      "toponymName": "Burgas",
+      "countryId": "732800",
+      "fcl": "A",
+      "population": 410331,
+      "countryCode": "BG",
+      "name": "Burgas",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "02"
+      },
+      "countryName": "Bulgaria",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Burgas",
+      "lat": "42.53333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "40",
+      "lng": "27.9",
+      "geonameId": 726419,
+      "toponymName": "Oblast Dobrich",
+      "countryId": "732800",
+      "fcl": "A",
+      "population": 173831,
+      "countryCode": "BG",
+      "name": "Dobrich",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "08"
+      },
+      "countryName": "Bulgaria",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Dobrich",
+      "lat": "43.68333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "41",
+      "lng": "25.25",
+      "geonameId": 864552,
+      "toponymName": "Gabrovo",
+      "countryId": "732800",
+      "fcl": "A",
+      "population": 108404,
+      "countryCode": "BG",
+      "name": "Gabrovo",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "07"
+      },
+      "countryName": "Bulgaria",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Gabrovo",
+      "lat": "42.95",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "43",
+      "lng": "25.91667",
+      "geonameId": 730436,
+      "toponymName": "Haskovo",
+      "countryId": "732800",
+      "fcl": "A",
+      "population": 228141,
+      "countryCode": "BG",
+      "name": "Haskovo",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "26"
+      },
+      "countryName": "Bulgaria",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Haskovo",
+      "lat": "41.83333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "44",
+      "lng": "25.43333",
+      "geonameId": 864553,
+      "toponymName": "Oblast Kardzhali",
+      "countryId": "732800",
+      "fcl": "A",
+      "population": 152873,
+      "countryCode": "BG",
+      "name": "Kardzhali",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "09"
+      },
+      "countryName": "Bulgaria",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Kardzhali",
+      "lat": "41.53333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "45",
+      "lng": "22.9",
+      "geonameId": 864554,
+      "toponymName": "Oblast Kyustendil",
+      "countryId": "732800",
+      "fcl": "A",
+      "population": 119041,
+      "countryCode": "BG",
+      "name": "Kyustendil",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "10"
+      },
+      "countryName": "Bulgaria",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Kyustendil",
+      "lat": "42.25",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "46",
+      "lng": "24.56667",
+      "geonameId": 729560,
+      "toponymName": "Lovech",
+      "countryId": "732800",
+      "fcl": "A",
+      "population": 124873,
+      "countryCode": "BG",
+      "name": "Lovech",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "11"
+      },
+      "countryName": "Bulgaria",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Lovech",
+      "lat": "43.03333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "47",
+      "lng": "23.18333",
+      "geonameId": 453753,
+      "toponymName": "Oblast Montana",
+      "countryId": "732800",
+      "fcl": "A",
+      "population": 129637,
+      "countryCode": "BG",
+      "name": "Montana",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "12"
+      },
+      "countryName": "Bulgaria",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Montana",
+      "lat": "43.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "48",
+      "lng": "24.16667",
+      "geonameId": 728379,
+      "toponymName": "Pazardzhik",
+      "countryId": "732800",
+      "fcl": "A",
+      "population": 255479,
+      "countryCode": "BG",
+      "name": "Pazardzhik",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "13"
+      },
+      "countryName": "Bulgaria",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Pazardzhik",
+      "lat": "42.08333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "49",
+      "lng": "22.88333",
+      "geonameId": 728331,
+      "toponymName": "Pernik",
+      "countryId": "732800",
+      "fcl": "A",
+      "population": 120880,
+      "countryCode": "BG",
+      "name": "Pernik",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "14"
+      },
+      "countryName": "Bulgaria",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Pernik",
+      "lat": "42.63333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "50",
+      "lng": "24.63333",
+      "geonameId": 728204,
+      "toponymName": "Oblast Pleven",
+      "countryId": "732800",
+      "fcl": "A",
+      "population": 240380,
+      "countryCode": "BG",
+      "name": "Pleven",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "15"
+      },
+      "countryName": "Bulgaria",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Pleven",
+      "lat": "43.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "51",
+      "lng": "24.83333",
+      "geonameId": 728194,
+      "toponymName": "Plovdiv",
+      "countryId": "732800",
+      "fcl": "A",
+      "population": 668334,
+      "countryCode": "BG",
+      "name": "Plovdiv",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "16"
+      },
+      "countryName": "Bulgaria",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Plovdiv",
+      "lat": "42.26667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "52",
+      "lng": "26.6",
+      "geonameId": 453751,
+      "toponymName": "Oblast Razgrad",
+      "countryId": "732800",
+      "fcl": "A",
+      "population": 112229,
+      "countryCode": "BG",
+      "name": "Razgrad",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "17"
+      },
+      "countryName": "Bulgaria",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Razgrad",
+      "lat": "43.65",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "53",
+      "lng": "26",
+      "geonameId": 727524,
+      "toponymName": "Oblast Ruse",
+      "countryId": "732800",
+      "fcl": "A",
+      "population": 218556,
+      "countryCode": "BG",
+      "name": "Ruse",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "18"
+      },
+      "countryName": "Bulgaria",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Ruse",
+      "lat": "43.7",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "54",
+      "lng": "27",
+      "geonameId": 864555,
+      "toponymName": "Oblast Shumen",
+      "countryId": "732800",
+      "fcl": "A",
+      "population": 172355,
+      "countryCode": "BG",
+      "name": "Shumen",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "27"
+      },
+      "countryName": "Bulgaria",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Shumen",
+      "lat": "43.33333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "55",
+      "lng": "27.05",
+      "geonameId": 864556,
+      "toponymName": "Oblast Silistra",
+      "countryId": "732800",
+      "fcl": "A",
+      "population": 109271,
+      "countryCode": "BG",
+      "name": "Silistra",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "19"
+      },
+      "countryName": "Bulgaria",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Silistra",
+      "lat": "43.93333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "56",
+      "lng": "26.28333",
+      "geonameId": 864557,
+      "toponymName": "Oblast Sliven",
+      "countryId": "732800",
+      "fcl": "A",
+      "population": 186495,
+      "countryCode": "BG",
+      "name": "Sliven",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "20"
+      },
+      "countryName": "Bulgaria",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Sliven",
+      "lat": "42.66667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "57",
+      "lng": "24.65",
+      "geonameId": 864558,
+      "toponymName": "Oblast Smolyan",
+      "countryId": "732800",
+      "fcl": "A",
+      "population": 105421,
+      "countryCode": "BG",
+      "name": "Smolyan",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "21"
+      },
+      "countryName": "Bulgaria",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Smolyan",
+      "lat": "41.61667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "58",
+      "lng": "23.8",
+      "geonameId": 727012,
+      "toponymName": "Sofia",
+      "countryId": "732800",
+      "fcl": "A",
+      "population": 229041,
+      "countryCode": "BG",
+      "name": "Sofia",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "23"
+      },
+      "countryName": "Bulgaria",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Sofia",
+      "lat": "42.66667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "42",
+      "lng": "23.38333",
+      "geonameId": 731061,
+      "toponymName": "Sofia-Grad",
+      "countryId": "732800",
+      "fcl": "A",
+      "population": 1328120,
+      "countryCode": "BG",
+      "name": "Sofia-grad",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "22"
+      },
+      "countryName": "Bulgaria",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Sofia-Capital",
+      "lat": "42.66667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "59",
+      "lng": "25.56667",
+      "geonameId": 864559,
+      "toponymName": "Oblast Stara Zagora",
+      "countryId": "732800",
+      "fcl": "A",
+      "population": 316356,
+      "countryCode": "BG",
+      "name": "Stara Zagora",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "24"
+      },
+      "countryName": "Bulgaria",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Stara Zagora",
+      "lat": "42.45",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "60",
+      "lng": "26.38333",
+      "geonameId": 864560,
+      "toponymName": "Oblast Targovishte",
+      "countryId": "732800",
+      "fcl": "A",
+      "population": 111597,
+      "countryCode": "BG",
+      "name": "Targovishte",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "25"
+      },
+      "countryName": "Bulgaria",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Targovishte",
+      "lat": "43.26667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "61",
+      "lng": "27.6",
+      "geonameId": 726051,
+      "toponymName": "Varna",
+      "countryId": "732800",
+      "fcl": "A",
+      "population": 471252,
+      "countryCode": "BG",
+      "name": "Varna",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "03"
+      },
+      "countryName": "Bulgaria",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Varna",
+      "lat": "43.21667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "62",
+      "lng": "25.65",
+      "geonameId": 864561,
+      "toponymName": "Oblast Veliko Tarnovo",
+      "countryId": "732800",
+      "fcl": "A",
+      "population": 235708,
+      "countryCode": "BG",
+      "name": "Veliko Tarnovo",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "04"
+      },
+      "countryName": "Bulgaria",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Veliko Tarnovo",
+      "lat": "43.23333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "63",
+      "lng": "22.71667",
+      "geonameId": 864562,
+      "toponymName": "Oblast Vidin",
+      "countryId": "732800",
+      "fcl": "A",
+      "population": 84865,
+      "countryCode": "BG",
+      "name": "Vidin",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "05"
+      },
+      "countryName": "Bulgaria",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Vidin",
+      "lat": "43.81667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "64",
+      "lng": "23.76667",
+      "geonameId": 725713,
+      "toponymName": "Oblast Vratsa",
+      "countryId": "732800",
+      "fcl": "A",
+      "population": 162549,
+      "countryCode": "BG",
+      "name": "Vratsa",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "06"
+      },
+      "countryName": "Bulgaria",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Vratsa",
+      "lat": "43.4",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "65",
+      "lng": "26.63333",
+      "geonameId": 864563,
+      "toponymName": "Oblast Yambol",
+      "countryId": "732800",
+      "fcl": "A",
+      "population": 118897,
+      "countryCode": "BG",
+      "name": "Yambol",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "28"
+      },
+      "countryName": "Bulgaria",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Yambol",
+      "lat": "42.33333",
+      "fcode": "ADM1"
+    }
+  ]
+}

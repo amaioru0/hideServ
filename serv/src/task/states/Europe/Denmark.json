@@ -1,0 +1,105 @@
+{
+  "totalResultsCount": 5,
+  "geonames": [
+    {
+      "adminCode1": "17",
+      "lng": "12.33333",
+      "geonameId": 6418538,
+      "toponymName": "Region Hovedstaden",
+      "countryId": "2623032",
+      "fcl": "A",
+      "population": 1680271,
+      "countryCode": "DK",
+      "name": "Capital Region",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "84"
+      },
+      "countryName": "Denmark",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Capital Region",
+      "lat": "55.83333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "18",
+      "lng": "9.5",
+      "geonameId": 6418539,
+      "toponymName": "Region Midtjylland",
+      "countryId": "2623032",
+      "fcl": "A",
+      "population": 1253998,
+      "countryCode": "DK",
+      "name": "Central Jutland",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "82"
+      },
+      "countryName": "Denmark",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Central Jutland",
+      "lat": "56.16667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "19",
+      "lng": "9.66667",
+      "geonameId": 6418540,
+      "toponymName": "North Denmark Region",
+      "countryId": "2623032",
+      "fcl": "A",
+      "population": 580273,
+      "countryCode": "DK",
+      "name": "North Denmark",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "81"
+      },
+      "countryName": "Denmark",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "North Denmark",
+      "lat": "57",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "21",
+      "lng": "10.345",
+      "geonameId": 6418542,
+      "toponymName": "Region Syddanmark",
+      "countryId": "2623032",
+      "fcl": "A",
+      "population": 1200277,
+      "countryCode": "DK",
+      "name": "South Denmark",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "83"
+      },
+      "countryName": "Denmark",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "South Denmark",
+      "lat": "55.37911",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "20",
+      "lng": "11.83333",
+      "geonameId": 6418541,
+      "toponymName": "Region Sjælland",
+      "countryId": "2623032",
+      "fcl": "A",
+      "population": 820564,
+      "countryCode": "DK",
+      "name": "Zealand",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "85"
+      },
+      "countryName": "Denmark",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Zealand",
+      "lat": "55.41667",
+      "fcode": "ADM1"
+    }
+  ]
+}

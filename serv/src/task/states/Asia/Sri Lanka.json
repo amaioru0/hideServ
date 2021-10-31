@@ -1,0 +1,185 @@
+{
+  "totalResultsCount": 9,
+  "geonames": [
+    {
+      "adminCode1": "29",
+      "lng": "80.75",
+      "geonameId": 1249296,
+      "toponymName": "Central Province",
+      "countryId": "1227603",
+      "fcl": "A",
+      "population": 2558716,
+      "countryCode": "LK",
+      "name": "Central Province",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "2"
+      },
+      "countryName": "Sri Lanka",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Central",
+      "lat": "7.33333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "37",
+      "lng": "81.20201",
+      "geonameId": 8133521,
+      "toponymName": "Eastern Province",
+      "countryId": "1227603",
+      "fcl": "A",
+      "population": 1500000,
+      "countryCode": "LK",
+      "name": "Eastern Province",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "5"
+      },
+      "countryName": "Sri Lanka",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Eastern Province",
+      "lat": "8.60614",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "30",
+      "lng": "80.5",
+      "geonameId": 1232870,
+      "toponymName": "North Central Province",
+      "countryId": "1227603",
+      "fcl": "A",
+      "population": 1259567,
+      "countryCode": "LK",
+      "name": "North Central Province",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "7"
+      },
+      "countryName": "Sri Lanka",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "North Central",
+      "lat": "8.33333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "32",
+      "lng": "80.16667",
+      "geonameId": 1232860,
+      "toponymName": "North Western Province",
+      "countryId": "1227603",
+      "fcl": "A",
+      "population": 2370075,
+      "countryCode": "LK",
+      "name": "North Western Province",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "6"
+      },
+      "countryName": "Sri Lanka",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "North Western",
+      "lat": "7.75",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "38",
+      "lng": "80.41667",
+      "geonameId": 7671049,
+      "toponymName": "Northern Province",
+      "countryId": "1227603",
+      "fcl": "A",
+      "population": 1058762,
+      "countryCode": "LK",
+      "name": "Northern Province",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "4"
+      },
+      "countryName": "Sri Lanka",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Northern Province",
+      "lat": "9.16667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "35",
+      "lng": "81.05639",
+      "geonameId": 1225265,
+      "toponymName": "Province of Uva",
+      "countryId": "1227603",
+      "fcl": "A",
+      "population": 1259800,
+      "countryCode": "LK",
+      "name": "Province of Uva",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "8"
+      },
+      "countryName": "Sri Lanka",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Uva",
+      "lat": "6.98472",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "33",
+      "lng": "80.5",
+      "geonameId": 1228435,
+      "toponymName": "Sabaragamuwa Province",
+      "countryId": "1227603",
+      "fcl": "A",
+      "population": 1918880,
+      "countryCode": "LK",
+      "name": "Sabaragamuwa Province",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "9"
+      },
+      "countryName": "Sri Lanka",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Sabaragamuwa",
+      "lat": "6.75",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "34",
+      "lng": "80.75",
+      "geonameId": 1227618,
+      "toponymName": "Southern Province",
+      "countryId": "1227603",
+      "fcl": "A",
+      "population": 2464732,
+      "countryCode": "LK",
+      "name": "Southern Province",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "3"
+      },
+      "countryName": "Sri Lanka",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Southern",
+      "lat": "6.16667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "36",
+      "lng": "80.08333",
+      "geonameId": 1223421,
+      "toponymName": "Western Province",
+      "countryId": "1227603",
+      "fcl": "A",
+      "population": 5821710,
+      "countryCode": "LK",
+      "name": "Western Province",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "1"
+      },
+      "countryName": "Sri Lanka",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Western",
+      "lat": "6.83333",
+      "fcode": "ADM1"
+    }
+  ]
+}

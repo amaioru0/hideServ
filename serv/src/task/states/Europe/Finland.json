@@ -1,0 +1,365 @@
+{
+  "totalResultsCount": 18,
+  "geonames": [
+    {
+      "adminCode1": "13",
+      "lng": "25.5",
+      "geonameId": 830685,
+      "toponymName": "Mellersta Finland",
+      "countryId": "660013",
+      "fcl": "A",
+      "population": 275320,
+      "countryCode": "FI",
+      "name": "Central Finland",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "08"
+      },
+      "countryName": "Finland",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Central Finland",
+      "lat": "62.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "16",
+      "lng": "24.08333",
+      "geonameId": 830675,
+      "toponymName": "Keski-Pohjanmaa",
+      "countryId": "660013",
+      "fcl": "A",
+      "population": 70106,
+      "countryCode": "FI",
+      "name": "Central Ostrobothnia",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "07"
+      },
+      "countryName": "Finland",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Central Ostrobothnia",
+      "lat": "63.58333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "18",
+      "lng": "28.5",
+      "geonameId": 830664,
+      "toponymName": "Kainuu",
+      "countryId": "660013",
+      "fcl": "A",
+      "population": 84498,
+      "countryCode": "FI",
+      "name": "Kainuu",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "05"
+      },
+      "countryName": "Finland",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Kainuu",
+      "lat": "64.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "05",
+      "lng": "24.33333",
+      "geonameId": 830705,
+      "toponymName": "Kanta-Häme",
+      "countryId": "660013",
+      "fcl": "A",
+      "population": 167442,
+      "countryCode": "FI",
+      "name": "Kanta-Häme",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "06"
+      },
+      "countryName": "Finland",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Kanta-Häme",
+      "lat": "60.91667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "08",
+      "lng": "26.91667",
+      "geonameId": 830703,
+      "toponymName": "Kymenlaakso",
+      "countryId": "660013",
+      "fcl": "A",
+      "population": 184317,
+      "countryCode": "FI",
+      "name": "Kymenlaakso",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "09"
+      },
+      "countryName": "Finland",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Kymenlaakso",
+      "lat": "60.83333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "19",
+      "lng": "26.5",
+      "geonameId": 830603,
+      "toponymName": "Lapland",
+      "countryId": "660013",
+      "fcl": "A",
+      "population": 182885,
+      "countryCode": "FI",
+      "name": "Lapland",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "10"
+      },
+      "countryName": "Finland",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Lapland",
+      "lat": "67.75",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "12",
+      "lng": "29.91667",
+      "geonameId": 830686,
+      "toponymName": "Pohjois-Karjala",
+      "countryId": "660013",
+      "fcl": "A",
+      "population": 166500,
+      "countryCode": "FI",
+      "name": "North Karelia Region",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "13"
+      },
+      "countryName": "Finland",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "North Karelia",
+      "lat": "62.83333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "17",
+      "lng": "26.41667",
+      "geonameId": 830667,
+      "toponymName": "Pohjois-Pohjanmaa",
+      "countryId": "660013",
+      "fcl": "A",
+      "population": 384900,
+      "countryCode": "FI",
+      "name": "North Ostrobothnia",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "14"
+      },
+      "countryName": "Finland",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "North Ostrobothnia",
+      "lat": "65",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "11",
+      "lng": "27.5",
+      "geonameId": 830690,
+      "toponymName": "Pohjois-Savo",
+      "countryId": "660013",
+      "fcl": "A",
+      "population": 250294,
+      "countryCode": "FI",
+      "name": "North Savo",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "15"
+      },
+      "countryName": "Finland",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "North Savo",
+      "lat": "63.16667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "15",
+      "lng": "22.16667",
+      "geonameId": 830676,
+      "toponymName": "Pohjanmaa",
+      "countryId": "660013",
+      "fcl": "A",
+      "population": 180384,
+      "countryCode": "FI",
+      "name": "Ostrobothnia Region",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "12"
+      },
+      "countryName": "Finland",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Ostrobothnia",
+      "lat": "63.08333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "07",
+      "lng": "25.83333",
+      "geonameId": 831040,
+      "toponymName": "Paijat-Hame Region",
+      "countryId": "660013",
+      "fcl": "A",
+      "population": 199059,
+      "countryCode": "FI",
+      "name": "Paijat-Hame",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "16"
+      },
+      "countryName": "Finland",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Paijat-Hame",
+      "lat": "61.25",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "04",
+      "lng": "22.16667",
+      "geonameId": 831041,
+      "toponymName": "Satakunta",
+      "countryId": "660013",
+      "fcl": "A",
+      "population": 232687,
+      "countryCode": "FI",
+      "name": "Satakunta",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "17"
+      },
+      "countryName": "Finland",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Satakunta",
+      "lat": "61.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "09",
+      "lng": "28.16667",
+      "geonameId": 830699,
+      "toponymName": "South Karelia Region",
+      "countryId": "660013",
+      "fcl": "A",
+      "population": 132252,
+      "countryCode": "FI",
+      "name": "South Karelia Region",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "02"
+      },
+      "countryName": "Finland",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "South Karelia",
+      "lat": "60.96667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "14",
+      "lng": "23",
+      "geonameId": 830682,
+      "toponymName": "South Ostrobothnia",
+      "countryId": "660013",
+      "fcl": "A",
+      "population": 192675,
+      "countryCode": "FI",
+      "name": "South Ostrobothnia",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "03"
+      },
+      "countryName": "Finland",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "South Ostrobothnia",
+      "lat": "62.75",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "10",
+      "lng": "27.83333",
+      "geonameId": 830695,
+      "toponymName": "Southern Savonia",
+      "countryId": "660013",
+      "fcl": "A",
+      "population": 152518,
+      "countryCode": "FI",
+      "name": "South Savo",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "04"
+      },
+      "countryName": "Finland",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "South Savo",
+      "lat": "61.75",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "02",
+      "lng": "22.25",
+      "geonameId": 830708,
+      "toponymName": "Varsinais-Suomi",
+      "countryId": "660013",
+      "fcl": "A",
+      "population": 470880,
+      "countryCode": "FI",
+      "name": "Southwest Finland",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "19"
+      },
+      "countryName": "Finland",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Southwest Finland",
+      "lat": "60.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "06",
+      "lng": "23.71667",
+      "geonameId": 830704,
+      "toponymName": "Pirkanmaa",
+      "countryId": "660013",
+      "fcl": "A",
+      "population": 462627,
+      "countryCode": "FI",
+      "name": "Tampere",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "11"
+      },
+      "countryName": "Finland",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Pirkanmaa",
+      "lat": "61.7",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "01",
+      "lng": "24.75",
+      "geonameId": 830709,
+      "toponymName": "Uusimaa",
+      "countryId": "660013",
+      "fcl": "A",
+      "population": 1585473,
+      "countryCode": "FI",
+      "name": "Uusimaa",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "18"
+      },
+      "countryName": "Finland",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Uusimaa",
+      "lat": "60.41667",
+      "fcode": "ADM1"
+    }
+  ]
+}

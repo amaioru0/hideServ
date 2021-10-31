@@ -1,0 +1,105 @@
+{
+  "totalResultsCount": 5,
+  "geonames": [
+    {
+      "adminCode1": "11839537",
+      "lng": "-51.08301",
+      "geonameId": 11839537,
+      "toponymName": "Avannaata",
+      "countryId": "3425505",
+      "fcl": "A",
+      "population": 10600,
+      "countryCode": "GL",
+      "name": "Avannaata",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "AV"
+      },
+      "countryName": "Greenland",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Avannaata",
+      "lat": "69.21536",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "04",
+      "lng": "-46.03683",
+      "geonameId": 7602005,
+      "toponymName": "Kujalleq",
+      "countryId": "3425505",
+      "fcl": "A",
+      "population": 7151,
+      "countryCode": "GL",
+      "name": "Kujalleq",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "KU"
+      },
+      "countryName": "Greenland",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Kujalleq",
+      "lat": "60.71905",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "11839534",
+      "lng": "-52.84289",
+      "geonameId": 11839534,
+      "toponymName": "Qeqertalik",
+      "countryId": "3425505",
+      "fcl": "A",
+      "population": 6500,
+      "countryCode": "GL",
+      "name": "Qeqertalik",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "QT"
+      },
+      "countryName": "Greenland",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Qeqertalik",
+      "lat": "68.70716",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "06",
+      "lng": "-53.67517",
+      "geonameId": 7602006,
+      "toponymName": "Qeqqata",
+      "countryId": "3425505",
+      "fcl": "A",
+      "population": 9620,
+      "countryCode": "GL",
+      "name": "Qeqqata",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "QE"
+      },
+      "countryName": "Greenland",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Qeqqata",
+      "lat": "66.93305",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "07",
+      "lng": "-51.71831",
+      "geonameId": 7602007,
+      "toponymName": "Sermersooq",
+      "countryId": "3425505",
+      "fcl": "A",
+      "population": 21868,
+      "countryCode": "GL",
+      "name": "Sermersooq",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SM"
+      },
+      "countryName": "Greenland",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Sermersooq",
+      "lat": "64.18284",
+      "fcode": "ADM1"
+    }
+  ]
+}

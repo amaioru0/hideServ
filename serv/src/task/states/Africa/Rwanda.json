@@ -1,0 +1,105 @@
+{
+  "totalResultsCount": 5,
+  "geonames": [
+    {
+      "adminCode1": "11",
+      "lng": "30.5",
+      "geonameId": 6413337,
+      "toponymName": "Eastern Province",
+      "countryId": "49518",
+      "fcl": "A",
+      "population": 2600812,
+      "countryCode": "RW",
+      "name": "Eastern Province",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "02"
+      },
+      "countryName": "Rwanda",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Eastern Province",
+      "lat": "-1.75",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "12",
+      "lng": "30.08333",
+      "geonameId": 6413338,
+      "toponymName": "Kigali Province",
+      "countryId": "49518",
+      "fcl": "A",
+      "population": 965398,
+      "countryCode": "RW",
+      "name": "Kigali",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "01"
+      },
+      "countryName": "Rwanda",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Kigali",
+      "lat": "-1.91667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "13",
+      "lng": "29.91667",
+      "geonameId": 6413339,
+      "toponymName": "Northern Province",
+      "countryId": "49518",
+      "fcl": "A",
+      "population": 1726370,
+      "countryCode": "RW",
+      "name": "Northern Province",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "03"
+      },
+      "countryName": "Rwanda",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Northern Province",
+      "lat": "-1.58333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "15",
+      "lng": "29.66667",
+      "geonameId": 6413341,
+      "toponymName": "Southern Province",
+      "countryId": "49518",
+      "fcl": "A",
+      "population": 2589975,
+      "countryCode": "RW",
+      "name": "Southern Province",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "05"
+      },
+      "countryName": "Rwanda",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Southern Province",
+      "lat": "-2.33333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "14",
+      "lng": "29.33333",
+      "geonameId": 6413340,
+      "toponymName": "Western Province",
+      "countryId": "49518",
+      "fcl": "A",
+      "population": 2471348,
+      "countryCode": "RW",
+      "name": "Western Province",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "04"
+      },
+      "countryName": "Rwanda",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Western Province",
+      "lat": "-2.16667",
+      "fcode": "ADM1"
+    }
+  ]
+}

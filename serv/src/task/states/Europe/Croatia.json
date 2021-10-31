@@ -1,0 +1,425 @@
+{
+  "totalResultsCount": 21,
+  "geonames": [
+    {
+      "adminCode1": "01",
+      "lng": "17",
+      "geonameId": 3337511,
+      "toponymName": "Bjelovar-Bilogora",
+      "countryId": "3202326",
+      "fcl": "A",
+      "population": 119764,
+      "countryCode": "HR",
+      "name": "Bjelovar-Bilogora",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "07"
+      },
+      "countryName": "Croatia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Bjelovarsko-Bilogorska",
+      "lat": "45.66667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "21",
+      "lng": "15.9773",
+      "geonameId": 3337532,
+      "toponymName": "Grad Zagreb",
+      "countryId": "3202326",
+      "fcl": "A",
+      "population": 790017,
+      "countryCode": "HR",
+      "name": "City of Zagreb",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "21"
+      },
+      "countryName": "Croatia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "City of Zagreb",
+      "lat": "45.81307",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "03",
+      "lng": "18.09472",
+      "geonameId": 3337513,
+      "toponymName": "Dubrovačko-Neretvanska Županija",
+      "countryId": "3202326",
+      "fcl": "A",
+      "population": 122568,
+      "countryCode": "HR",
+      "name": "Dubrovačko-Neretvanska Županija",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "19"
+      },
+      "countryName": "Croatia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Dubrovačko-Neretvanska",
+      "lat": "42.65361",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "04",
+      "lng": "13.91667",
+      "geonameId": 3337514,
+      "toponymName": "Istria",
+      "countryId": "3202326",
+      "fcl": "A",
+      "population": 208055,
+      "countryCode": "HR",
+      "name": "Istria",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "18"
+      },
+      "countryName": "Croatia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Istria",
+      "lat": "45.25",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "05",
+      "lng": "15.58333",
+      "geonameId": 3337515,
+      "toponymName": "Karlovac",
+      "countryId": "3202326",
+      "fcl": "A",
+      "population": 128899,
+      "countryCode": "HR",
+      "name": "Karlovac",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "04"
+      },
+      "countryName": "Croatia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Karlovačka",
+      "lat": "45.33333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "06",
+      "lng": "16.83333",
+      "geonameId": 3337518,
+      "toponymName": "Koprivinica-Krizevci",
+      "countryId": "3202326",
+      "fcl": "A",
+      "population": 115584,
+      "countryCode": "HR",
+      "name": "Koprivinica-Krizevci",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "06"
+      },
+      "countryName": "Croatia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Koprivničko-Križevačka",
+      "lat": "46.16667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "07",
+      "lng": "16",
+      "geonameId": 3337519,
+      "toponymName": "Krapina-Zagorje",
+      "countryId": "3202326",
+      "fcl": "A",
+      "population": 132892,
+      "countryCode": "HR",
+      "name": "Krapina-Zagorje",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "02"
+      },
+      "countryName": "Croatia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Krapinsko-Zagorska",
+      "lat": "46.08333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "08",
+      "lng": "15.41667",
+      "geonameId": 3337520,
+      "toponymName": "Lika-Senj",
+      "countryId": "3202326",
+      "fcl": "A",
+      "population": 50927,
+      "countryCode": "HR",
+      "name": "Lika-Senj",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "09"
+      },
+      "countryName": "Croatia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Ličko-Senjska",
+      "lat": "44.66667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "09",
+      "lng": "16.5",
+      "geonameId": 3337521,
+      "toponymName": "Medimurje",
+      "countryId": "3202326",
+      "fcl": "A",
+      "population": 113804,
+      "countryCode": "HR",
+      "name": "Medimurje",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "20"
+      },
+      "countryName": "Croatia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Međimurska",
+      "lat": "46.41667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "10",
+      "lng": "18.62977",
+      "geonameId": 3337522,
+      "toponymName": "Osječko-Baranjska Županija",
+      "countryId": "3202326",
+      "fcl": "A",
+      "population": 305032,
+      "countryCode": "HR",
+      "name": "Osječko-Baranjska Županija",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "14"
+      },
+      "countryName": "Croatia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Osječko-Baranjska",
+      "lat": "45.53997",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "11",
+      "lng": "17.66667",
+      "geonameId": 3337523,
+      "toponymName": "Pozega-Slavonia",
+      "countryId": "3202326",
+      "fcl": "A",
+      "population": 78034,
+      "countryCode": "HR",
+      "name": "Pozega-Slavonia",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "11"
+      },
+      "countryName": "Croatia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Požeško-Slavonska",
+      "lat": "45.41667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "12",
+      "lng": "14.594",
+      "geonameId": 3337524,
+      "toponymName": "Primorsko-Goranska Županija",
+      "countryId": "3202326",
+      "fcl": "A",
+      "population": 296195,
+      "countryCode": "HR",
+      "name": "Primorsko-Goranska Županija",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "08"
+      },
+      "countryName": "Croatia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Primorsko-Goranska",
+      "lat": "45.454",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "13",
+      "lng": "15.91667",
+      "geonameId": 3337525,
+      "toponymName": "Sibenik-Knin",
+      "countryId": "3202326",
+      "fcl": "A",
+      "population": 109375,
+      "countryCode": "HR",
+      "name": "Sibenik-Knin",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "15"
+      },
+      "countryName": "Croatia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Šibensko-Kniniska",
+      "lat": "43.83333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "14",
+      "lng": "16.5",
+      "geonameId": 3337526,
+      "toponymName": "Sisak-Moslavina",
+      "countryId": "3202326",
+      "fcl": "A",
+      "population": 172439,
+      "countryCode": "HR",
+      "name": "Sisak-Moslavina",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "03"
+      },
+      "countryName": "Croatia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Sisačko-Moslavačka",
+      "lat": "45.41667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "02",
+      "lng": "17.75",
+      "geonameId": 3337512,
+      "toponymName": "Brod-Posavina",
+      "countryId": "3202326",
+      "fcl": "A",
+      "population": 158575,
+      "countryCode": "HR",
+      "name": "Slavonski Brod-Posavina",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "12"
+      },
+      "countryName": "Croatia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Slavonski Brod-Posavina",
+      "lat": "45.16667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "15",
+      "lng": "16.5",
+      "geonameId": 3337527,
+      "toponymName": "Split-Dalmatia",
+      "countryId": "3202326",
+      "fcl": "A",
+      "population": 454798,
+      "countryCode": "HR",
+      "name": "Split-Dalmatia",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "17"
+      },
+      "countryName": "Croatia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Split-Dalmatia",
+      "lat": "43.16667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "16",
+      "lng": "16.33333",
+      "geonameId": 3337528,
+      "toponymName": "Varazdin",
+      "countryId": "3202326",
+      "fcl": "A",
+      "population": 175951,
+      "countryCode": "HR",
+      "name": "Varazdin",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "05"
+      },
+      "countryName": "Croatia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Varaždinska",
+      "lat": "46.25",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "17",
+      "lng": "17.58333",
+      "geonameId": 3337533,
+      "toponymName": "Virovitica-Podravina",
+      "countryId": "3202326",
+      "fcl": "A",
+      "population": 84836,
+      "countryCode": "HR",
+      "name": "Virovitica-Podravina",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "10"
+      },
+      "countryName": "Croatia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Virovitičk-Podravska",
+      "lat": "45.75",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "18",
+      "lng": "18.91667",
+      "geonameId": 3337529,
+      "toponymName": "Vukovar-Srijem",
+      "countryId": "3202326",
+      "fcl": "A",
+      "population": 179521,
+      "countryCode": "HR",
+      "name": "Vukovar-Sirmium",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "16"
+      },
+      "countryName": "Croatia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Vukovar-Sirmium",
+      "lat": "45.16667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "19",
+      "lng": "15.33333",
+      "geonameId": 3337530,
+      "toponymName": "Zadar",
+      "countryId": "3202326",
+      "fcl": "A",
+      "population": 170017,
+      "countryCode": "HR",
+      "name": "Zadar",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "13"
+      },
+      "countryName": "Croatia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Zadarska",
+      "lat": "44.08333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "20",
+      "lng": "16.08333",
+      "geonameId": 3337531,
+      "toponymName": "Zagreb County",
+      "countryId": "3202326",
+      "fcl": "A",
+      "population": 317606,
+      "countryCode": "HR",
+      "name": "Zagreb County",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "01"
+      },
+      "countryName": "Croatia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Zagrebačka",
+      "lat": "45.75",
+      "fcode": "ADM1"
+    }
+  ]
+}

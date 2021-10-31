@@ -1,0 +1,73 @@
+{
+  "totalResultsCount": 4,
+  "geonames": [
+    {
+      "adminCode1": "01",
+      "lng": "118.38593",
+      "geonameId": 7280288,
+      "toponymName": "Fukien",
+      "countryId": "1668284",
+      "fcl": "A",
+      "population": 133456,
+      "countryCode": "TW",
+      "name": "Fukien",
+      "fclName": "country, state, region,...",
+      "countryName": "Taiwan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Fukien",
+      "lat": "24.46965",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "02",
+      "lng": "120.36621",
+      "geonameId": 7280289,
+      "toponymName": "Kaohsiung",
+      "countryId": "1668284",
+      "fcl": "A",
+      "population": 2769072,
+      "countryCode": "TW",
+      "name": "Kaohsiung",
+      "fclName": "country, state, region,...",
+      "countryName": "Taiwan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Kaohsiung",
+      "lat": "22.63429",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "03",
+      "lng": "121.78432",
+      "geonameId": 7280290,
+      "toponymName": "Taipei",
+      "countryId": "1668284",
+      "fcl": "A",
+      "population": 2702315,
+      "countryCode": "TW",
+      "name": "Taipei",
+      "fclName": "country, state, region,...",
+      "countryName": "Taiwan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Taipei",
+      "lat": "24.98473",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "04",
+      "lng": "120.70541",
+      "geonameId": 7280291,
+      "toponymName": "Taiwan",
+      "countryId": "1668284",
+      "fcl": "A",
+      "population": 7095464,
+      "countryCode": "TW",
+      "name": "Taiwan",
+      "fclName": "country, state, region,...",
+      "countryName": "Taiwan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Taiwan",
+      "lat": "24.15114",
+      "fcode": "ADM1"
+    }
+  ]
+}

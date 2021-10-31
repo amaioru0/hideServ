@@ -1,0 +1,9 @@
+name: geoServ
+dependencies:
+  - python=3.9
+  - numpy
+  - osmnx
+  - pip:
+    - pika
+
+    #conda create -n ox --strict-channel-priority osmnx pika json pip

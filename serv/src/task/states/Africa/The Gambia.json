@@ -1,0 +1,125 @@
+{
+  "totalResultsCount": 6,
+  "geonames": [
+    {
+      "adminCode1": "01",
+      "lng": "-16.58333",
+      "geonameId": 2413875,
+      "toponymName": "Banjul",
+      "countryId": "2413451",
+      "fcl": "A",
+      "population": 34589,
+      "countryCode": "GM",
+      "name": "Banjul",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "B"
+      },
+      "countryName": "The Gambia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Banjul",
+      "lat": "13.45",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "03",
+      "lng": "-14.91667",
+      "geonameId": 2412707,
+      "toponymName": "Central River",
+      "countryId": "2413451",
+      "fcl": "A",
+      "population": 3584,
+      "countryCode": "GM",
+      "name": "Central River",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "M"
+      },
+      "countryName": "The Gambia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Central River",
+      "lat": "13.58333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "02",
+      "lng": "-15.66",
+      "geonameId": 2412716,
+      "toponymName": "Lower River Division",
+      "countryId": "2413451",
+      "fcl": "A",
+      "population": 73474,
+      "countryCode": "GM",
+      "name": "Lower River",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "L"
+      },
+      "countryName": "The Gambia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Lower River",
+      "lat": "13.4",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "07",
+      "lng": "-16",
+      "geonameId": 2412353,
+      "toponymName": "North Bank",
+      "countryId": "2413451",
+      "fcl": "A",
+      "population": 221054,
+      "countryCode": "GM",
+      "name": "North Bank",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "N"
+      },
+      "countryName": "The Gambia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "North Bank",
+      "lat": "13.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "04",
+      "lng": "-14.16667",
+      "geonameId": 2411711,
+      "toponymName": "Upper River",
+      "countryId": "2413451",
+      "fcl": "A",
+      "population": 187972,
+      "countryCode": "GM",
+      "name": "Upper River",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "U"
+      },
+      "countryName": "The Gambia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Upper River",
+      "lat": "13.36667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "05",
+      "lng": "-16.35",
+      "geonameId": 2411683,
+      "toponymName": "West Coast",
+      "countryId": "2413451",
+      "fcl": "A",
+      "population": 699704,
+      "countryCode": "GM",
+      "name": "West Coast",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "W"
+      },
+      "countryName": "The Gambia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Western",
+      "lat": "13.23333",
+      "fcode": "ADM1"
+    }
+  ]
+}

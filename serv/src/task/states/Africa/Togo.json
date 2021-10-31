@@ -1,0 +1,105 @@
+{
+  "totalResultsCount": 5,
+  "geonames": [
+    {
+      "adminCode1": "22",
+      "lng": "1",
+      "geonameId": 2367237,
+      "toponymName": "Centrale",
+      "countryId": "2363686",
+      "fcl": "A",
+      "population": 617871,
+      "countryCode": "TG",
+      "name": "Centrale",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "C"
+      },
+      "countryName": "Togo",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Centrale",
+      "lat": "8.66667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "23",
+      "lng": "0.91667",
+      "geonameId": 2597439,
+      "toponymName": "Kara",
+      "countryId": "2363686",
+      "fcl": "A",
+      "population": 769940,
+      "countryCode": "TG",
+      "name": "Kara",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "K"
+      },
+      "countryName": "Togo",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Kara",
+      "lat": "9.66667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "24",
+      "lng": "1.33333",
+      "geonameId": 2365173,
+      "toponymName": "Maritime",
+      "countryId": "2363686",
+      "fcl": "A",
+      "population": 2599955,
+      "countryCode": "TG",
+      "name": "Maritime",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "M"
+      },
+      "countryName": "Togo",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Maritime",
+      "lat": "6.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "25",
+      "lng": "1.16667",
+      "geonameId": 2364370,
+      "toponymName": "Plateaux",
+      "countryId": "2363686",
+      "fcl": "A",
+      "population": 1375165,
+      "countryCode": "TG",
+      "name": "Plateaux",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "P"
+      },
+      "countryName": "Togo",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Plateaux",
+      "lat": "7.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "26",
+      "lng": "0.5",
+      "geonameId": 2364205,
+      "toponymName": "Savanes",
+      "countryId": "2363686",
+      "fcl": "A",
+      "population": 828224,
+      "countryCode": "TG",
+      "name": "Savanes",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "S"
+      },
+      "countryName": "Togo",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Savanes",
+      "lat": "10.5",
+      "fcode": "ADM1"
+    }
+  ]
+}

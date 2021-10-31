@@ -1,0 +1,665 @@
+{
+  "totalResultsCount": 33,
+  "geonames": [
+    {
+      "adminCode1": "01",
+      "lng": "-71.5",
+      "geonameId": 3689982,
+      "toponymName": "Amazonas",
+      "countryId": "3686110",
+      "fcl": "A",
+      "population": 67726,
+      "countryCode": "CO",
+      "name": "Amazonas",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "AMA"
+      },
+      "countryName": "Colombia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Amazonas",
+      "lat": "-1.16667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "02",
+      "lng": "-75.5",
+      "geonameId": 3689815,
+      "toponymName": "Departamento de Antioquia",
+      "countryId": "3686110",
+      "fcl": "A",
+      "population": 6299886,
+      "countryCode": "CO",
+      "name": "Antioquia",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "ANT"
+      },
+      "countryName": "Colombia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Antioquia",
+      "lat": "7",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "04",
+      "lng": "-75",
+      "geonameId": 3689436,
+      "toponymName": "Departamento del Atlántico",
+      "countryId": "3686110",
+      "fcl": "A",
+      "population": 2166156,
+      "countryCode": "CO",
+      "name": "Atlántico",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "ATL"
+      },
+      "countryName": "Colombia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Atlántico",
+      "lat": "10.75",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "34",
+      "lng": "-74.18333",
+      "geonameId": 3688685,
+      "toponymName": "Distrito Capital de Bogotá",
+      "countryId": "3686110",
+      "fcl": "A",
+      "population": 6840116,
+      "countryCode": "CO",
+      "name": "Bogota D.C.",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "DC"
+      },
+      "countryName": "Colombia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Bogota D.C.",
+      "lat": "4.25",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "33",
+      "lng": "-74.16667",
+      "geonameId": 3685413,
+      "toponymName": "Departamento de Cundinamarca",
+      "countryId": "3686110",
+      "fcl": "A",
+      "population": 2598245,
+      "countryCode": "CO",
+      "name": "Cundinamarca",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "CUN"
+      },
+      "countryName": "Colombia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Cundinamarca",
+      "lat": "5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "03",
+      "lng": "-71",
+      "geonameId": 3689717,
+      "toponymName": "Departamento de Arauca",
+      "countryId": "3686110",
+      "fcl": "A",
+      "population": 232118,
+      "countryCode": "CO",
+      "name": "Departamento de Arauca",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "ARA"
+      },
+      "countryName": "Colombia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Departamento de Arauca",
+      "lat": "6.66667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "35",
+      "lng": "-74.33333",
+      "geonameId": 3688650,
+      "toponymName": "Departamento de Bolívar",
+      "countryId": "3686110",
+      "fcl": "A",
+      "population": 2049083,
+      "countryCode": "CO",
+      "name": "Departamento de Bolívar",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "BOL"
+      },
+      "countryName": "Colombia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Bolívar",
+      "lat": "9",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "36",
+      "lng": "-73",
+      "geonameId": 3688536,
+      "toponymName": "Departamento de Boyacá",
+      "countryId": "3686110",
+      "fcl": "A",
+      "population": 1255311,
+      "countryCode": "CO",
+      "name": "Departamento de Boyacá",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "BOY"
+      },
+      "countryName": "Colombia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Boyacá",
+      "lat": "5.66667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "37",
+      "lng": "-75.33333",
+      "geonameId": 3687951,
+      "toponymName": "Departamento de Caldas",
+      "countryId": "3686110",
+      "fcl": "A",
+      "population": 968740,
+      "countryCode": "CO",
+      "name": "Departamento de Caldas",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "CAL"
+      },
+      "countryName": "Colombia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Caldas",
+      "lat": "5.26667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "32",
+      "lng": "-71.5",
+      "geonameId": 3687173,
+      "toponymName": "Departamento de Casanare",
+      "countryId": "3686110",
+      "fcl": "A",
+      "population": 295353,
+      "countryCode": "CO",
+      "name": "Departamento de Casanare",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "CAS"
+      },
+      "countryName": "Colombia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Casanare",
+      "lat": "5.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "12",
+      "lng": "-75.66667",
+      "geonameId": 3685889,
+      "toponymName": "Departamento de Córdoba",
+      "countryId": "3686110",
+      "fcl": "A",
+      "population": 1467929,
+      "countryCode": "CO",
+      "name": "Departamento de Córdoba",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "COR"
+      },
+      "countryName": "Colombia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Córdoba",
+      "lat": "8.33333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "17",
+      "lng": "-72.5",
+      "geonameId": 3678847,
+      "toponymName": "Departamento de La Guajira",
+      "countryId": "3686110",
+      "fcl": "A",
+      "population": 681575,
+      "countryCode": "CO",
+      "name": "Departamento de La Guajira",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "LAG"
+      },
+      "countryName": "Colombia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "La Guajira",
+      "lat": "11.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "20",
+      "lng": "-78",
+      "geonameId": 3674021,
+      "toponymName": "Departamento de Nariño",
+      "countryId": "3686110",
+      "fcl": "A",
+      "population": 1541956,
+      "countryCode": "CO",
+      "name": "Departamento de Nariño",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "NAR"
+      },
+      "countryName": "Colombia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Nariño",
+      "lat": "1.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "21",
+      "lng": "-73",
+      "geonameId": 3673798,
+      "toponymName": "Departamento de Norte de Santander",
+      "countryId": "3686110",
+      "fcl": "A",
+      "population": 1243975,
+      "countryCode": "CO",
+      "name": "Departamento de Norte de Santander",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "NSA"
+      },
+      "countryName": "Colombia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Norte de Santander",
+      "lat": "8",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "24",
+      "lng": "-76",
+      "geonameId": 3670698,
+      "toponymName": "Departamento de Risaralda",
+      "countryId": "3686110",
+      "fcl": "A",
+      "population": 897509,
+      "countryCode": "CO",
+      "name": "Departamento de Risaralda",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "RIS"
+      },
+      "countryName": "Colombia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Risaralda",
+      "lat": "5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "26",
+      "lng": "-73.41667",
+      "geonameId": 3668578,
+      "toponymName": "Departamento de Santander",
+      "countryId": "3686110",
+      "fcl": "A",
+      "population": 1957789,
+      "countryCode": "CO",
+      "name": "Departamento de Santander",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SAN"
+      },
+      "countryName": "Colombia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Santander",
+      "lat": "6.83333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "27",
+      "lng": "-75",
+      "geonameId": 3667725,
+      "toponymName": "Departamento de Sucre",
+      "countryId": "3686110",
+      "fcl": "A",
+      "population": 772010,
+      "countryCode": "CO",
+      "name": "Departamento de Sucre",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SUC"
+      },
+      "countryName": "Colombia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Sucre",
+      "lat": "9",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "28",
+      "lng": "-75.25",
+      "geonameId": 3666951,
+      "toponymName": "Departamento de Tolima",
+      "countryId": "3686110",
+      "fcl": "A",
+      "population": 1365342,
+      "countryCode": "CO",
+      "name": "Departamento de Tolima",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "TOL"
+      },
+      "countryName": "Colombia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Tolima",
+      "lat": "4",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "08",
+      "lng": "-74",
+      "geonameId": 3687479,
+      "toponymName": "Departamento del Caquetá",
+      "countryId": "3686110",
+      "fcl": "A",
+      "population": 420337,
+      "countryCode": "CO",
+      "name": "Departamento del Caquetá",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "CAQ"
+      },
+      "countryName": "Colombia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Caquetá",
+      "lat": "0.75",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "09",
+      "lng": "-76.83333",
+      "geonameId": 3687029,
+      "toponymName": "Departamento del Cauca",
+      "countryId": "3686110",
+      "fcl": "A",
+      "population": 1268937,
+      "countryCode": "CO",
+      "name": "Departamento del Cauca",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "CAU"
+      },
+      "countryName": "Colombia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Cauca",
+      "lat": "2.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "10",
+      "lng": "-73.5",
+      "geonameId": 3686880,
+      "toponymName": "Departamento del Cesar",
+      "countryId": "3686110",
+      "fcl": "A",
+      "population": 903279,
+      "countryCode": "CO",
+      "name": "Departamento del Cesar",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "CES"
+      },
+      "countryName": "Colombia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Cesar",
+      "lat": "9.33333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "11",
+      "lng": "-77",
+      "geonameId": 3686431,
+      "toponymName": "Departamento del Chocó",
+      "countryId": "3686110",
+      "fcl": "A",
+      "population": 454030,
+      "countryCode": "CO",
+      "name": "Departamento del Chocó",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "CHO"
+      },
+      "countryName": "Colombia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Chocó",
+      "lat": "6",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "15",
+      "lng": "-69",
+      "geonameId": 3681652,
+      "toponymName": "Departamento del Guainía",
+      "countryId": "3686110",
+      "fcl": "A",
+      "population": 35230,
+      "countryCode": "CO",
+      "name": "Departamento del Guainía",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "GUA"
+      },
+      "countryName": "Colombia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Guainía",
+      "lat": "2.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "14",
+      "lng": "-72",
+      "geonameId": 3681344,
+      "toponymName": "Departamento del Guaviare",
+      "countryId": "3686110",
+      "fcl": "A",
+      "population": 95551,
+      "countryCode": "CO",
+      "name": "Departamento del Guaviare",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "GUV"
+      },
+      "countryName": "Colombia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Guaviare",
+      "lat": "1.91667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "16",
+      "lng": "-75.58333",
+      "geonameId": 3680692,
+      "toponymName": "Departamento del Huila",
+      "countryId": "3686110",
+      "fcl": "A",
+      "population": 1011418,
+      "countryCode": "CO",
+      "name": "Departamento del Huila",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "HUI"
+      },
+      "countryName": "Colombia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Huila",
+      "lat": "2.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "38",
+      "lng": "-74.5",
+      "geonameId": 3675686,
+      "toponymName": "Departamento del Magdalena",
+      "countryId": "3686110",
+      "fcl": "A",
+      "population": 1149917,
+      "countryCode": "CO",
+      "name": "Departamento del Magdalena",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "MAG"
+      },
+      "countryName": "Colombia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Magdalena",
+      "lat": "10",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "19",
+      "lng": "-73",
+      "geonameId": 3674810,
+      "toponymName": "Departamento del Meta",
+      "countryId": "3686110",
+      "fcl": "A",
+      "population": 783168,
+      "countryCode": "CO",
+      "name": "Departamento del Meta",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "MET"
+      },
+      "countryName": "Colombia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Meta",
+      "lat": "3.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "22",
+      "lng": "-76",
+      "geonameId": 3671178,
+      "toponymName": "Departamento del Putumayo",
+      "countryId": "3686110",
+      "fcl": "A",
+      "population": 310132,
+      "countryCode": "CO",
+      "name": "Departamento del Putumayo",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "PUT"
+      },
+      "countryName": "Colombia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Putumayo",
+      "lat": "0.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "29",
+      "lng": "-76.5",
+      "geonameId": 3666313,
+      "toponymName": "Departamento del Valle del Cauca",
+      "countryId": "3686110",
+      "fcl": "A",
+      "population": 4161425,
+      "countryCode": "CO",
+      "name": "Departamento del Valle del Cauca",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "VAC"
+      },
+      "countryName": "Colombia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Valle del Cauca",
+      "lat": "3.75",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "30",
+      "lng": "-70.75",
+      "geonameId": 3666254,
+      "toponymName": "Departamento del Vaupés",
+      "countryId": "3686110",
+      "fcl": "A",
+      "population": 39279,
+      "countryCode": "CO",
+      "name": "Departamento del Vaupés",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "VAU"
+      },
+      "countryName": "Colombia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Vaupés",
+      "lat": "0.75",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "31",
+      "lng": "-69.5",
+      "geonameId": 3666082,
+      "toponymName": "Departamento del Vichada",
+      "countryId": "3686110",
+      "fcl": "A",
+      "population": 55872,
+      "countryCode": "CO",
+      "name": "Departamento del Vichada",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "VID"
+      },
+      "countryName": "Colombia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Vichada",
+      "lat": "5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "23",
+      "lng": "-75.66667",
+      "geonameId": 3671087,
+      "toponymName": "Quindío Department",
+      "countryId": "3686110",
+      "fcl": "A",
+      "population": 534552,
+      "countryCode": "CO",
+      "name": "Quindío Department",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "QUI"
+      },
+      "countryName": "Colombia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Quindío",
+      "lat": "4.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "25",
+      "lng": "-81.71983",
+      "geonameId": 3670205,
+      "toponymName": "Providencia y Santa Catalina, Departamento de Archipiélago de San Andrés",
+      "countryId": "3686110",
+      "fcl": "A",
+      "population": 70554,
+      "countryCode": "CO",
+      "name": "San Andres y Providencia",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SAP"
+      },
+      "countryName": "Colombia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "San Andres y Providencia",
+      "lat": "12.52449",
+      "fcode": "ADM1"
+    }
+  ]
+}

@@ -1,0 +1,745 @@
+{
+  "totalResultsCount": 37,
+  "geonames": [
+    {
+      "adminCode1": "45",
+      "lng": "7.5",
+      "geonameId": 2565340,
+      "toponymName": "Abia State",
+      "countryId": "2328926",
+      "fcl": "A",
+      "population": 4222476,
+      "countryCode": "NG",
+      "name": "Abia State",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "AB"
+      },
+      "countryName": "Nigeria",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Abia",
+      "lat": "5.41667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "35",
+      "lng": "12.5",
+      "geonameId": 2565342,
+      "toponymName": "Adamawa State",
+      "countryId": "2328926",
+      "fcl": "A",
+      "population": 3737223,
+      "countryCode": "NG",
+      "name": "Adamawa",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "AD"
+      },
+      "countryName": "Nigeria",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Adamawa",
+      "lat": "9.33333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "21",
+      "lng": "7.83333",
+      "geonameId": 2350813,
+      "toponymName": "Akwa Ibom State",
+      "countryId": "2328926",
+      "fcl": "A",
+      "population": 4805451,
+      "countryCode": "NG",
+      "name": "Akwa Ibom State",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "AK"
+      },
+      "countryName": "Nigeria",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Akwa Ibom",
+      "lat": "5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "25",
+      "lng": "7",
+      "geonameId": 2349961,
+      "toponymName": "Anambra State",
+      "countryId": "2328926",
+      "fcl": "A",
+      "population": 4721858,
+      "countryCode": "NG",
+      "name": "Anambra",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "AN"
+      },
+      "countryName": "Nigeria",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Anambra",
+      "lat": "6.33333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "46",
+      "lng": "10",
+      "geonameId": 2347468,
+      "toponymName": "Bauchi State",
+      "countryId": "2328926",
+      "fcl": "A",
+      "population": 4653066,
+      "countryCode": "NG",
+      "name": "Bauchi",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "BA"
+      },
+      "countryName": "Nigeria",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Bauchi",
+      "lat": "10.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "52",
+      "lng": "6.08333",
+      "geonameId": 2595344,
+      "toponymName": "Bayelsa State",
+      "countryId": "2328926",
+      "fcl": "A",
+      "population": 1998349,
+      "countryCode": "NG",
+      "name": "Bayelsa State",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "BY"
+      },
+      "countryName": "Nigeria",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Bayelsa",
+      "lat": "4.75",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "26",
+      "lng": "8.75",
+      "geonameId": 2347266,
+      "toponymName": "Benue State",
+      "countryId": "2328926",
+      "fcl": "A",
+      "population": 5181642,
+      "countryCode": "NG",
+      "name": "Benue State",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "BE"
+      },
+      "countryName": "Nigeria",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Benue",
+      "lat": "7.33333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "27",
+      "lng": "13",
+      "geonameId": 2346794,
+      "toponymName": "Borno State",
+      "countryId": "2328926",
+      "fcl": "A",
+      "population": 4588668,
+      "countryCode": "NG",
+      "name": "Borno State",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "BO"
+      },
+      "countryName": "Nigeria",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Borno",
+      "lat": "11.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "22",
+      "lng": "8.5",
+      "geonameId": 2345891,
+      "toponymName": "Cross River State",
+      "countryId": "2328926",
+      "fcl": "A",
+      "population": 3104446,
+      "countryCode": "NG",
+      "name": "Cross River State",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "CR"
+      },
+      "countryName": "Nigeria",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Cross River",
+      "lat": "5.75",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "36",
+      "lng": "6",
+      "geonameId": 2565341,
+      "toponymName": "Delta State",
+      "countryId": "2328926",
+      "fcl": "A",
+      "population": 4170214,
+      "countryCode": "NG",
+      "name": "Delta",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "DE"
+      },
+      "countryName": "Nigeria",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Delta",
+      "lat": "5.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "53",
+      "lng": "8.08333",
+      "geonameId": 2595345,
+      "toponymName": "Ebonyi State",
+      "countryId": "2328926",
+      "fcl": "A",
+      "population": 1739136,
+      "countryCode": "NG",
+      "name": "Ebonyi State",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "EB"
+      },
+      "countryName": "Nigeria",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Ebonyi",
+      "lat": "6.25",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "37",
+      "lng": "6",
+      "geonameId": 2565343,
+      "toponymName": "Edo",
+      "countryId": "2328926",
+      "fcl": "A",
+      "population": 3497502,
+      "countryCode": "NG",
+      "name": "Edo",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "ED"
+      },
+      "countryName": "Nigeria",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Edo",
+      "lat": "6.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "54",
+      "lng": "5.25",
+      "geonameId": 2595346,
+      "toponymName": "Ekiti State",
+      "countryId": "2328926",
+      "fcl": "A",
+      "population": 2737186,
+      "countryCode": "NG",
+      "name": "Ekiti State",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "EK"
+      },
+      "countryName": "Nigeria",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Ekiti",
+      "lat": "7.66667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "47",
+      "lng": "7.5",
+      "geonameId": 2565344,
+      "toponymName": "Enugu State",
+      "countryId": "2328926",
+      "fcl": "A",
+      "population": 3267837,
+      "countryCode": "NG",
+      "name": "Enugu State",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "EN"
+      },
+      "countryName": "Nigeria",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Enugu",
+      "lat": "6.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "11",
+      "lng": "7.16667",
+      "geonameId": 2352776,
+      "toponymName": "Federal Capital Territory",
+      "countryId": "2328926",
+      "fcl": "A",
+      "population": 1405201,
+      "countryCode": "NG",
+      "name": "FCT",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "FC"
+      },
+      "countryName": "Nigeria",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "FCT",
+      "lat": "8.83333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "55",
+      "lng": "11.16667",
+      "geonameId": 2595347,
+      "toponymName": "Gombe State",
+      "countryId": "2328926",
+      "fcl": "A",
+      "population": 2448236,
+      "countryCode": "NG",
+      "name": "Gombe State",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "GO"
+      },
+      "countryName": "Nigeria",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Gombe",
+      "lat": "10.25",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "28",
+      "lng": "7.16667",
+      "geonameId": 2337542,
+      "toponymName": "Imo State",
+      "countryId": "2328926",
+      "fcl": "A",
+      "population": 3934899,
+      "countryCode": "NG",
+      "name": "Imo State",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "IM"
+      },
+      "countryName": "Nigeria",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Imo",
+      "lat": "5.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "39",
+      "lng": "9.56",
+      "geonameId": 2565345,
+      "toponymName": "Jigawa State",
+      "countryId": "2328926",
+      "fcl": "A",
+      "population": 2829929,
+      "countryCode": "NG",
+      "name": "Jigawa State",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "JI"
+      },
+      "countryName": "Nigeria",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Jigawa",
+      "lat": "12.1",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "23",
+      "lng": "7.75",
+      "geonameId": 2335722,
+      "toponymName": "Kaduna State",
+      "countryId": "2328926",
+      "fcl": "A",
+      "population": 6849075,
+      "countryCode": "NG",
+      "name": "Kaduna State",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "KD"
+      },
+      "countryName": "Nigeria",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Kaduna",
+      "lat": "10.33333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "29",
+      "lng": "8.5",
+      "geonameId": 2335196,
+      "toponymName": "Kano State",
+      "countryId": "2328926",
+      "fcl": "A",
+      "population": 10077751,
+      "countryCode": "NG",
+      "name": "Kano State",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "KN"
+      },
+      "countryName": "Nigeria",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Kano",
+      "lat": "11.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "24",
+      "lng": "7.5",
+      "geonameId": 2334797,
+      "toponymName": "Katsina State",
+      "countryId": "2328926",
+      "fcl": "A",
+      "population": 6483429,
+      "countryCode": "NG",
+      "name": "Katsina State",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "KT"
+      },
+      "countryName": "Nigeria",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Katsina",
+      "lat": "12.25",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "40",
+      "lng": "4",
+      "geonameId": 2597363,
+      "toponymName": "Kebbi State",
+      "countryId": "2328926",
+      "fcl": "A",
+      "population": 3630931,
+      "countryCode": "NG",
+      "name": "Kebbi",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "KE"
+      },
+      "countryName": "Nigeria",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Kebbi",
+      "lat": "11.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "41",
+      "lng": "6.75",
+      "geonameId": 2597364,
+      "toponymName": "Kogi State",
+      "countryId": "2328926",
+      "fcl": "A",
+      "population": 3595789,
+      "countryCode": "NG",
+      "name": "Kogi State",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "KO"
+      },
+      "countryName": "Nigeria",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Kogi",
+      "lat": "7.75",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "30",
+      "lng": "5",
+      "geonameId": 2332785,
+      "toponymName": "Kwara State",
+      "countryId": "2328926",
+      "fcl": "A",
+      "population": 2591555,
+      "countryCode": "NG",
+      "name": "Kwara State",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "KW"
+      },
+      "countryName": "Nigeria",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Kwara",
+      "lat": "8.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "05",
+      "lng": "3.3522",
+      "geonameId": 2332453,
+      "toponymName": "Lagos State",
+      "countryId": "2328926",
+      "fcl": "A",
+      "population": 10601345,
+      "countryCode": "NG",
+      "name": "Lagos",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "LA"
+      },
+      "countryName": "Nigeria",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Lagos",
+      "lat": "6.53774",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "56",
+      "lng": "8.25",
+      "geonameId": 2595348,
+      "toponymName": "Nasarawa State",
+      "countryId": "2328926",
+      "fcl": "A",
+      "population": 2040097,
+      "countryCode": "NG",
+      "name": "Nasarawa State",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "NA"
+      },
+      "countryName": "Nigeria",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Nassarawa",
+      "lat": "8.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "31",
+      "lng": "6",
+      "geonameId": 2328925,
+      "toponymName": "Niger State",
+      "countryId": "2328926",
+      "fcl": "A",
+      "population": 4082558,
+      "countryCode": "NG",
+      "name": "Niger State",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "NI"
+      },
+      "countryName": "Nigeria",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Niger",
+      "lat": "10",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "16",
+      "lng": "3.58333",
+      "geonameId": 2327546,
+      "toponymName": "Ogun State",
+      "countryId": "2328926",
+      "fcl": "A",
+      "population": 4054272,
+      "countryCode": "NG",
+      "name": "Ogun State",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "OG"
+      },
+      "countryName": "Nigeria",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Ogun",
+      "lat": "7",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "48",
+      "lng": "5.08333",
+      "geonameId": 2326168,
+      "toponymName": "Ondo State",
+      "countryId": "2328926",
+      "fcl": "A",
+      "population": 4011407,
+      "countryCode": "NG",
+      "name": "Ondo State",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "ON"
+      },
+      "countryName": "Nigeria",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Ondo",
+      "lat": "7.16667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "42",
+      "lng": "4.5",
+      "geonameId": 2597365,
+      "toponymName": "Osun State",
+      "countryId": "2328926",
+      "fcl": "A",
+      "population": 4137627,
+      "countryCode": "NG",
+      "name": "Osun State",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "OS"
+      },
+      "countryName": "Nigeria",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Osun",
+      "lat": "7.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "32",
+      "lng": "4",
+      "geonameId": 2325190,
+      "toponymName": "Oyo State",
+      "countryId": "2328926",
+      "fcl": "A",
+      "population": 6617720,
+      "countryCode": "NG",
+      "name": "Oyo State",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "OY"
+      },
+      "countryName": "Nigeria",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Oyo",
+      "lat": "8",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "49",
+      "lng": "9.75",
+      "geonameId": 2324828,
+      "toponymName": "Plateau State",
+      "countryId": "2328926",
+      "fcl": "A",
+      "population": 3553440,
+      "countryCode": "NG",
+      "name": "Plateau State",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "PL"
+      },
+      "countryName": "Nigeria",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Plateau",
+      "lat": "9.16667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "50",
+      "lng": "6.82766",
+      "geonameId": 2324433,
+      "toponymName": "Rivers State",
+      "countryId": "2328926",
+      "fcl": "A",
+      "population": 6689087,
+      "countryCode": "NG",
+      "name": "Rivers State",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "RI"
+      },
+      "countryName": "Nigeria",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Rivers",
+      "lat": "4.74974",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "51",
+      "lng": "5.25",
+      "geonameId": 2322907,
+      "toponymName": "Sokoto State",
+      "countryId": "2328926",
+      "fcl": "A",
+      "population": 4244399,
+      "countryCode": "NG",
+      "name": "Sokoto State",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SO"
+      },
+      "countryName": "Nigeria",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Sokoto",
+      "lat": "13.08333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "43",
+      "lng": "10.5",
+      "geonameId": 2597366,
+      "toponymName": "Taraba State",
+      "countryId": "2328926",
+      "fcl": "A",
+      "population": 1480590,
+      "countryCode": "NG",
+      "name": "Taraba State",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "TA"
+      },
+      "countryName": "Nigeria",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Taraba",
+      "lat": "8",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "44",
+      "lng": "11.5",
+      "geonameId": 2597367,
+      "toponymName": "Yobe State",
+      "countryId": "2328926",
+      "fcl": "A",
+      "population": 2532395,
+      "countryCode": "NG",
+      "name": "Yobe State",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "YO"
+      },
+      "countryName": "Nigeria",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Yobe",
+      "lat": "12",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "57",
+      "lng": "6.25",
+      "geonameId": 2595349,
+      "toponymName": "Zamfara State",
+      "countryId": "2328926",
+      "fcl": "A",
+      "population": 3602356,
+      "countryCode": "NG",
+      "name": "Zamfara State",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "ZA"
+      },
+      "countryName": "Nigeria",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Zamfara",
+      "lat": "12.16667",
+      "fcode": "ADM1"
+    }
+  ]
+}

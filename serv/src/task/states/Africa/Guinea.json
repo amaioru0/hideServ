@@ -1,0 +1,165 @@
+{
+  "totalResultsCount": 8,
+  "geonames": [
+    {
+      "adminCode1": "B",
+      "lng": "-14.32992",
+      "geonameId": 8335085,
+      "toponymName": "Boke Region",
+      "countryId": "2420477",
+      "fcl": "A",
+      "population": 1083147,
+      "countryCode": "GN",
+      "name": "Boke Region",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "B"
+      },
+      "countryName": "Guinea",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Boke",
+      "lat": "11.2625",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "04",
+      "lng": "-13.597",
+      "geonameId": 2422464,
+      "toponymName": "Conakry Region",
+      "countryId": "2420477",
+      "fcl": "A",
+      "population": 1660973,
+      "countryCode": "GN",
+      "name": "Conakry Region",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "C"
+      },
+      "countryName": "Guinea",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Conakry",
+      "lat": "9.60703",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "F",
+      "lng": "-10.69583",
+      "geonameId": 8335086,
+      "toponymName": "Faranah Region",
+      "countryId": "2420477",
+      "fcl": "A",
+      "population": 941554,
+      "countryCode": "GN",
+      "name": "Faranah",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "F"
+      },
+      "countryName": "Guinea",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Faranah",
+      "lat": "10.3375",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "K",
+      "lng": "-9.25",
+      "geonameId": 8335087,
+      "toponymName": "Kankan Region",
+      "countryId": "2420477",
+      "fcl": "A",
+      "population": 1972537,
+      "countryCode": "GN",
+      "name": "Kankan Region",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "K"
+      },
+      "countryName": "Guinea",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Kankan",
+      "lat": "10.4",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "D",
+      "lng": "-13.21333",
+      "geonameId": 8335088,
+      "toponymName": "Kindia Region",
+      "countryId": "2420477",
+      "fcl": "A",
+      "population": 1561374,
+      "countryCode": "GN",
+      "name": "Kindia",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "D"
+      },
+      "countryName": "Guinea",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Kindia",
+      "lat": "10.08667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "L",
+      "lng": "-12.08667",
+      "geonameId": 8335089,
+      "toponymName": "Labé Region",
+      "countryId": "2420477",
+      "fcl": "A",
+      "population": 994458,
+      "countryCode": "GN",
+      "name": "Labé Region",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "L"
+      },
+      "countryName": "Guinea",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Labe",
+      "lat": "11.61",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "M",
+      "lng": "-12.29444",
+      "geonameId": 8335090,
+      "toponymName": "Mamou Region",
+      "countryId": "2420477",
+      "fcl": "A",
+      "population": 731188,
+      "countryCode": "GN",
+      "name": "Mamou Region",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "M"
+      },
+      "countryName": "Guinea",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Mamou",
+      "lat": "10.69444",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "N",
+      "lng": "-9.06944",
+      "geonameId": 8335091,
+      "toponymName": "Nzerekore Region",
+      "countryId": "2420477",
+      "fcl": "A",
+      "population": 1578030,
+      "countryCode": "GN",
+      "name": "Nzerekore Region",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "N"
+      },
+      "countryName": "Guinea",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Nzerekore",
+      "lat": "8.20833",
+      "fcode": "ADM1"
+    }
+  ]
+}

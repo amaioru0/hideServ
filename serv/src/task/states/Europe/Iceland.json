@@ -1,0 +1,165 @@
+{
+  "totalResultsCount": 8,
+  "geonames": [
+    {
+      "adminCode1": "39",
+      "lng": "-21.66667",
+      "geonameId": 3426182,
+      "toponymName": "Höfuðborgarsvæði",
+      "countryId": "2629691",
+      "fcl": "A",
+      "population": 209680,
+      "countryCode": "IS",
+      "name": "Capital Region",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "1"
+      },
+      "countryName": "Iceland",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Capital Region",
+      "lat": "64.16667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "38",
+      "lng": "-15",
+      "geonameId": 3337405,
+      "toponymName": "Austurland",
+      "countryId": "2629691",
+      "fcl": "A",
+      "population": 15300,
+      "countryCode": "IS",
+      "name": "East",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "7"
+      },
+      "countryName": "Iceland",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "East",
+      "lat": "65",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "40",
+      "lng": "-17",
+      "geonameId": 3337404,
+      "toponymName": "Norðurland Eystra",
+      "countryId": "2629691",
+      "fcl": "A",
+      "population": 28618,
+      "countryCode": "IS",
+      "name": "Northeast",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "6"
+      },
+      "countryName": "Iceland",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Northeast",
+      "lat": "65.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "41",
+      "lng": "-20",
+      "geonameId": 3337403,
+      "toponymName": "Norðurland Vestra",
+      "countryId": "2629691",
+      "fcl": "A",
+      "population": 7810,
+      "countryCode": "IS",
+      "name": "Northwest",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "5"
+      },
+      "countryName": "Iceland",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Northwest",
+      "lat": "65.33333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "42",
+      "lng": "-19",
+      "geonameId": 3337406,
+      "toponymName": "Suðurland",
+      "countryId": "2629691",
+      "fcl": "A",
+      "population": 23311,
+      "countryCode": "IS",
+      "name": "South",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "8"
+      },
+      "countryName": "Iceland",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "South",
+      "lat": "64",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "43",
+      "lng": "-22.25",
+      "geonameId": 3426183,
+      "toponymName": "Suðurnes",
+      "countryId": "2629691",
+      "fcl": "A",
+      "population": 20300,
+      "countryCode": "IS",
+      "name": "Southern Peninsula",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "2"
+      },
+      "countryName": "Iceland",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Southern Peninsula",
+      "lat": "63.91667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "45",
+      "lng": "-21.83333",
+      "geonameId": 3426184,
+      "toponymName": "Vesturland",
+      "countryId": "2629691",
+      "fcl": "A",
+      "population": 15300,
+      "countryCode": "IS",
+      "name": "West",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "3"
+      },
+      "countryName": "Iceland",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "West",
+      "lat": "64.75",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "44",
+      "lng": "-22.5",
+      "geonameId": 3426185,
+      "toponymName": "Vestfirðir",
+      "countryId": "2629691",
+      "fcl": "A",
+      "population": 7300,
+      "countryCode": "IS",
+      "name": "Westfjords",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "4"
+      },
+      "countryName": "Iceland",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Westfjords",
+      "lat": "65.66667",
+      "fcode": "ADM1"
+    }
+  ]
+}

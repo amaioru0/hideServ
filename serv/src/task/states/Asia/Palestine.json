@@ -1,0 +1,41 @@
+{
+  "totalResultsCount": 2,
+  "geonames": [
+    {
+      "adminCode1": "GZ",
+      "lng": "34.33333",
+      "geonameId": 281132,
+      "toponymName": "Gaza Strip",
+      "countryId": "6254930",
+      "fcl": "A",
+      "population": 487904,
+      "countryCode": "PS",
+      "name": "Gaza Strip",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {},
+      "countryName": "Palestine",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Gaza Strip",
+      "lat": "31.41667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "WE",
+      "lng": "35.25",
+      "geonameId": 285153,
+      "toponymName": "West Bank",
+      "countryId": "6254930",
+      "fcl": "A",
+      "population": 2771681,
+      "countryCode": "PS",
+      "name": "West Bank",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {},
+      "countryName": "Palestine",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "West Bank",
+      "lat": "31.66667",
+      "fcode": "ADM1"
+    }
+  ]
+}

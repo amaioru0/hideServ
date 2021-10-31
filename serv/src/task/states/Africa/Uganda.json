@@ -1,0 +1,85 @@
+{
+  "totalResultsCount": 4,
+  "geonames": [
+    {
+      "adminCode1": "C",
+      "lng": "32",
+      "geonameId": 234594,
+      "toponymName": "Central Region",
+      "countryId": "226074",
+      "fcl": "A",
+      "population": 6683887,
+      "countryCode": "UG",
+      "name": "Central Region",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "C"
+      },
+      "countryName": "Uganda",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Central Region",
+      "lat": "0.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "E",
+      "lng": "33.82622",
+      "geonameId": 8260673,
+      "toponymName": "Eastern Region",
+      "countryId": "226074",
+      "fcl": "A",
+      "population": 6301677,
+      "countryCode": "UG",
+      "name": "Eastern Region",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "E"
+      },
+      "countryName": "Uganda",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Eastern Region",
+      "lat": "0.96675",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "N",
+      "lng": "31.88644",
+      "geonameId": 8260674,
+      "toponymName": "Northern Region",
+      "countryId": "226074",
+      "fcl": "A",
+      "population": 5345964,
+      "countryCode": "UG",
+      "name": "Northern Region",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "N"
+      },
+      "countryName": "Uganda",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Northern Region",
+      "lat": "2.7373",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "W",
+      "lng": "30.55573",
+      "geonameId": 8260675,
+      "toponymName": "Western Region",
+      "countryId": "226074",
+      "fcl": "A",
+      "population": 6417449,
+      "countryCode": "UG",
+      "name": "Western Region",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "W"
+      },
+      "countryName": "Uganda",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Western Region",
+      "lat": "-0.61179",
+      "fcode": "ADM1"
+    }
+  ]
+}

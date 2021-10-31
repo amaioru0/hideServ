@@ -1,0 +1,725 @@
+{
+  "totalResultsCount": 36,
+  "geonames": [
+    {
+      "adminCode1": "01",
+      "lng": "92.67517",
+      "geonameId": 1278647,
+      "toponymName": "Union Territory of Andaman and Nicobar Islands",
+      "countryId": "1269750",
+      "fcl": "A",
+      "population": 380581,
+      "countryCode": "IN",
+      "name": "Andaman and Nicobar",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "AN"
+      },
+      "countryName": "India",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Andaman and Nicobar",
+      "lat": "11.70065",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "02",
+      "lng": "79.75",
+      "geonameId": 1278629,
+      "toponymName": "State of Andhra Pradesh",
+      "countryId": "1269750",
+      "fcl": "A",
+      "population": 49386799,
+      "countryCode": "IN",
+      "name": "Andhra Pradesh",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "AP"
+      },
+      "countryName": "India",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Andhra Pradesh",
+      "lat": "15.83333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "30",
+      "lng": "93.37",
+      "geonameId": 1278341,
+      "toponymName": "State of Arunāchal Pradesh",
+      "countryId": "1269750",
+      "fcl": "A",
+      "population": 1383727,
+      "countryCode": "IN",
+      "name": "Arunachal Pradesh",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "AR"
+      },
+      "countryName": "India",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Arunachal Pradesh",
+      "lat": "27.06",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "03",
+      "lng": "93",
+      "geonameId": 1278253,
+      "toponymName": "Assam",
+      "countryId": "1269750",
+      "fcl": "A",
+      "population": 31205576,
+      "countryCode": "IN",
+      "name": "Assam",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "AS"
+      },
+      "countryName": "India",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Assam",
+      "lat": "26",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "34",
+      "lng": "85.75",
+      "geonameId": 1275715,
+      "toponymName": "State of Bihar",
+      "countryId": "1269750",
+      "fcl": "A",
+      "population": 104099452,
+      "countryCode": "IN",
+      "name": "Bihar",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "BR"
+      },
+      "countryName": "India",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Bihar",
+      "lat": "25.75",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "05",
+      "lng": "76.77778",
+      "geonameId": 1274744,
+      "toponymName": "Union Territory of Chandigarh",
+      "countryId": "1269750",
+      "fcl": "A",
+      "population": 1055450,
+      "countryCode": "IN",
+      "name": "Chandigarh",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "CH"
+      },
+      "countryName": "India",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Chandigarh",
+      "lat": "30.72778",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "37",
+      "lng": "82",
+      "geonameId": 1444364,
+      "toponymName": "State of Chhattīsgarh",
+      "countryId": "1269750",
+      "fcl": "A",
+      "population": 25545198,
+      "countryCode": "IN",
+      "name": "Chhattisgarh",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "CT"
+      },
+      "countryName": "India",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Chhattisgarh",
+      "lat": "21.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "52",
+      "lng": "72.85112",
+      "geonameId": 12165662,
+      "toponymName": "Dadra and Nagar Haveli and Daman and Diu",
+      "countryId": "1269750",
+      "fcl": "A",
+      "population": 585764,
+      "countryCode": "IN",
+      "name": "Dadra and Nagar Haveli and Daman and Diu",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "DH"
+      },
+      "countryName": "India",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Dadra and Nagar Haveli and Daman and Diu",
+      "lat": "20.42587",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "07",
+      "lng": "77.1",
+      "geonameId": 1273293,
+      "toponymName": "National Capital Territory of Delhi",
+      "countryId": "1269750",
+      "fcl": "A",
+      "population": 16787941,
+      "countryCode": "IN",
+      "name": "Delhi",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "DL"
+      },
+      "countryName": "India",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Delhi",
+      "lat": "28.6667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "33",
+      "lng": "74.08333",
+      "geonameId": 1271157,
+      "toponymName": "Goa",
+      "countryId": "1269750",
+      "fcl": "A",
+      "population": 1458545,
+      "countryCode": "IN",
+      "name": "Goa",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "GA"
+      },
+      "countryName": "India",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Goa",
+      "lat": "15.33333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "09",
+      "lng": "71.75",
+      "geonameId": 1270770,
+      "toponymName": "State of Gujarāt",
+      "countryId": "1269750",
+      "fcl": "A",
+      "population": 60439692,
+      "countryCode": "IN",
+      "name": "Gujarat",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "GJ"
+      },
+      "countryName": "India",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Gujarat",
+      "lat": "23",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "10",
+      "lng": "76.33333",
+      "geonameId": 1270260,
+      "toponymName": "State of Haryāna",
+      "countryId": "1269750",
+      "fcl": "A",
+      "population": 25351462,
+      "countryCode": "IN",
+      "name": "Haryana",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "HR"
+      },
+      "countryName": "India",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Haryana",
+      "lat": "29.25",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "11",
+      "lng": "77.25",
+      "geonameId": 1270101,
+      "toponymName": "State of Himāchal Pradesh",
+      "countryId": "1269750",
+      "fcl": "A",
+      "population": 6864602,
+      "countryCode": "IN",
+      "name": "Himachal Pradesh",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "HP"
+      },
+      "countryName": "India",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Himachal Pradesh",
+      "lat": "31.91667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "12",
+      "lng": "75.40781",
+      "geonameId": 1269320,
+      "toponymName": "State of Jammu and Kashmīr",
+      "countryId": "1269750",
+      "fcl": "A",
+      "population": 12258433,
+      "countryCode": "IN",
+      "name": "Jammu and Kashmir",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "JK"
+      },
+      "countryName": "India",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Jammu and Kashmir",
+      "lat": "33.5329",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "38",
+      "lng": "85.5",
+      "geonameId": 1444365,
+      "toponymName": "State of Jhārkhand",
+      "countryId": "1269750",
+      "fcl": "A",
+      "population": 32988134,
+      "countryCode": "IN",
+      "name": "Jharkhand",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "JH"
+      },
+      "countryName": "India",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Jharkhand",
+      "lat": "23.75",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "19",
+      "lng": "75.83333",
+      "geonameId": 1267701,
+      "toponymName": "State of Karnataka",
+      "countryId": "1269750",
+      "fcl": "A",
+      "population": 61095297,
+      "countryCode": "IN",
+      "name": "Karnataka",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "KA"
+      },
+      "countryName": "India",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Karnataka",
+      "lat": "14.66667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "13",
+      "lng": "76.5",
+      "geonameId": 1267254,
+      "toponymName": "State of Kerala",
+      "countryId": "1269750",
+      "fcl": "A",
+      "population": 33406061,
+      "countryCode": "IN",
+      "name": "Kerala",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "KL"
+      },
+      "countryName": "India",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Kerala",
+      "lat": "10.41667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "41",
+      "lng": "77.34688",
+      "geonameId": 12096464,
+      "toponymName": "Ladakh",
+      "countryId": "1269750",
+      "fcl": "A",
+      "population": 275000,
+      "countryCode": "IN",
+      "name": "Ladakh",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "LA"
+      },
+      "countryName": "India",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Ladakh",
+      "lat": "34.09712",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "14",
+      "lng": "72.28665",
+      "geonameId": 1265206,
+      "toponymName": "Union Territory of Lakshadweep",
+      "countryId": "1269750",
+      "fcl": "A",
+      "population": 64473,
+      "countryCode": "IN",
+      "name": "Lakshadweep",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "LD"
+      },
+      "countryName": "India",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Lakshadweep",
+      "lat": "10.93896",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "35",
+      "lng": "78.5",
+      "geonameId": 1264542,
+      "toponymName": "Madhya Pradesh",
+      "countryId": "1269750",
+      "fcl": "A",
+      "population": 72626809,
+      "countryCode": "IN",
+      "name": "Madhya Pradesh",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "MP"
+      },
+      "countryName": "India",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Madhya Pradesh",
+      "lat": "23.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "16",
+      "lng": "76",
+      "geonameId": 1264418,
+      "toponymName": "State of Mahārāshtra",
+      "countryId": "1269750",
+      "fcl": "A",
+      "population": 112374333,
+      "countryCode": "IN",
+      "name": "Maharashtra",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "MH"
+      },
+      "countryName": "India",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Maharashtra",
+      "lat": "19.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "17",
+      "lng": "94",
+      "geonameId": 1263706,
+      "toponymName": "Manipur",
+      "countryId": "1269750",
+      "fcl": "A",
+      "population": 2855794,
+      "countryCode": "IN",
+      "name": "Manipur",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "MN"
+      },
+      "countryName": "India",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Manipur",
+      "lat": "25",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "18",
+      "lng": "91.33333",
+      "geonameId": 1263207,
+      "toponymName": "Meghālaya",
+      "countryId": "1269750",
+      "fcl": "A",
+      "population": 2966889,
+      "countryCode": "IN",
+      "name": "Meghalaya",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "ML"
+      },
+      "countryName": "India",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Meghalaya",
+      "lat": "25.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "31",
+      "lng": "93",
+      "geonameId": 1262963,
+      "toponymName": "Mizoram",
+      "countryId": "1269750",
+      "fcl": "A",
+      "population": 1097206,
+      "countryCode": "IN",
+      "name": "Mizoram",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "MZ"
+      },
+      "countryName": "India",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Mizoram",
+      "lat": "23",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "20",
+      "lng": "94.5",
+      "geonameId": 1262271,
+      "toponymName": "State of Nāgāland",
+      "countryId": "1269750",
+      "fcl": "A",
+      "population": 1978502,
+      "countryCode": "IN",
+      "name": "Nagaland",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "NL"
+      },
+      "countryName": "India",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Nagaland",
+      "lat": "26.08333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "21",
+      "lng": "84.41667",
+      "geonameId": 1261029,
+      "toponymName": "State of Odisha",
+      "countryId": "1269750",
+      "fcl": "A",
+      "population": 41974218,
+      "countryCode": "IN",
+      "name": "Odisha",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "OR"
+      },
+      "countryName": "India",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Odisha",
+      "lat": "20.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "22",
+      "lng": "79.81667",
+      "geonameId": 1259424,
+      "toponymName": "Union Territory of Puducherry",
+      "countryId": "1269750",
+      "fcl": "A",
+      "population": 1247953,
+      "countryCode": "IN",
+      "name": "Puducherry",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "PY"
+      },
+      "countryName": "India",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Puducherry",
+      "lat": "11.93333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "23",
+      "lng": "75.41667",
+      "geonameId": 1259223,
+      "toponymName": "State of Punjab",
+      "countryId": "1269750",
+      "fcl": "A",
+      "population": 27743338,
+      "countryCode": "IN",
+      "name": "Punjab",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "PB"
+      },
+      "countryName": "India",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Punjab",
+      "lat": "30.91667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "24",
+      "lng": "73.83333",
+      "geonameId": 1258899,
+      "toponymName": "State of Rājasthān",
+      "countryId": "1269750",
+      "fcl": "A",
+      "population": 68548437,
+      "countryCode": "IN",
+      "name": "Rajasthan",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "RJ"
+      },
+      "countryName": "India",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Rajasthan",
+      "lat": "26.58333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "29",
+      "lng": "88.5",
+      "geonameId": 1256312,
+      "toponymName": "Sikkim",
+      "countryId": "1269750",
+      "fcl": "A",
+      "population": 610577,
+      "countryCode": "IN",
+      "name": "Sikkim",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SK"
+      },
+      "countryName": "India",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Sikkim",
+      "lat": "27.75",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "25",
+      "lng": "78.33333",
+      "geonameId": 1255053,
+      "toponymName": "State of Tamil Nādu",
+      "countryId": "1269750",
+      "fcl": "A",
+      "population": 72147030,
+      "countryCode": "IN",
+      "name": "Tamil Nadu",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "TN"
+      },
+      "countryName": "India",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Tamil Nadu",
+      "lat": "11",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "40",
+      "lng": "79.08333",
+      "geonameId": 1254788,
+      "toponymName": "State of Telangāna",
+      "countryId": "1269750",
+      "fcl": "A",
+      "population": 35193978,
+      "countryCode": "IN",
+      "name": "Telangana",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "TG"
+      },
+      "countryName": "India",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Telangana",
+      "lat": "17.83333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "26",
+      "lng": "92",
+      "geonameId": 1254169,
+      "toponymName": "Tripura",
+      "countryId": "1269750",
+      "fcl": "A",
+      "population": 3673917,
+      "countryCode": "IN",
+      "name": "Tripura",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "TR"
+      },
+      "countryName": "India",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Tripura",
+      "lat": "24",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "36",
+      "lng": "80.75",
+      "geonameId": 1253626,
+      "toponymName": "Uttar Pradesh",
+      "countryId": "1269750",
+      "fcl": "A",
+      "population": 199812341,
+      "countryCode": "IN",
+      "name": "Uttar Pradesh",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "UP"
+      },
+      "countryName": "India",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Uttar Pradesh",
+      "lat": "27.25",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "39",
+      "lng": "79.25",
+      "geonameId": 1444366,
+      "toponymName": "State of Uttarākhand",
+      "countryId": "1269750",
+      "fcl": "A",
+      "population": 10086292,
+      "countryCode": "IN",
+      "name": "Uttarakhand",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "UT"
+      },
+      "countryName": "India",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Uttarakhand",
+      "lat": "30.25",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "28",
+      "lng": "88",
+      "geonameId": 1252881,
+      "toponymName": "West Bengal",
+      "countryId": "1269750",
+      "fcl": "A",
+      "population": 91276115,
+      "countryCode": "IN",
+      "name": "West Bengal",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "WB"
+      },
+      "countryName": "India",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "West Bengal",
+      "lat": "24",
+      "fcode": "ADM1"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "totalResultsCount": 4,
+  "geonames": [
+    {
+      "adminCode1": "ENG",
+      "lng": "-0.70312",
+      "geonameId": 6269131,
+      "toponymName": "England",
+      "countryId": "2635167",
+      "fcl": "A",
+      "population": 56286961,
+      "countryCode": "GB",
+      "name": "England",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "ENG"
+      },
+      "countryName": "United Kingdom",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "England",
+      "lat": "52.16045",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "NIR",
+      "lng": "-6.5",
+      "geonameId": 2641364,
+      "toponymName": "Northern Ireland",
+      "countryId": "2635167",
+      "fcl": "A",
+      "population": 1862137,
+      "countryCode": "GB",
+      "name": "Northern Ireland",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "NIR"
+      },
+      "countryName": "United Kingdom",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Northern Ireland",
+      "lat": "54.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "SCT",
+      "lng": "-4",
+      "geonameId": 2638360,
+      "toponymName": "Scotland",
+      "countryId": "2635167",
+      "fcl": "A",
+      "population": 5404700,
+      "countryCode": "GB",
+      "name": "Scotland",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SCT"
+      },
+      "countryName": "United Kingdom",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Scotland",
+      "lat": "56",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "WLS",
+      "lng": "-3.5",
+      "geonameId": 2634895,
+      "toponymName": "Wales",
+      "countryId": "2635167",
+      "fcl": "A",
+      "population": 3113150,
+      "countryCode": "GB",
+      "name": "Wales",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "WLS"
+      },
+      "countryName": "United Kingdom",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Wales",
+      "lat": "52.5",
+      "fcode": "ADM1"
+    }
+  ]
+}

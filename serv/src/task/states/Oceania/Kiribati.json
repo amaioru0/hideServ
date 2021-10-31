@@ -1,0 +1,65 @@
+{
+  "totalResultsCount": 3,
+  "geonames": [
+    {
+      "adminCode1": "01",
+      "lng": "172.984",
+      "geonameId": 2110215,
+      "toponymName": "Gilbert Islands",
+      "countryId": "4030945",
+      "fcl": "A",
+      "population": 83683,
+      "countryCode": "KI",
+      "name": "Gilbert Islands",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "G"
+      },
+      "countryName": "Kiribati",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Gilbert Islands",
+      "lat": "1.42",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "02",
+      "lng": "-157.475",
+      "geonameId": 4030940,
+      "toponymName": "Line Islands",
+      "countryId": "4030945",
+      "fcl": "A",
+      "population": 8809,
+      "countryCode": "KI",
+      "name": "Line Islands",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "L"
+      },
+      "countryName": "Kiribati",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Line Islands",
+      "lat": "1.942",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "03",
+      "lng": "-171.678",
+      "geonameId": 7521379,
+      "toponymName": "Phoenix Islands",
+      "countryId": "4030945",
+      "fcl": "A",
+      "population": 41,
+      "countryCode": "KI",
+      "name": "Phoenix Islands",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "P"
+      },
+      "countryName": "Kiribati",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Phoenix Islands",
+      "lat": "-2.808",
+      "fcode": "ADM1"
+    }
+  ]
+}

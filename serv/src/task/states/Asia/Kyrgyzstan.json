@@ -1,0 +1,185 @@
+{
+  "totalResultsCount": 9,
+  "geonames": [
+    {
+      "adminCode1": "09",
+      "lng": "71",
+      "geonameId": 1463580,
+      "toponymName": "Batken",
+      "countryId": "1527747",
+      "fcl": "A",
+      "population": 428800,
+      "countryCode": "KG",
+      "name": "Batken",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "B"
+      },
+      "countryName": "Kyrgyzstan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Batken",
+      "lat": "39.83333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "02",
+      "lng": "74.5",
+      "geonameId": 1538652,
+      "toponymName": "Chuyskaya Oblast’",
+      "countryId": "1527747",
+      "fcl": "A",
+      "population": 790438,
+      "countryCode": "KG",
+      "name": "Chuyskaya Oblast’",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "C"
+      },
+      "countryName": "Kyrgyzstan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Chüy",
+      "lat": "42.41667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "01",
+      "lng": "74.6",
+      "geonameId": 1528334,
+      "toponymName": "Gorod Bishkek",
+      "countryId": "1527747",
+      "fcl": "A",
+      "population": 896259,
+      "countryCode": "KG",
+      "name": "Gorod Bishkek",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "GB"
+      },
+      "countryName": "Kyrgyzstan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Bishkek",
+      "lat": "42.86667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "07",
+      "lng": "78",
+      "geonameId": 1528260,
+      "toponymName": "Issyk-Kul Region",
+      "countryId": "1527747",
+      "fcl": "A",
+      "population": 437200,
+      "countryCode": "KG",
+      "name": "Issyk-Kul",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "Y"
+      },
+      "countryName": "Kyrgyzstan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Issyk-Kul",
+      "lat": "42",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "03",
+      "lng": "72.5",
+      "geonameId": 1529778,
+      "toponymName": "Jalal-Abad oblast",
+      "countryId": "1527747",
+      "fcl": "A",
+      "population": 930630,
+      "countryCode": "KG",
+      "name": "Jalal-Abad oblast",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "J"
+      },
+      "countryName": "Kyrgyzstan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Jalal-Abad",
+      "lat": "41.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "04",
+      "lng": "75.96667",
+      "geonameId": 1527590,
+      "toponymName": "Naryn oblast",
+      "countryId": "1527747",
+      "fcl": "A",
+      "population": 269651,
+      "countryCode": "KG",
+      "name": "Naryn oblast",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "N"
+      },
+      "countryName": "Kyrgyzstan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Naryn",
+      "lat": "41.43333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "10",
+      "lng": "72.79387",
+      "geonameId": 10300944,
+      "toponymName": "Osh City",
+      "countryId": "1527747",
+      "fcl": "A",
+      "population": 281900,
+      "countryCode": "KG",
+      "name": "Osh City",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "GO"
+      },
+      "countryName": "Kyrgyzstan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Osh City",
+      "lat": "40.54446",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "08",
+      "lng": "73",
+      "geonameId": 1346798,
+      "toponymName": "Osh Oblasty",
+      "countryId": "1527747",
+      "fcl": "A",
+      "population": 999576,
+      "countryCode": "KG",
+      "name": "Osh Oblasty",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "O"
+      },
+      "countryName": "Kyrgyzstan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Osh",
+      "lat": "40",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "06",
+      "lng": "72",
+      "geonameId": 1527297,
+      "toponymName": "Talas",
+      "countryId": "1527747",
+      "fcl": "A",
+      "population": 216053,
+      "countryCode": "KG",
+      "name": "Talas",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "T"
+      },
+      "countryName": "Kyrgyzstan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Talas",
+      "lat": "42.33333",
+      "fcode": "ADM1"
+    }
+  ]
+}

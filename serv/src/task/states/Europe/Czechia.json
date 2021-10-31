@@ -1,0 +1,285 @@
+{
+  "totalResultsCount": 14,
+  "geonames": [
+    {
+      "adminCode1": "88",
+      "lng": "14.1964",
+      "geonameId": 3339576,
+      "toponymName": "Středočeský kraj",
+      "countryId": "3077311",
+      "fcl": "A",
+      "population": 1284629,
+      "countryCode": "CZ",
+      "name": "Central Bohemia",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "20"
+      },
+      "countryName": "Czechia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Central Bohemia",
+      "lat": "50.12718",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "52",
+      "lng": "14.46667",
+      "geonameId": 3067695,
+      "toponymName": "Hlavní město Praha",
+      "countryId": "3077311",
+      "fcl": "A",
+      "population": 1167050,
+      "countryCode": "CZ",
+      "name": "Hlavní město Praha",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "10"
+      },
+      "countryName": "Czechia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Hlavní město Praha",
+      "lat": "50.08333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "79",
+      "lng": "14.5",
+      "geonameId": 3339537,
+      "toponymName": "Jihočeský kraj",
+      "countryId": "3077311",
+      "fcl": "A",
+      "population": 625703,
+      "countryCode": "CZ",
+      "name": "Jihočeský kraj",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "31"
+      },
+      "countryName": "Czechia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Jihočeský kraj",
+      "lat": "49.08333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "81",
+      "lng": "12.66667",
+      "geonameId": 3339539,
+      "toponymName": "Karlovarský kraj",
+      "countryId": "3077311",
+      "fcl": "A",
+      "population": 304294,
+      "countryCode": "CZ",
+      "name": "Karlovarský kraj",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "41"
+      },
+      "countryName": "Czechia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Karlovarský kraj",
+      "lat": "50.16667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "80",
+      "lng": "15.5",
+      "geonameId": 3339538,
+      "toponymName": "Kraj Vysočina",
+      "countryId": "3077311",
+      "fcl": "A",
+      "population": 517114,
+      "countryCode": "CZ",
+      "name": "Kraj Vysočina",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "63"
+      },
+      "countryName": "Czechia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Vysočina",
+      "lat": "49.41667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "82",
+      "lng": "15.91667",
+      "geonameId": 3339540,
+      "toponymName": "Královéhradecký kraj",
+      "countryId": "3077311",
+      "fcl": "A",
+      "population": 546691,
+      "countryCode": "CZ",
+      "name": "Královéhradecký kraj",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "52"
+      },
+      "countryName": "Czechia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Královéhradecký kraj",
+      "lat": "50.41667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "83",
+      "lng": "15",
+      "geonameId": 3339541,
+      "toponymName": "Liberecký kraj",
+      "countryId": "3077311",
+      "fcl": "A",
+      "population": 427855,
+      "countryCode": "CZ",
+      "name": "Liberecký kraj",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "51"
+      },
+      "countryName": "Czechia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Liberecký kraj",
+      "lat": "50.75",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "85",
+      "lng": "18",
+      "geonameId": 3339573,
+      "toponymName": "Moravskoslezský kraj",
+      "countryId": "3077311",
+      "fcl": "A",
+      "population": 1200000,
+      "countryCode": "CZ",
+      "name": "Moravskoslezský kraj",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "80"
+      },
+      "countryName": "Czechia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Moravskoslezský",
+      "lat": "49.83333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "84",
+      "lng": "17.16667",
+      "geonameId": 3339542,
+      "toponymName": "Olomoucký kraj",
+      "countryId": "3077311",
+      "fcl": "A",
+      "population": 635675,
+      "countryCode": "CZ",
+      "name": "Olomoucký kraj",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "71"
+      },
+      "countryName": "Czechia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Olomoucký",
+      "lat": "49.75",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "86",
+      "lng": "16.08333",
+      "geonameId": 3339574,
+      "toponymName": "Pardubický kraj",
+      "countryId": "3077311",
+      "fcl": "A",
+      "population": 504641,
+      "countryCode": "CZ",
+      "name": "Pardubický kraj",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "53"
+      },
+      "countryName": "Czechia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Pardubický",
+      "lat": "49.83333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "87",
+      "lng": "13.16667",
+      "geonameId": 3339575,
+      "toponymName": "Plzeňský kraj",
+      "countryId": "3077311",
+      "fcl": "A",
+      "population": 550343,
+      "countryCode": "CZ",
+      "name": "Plzeňský kraj",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "32"
+      },
+      "countryName": "Czechia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Plzeňský kraj",
+      "lat": "49.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "78",
+      "lng": "16.61339",
+      "geonameId": 3339536,
+      "toponymName": "Jihomoravský kraj",
+      "countryId": "3077311",
+      "fcl": "A",
+      "population": 1196113,
+      "countryCode": "CZ",
+      "name": "South Moravian",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "64"
+      },
+      "countryName": "Czechia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "South Moravian",
+      "lat": "49.20122",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "90",
+      "lng": "17.75",
+      "geonameId": 3339578,
+      "toponymName": "Zlínský kraj",
+      "countryId": "3077311",
+      "fcl": "A",
+      "population": 590784,
+      "countryCode": "CZ",
+      "name": "Zlín",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "72"
+      },
+      "countryName": "Czechia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Zlín",
+      "lat": "49.16667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "89",
+      "lng": "13.83333",
+      "geonameId": 3339577,
+      "toponymName": "Ústecký kraj",
+      "countryId": "3077311",
+      "fcl": "A",
+      "population": 821468,
+      "countryCode": "CZ",
+      "name": "Ústecký kraj",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "42"
+      },
+      "countryName": "Czechia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Ústecký kraj",
+      "lat": "50.5",
+      "fcode": "ADM1"
+    }
+  ]
+}

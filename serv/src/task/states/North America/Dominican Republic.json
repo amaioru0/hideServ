@@ -1,0 +1,645 @@
+{
+  "totalResultsCount": 32,
+  "geonames": [
+    {
+      "adminCode1": "34",
+      "lng": "-69.93333",
+      "geonameId": 3496024,
+      "toponymName": "Distrito Nacional",
+      "countryId": "3508796",
+      "fcl": "A",
+      "population": 965040,
+      "countryCode": "DO",
+      "name": "Nacional",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "01"
+      },
+      "countryName": "Dominican Republic",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Nacional",
+      "lat": "18.48333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "06",
+      "lng": "-70.08333",
+      "geonameId": 3508718,
+      "toponymName": "Provincia Duarte",
+      "countryId": "3508796",
+      "fcl": "A",
+      "population": 283805,
+      "countryCode": "DO",
+      "name": "Provincia Duarte",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "06"
+      },
+      "countryName": "Dominican Republic",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Duarte",
+      "lat": "19.25",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "08",
+      "lng": "-70.41667",
+      "geonameId": 3505867,
+      "toponymName": "Provincia Espaillat",
+      "countryId": "3508796",
+      "fcl": "A",
+      "population": 225091,
+      "countryCode": "DO",
+      "name": "Provincia Espaillat",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "09"
+      },
+      "countryName": "Dominican Republic",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Espaillat",
+      "lat": "19.58333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "14",
+      "lng": "-70",
+      "geonameId": 3496772,
+      "toponymName": "Provincia María Trinidad Sánchez",
+      "countryId": "3508796",
+      "fcl": "A",
+      "population": 135727,
+      "countryCode": "DO",
+      "name": "Provincia María Trinidad Sánchez",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "14"
+      },
+      "countryName": "Dominican Republic",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "María Trinidad Sánchez",
+      "lat": "19.41667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "21",
+      "lng": "-70.16667",
+      "geonameId": 3493192,
+      "toponymName": "Provincia Sánchez Ramírez",
+      "countryId": "3508796",
+      "fcl": "A",
+      "population": 151179,
+      "countryCode": "DO",
+      "name": "Provincia Sánchez Ramírez",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "24"
+      },
+      "countryName": "Dominican Republic",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Sánchez Ramírez",
+      "lat": "19",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "01",
+      "lng": "-70.8",
+      "geonameId": 3512209,
+      "toponymName": "Provincia de Azua",
+      "countryId": "3508796",
+      "fcl": "A",
+      "population": 208857,
+      "countryCode": "DO",
+      "name": "Provincia de Azua",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "02"
+      },
+      "countryName": "Dominican Republic",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Azua",
+      "lat": "18.58333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "02",
+      "lng": "-71.35",
+      "geonameId": 3512050,
+      "toponymName": "Provincia de Baoruco",
+      "countryId": "3508796",
+      "fcl": "A",
+      "population": 91480,
+      "countryCode": "DO",
+      "name": "Provincia de Baoruco",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "03"
+      },
+      "countryName": "Dominican Republic",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Baoruco",
+      "lat": "18.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "03",
+      "lng": "-71.25",
+      "geonameId": 3512042,
+      "toponymName": "Provincia de Barahona",
+      "countryId": "3508796",
+      "fcl": "A",
+      "population": 179239,
+      "countryCode": "DO",
+      "name": "Provincia de Barahona",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "04"
+      },
+      "countryName": "Dominican Republic",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Barahona",
+      "lat": "18.16667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "04",
+      "lng": "-71.58333",
+      "geonameId": 3508951,
+      "toponymName": "Provincia de Dajabón",
+      "countryId": "3508796",
+      "fcl": "A",
+      "population": 62046,
+      "countryCode": "DO",
+      "name": "Provincia de Dajabón",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "05"
+      },
+      "countryName": "Dominican Republic",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Dajabón",
+      "lat": "19.43333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "28",
+      "lng": "-69.05",
+      "geonameId": 3506189,
+      "toponymName": "Provincia de El Seibo",
+      "countryId": "3508796",
+      "fcl": "A",
+      "population": 89261,
+      "countryCode": "DO",
+      "name": "Provincia de El Seibo",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "08"
+      },
+      "countryName": "Dominican Republic",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "El Seíbo",
+      "lat": "18.8",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "11",
+      "lng": "-71.63333",
+      "geonameId": 3507269,
+      "toponymName": "Provincia de Elías Piña",
+      "countryId": "3508796",
+      "fcl": "A",
+      "population": 63879,
+      "countryCode": "DO",
+      "name": "Provincia de Elías Piña",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "07"
+      },
+      "countryName": "Dominican Republic",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Elías Piña",
+      "lat": "19",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "29",
+      "lng": "-69.33333",
+      "geonameId": 3504766,
+      "toponymName": "Provincia de Hato Mayor",
+      "countryId": "3508796",
+      "fcl": "A",
+      "population": 87631,
+      "countryCode": "DO",
+      "name": "Provincia de Hato Mayor",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "30"
+      },
+      "countryName": "Dominican Republic",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Hato Mayor",
+      "lat": "18.83333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "19",
+      "lng": "-70.33333",
+      "geonameId": 3493282,
+      "toponymName": "Provincia de Hermanas Mirabal",
+      "countryId": "3508796",
+      "fcl": "A",
+      "population": 96356,
+      "countryCode": "DO",
+      "name": "Provincia de Hermanas Mirabal",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "19"
+      },
+      "countryName": "Dominican Republic",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Hermanas Mirabal",
+      "lat": "19.41667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "09",
+      "lng": "-71.63333",
+      "geonameId": 3504326,
+      "toponymName": "Provincia de Independencia",
+      "countryId": "3508796",
+      "fcl": "A",
+      "population": 50833,
+      "countryCode": "DO",
+      "name": "Provincia de Independencia",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "10"
+      },
+      "countryName": "Dominican Republic",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Independencia",
+      "lat": "18.4",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "10",
+      "lng": "-68.63333",
+      "geonameId": 3503706,
+      "toponymName": "Provincia de La Altagracia",
+      "countryId": "3508796",
+      "fcl": "A",
+      "population": 182020,
+      "countryCode": "DO",
+      "name": "Provincia de La Altagracia",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "11"
+      },
+      "countryName": "Dominican Republic",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "La Altagracia",
+      "lat": "18.58333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "12",
+      "lng": "-68.96667",
+      "geonameId": 3500955,
+      "toponymName": "Provincia de La Romana",
+      "countryId": "3508796",
+      "fcl": "A",
+      "population": 219812,
+      "countryCode": "DO",
+      "name": "Provincia de La Romana",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "12"
+      },
+      "countryName": "Dominican Republic",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "La Romana",
+      "lat": "18.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "30",
+      "lng": "-70.65",
+      "geonameId": 3499977,
+      "toponymName": "Provincia de La Vega",
+      "countryId": "3508796",
+      "fcl": "A",
+      "population": 385101,
+      "countryCode": "DO",
+      "name": "Provincia de La Vega",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "13"
+      },
+      "countryName": "Dominican Republic",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "La Vega",
+      "lat": "19.05",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "31",
+      "lng": "-70.41667",
+      "geonameId": 3496274,
+      "toponymName": "Provincia de Monseñor Nouel",
+      "countryId": "3508796",
+      "fcl": "A",
+      "population": 167618,
+      "countryCode": "DO",
+      "name": "Provincia de Monseñor Nouel",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "28"
+      },
+      "countryName": "Dominican Republic",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Monseñor Nouel",
+      "lat": "18.91667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "15",
+      "lng": "-71.46667",
+      "geonameId": 3496200,
+      "toponymName": "Provincia de Monte Cristi",
+      "countryId": "3508796",
+      "fcl": "A",
+      "population": 111014,
+      "countryCode": "DO",
+      "name": "Provincia de Monte Cristi",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "15"
+      },
+      "countryName": "Dominican Republic",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Monte Cristi",
+      "lat": "19.71667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "32",
+      "lng": "-69.83333",
+      "geonameId": 3496132,
+      "toponymName": "Provincia de Monte Plata",
+      "countryId": "3508796",
+      "fcl": "A",
+      "population": 180376,
+      "countryCode": "DO",
+      "name": "Provincia de Monte Plata",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "29"
+      },
+      "countryName": "Dominican Republic",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Monte Plata",
+      "lat": "18.83333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "16",
+      "lng": "-71.56667",
+      "geonameId": 3495136,
+      "toponymName": "Provincia de Pedernales",
+      "countryId": "3508796",
+      "fcl": "A",
+      "population": 21207,
+      "countryCode": "DO",
+      "name": "Provincia de Pedernales",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "16"
+      },
+      "countryName": "Dominican Republic",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Pedernales",
+      "lat": "18",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "35",
+      "lng": "-70.36667",
+      "geonameId": 3495015,
+      "toponymName": "Provincia de Peravia",
+      "countryId": "3508796",
+      "fcl": "A",
+      "population": 169865,
+      "countryCode": "DO",
+      "name": "Provincia de Peravia",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "17"
+      },
+      "countryName": "Dominican Republic",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Peravia",
+      "lat": "18.33333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "33",
+      "lng": "-70.2",
+      "geonameId": 3493186,
+      "toponymName": "Provincia de San Cristóbal",
+      "countryId": "3508796",
+      "fcl": "A",
+      "population": 532880,
+      "countryCode": "DO",
+      "name": "Provincia de San Cristóbal",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "21"
+      },
+      "countryName": "Dominican Republic",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "San Cristóbal",
+      "lat": "18.55",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "36",
+      "lng": "-70.50877",
+      "geonameId": 6201372,
+      "toponymName": "Provincia de San José de Ocoa",
+      "countryId": "3508796",
+      "fcl": "A",
+      "population": 62368,
+      "countryCode": "DO",
+      "name": "Provincia de San José de Ocoa",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "31"
+      },
+      "countryName": "Dominican Republic",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "San José de Ocoa",
+      "lat": "18.54882",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "23",
+      "lng": "-71.25",
+      "geonameId": 3493091,
+      "toponymName": "Provincia de San Juan",
+      "countryId": "3508796",
+      "fcl": "A",
+      "population": 241105,
+      "countryCode": "DO",
+      "name": "Provincia de San Juan",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "22"
+      },
+      "countryName": "Dominican Republic",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "San Juan",
+      "lat": "18.83333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "24",
+      "lng": "-69.33333",
+      "geonameId": 3493031,
+      "toponymName": "Provincia de San Pedro de Macorís",
+      "countryId": "3508796",
+      "fcl": "A",
+      "population": 301744,
+      "countryCode": "DO",
+      "name": "Provincia de San Pedro de Macorís",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "23"
+      },
+      "countryName": "Dominican Republic",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "San Pedro de Macorís",
+      "lat": "18.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "25",
+      "lng": "-70.88333",
+      "geonameId": 3492918,
+      "toponymName": "Provincia de Santiago",
+      "countryId": "3508796",
+      "fcl": "A",
+      "population": 908250,
+      "countryCode": "DO",
+      "name": "Provincia de Santiago",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "25"
+      },
+      "countryName": "Dominican Republic",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Santiago",
+      "lat": "19.31667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "26",
+      "lng": "-71.33333",
+      "geonameId": 3492912,
+      "toponymName": "Provincia de Santiago Rodríguez",
+      "countryId": "3508796",
+      "fcl": "A",
+      "population": 59629,
+      "countryCode": "DO",
+      "name": "Provincia de Santiago Rodríguez",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "26"
+      },
+      "countryName": "Dominican Republic",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Santiago Rodríguez",
+      "lat": "19.41667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "37",
+      "lng": "-69.84874",
+      "geonameId": 6201373,
+      "toponymName": "Provincia de Santo Domingo",
+      "countryId": "3508796",
+      "fcl": "A",
+      "population": 2995211,
+      "countryCode": "DO",
+      "name": "Provincia de Santo Domingo",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "32"
+      },
+      "countryName": "Dominican Republic",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Santo Domingo",
+      "lat": "18.56678",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "27",
+      "lng": "-71.05",
+      "geonameId": 3492112,
+      "toponymName": "Provincia de Valverde",
+      "countryId": "3508796",
+      "fcl": "A",
+      "population": 158293,
+      "countryCode": "DO",
+      "name": "Provincia de Valverde",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "27"
+      },
+      "countryName": "Dominican Republic",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Valverde",
+      "lat": "19.58333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "18",
+      "lng": "-70.75",
+      "geonameId": 3494267,
+      "toponymName": "Provincia de Puerto Plata",
+      "countryId": "3508796",
+      "fcl": "A",
+      "population": 312706,
+      "countryCode": "DO",
+      "name": "Puerto Plata",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "18"
+      },
+      "countryName": "Dominican Republic",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Puerto Plata",
+      "lat": "19.75",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "20",
+      "lng": "-69.45",
+      "geonameId": 3493232,
+      "toponymName": "Samaná Province",
+      "countryId": "3508796",
+      "fcl": "A",
+      "population": 91875,
+      "countryCode": "DO",
+      "name": "Samaná",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "20"
+      },
+      "countryName": "Dominican Republic",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Samaná",
+      "lat": "19.25",
+      "fcode": "ADM1"
+    }
+  ]
+}

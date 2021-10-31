@@ -1,0 +1,56 @@
+{
+  "totalResultsCount": 3,
+  "geonames": [
+    {
+      "adminCode1": "211",
+      "lng": "19.94307",
+      "geonameId": 9611689,
+      "toponymName": "Mariehamns stad",
+      "countryId": "661882",
+      "fcl": "A",
+      "population": 11209,
+      "countryCode": "AX",
+      "name": "Mariehamns stad",
+      "fclName": "country, state, region,...",
+      "countryName": "Åland",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Mariehamns stad",
+      "lat": "60.08348",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "212",
+      "lng": "19.93363",
+      "geonameId": 9611692,
+      "toponymName": "Ålands landsbygd",
+      "countryId": "661882",
+      "fcl": "A",
+      "population": 14626,
+      "countryCode": "AX",
+      "name": "Ålands landsbygd",
+      "fclName": "country, state, region,...",
+      "countryName": "Åland",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Ålands landsbygd",
+      "lat": "60.22496",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "213",
+      "lng": "20.71799",
+      "geonameId": 9611694,
+      "toponymName": "Ålands skärgård",
+      "countryId": "661882",
+      "fcl": "A",
+      "population": 2230,
+      "countryCode": "AX",
+      "name": "Ålands skärgård",
+      "fclName": "country, state, region,...",
+      "countryName": "Åland",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Ålands skärgård",
+      "lat": "60.17575",
+      "fcode": "ADM1"
+    }
+  ]
+}

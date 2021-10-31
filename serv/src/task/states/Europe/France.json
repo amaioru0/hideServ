@@ -1,0 +1,265 @@
+{
+  "totalResultsCount": 13,
+  "geonames": [
+    {
+      "adminCode1": "84",
+      "lng": "5.37437",
+      "geonameId": 11071625,
+      "toponymName": "Auvergne-Rhône-Alpes",
+      "countryId": "3017382",
+      "fcl": "A",
+      "population": 7695264,
+      "countryCode": "FR",
+      "name": "Auvergne-Rhône-Alpes",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "ARA"
+      },
+      "countryName": "France",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Auvergne-Rhône-Alpes",
+      "lat": "45.482",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "27",
+      "lng": "5.04822",
+      "geonameId": 11071619,
+      "toponymName": "Bourgogne-Franche-Comté",
+      "countryId": "3017382",
+      "fcl": "A",
+      "population": 2816814,
+      "countryCode": "FR",
+      "name": "Bourgogne-Franche-Comté",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "BFC"
+      },
+      "countryName": "France",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Bourgogne-Franche-Comté",
+      "lat": "47.06981",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "53",
+      "lng": "-2.83333",
+      "geonameId": 3030293,
+      "toponymName": "Bretagne",
+      "countryId": "3017382",
+      "fcl": "A",
+      "population": 3120288,
+      "countryCode": "FR",
+      "name": "Brittany",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "BRE"
+      },
+      "countryName": "France",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Brittany",
+      "lat": "48.16667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "24",
+      "lng": "1.75",
+      "geonameId": 3027939,
+      "toponymName": "Centre-Val de Loire",
+      "countryId": "3017382",
+      "fcl": "A",
+      "population": 2526919,
+      "countryCode": "FR",
+      "name": "Centre-Val de Loire",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "CVL"
+      },
+      "countryName": "France",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Centre-Val de Loire",
+      "lat": "47.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "94",
+      "lng": "8.9542",
+      "geonameId": 3023519,
+      "toponymName": "Corse",
+      "countryId": "3017382",
+      "fcl": "A",
+      "population": 299209,
+      "countryCode": "FR",
+      "name": "Corsica",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "20R"
+      },
+      "countryName": "France",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Corsica",
+      "lat": "42.06153",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "44",
+      "lng": "5.8667",
+      "geonameId": 11071622,
+      "toponymName": "Grand Est",
+      "countryId": "3017382",
+      "fcl": "A",
+      "population": 5552388,
+      "countryCode": "FR",
+      "name": "Grand Est",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "GES"
+      },
+      "countryName": "France",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Grand Est",
+      "lat": "48.69821",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "32",
+      "lng": "2.65594",
+      "geonameId": 11071624,
+      "toponymName": "Hauts-de-France",
+      "countryId": "3017382",
+      "fcl": "A",
+      "population": 5973098,
+      "countryCode": "FR",
+      "name": "Hauts-de-France",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "HDF"
+      },
+      "countryName": "France",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Hauts-de-France",
+      "lat": "49.61232",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "28",
+      "lng": "0.49988",
+      "geonameId": 11071621,
+      "toponymName": "Normandie",
+      "countryId": "3017382",
+      "fcl": "A",
+      "population": 3322757,
+      "countryCode": "FR",
+      "name": "Normandy",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "NOR"
+      },
+      "countryName": "France",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Normandy",
+      "lat": "49.19906",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "75",
+      "lng": "1.26892",
+      "geonameId": 11071620,
+      "toponymName": "Nouvelle-Aquitaine",
+      "countryId": "3017382",
+      "fcl": "A",
+      "population": 5808594,
+      "countryCode": "FR",
+      "name": "Nouvelle-Aquitaine",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "NAQ"
+      },
+      "countryName": "France",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Nouvelle-Aquitaine",
+      "lat": "46.09165",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "76",
+      "lng": "1.63559",
+      "geonameId": 11071623,
+      "toponymName": "Occitanie",
+      "countryId": "3017382",
+      "fcl": "A",
+      "population": 5626858,
+      "countryCode": "FR",
+      "name": "Occitanie",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "OCC"
+      },
+      "countryName": "France",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Occitanie",
+      "lat": "44.02722",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "52",
+      "lng": "-0.83333",
+      "geonameId": 2988289,
+      "toponymName": "Pays de la Loire",
+      "countryId": "3017382",
+      "fcl": "A",
+      "population": 3482594,
+      "countryCode": "FR",
+      "name": "Pays de la Loire",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "PDL"
+      },
+      "countryName": "France",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Pays de la Loire",
+      "lat": "47.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "93",
+      "lng": "6.08333",
+      "geonameId": 2985244,
+      "toponymName": "Provence-Alpes-Côte d'Azur",
+      "countryId": "3017382",
+      "fcl": "A",
+      "population": 4864015,
+      "countryCode": "FR",
+      "name": "Provence-Alpes-Côte d'Azur",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "PAC"
+      },
+      "countryName": "France",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Provence-Alpes-Côte d'Azur",
+      "lat": "43.91667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "11",
+      "lng": "2.5",
+      "geonameId": 3012874,
+      "toponymName": "Île-de-France",
+      "countryId": "3017382",
+      "fcl": "A",
+      "population": 11598866,
+      "countryCode": "FR",
+      "name": "Île-de-France",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "IDF"
+      },
+      "countryName": "France",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Île-de-France",
+      "lat": "48.7",
+      "fcode": "ADM1"
+    }
+  ]
+}

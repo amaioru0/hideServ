@@ -1,0 +1,205 @@
+{
+  "totalResultsCount": 10,
+  "geonames": [
+    {
+      "adminCode1": "01",
+      "lng": "31",
+      "geonameId": 408655,
+      "toponymName": "Central Equatoria State",
+      "countryId": "7909807",
+      "fcl": "A",
+      "population": 1443500,
+      "countryCode": "SS",
+      "name": "Central Equatoria",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "EC"
+      },
+      "countryName": "South Sudan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Central Equatoria",
+      "lat": "4.75",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "02",
+      "lng": "33.8",
+      "geonameId": 408668,
+      "toponymName": "Eastern Equatoria",
+      "countryId": "7909807",
+      "fcl": "A",
+      "population": 906126,
+      "countryCode": "SS",
+      "name": "Eastern Equatoria",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "EE"
+      },
+      "countryName": "South Sudan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Eastern Equatoria",
+      "lat": "4.9",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "03",
+      "lng": "32.4",
+      "geonameId": 408662,
+      "toponymName": "Jonglei",
+      "countryId": "7909807",
+      "fcl": "A",
+      "population": 1443500,
+      "countryCode": "SS",
+      "name": "Jonglei",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "JG"
+      },
+      "countryName": "South Sudan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Jonglei",
+      "lat": "7.4",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "04",
+      "lng": "30",
+      "geonameId": 408647,
+      "toponymName": "Lakes",
+      "countryId": "7909807",
+      "fcl": "A",
+      "population": 695730,
+      "countryCode": "SS",
+      "name": "Lakes",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "LK"
+      },
+      "countryName": "South Sudan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Lakes",
+      "lat": "6.75",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "05",
+      "lng": "27",
+      "geonameId": 408665,
+      "toponymName": "Northern Bahr el Ghazal",
+      "countryId": "7909807",
+      "fcl": "A",
+      "population": 720898,
+      "countryCode": "SS",
+      "name": "Northern Bahr al Ghazal",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "BN"
+      },
+      "countryName": "South Sudan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Northern Bahr al Ghazal",
+      "lat": "8.85",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "06",
+      "lng": "29.85",
+      "geonameId": 408650,
+      "toponymName": "Unity",
+      "countryId": "7909807",
+      "fcl": "A",
+      "population": 585801,
+      "countryCode": "SS",
+      "name": "Unity State",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "UY"
+      },
+      "countryName": "South Sudan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Unity",
+      "lat": "8.65",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "07",
+      "lng": "32.7",
+      "geonameId": 381229,
+      "toponymName": "Upper Nile",
+      "countryId": "7909807",
+      "fcl": "A",
+      "population": 964353,
+      "countryCode": "SS",
+      "name": "Upper Nile",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "NU"
+      },
+      "countryName": "South Sudan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Upper Nile",
+      "lat": "10",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "08",
+      "lng": "28.85",
+      "geonameId": 408670,
+      "toponymName": "Warrap State",
+      "countryId": "7909807",
+      "fcl": "A",
+      "population": 920045,
+      "countryCode": "SS",
+      "name": "Warrap",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "WR"
+      },
+      "countryName": "South Sudan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Warrap",
+      "lat": "8",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "09",
+      "lng": "26",
+      "geonameId": 408657,
+      "toponymName": "Western Bahr el Ghazal State",
+      "countryId": "7909807",
+      "fcl": "A",
+      "population": 333431,
+      "countryCode": "SS",
+      "name": "Western Bahr el Ghazal",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "BW"
+      },
+      "countryName": "South Sudan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Western Bahr al Ghazal",
+      "lat": "8.15",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "10",
+      "lng": "28.4",
+      "geonameId": 408656,
+      "toponymName": "Western Equatoria",
+      "countryId": "7909807",
+      "fcl": "A",
+      "population": 619029,
+      "countryCode": "SS",
+      "name": "Western Equatoria",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "EW"
+      },
+      "countryName": "South Sudan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Western Equatoria",
+      "lat": "5.4",
+      "fcode": "ADM1"
+    }
+  ]
+}

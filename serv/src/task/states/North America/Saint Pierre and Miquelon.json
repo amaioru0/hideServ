@@ -1,0 +1,45 @@
+{
+  "totalResultsCount": 2,
+  "geonames": [
+    {
+      "adminCode1": "97502",
+      "lng": "-56.2",
+      "geonameId": 3424935,
+      "toponymName": "Commune de Saint-Pierre",
+      "countryId": "3424932",
+      "fcl": "A",
+      "population": 5494,
+      "countryCode": "PM",
+      "name": "Commune de Saint-Pierre",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "P"
+      },
+      "countryName": "Saint Pierre and Miquelon",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Saint-Pierre",
+      "lat": "46.78333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "97501",
+      "lng": "-56.32656",
+      "geonameId": 3424938,
+      "toponymName": "Miquelon-Langlade",
+      "countryId": "3424932",
+      "fcl": "A",
+      "population": 605,
+      "countryCode": "PM",
+      "name": "Miquelon-Langlade",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "M"
+      },
+      "countryName": "Saint Pierre and Miquelon",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Miquelon-Langlade",
+      "lat": "46.95612",
+      "fcode": "ADM1"
+    }
+  ]
+}

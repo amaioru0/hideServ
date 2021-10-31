@@ -1,0 +1,125 @@
+{
+  "totalResultsCount": 6,
+  "geonames": [
+    {
+      "adminCode1": "16",
+      "lng": "167.58577",
+      "geonameId": 2208265,
+      "toponymName": "Malampa Province",
+      "countryId": "2134431",
+      "fcl": "A",
+      "population": 35329,
+      "countryCode": "VU",
+      "name": "Malampa Province",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "MAP"
+      },
+      "countryName": "Vanuatu",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Malampa",
+      "lat": "-16.31196",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "17",
+      "lng": "167.80449",
+      "geonameId": 2208266,
+      "toponymName": "Penama Province",
+      "countryId": "2134431",
+      "fcl": "A",
+      "population": 29286,
+      "countryCode": "VU",
+      "name": "Penama Province",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "PAM"
+      },
+      "countryName": "Vanuatu",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Penama",
+      "lat": "-15.39742",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "13",
+      "lng": "166.75",
+      "geonameId": 2134898,
+      "toponymName": "Sanma Province",
+      "countryId": "2134431",
+      "fcl": "A",
+      "population": 42868,
+      "countryCode": "VU",
+      "name": "Sanma Province",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SAM"
+      },
+      "countryName": "Vanuatu",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Sanma",
+      "lat": "-15.33333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "18",
+      "lng": "168.36731",
+      "geonameId": 2208267,
+      "toponymName": "Shefa Province",
+      "countryId": "2134431",
+      "fcl": "A",
+      "population": 63491,
+      "countryCode": "VU",
+      "name": "Shefa Province",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SEE"
+      },
+      "countryName": "Vanuatu",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Shefa",
+      "lat": "-17.5894",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "15",
+      "lng": "169.34849",
+      "geonameId": 2134739,
+      "toponymName": "Tafea Province",
+      "countryId": "2134431",
+      "fcl": "A",
+      "population": 32540,
+      "countryCode": "VU",
+      "name": "Tafea Province",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "TAE"
+      },
+      "countryName": "Vanuatu",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Tafea",
+      "lat": "-19.50948",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "07",
+      "lng": "167.5",
+      "geonameId": 2137421,
+      "toponymName": "Torba Province",
+      "countryId": "2134431",
+      "fcl": "A",
+      "population": 9359,
+      "countryCode": "VU",
+      "name": "Torba",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "TOB"
+      },
+      "countryName": "Vanuatu",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Torba",
+      "lat": "-13.75",
+      "fcode": "ADM1"
+    }
+  ]
+}

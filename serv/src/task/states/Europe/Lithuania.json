@@ -1,0 +1,205 @@
+{
+  "totalResultsCount": 10,
+  "geonames": [
+    {
+      "adminCode1": "56",
+      "lng": "24.16667",
+      "geonameId": 864389,
+      "toponymName": "Alytus County",
+      "countryId": "597427",
+      "fcl": "A",
+      "population": 149879,
+      "countryCode": "LT",
+      "name": "Alytus",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "AL"
+      },
+      "countryName": "Lithuania",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Alytus",
+      "lat": "54.16667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "57",
+      "lng": "24",
+      "geonameId": 864477,
+      "toponymName": "Kaunas County",
+      "countryId": "597427",
+      "fcl": "A",
+      "population": 587410,
+      "countryCode": "LT",
+      "name": "Kaunas",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "KU"
+      },
+      "countryName": "Lithuania",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Kaunas",
+      "lat": "55.16667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "58",
+      "lng": "21.33333",
+      "geonameId": 864478,
+      "toponymName": "Klaipėda County",
+      "countryId": "597427",
+      "fcl": "A",
+      "population": 329146,
+      "countryCode": "LT",
+      "name": "Klaipėda County",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "KL"
+      },
+      "countryName": "Lithuania",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Klaipėda County",
+      "lat": "55.66667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "59",
+      "lng": "23.25",
+      "geonameId": 864479,
+      "toponymName": "Marijampolė County",
+      "countryId": "597427",
+      "fcl": "A",
+      "population": 154097,
+      "countryCode": "LT",
+      "name": "Marijampolė County",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "MR"
+      },
+      "countryName": "Lithuania",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Marijampolė County",
+      "lat": "54.75",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "60",
+      "lng": "24.83333",
+      "geonameId": 864480,
+      "toponymName": "Panevėžys",
+      "countryId": "597427",
+      "fcl": "A",
+      "population": 238802,
+      "countryCode": "LT",
+      "name": "Panevėžys",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "PN"
+      },
+      "countryName": "Lithuania",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Panevėžys",
+      "lat": "55.91667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "61",
+      "lng": "23.33333",
+      "geonameId": 864481,
+      "toponymName": "Šiauliai County",
+      "countryId": "597427",
+      "fcl": "A",
+      "population": 285870,
+      "countryCode": "LT",
+      "name": "Siauliai",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SA"
+      },
+      "countryName": "Lithuania",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Siauliai",
+      "lat": "56",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "62",
+      "lng": "22.5",
+      "geonameId": 864482,
+      "toponymName": "Tauragė County",
+      "countryId": "597427",
+      "fcl": "A",
+      "population": 104683,
+      "countryCode": "LT",
+      "name": "Tauragė County",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "TA"
+      },
+      "countryName": "Lithuania",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Tauragė County",
+      "lat": "55.33333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "63",
+      "lng": "22.16667",
+      "geonameId": 864483,
+      "toponymName": "Telšių apskritis",
+      "countryId": "597427",
+      "fcl": "A",
+      "population": 145564,
+      "countryCode": "LT",
+      "name": "Telsiai",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "TE"
+      },
+      "countryName": "Lithuania",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Telsiai",
+      "lat": "56.08333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "64",
+      "lng": "25.75",
+      "geonameId": 864484,
+      "toponymName": "Utena County",
+      "countryId": "597427",
+      "fcl": "A",
+      "population": 142604,
+      "countryCode": "LT",
+      "name": "Utena",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "UT"
+      },
+      "countryName": "Lithuania",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Utena",
+      "lat": "55.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "65",
+      "lng": "25.33333",
+      "geonameId": 864485,
+      "toponymName": "Vilnius County",
+      "countryId": "597427",
+      "fcl": "A",
+      "population": 806404,
+      "countryCode": "LT",
+      "name": "Vilnius",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "VL"
+      },
+      "countryName": "Lithuania",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Vilnius",
+      "lat": "54.83333",
+      "fcode": "ADM1"
+    }
+  ]
+}

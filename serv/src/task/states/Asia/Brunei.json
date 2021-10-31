@@ -1,0 +1,85 @@
+{
+  "totalResultsCount": 4,
+  "geonames": [
+    {
+      "adminCode1": "01",
+      "lng": "114.58333",
+      "geonameId": 1820869,
+      "toponymName": "Belait",
+      "countryId": "1820814",
+      "fcl": "A",
+      "population": 77515,
+      "countryCode": "BN",
+      "name": "Belait",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "BE"
+      },
+      "countryName": "Brunei",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Belait",
+      "lat": "4.31667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "02",
+      "lng": "114.91667",
+      "geonameId": 1820818,
+      "toponymName": "Daerah Brunei dan Muara",
+      "countryId": "1820814",
+      "fcl": "A",
+      "population": 279924,
+      "countryCode": "BN",
+      "name": "Brunei-Muara",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "BM"
+      },
+      "countryName": "Brunei",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Brunei-Muara District",
+      "lat": "4.91667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "03",
+      "lng": "115.16667",
+      "geonameId": 1820106,
+      "toponymName": "Temburong",
+      "countryId": "1820814",
+      "fcl": "A",
+      "population": 10908,
+      "countryCode": "BN",
+      "name": "Temburong",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "TE"
+      },
+      "countryName": "Brunei",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Temburong",
+      "lat": "4.58333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "04",
+      "lng": "114.71667",
+      "geonameId": 1820068,
+      "toponymName": "Tutong",
+      "countryId": "1820814",
+      "fcl": "A",
+      "population": 41426,
+      "countryCode": "BN",
+      "name": "Tutong",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "TU"
+      },
+      "countryName": "Brunei",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Tutong",
+      "lat": "4.63333",
+      "fcode": "ADM1"
+    }
+  ]
+}

@@ -1,0 +1,525 @@
+{
+  "totalResultsCount": 26,
+  "geonames": [
+    {
+      "adminCode1": "AG",
+      "lng": "8.17214",
+      "geonameId": 2661876,
+      "toponymName": "Kanton Aargau",
+      "countryId": "2658434",
+      "fcl": "A",
+      "population": 574171,
+      "countryCode": "CH",
+      "name": "Aargau",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "AG"
+      },
+      "countryName": "Switzerland",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Aargau",
+      "lat": "47.39557",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "AR",
+      "lng": "9.28283",
+      "geonameId": 2661739,
+      "toponymName": "Kanton Appenzell Ausserrhoden",
+      "countryId": "2658434",
+      "fcl": "A",
+      "population": 51829,
+      "countryCode": "CH",
+      "name": "Appenzell Ausserrhoden",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "AR"
+      },
+      "countryName": "Switzerland",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Appenzell Ausserrhoden",
+      "lat": "47.36293",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "AI",
+      "lng": "9.40562",
+      "geonameId": 2661741,
+      "toponymName": "Kanton Appenzell Innerrhoden",
+      "countryId": "2658434",
+      "fcl": "A",
+      "population": 15717,
+      "countryCode": "CH",
+      "name": "Appenzell Innerrhoden",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "AI"
+      },
+      "countryName": "Switzerland",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Appenzell Innerrhoden",
+      "lat": "47.31262",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "BS",
+      "lng": "7.61519",
+      "geonameId": 2661602,
+      "toponymName": "Kanton Basel-Stadt",
+      "countryId": "2658434",
+      "fcl": "A",
+      "population": 195962,
+      "countryCode": "CH",
+      "name": "Basel-City",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "BS"
+      },
+      "countryName": "Switzerland",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Basel-City",
+      "lat": "47.5669",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "BL",
+      "lng": "7.70444",
+      "geonameId": 2661603,
+      "toponymName": "Kanton Basel-Landschaft",
+      "countryId": "2658434",
+      "fcl": "A",
+      "population": 265585,
+      "countryCode": "CH",
+      "name": "Basel-Landschaft",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "BL"
+      },
+      "countryName": "Switzerland",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Basel-Landschaft",
+      "lat": "47.50438",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "BE",
+      "lng": "7.59563",
+      "geonameId": 2661551,
+      "toponymName": "Canton de Berne",
+      "countryId": "2658434",
+      "fcl": "A",
+      "population": 955658,
+      "countryCode": "CH",
+      "name": "Bern",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "BE"
+      },
+      "countryName": "Switzerland",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Bern",
+      "lat": "46.87251",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "GR",
+      "lng": "9.62296",
+      "geonameId": 2660522,
+      "toponymName": "Kanton Graubünden",
+      "countryId": "2658434",
+      "fcl": "A",
+      "population": 181081,
+      "countryCode": "CH",
+      "name": "Canton Grisons",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "GR"
+      },
+      "countryName": "Switzerland",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Grisons",
+      "lat": "46.6587",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "FR",
+      "lng": "7.10311",
+      "geonameId": 2660717,
+      "toponymName": "Canton de Fribourg",
+      "countryId": "2658434",
+      "fcl": "A",
+      "population": 248953,
+      "countryCode": "CH",
+      "name": "Fribourg",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "FR"
+      },
+      "countryName": "Switzerland",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Fribourg",
+      "lat": "46.70834",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "GE",
+      "lng": "6.11044",
+      "geonameId": 2660645,
+      "toponymName": "Genève",
+      "countryId": "2658434",
+      "fcl": "A",
+      "population": 433978,
+      "countryCode": "CH",
+      "name": "Geneva",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "GE"
+      },
+      "countryName": "Switzerland",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Geneva",
+      "lat": "46.19673",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "GL",
+      "lng": "9.07318",
+      "geonameId": 2660593,
+      "toponymName": "Kanton Glarus",
+      "countryId": "2658434",
+      "fcl": "A",
+      "population": 37372,
+      "countryCode": "CH",
+      "name": "Glarus",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "GL"
+      },
+      "countryName": "Switzerland",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Glarus",
+      "lat": "46.97559",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "JU",
+      "lng": "7.16802",
+      "geonameId": 2660207,
+      "toponymName": "Jura",
+      "countryId": "2658434",
+      "fcl": "A",
+      "population": 69935,
+      "countryCode": "CH",
+      "name": "Jura",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "JU"
+      },
+      "countryName": "Switzerland",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Jura",
+      "lat": "47.37266",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "LU",
+      "lng": "8.16667",
+      "geonameId": 2659810,
+      "toponymName": "Kanton Luzern",
+      "countryId": "2658434",
+      "fcl": "A",
+      "population": 362215,
+      "countryCode": "CH",
+      "name": "Lucerne",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "LU"
+      },
+      "countryName": "Switzerland",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Lucerne",
+      "lat": "47.16667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "NE",
+      "lng": "6.79767",
+      "geonameId": 2659495,
+      "toponymName": "Neuchâtel",
+      "countryId": "2658434",
+      "fcl": "A",
+      "population": 168810,
+      "countryCode": "CH",
+      "name": "Neuchâtel",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "NE"
+      },
+      "countryName": "Switzerland",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Neuchâtel",
+      "lat": "46.99087",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "NW",
+      "lng": "8.41028",
+      "geonameId": 2659471,
+      "toponymName": "Kanton Nidwalden",
+      "countryId": "2658434",
+      "fcl": "A",
+      "population": 40794,
+      "countryCode": "CH",
+      "name": "Nidwalden",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "NW"
+      },
+      "countryName": "Switzerland",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Nidwalden",
+      "lat": "46.92739",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "OW",
+      "lng": "8.20984",
+      "geonameId": 2659315,
+      "toponymName": "Kanton Obwalden",
+      "countryId": "2658434",
+      "fcl": "A",
+      "population": 33717,
+      "countryCode": "CH",
+      "name": "Obwalden",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "OW"
+      },
+      "countryName": "Switzerland",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Obwalden",
+      "lat": "46.85867",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "SG",
+      "lng": "9.25",
+      "geonameId": 2658821,
+      "toponymName": "Kanton St. Gallen",
+      "countryId": "2658434",
+      "fcl": "A",
+      "population": 462877,
+      "countryCode": "CH",
+      "name": "Saint Gallen",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SG"
+      },
+      "countryName": "Switzerland",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Saint Gallen",
+      "lat": "47.25",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "SH",
+      "lng": "8.63388",
+      "geonameId": 2658760,
+      "toponymName": "Kanton Schaffhausen",
+      "countryId": "2658434",
+      "fcl": "A",
+      "population": 73443,
+      "countryCode": "CH",
+      "name": "Schaffhausen",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SH"
+      },
+      "countryName": "Switzerland",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Schaffhausen",
+      "lat": "47.71034",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "SZ",
+      "lng": "8.74101",
+      "geonameId": 2658664,
+      "toponymName": "Kanton Schwyz",
+      "countryId": "2658434",
+      "fcl": "A",
+      "population": 135461,
+      "countryCode": "CH",
+      "name": "Schwyz",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SZ"
+      },
+      "countryName": "Switzerland",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Schwyz",
+      "lat": "47.0405",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "SO",
+      "lng": "7.52048",
+      "geonameId": 2658563,
+      "toponymName": "Kanton Solothurn",
+      "countryId": "2658434",
+      "fcl": "A",
+      "population": 250155,
+      "countryCode": "CH",
+      "name": "Solothurn",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SO"
+      },
+      "countryName": "Switzerland",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Solothurn",
+      "lat": "47.21071",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "TG",
+      "lng": "9.07686",
+      "geonameId": 2658372,
+      "toponymName": "Kanton Thurgau",
+      "countryId": "2658434",
+      "fcl": "A",
+      "population": 230600,
+      "countryCode": "CH",
+      "name": "Thurgau",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "TG"
+      },
+      "countryName": "Switzerland",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Thurgau",
+      "lat": "47.5562",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "TI",
+      "lng": "8.79065",
+      "geonameId": 2658370,
+      "toponymName": "Ticino",
+      "countryId": "2658434",
+      "fcl": "A",
+      "population": 317006,
+      "countryCode": "CH",
+      "name": "Ticino",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "TI"
+      },
+      "countryName": "Switzerland",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Ticino",
+      "lat": "46.28455",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "UR",
+      "lng": "8.64175",
+      "geonameId": 2658226,
+      "toponymName": "Kanton Uri",
+      "countryId": "2658434",
+      "fcl": "A",
+      "population": 34088,
+      "countryCode": "CH",
+      "name": "Uri",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "UR"
+      },
+      "countryName": "Switzerland",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Uri",
+      "lat": "46.7847",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "VS",
+      "lng": "7.45972",
+      "geonameId": 2658205,
+      "toponymName": "Canton du Valais",
+      "countryId": "2658434",
+      "fcl": "A",
+      "population": 284653,
+      "countryCode": "CH",
+      "name": "Valais",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "VS"
+      },
+      "countryName": "Switzerland",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Valais",
+      "lat": "46.22925",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "VD",
+      "lng": "6.64496",
+      "geonameId": 2658182,
+      "toponymName": "Canton de Vaud",
+      "countryId": "2658434",
+      "fcl": "A",
+      "population": 646233,
+      "countryCode": "CH",
+      "name": "Vaud",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "VD"
+      },
+      "countryName": "Switzerland",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Vaud",
+      "lat": "46.61671",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "ZG",
+      "lng": "8.53866",
+      "geonameId": 2657907,
+      "toponymName": "Kanton Zug",
+      "countryId": "2658434",
+      "fcl": "A",
+      "population": 106352,
+      "countryCode": "CH",
+      "name": "Zug",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "ZG"
+      },
+      "countryName": "Switzerland",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Zug",
+      "lat": "47.15886",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "ZH",
+      "lng": "8.66667",
+      "geonameId": 2657895,
+      "toponymName": "Kanton Zürich",
+      "countryId": "2658434",
+      "fcl": "A",
+      "population": 1289559,
+      "countryCode": "CH",
+      "name": "Zurich",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "ZH"
+      },
+      "countryName": "Switzerland",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Zurich",
+      "lat": "47.41667",
+      "fcode": "ADM1"
+    }
+  ]
+}

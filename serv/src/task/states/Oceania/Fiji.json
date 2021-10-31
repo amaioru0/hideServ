@@ -1,0 +1,105 @@
+{
+  "totalResultsCount": 5,
+  "geonames": [
+    {
+      "adminCode1": "01",
+      "lng": "178.33333",
+      "geonameId": 2205272,
+      "toponymName": "Central Division",
+      "countryId": "2205218",
+      "fcl": "A",
+      "population": 342000,
+      "countryCode": "FJ",
+      "name": "Central",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "C"
+      },
+      "countryName": "Fiji",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Central",
+      "lat": "-18",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "02",
+      "lng": "180",
+      "geonameId": 4036647,
+      "toponymName": "Eastern Division",
+      "countryId": "2205218",
+      "fcl": "A",
+      "population": 37960,
+      "countryCode": "FJ",
+      "name": "Eastern",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "E"
+      },
+      "countryName": "Fiji",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Eastern",
+      "lat": "-18.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "03",
+      "lng": "179.5",
+      "geonameId": 2199295,
+      "toponymName": "Northern Division",
+      "countryId": "2205218",
+      "fcl": "A",
+      "population": 135000,
+      "countryCode": "FJ",
+      "name": "Northern",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "N"
+      },
+      "countryName": "Fiji",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Northern",
+      "lat": "-16.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "04",
+      "lng": "177.06596",
+      "geonameId": 6324593,
+      "toponymName": "Rotuma",
+      "countryId": "2205218",
+      "fcl": "A",
+      "population": 2810,
+      "countryCode": "FJ",
+      "name": "Rotuma",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "R"
+      },
+      "countryName": "Fiji",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Rotuma",
+      "lat": "-12.50798",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "05",
+      "lng": "177.5",
+      "geonameId": 2194371,
+      "toponymName": "Western Division",
+      "countryId": "2205218",
+      "fcl": "A",
+      "population": 320000,
+      "countryCode": "FJ",
+      "name": "Western",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "W"
+      },
+      "countryName": "Fiji",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Western",
+      "lat": "-18",
+      "fcode": "ADM1"
+    }
+  ]
+}

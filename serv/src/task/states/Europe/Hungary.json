@@ -1,0 +1,405 @@
+{
+  "totalResultsCount": 20,
+  "geonames": [
+    {
+      "adminCode1": "02",
+      "lng": "18.25",
+      "geonameId": 3055399,
+      "toponymName": "Baranya county",
+      "countryId": "719819",
+      "fcl": "A",
+      "population": 396600,
+      "countryCode": "HU",
+      "name": "Baranya",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "BA"
+      },
+      "countryName": "Hungary",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Baranya",
+      "lat": "46.08333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "03",
+      "lng": "21",
+      "geonameId": 722433,
+      "toponymName": "Bekes County",
+      "countryId": "719819",
+      "fcl": "A",
+      "population": 376657,
+      "countryCode": "HU",
+      "name": "Bekes County",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "BE"
+      },
+      "countryName": "Hungary",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Bekes County",
+      "lat": "46.8",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "04",
+      "lng": "21",
+      "geonameId": 722064,
+      "toponymName": "Borsod-Abauj Zemplen county",
+      "countryId": "719819",
+      "fcl": "A",
+      "population": 718951,
+      "countryCode": "HU",
+      "name": "Borsod-Abaúj-Zemplén",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "BZ"
+      },
+      "countryName": "Hungary",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Borsod-Abaúj-Zemplén",
+      "lat": "48.25",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "05",
+      "lng": "19.08333",
+      "geonameId": 3054638,
+      "toponymName": "Budapest",
+      "countryId": "719819",
+      "fcl": "A",
+      "population": 1696128,
+      "countryCode": "HU",
+      "name": "Budapest",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "BU"
+      },
+      "countryName": "Hungary",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Budapest",
+      "lat": "47.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "01",
+      "lng": "19.41667",
+      "geonameId": 3055744,
+      "toponymName": "Bács-Kiskun county",
+      "countryId": "719819",
+      "fcl": "A",
+      "population": 534000,
+      "countryCode": "HU",
+      "name": "Bács-Kiskun",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "BK"
+      },
+      "countryName": "Hungary",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Bács-Kiskun",
+      "lat": "46.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "06",
+      "lng": "20.25",
+      "geonameId": 721589,
+      "toponymName": "Csongrád megye",
+      "countryId": "719819",
+      "fcl": "A",
+      "population": 423751,
+      "countryCode": "HU",
+      "name": "Csongrád megye",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "CS"
+      },
+      "countryName": "Hungary",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Csongrád",
+      "lat": "46.41667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "08",
+      "lng": "18.58333",
+      "geonameId": 3053028,
+      "toponymName": "Fejér megye",
+      "countryId": "719819",
+      "fcl": "A",
+      "population": 428711,
+      "countryCode": "HU",
+      "name": "Fejér",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "FE"
+      },
+      "countryName": "Hungary",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Fejér",
+      "lat": "47.16667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "09",
+      "lng": "17.25",
+      "geonameId": 3051977,
+      "toponymName": "Győr-Moson-Sopron megye",
+      "countryId": "719819",
+      "fcl": "A",
+      "population": 442667,
+      "countryCode": "HU",
+      "name": "Győr-Moson-Sopron",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "GS"
+      },
+      "countryName": "Hungary",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Győr-Moson-Sopron",
+      "lat": "47.66667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "10",
+      "lng": "21.5",
+      "geonameId": 720293,
+      "toponymName": "Hajdú-Bihar",
+      "countryId": "719819",
+      "fcl": "A",
+      "population": 545641,
+      "countryCode": "HU",
+      "name": "Hajdú-Bihar",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "HB"
+      },
+      "countryName": "Hungary",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Hajdú-Bihar",
+      "lat": "47.41667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "11",
+      "lng": "20.25",
+      "geonameId": 720002,
+      "toponymName": "Heves megye",
+      "countryId": "719819",
+      "fcl": "A",
+      "population": 319460,
+      "countryCode": "HU",
+      "name": "Heves megye",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "HE"
+      },
+      "countryName": "Hungary",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Heves",
+      "lat": "47.83333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "20",
+      "lng": "20.5",
+      "geonameId": 719637,
+      "toponymName": "Jász-Nagykun-Szolnok",
+      "countryId": "719819",
+      "fcl": "A",
+      "population": 403622,
+      "countryCode": "HU",
+      "name": "Jász-Nagykun-Szolnok",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "JN"
+      },
+      "countryName": "Hungary",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Jász-Nagykun-Szolnok",
+      "lat": "47.25",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "12",
+      "lng": "18.33333",
+      "geonameId": 3049518,
+      "toponymName": "Komárom-Esztergom",
+      "countryId": "719819",
+      "fcl": "A",
+      "population": 315036,
+      "countryCode": "HU",
+      "name": "Komárom-Esztergom",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "KE"
+      },
+      "countryName": "Hungary",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Komárom-Esztergom",
+      "lat": "47.58333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "14",
+      "lng": "19.58333",
+      "geonameId": 3047348,
+      "toponymName": "Nógrád megye",
+      "countryId": "719819",
+      "fcl": "A",
+      "population": 213030,
+      "countryCode": "HU",
+      "name": "Nógrád megye",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "NO"
+      },
+      "countryName": "Hungary",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Nógrád",
+      "lat": "48",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "16",
+      "lng": "19.33333",
+      "geonameId": 3046431,
+      "toponymName": "Pest megye",
+      "countryId": "719819",
+      "fcl": "A",
+      "population": 1213090,
+      "countryCode": "HU",
+      "name": "Pest megye",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "PE"
+      },
+      "countryName": "Hungary",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Pest",
+      "lat": "47.41667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "17",
+      "lng": "17.58333",
+      "geonameId": 3045226,
+      "toponymName": "Somogy megye",
+      "countryId": "719819",
+      "fcl": "A",
+      "population": 328496,
+      "countryCode": "HU",
+      "name": "Somogy megye",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SO"
+      },
+      "countryName": "Hungary",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Somogy",
+      "lat": "46.41667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "18",
+      "lng": "22.16667",
+      "geonameId": 715593,
+      "toponymName": "Szabolcs-Szatmár-Bereg",
+      "countryId": "719819",
+      "fcl": "A",
+      "population": 576054,
+      "countryCode": "HU",
+      "name": "Szabolcs-Szatmár-Bereg",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SZ"
+      },
+      "countryName": "Hungary",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Szabolcs-Szatmár-Bereg",
+      "lat": "48",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "21",
+      "lng": "18.58333",
+      "geonameId": 3043845,
+      "toponymName": "Tolna megye",
+      "countryId": "719819",
+      "fcl": "A",
+      "population": 240966,
+      "countryCode": "HU",
+      "name": "Tolna megye",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "TO"
+      },
+      "countryName": "Hungary",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Tolna",
+      "lat": "46.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "22",
+      "lng": "16.75",
+      "geonameId": 3043047,
+      "toponymName": "Vas megye",
+      "countryId": "719819",
+      "fcl": "A",
+      "population": 263251,
+      "countryCode": "HU",
+      "name": "Vas",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "VA"
+      },
+      "countryName": "Hungary",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Vas",
+      "lat": "47.16667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "23",
+      "lng": "17.66667",
+      "geonameId": 3042925,
+      "toponymName": "Veszprém megye",
+      "countryId": "719819",
+      "fcl": "A",
+      "population": 363706,
+      "countryCode": "HU",
+      "name": "Veszprém megye",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "VE"
+      },
+      "countryName": "Hungary",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Veszprém",
+      "lat": "47.16667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "24",
+      "lng": "16.83333",
+      "geonameId": 3042613,
+      "toponymName": "Zala megye",
+      "countryId": "719819",
+      "fcl": "A",
+      "population": 293443,
+      "countryCode": "HU",
+      "name": "Zala",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "ZA"
+      },
+      "countryName": "Hungary",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Zala",
+      "lat": "46.66667",
+      "fcode": "ADM1"
+    }
+  ]
+}

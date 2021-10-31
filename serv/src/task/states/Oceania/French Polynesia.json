@@ -1,0 +1,105 @@
+{
+  "totalResultsCount": 5,
+  "geonames": [
+    {
+      "adminCode1": "02",
+      "lng": "-151.5",
+      "geonameId": 4034364,
+      "toponymName": "Îles Sous-le-Vent",
+      "countryId": "4030656",
+      "fcl": "A",
+      "population": 31814,
+      "countryCode": "PF",
+      "name": "Leeward Islands",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "S"
+      },
+      "countryName": "French Polynesia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Leeward Islands",
+      "lat": "-16.66667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "05",
+      "lng": "-150",
+      "geonameId": 4034366,
+      "toponymName": "Îles Australes",
+      "countryId": "4030656",
+      "fcl": "A",
+      "population": 6310,
+      "countryCode": "PF",
+      "name": "Îles Australes",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "I"
+      },
+      "countryName": "French Polynesia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Îles Australes",
+      "lat": "-23",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "04",
+      "lng": "-139",
+      "geonameId": 4019991,
+      "toponymName": "Îles Marquises",
+      "countryId": "4030656",
+      "fcl": "A",
+      "population": 8982,
+      "countryCode": "PF",
+      "name": "Îles Marquises",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "M"
+      },
+      "countryName": "French Polynesia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Îles Marquises",
+      "lat": "-9.75",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "03",
+      "lng": "-140.93333",
+      "geonameId": 4030621,
+      "toponymName": "Îles Tuamotu-Gambier",
+      "countryId": "4030656",
+      "fcl": "A",
+      "population": 16267,
+      "countryCode": "PF",
+      "name": "Îles Tuamotu-Gambier",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "T"
+      },
+      "countryName": "French Polynesia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Îles Tuamotu-Gambier",
+      "lat": "-18.16667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "01",
+      "lng": "-149.5",
+      "geonameId": 4034365,
+      "toponymName": "Îles du Vent",
+      "countryId": "4030656",
+      "fcl": "A",
+      "population": 194939,
+      "countryCode": "PF",
+      "name": "Îles du Vent",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "V"
+      },
+      "countryName": "French Polynesia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Îles du Vent",
+      "lat": "-17.5",
+      "fcode": "ADM1"
+    }
+  ]
+}

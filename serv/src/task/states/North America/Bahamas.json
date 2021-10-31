@@ -1,0 +1,645 @@
+{
+  "totalResultsCount": 32,
+  "geonames": [
+    {
+      "adminCode1": "24",
+      "lng": "-73.96417",
+      "geonameId": 3572937,
+      "toponymName": "Acklins Island District",
+      "countryId": "3572887",
+      "fcl": "A",
+      "population": 435,
+      "countryCode": "BS",
+      "name": "Acklins Island District",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "AK"
+      },
+      "countryName": "Bahamas",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Acklins",
+      "lat": "22.43167",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "32",
+      "lng": "-77.83139",
+      "geonameId": 3571809,
+      "toponymName": "Berry Islands District",
+      "countryId": "3572887",
+      "fcl": "A",
+      "population": 742,
+      "countryCode": "BS",
+      "name": "Berry Islands District",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "BY"
+      },
+      "countryName": "Bahamas",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Berry Islands",
+      "lat": "25.72111",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "05",
+      "lng": "-79.28889",
+      "geonameId": 3572807,
+      "toponymName": "Bimini District",
+      "countryId": "3572887",
+      "fcl": "A",
+      "population": 1735,
+      "countryCode": "BS",
+      "name": "Bimini",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "BI"
+      },
+      "countryName": "Bahamas",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Bimini",
+      "lat": "25.70444",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "36",
+      "lng": "-76.39556",
+      "geonameId": 8030541,
+      "toponymName": "Black Point District",
+      "countryId": "3572887",
+      "fcl": "A",
+      "population": 414,
+      "countryCode": "BS",
+      "name": "Black Point District",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "BP"
+      },
+      "countryName": "Bahamas",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Black Point",
+      "lat": "24.09",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "06",
+      "lng": "-75.4575",
+      "geonameId": 3572678,
+      "toponymName": "Cat Island",
+      "countryId": "3572887",
+      "fcl": "A",
+      "population": 1606,
+      "countryCode": "BS",
+      "name": "Cat Island",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "CI"
+      },
+      "countryName": "Bahamas",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Cat Island",
+      "lat": "24.335",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "37",
+      "lng": "-77.12972",
+      "geonameId": 8030542,
+      "toponymName": "Central Abaco District",
+      "countryId": "3572887",
+      "fcl": "A",
+      "population": 0,
+      "countryCode": "BS",
+      "name": "Central Abaco District",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "CO"
+      },
+      "countryName": "Bahamas",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Central Abaco",
+      "lat": "26.43917",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "38",
+      "lng": "-77.95194",
+      "geonameId": 8030543,
+      "toponymName": "Central Andros District",
+      "countryId": "3572887",
+      "fcl": "A",
+      "population": 662,
+      "countryCode": "BS",
+      "name": "Central Andros District",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "CS"
+      },
+      "countryName": "Bahamas",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Central Andros",
+      "lat": "24.43889",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "39",
+      "lng": "-76.14556",
+      "geonameId": 8030544,
+      "toponymName": "Central Eleuthera District",
+      "countryId": "3572887",
+      "fcl": "A",
+      "population": 0,
+      "countryCode": "BS",
+      "name": "Central Eleuthera District",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "CE"
+      },
+      "countryName": "Bahamas",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Central Eleuthera",
+      "lat": "25.135",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "25",
+      "lng": "-78.64528",
+      "geonameId": 3572374,
+      "toponymName": "City of Freeport District",
+      "countryId": "3572887",
+      "fcl": "A",
+      "population": 26914,
+      "countryCode": "BS",
+      "name": "City of Freeport District",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "FP"
+      },
+      "countryName": "Bahamas",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Freeport",
+      "lat": "26.52028",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "40",
+      "lng": "-74.21528",
+      "geonameId": 8030545,
+      "toponymName": "Crooked Island and Long Cay District",
+      "countryId": "3572887",
+      "fcl": "A",
+      "population": 330,
+      "countryCode": "BS",
+      "name": "Crooked Island and Long Cay District",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "CK"
+      },
+      "countryName": "Bahamas",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Crooked Island and Long Cay",
+      "lat": "22.73361",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "41",
+      "lng": "-78.14139",
+      "geonameId": 8030546,
+      "toponymName": "East Grand Bahama District",
+      "countryId": "3572887",
+      "fcl": "A",
+      "population": 0,
+      "countryCode": "BS",
+      "name": "East Grand Bahama District",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "EG"
+      },
+      "countryName": "Bahamas",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "East Grand Bahama",
+      "lat": "26.67167",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "10",
+      "lng": "-75.88417",
+      "geonameId": 3572427,
+      "toponymName": "Exuma District",
+      "countryId": "3572887",
+      "fcl": "A",
+      "population": 6928,
+      "countryCode": "BS",
+      "name": "Exuma District",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "EX"
+      },
+      "countryName": "Bahamas",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Exuma",
+      "lat": "23.56944",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "42",
+      "lng": "-78.33056",
+      "geonameId": 8030547,
+      "toponymName": "Grand Cay District",
+      "countryId": "3572887",
+      "fcl": "A",
+      "population": 383,
+      "countryCode": "BS",
+      "name": "Grand Cay District",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "GC"
+      },
+      "countryName": "Bahamas",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Grand Cay",
+      "lat": "27.22917",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "22",
+      "lng": "-76.63513",
+      "geonameId": 3572238,
+      "toponymName": "Harbour Island District",
+      "countryId": "3572887",
+      "fcl": "A",
+      "population": 1751,
+      "countryCode": "BS",
+      "name": "Harbour Island",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "HI"
+      },
+      "countryName": "Bahamas",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Harbour Island",
+      "lat": "25.48946",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "43",
+      "lng": "-76.97009",
+      "geonameId": 8030548,
+      "toponymName": "Hope Town District",
+      "countryId": "3572887",
+      "fcl": "A",
+      "population": 500,
+      "countryCode": "BS",
+      "name": "Hope Town District",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "HT"
+      },
+      "countryName": "Bahamas",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Hope Town",
+      "lat": "26.52445",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "13",
+      "lng": "-73.31167",
+      "geonameId": 3572154,
+      "toponymName": "Inagua",
+      "countryId": "3572887",
+      "fcl": "A",
+      "population": 913,
+      "countryCode": "BS",
+      "name": "Inagua",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "IN"
+      },
+      "countryName": "Bahamas",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Inagua",
+      "lat": "21.07694",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "15",
+      "lng": "-75.11167",
+      "geonameId": 3572005,
+      "toponymName": "Long Island",
+      "countryId": "3572887",
+      "fcl": "A",
+      "population": 2979,
+      "countryCode": "BS",
+      "name": "Long Island",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "LI"
+      },
+      "countryName": "Bahamas",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Long Island",
+      "lat": "23.21667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "44",
+      "lng": "-77.78028",
+      "geonameId": 8030549,
+      "toponymName": "Mangrove Cay",
+      "countryId": "3572887",
+      "fcl": "A",
+      "population": 892,
+      "countryCode": "BS",
+      "name": "Mangrove Cay",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "MC"
+      },
+      "countryName": "Bahamas",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Mangrove Cay",
+      "lat": "24.16",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "16",
+      "lng": "-72.95389",
+      "geonameId": 3571894,
+      "toponymName": "Mayaguana District",
+      "countryId": "3572887",
+      "fcl": "A",
+      "population": 251,
+      "countryCode": "BS",
+      "name": "Mayaguana District",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "MG"
+      },
+      "countryName": "Bahamas",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Mayaguana",
+      "lat": "22.38417",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "45",
+      "lng": "-77.55417",
+      "geonameId": 8030550,
+      "toponymName": "Moore’s Island District",
+      "countryId": "3572887",
+      "fcl": "A",
+      "population": 950,
+      "countryCode": "BS",
+      "name": "Moore’s Island District",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "MI"
+      },
+      "countryName": "Bahamas",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Moore’s Island",
+      "lat": "26.30083",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "23",
+      "lng": "-77.28333",
+      "geonameId": 3571815,
+      "toponymName": "New Providence District",
+      "countryId": "3572887",
+      "fcl": "A",
+      "population": 228334,
+      "countryCode": "BS",
+      "name": "New Providence District",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "NP"
+      },
+      "countryName": "Bahamas",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "New Providence",
+      "lat": "25.03333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "46",
+      "lng": "-77.43694",
+      "geonameId": 8030551,
+      "toponymName": "North Abaco District",
+      "countryId": "3572887",
+      "fcl": "A",
+      "population": 9578,
+      "countryCode": "BS",
+      "name": "North Abaco District",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "NO"
+      },
+      "countryName": "Bahamas",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "North Abaco",
+      "lat": "26.78944",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "47",
+      "lng": "-78.09611",
+      "geonameId": 8030552,
+      "toponymName": "North Andros District",
+      "countryId": "3572887",
+      "fcl": "A",
+      "population": 3898,
+      "countryCode": "BS",
+      "name": "North Andros District",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "NS"
+      },
+      "countryName": "Bahamas",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "North Andros",
+      "lat": "24.76694",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "48",
+      "lng": "-76.67556",
+      "geonameId": 8030553,
+      "toponymName": "North Eleuthera District",
+      "countryId": "3572887",
+      "fcl": "A",
+      "population": 3247,
+      "countryCode": "BS",
+      "name": "North Eleuthera",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "NE"
+      },
+      "countryName": "Bahamas",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "North Eleuthera",
+      "lat": "25.46278",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "18",
+      "lng": "-75.815",
+      "geonameId": 3571629,
+      "toponymName": "Ragged Island District",
+      "countryId": "3572887",
+      "fcl": "A",
+      "population": 70,
+      "countryCode": "BS",
+      "name": "Ragged Island District",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "RI"
+      },
+      "countryName": "Bahamas",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Ragged Island",
+      "lat": "22.37083",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "49",
+      "lng": "-74.85667",
+      "geonameId": 8030554,
+      "toponymName": "Rum Cay",
+      "countryId": "3572887",
+      "fcl": "A",
+      "population": 53,
+      "countryCode": "BS",
+      "name": "Rum Cay",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "RC"
+      },
+      "countryName": "Bahamas",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Rum Cay",
+      "lat": "23.67806",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "35",
+      "lng": "-74.49306",
+      "geonameId": 3571493,
+      "toponymName": "San Salvador District",
+      "countryId": "3572887",
+      "fcl": "A",
+      "population": 1293,
+      "countryCode": "BS",
+      "name": "San Salvador District",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SS"
+      },
+      "countryName": "Bahamas",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "San Salvador",
+      "lat": "24.03667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "50",
+      "lng": "-77.24361",
+      "geonameId": 8030555,
+      "toponymName": "South Abaco District",
+      "countryId": "3572887",
+      "fcl": "A",
+      "population": 7646,
+      "countryCode": "BS",
+      "name": "South Abaco District",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SO"
+      },
+      "countryName": "Bahamas",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "South Abaco",
+      "lat": "26.04694",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "51",
+      "lng": "-77.64889",
+      "geonameId": 8030556,
+      "toponymName": "South Andros",
+      "countryId": "3572887",
+      "fcl": "A",
+      "population": 3592,
+      "countryCode": "BS",
+      "name": "South Andros",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SA"
+      },
+      "countryName": "Bahamas",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "South Andros",
+      "lat": "23.92361",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "52",
+      "lng": "-76.18306",
+      "geonameId": 8030557,
+      "toponymName": "South Eleuthera",
+      "countryId": "3572887",
+      "fcl": "A",
+      "population": 4955,
+      "countryCode": "BS",
+      "name": "South Eleuthera",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SE"
+      },
+      "countryName": "Bahamas",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "South Eleuthera",
+      "lat": "24.80083",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "53",
+      "lng": "-76.77057",
+      "geonameId": 8030558,
+      "toponymName": "Spanish Wells District",
+      "countryId": "3572887",
+      "fcl": "A",
+      "population": 1500,
+      "countryCode": "BS",
+      "name": "Spanish Wells District",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SW"
+      },
+      "countryName": "Bahamas",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Spanish Wells",
+      "lat": "25.54538",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "54",
+      "lng": "-78.60056",
+      "geonameId": 8030559,
+      "toponymName": "West Grand Bahama District",
+      "countryId": "3572887",
+      "fcl": "A",
+      "population": 0,
+      "countryCode": "BS",
+      "name": "West Grand Bahama District",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "WG"
+      },
+      "countryName": "Bahamas",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "West Grand Bahama",
+      "lat": "26.59333",
+      "fcode": "ADM1"
+    }
+  ]
+}

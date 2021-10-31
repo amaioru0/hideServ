@@ -1,0 +1,745 @@
+{
+  "totalResultsCount": 37,
+  "geonames": [
+    {
+      "adminCode1": "59",
+      "lng": "29.25",
+      "geonameId": 617715,
+      "toponymName": "Anenii Noi",
+      "countryId": "617790",
+      "fcl": "A",
+      "population": 80787,
+      "countryCode": "MD",
+      "name": "Anenii Noi",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "AN"
+      },
+      "countryName": "Moldova",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Anenii Noi",
+      "lat": "46.91667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "61",
+      "lng": "28.91667",
+      "geonameId": 618565,
+      "toponymName": "Basarabeasca",
+      "countryId": "617790",
+      "fcl": "A",
+      "population": 27741,
+      "countryCode": "MD",
+      "name": "Basarabeasca",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "BS"
+      },
+      "countryName": "Moldova",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Basarabeasca",
+      "lat": "46.41667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "62",
+      "lng": "29.45",
+      "geonameId": 861487,
+      "toponymName": "Municipiul Bender",
+      "countryId": "617790",
+      "fcl": "A",
+      "population": 93751,
+      "countryCode": "MD",
+      "name": "Bender Municipality",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "BD"
+      },
+      "countryName": "Moldova",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Bender Municipality",
+      "lat": "46.83333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "63",
+      "lng": "27",
+      "geonameId": 618511,
+      "toponymName": "Briceni",
+      "countryId": "617790",
+      "fcl": "A",
+      "population": 75978,
+      "countryCode": "MD",
+      "name": "Briceni",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "BR"
+      },
+      "countryName": "Moldova",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Briceni",
+      "lat": "48.25",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "64",
+      "lng": "28.33333",
+      "geonameId": 618164,
+      "toponymName": "Raionul Cahul",
+      "countryId": "617790",
+      "fcl": "A",
+      "population": 124900,
+      "countryCode": "MD",
+      "name": "Cahul",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "CA"
+      },
+      "countryName": "Moldova",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Cahul",
+      "lat": "45.83333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "65",
+      "lng": "28.33333",
+      "geonameId": 618142,
+      "toponymName": "Cantemir",
+      "countryId": "617790",
+      "fcl": "A",
+      "population": 58937,
+      "countryCode": "MD",
+      "name": "Cantemir",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "CT"
+      },
+      "countryName": "Moldova",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Cantemir",
+      "lat": "46.25",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "57",
+      "lng": "28.83333",
+      "geonameId": 618069,
+      "toponymName": "Municipiul Chişinău",
+      "countryId": "617790",
+      "fcl": "A",
+      "population": 492894,
+      "countryCode": "MD",
+      "name": "Chișinău Municipality",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "CU"
+      },
+      "countryName": "Moldova",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Chișinău Municipality",
+      "lat": "47",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "68",
+      "lng": "28.83333",
+      "geonameId": 618430,
+      "toponymName": "Cimişlia",
+      "countryId": "617790",
+      "fcl": "A",
+      "population": 60046,
+      "countryCode": "MD",
+      "name": "Cimişlia",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "CM"
+      },
+      "countryName": "Moldova",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Cimişlia",
+      "lat": "46.58333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "69",
+      "lng": "29.03065",
+      "geonameId": 617962,
+      "toponymName": "Criuleni",
+      "countryId": "617790",
+      "fcl": "A",
+      "population": 70186,
+      "countryCode": "MD",
+      "name": "Criuleni",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "CR"
+      },
+      "countryName": "Moldova",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Criuleni",
+      "lat": "47.15861",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "70",
+      "lng": "27.68616",
+      "geonameId": 618381,
+      "toponymName": "Donduşeni",
+      "countryId": "617790",
+      "fcl": "A",
+      "population": 44648,
+      "countryCode": "MD",
+      "name": "Donduşeni",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "DO"
+      },
+      "countryName": "Moldova",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Donduşeni",
+      "lat": "48.2677",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "71",
+      "lng": "27.83333",
+      "geonameId": 618369,
+      "toponymName": "Raionul Drochia",
+      "countryId": "617790",
+      "fcl": "A",
+      "population": 89500,
+      "countryCode": "MD",
+      "name": "Drochia",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "DR"
+      },
+      "countryName": "Moldova",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Drochia",
+      "lat": "48.08333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "75",
+      "lng": "28.37775",
+      "geonameId": 618331,
+      "toponymName": "Floreşti",
+      "countryId": "617790",
+      "fcl": "A",
+      "population": 86531,
+      "countryCode": "MD",
+      "name": "Floreşti",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "FL"
+      },
+      "countryName": "Moldova",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Floreşti",
+      "lat": "47.87398",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "74",
+      "lng": "27.75",
+      "geonameId": 618345,
+      "toponymName": "Făleşti",
+      "countryId": "617790",
+      "fcl": "A",
+      "population": 87838,
+      "countryCode": "MD",
+      "name": "Făleşti",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "FA"
+      },
+      "countryName": "Moldova",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Fălești",
+      "lat": "47.58333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "76",
+      "lng": "27.5",
+      "geonameId": 618260,
+      "toponymName": "Glodeni",
+      "countryId": "617790",
+      "fcl": "A",
+      "population": 59701,
+      "countryCode": "MD",
+      "name": "Glodeni",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "GL"
+      },
+      "countryName": "Moldova",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Glodeni",
+      "lat": "47.75",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "51",
+      "lng": "28.66667",
+      "geonameId": 858895,
+      "toponymName": "Găgăuzia",
+      "countryId": "617790",
+      "fcl": "A",
+      "population": 153079,
+      "countryCode": "MD",
+      "name": "Găgăuzia",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "GA"
+      },
+      "countryName": "Moldova",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Găgăuzia",
+      "lat": "46.16667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "77",
+      "lng": "28.41667",
+      "geonameId": 858803,
+      "toponymName": "Hînceşti",
+      "countryId": "617790",
+      "fcl": "A",
+      "population": 117522,
+      "countryCode": "MD",
+      "name": "Hînceşti",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "HI"
+      },
+      "countryName": "Moldova",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Hînceşti",
+      "lat": "46.83333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "78",
+      "lng": "28.83333",
+      "geonameId": 617991,
+      "toponymName": "Ialoveni",
+      "countryId": "617790",
+      "fcl": "A",
+      "population": 96436,
+      "countryCode": "MD",
+      "name": "Ialoveni",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "IA"
+      },
+      "countryName": "Moldova",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Ialoveni",
+      "lat": "46.83333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "79",
+      "lng": "28.41667",
+      "geonameId": 617903,
+      "toponymName": "Leova",
+      "countryId": "617790",
+      "fcl": "A",
+      "population": 49735,
+      "countryCode": "MD",
+      "name": "Leova",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "LE"
+      },
+      "countryName": "Moldova",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Leova",
+      "lat": "46.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "60",
+      "lng": "27.91667",
+      "geonameId": 873909,
+      "toponymName": "Municipiul Bălţi",
+      "countryId": "617790",
+      "fcl": "A",
+      "population": 105000,
+      "countryCode": "MD",
+      "name": "Municipiul Bălţi",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "BA"
+      },
+      "countryName": "Moldova",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Bălţi",
+      "lat": "47.78333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "80",
+      "lng": "28.16667",
+      "geonameId": 617754,
+      "toponymName": "Nisporeni",
+      "countryId": "617790",
+      "fcl": "A",
+      "population": 63159,
+      "countryCode": "MD",
+      "name": "Nisporeni",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "NI"
+      },
+      "countryName": "Moldova",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Nisporeni",
+      "lat": "47.08333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "82",
+      "lng": "28.83333",
+      "geonameId": 617639,
+      "toponymName": "Orhei",
+      "countryId": "617790",
+      "fcl": "A",
+      "population": 125800,
+      "countryCode": "MD",
+      "name": "Orhei",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "OR"
+      },
+      "countryName": "Moldova",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Orhei",
+      "lat": "47.41667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "66",
+      "lng": "28.30836",
+      "geonameId": 618162,
+      "toponymName": "Raionul Călăraşi",
+      "countryId": "617790",
+      "fcl": "A",
+      "population": 73151,
+      "countryCode": "MD",
+      "name": "Raionul Călăraşi",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "CL"
+      },
+      "countryName": "Moldova",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Călăraşi",
+      "lat": "47.29365",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "67",
+      "lng": "29.3135",
+      "geonameId": 618119,
+      "toponymName": "Raionul Căuşeni",
+      "countryId": "617790",
+      "fcl": "A",
+      "population": 90369,
+      "countryCode": "MD",
+      "name": "Raionul Căuşeni",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "CS"
+      },
+      "countryName": "Moldova",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Căuşeni",
+      "lat": "46.61884",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "72",
+      "lng": "29.11667",
+      "geonameId": 618363,
+      "toponymName": "Raionul Dubăsari",
+      "countryId": "617790",
+      "fcl": "A",
+      "population": 35200,
+      "countryCode": "MD",
+      "name": "Raionul Dubăsari",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "DU"
+      },
+      "countryName": "Moldova",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Dubăsari",
+      "lat": "47.25",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "73",
+      "lng": "27.25",
+      "geonameId": 617077,
+      "toponymName": "Raionul Edineţ",
+      "countryId": "617790",
+      "fcl": "A",
+      "population": 82500,
+      "countryCode": "MD",
+      "name": "Raionul Edineţ",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "ED"
+      },
+      "countryName": "Moldova",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Raionul Edineţ",
+      "lat": "48.16667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "81",
+      "lng": "27.5",
+      "geonameId": 617656,
+      "toponymName": "Raionul Ocniţa",
+      "countryId": "617790",
+      "fcl": "A",
+      "population": 55353,
+      "countryCode": "MD",
+      "name": "Raionul Ocniţa",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "OC"
+      },
+      "countryName": "Moldova",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Raionul Ocniţa",
+      "lat": "48.41667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "87",
+      "lng": "28.25",
+      "geonameId": 617366,
+      "toponymName": "Raionul Soroca",
+      "countryId": "617790",
+      "fcl": "A",
+      "population": 100100,
+      "countryCode": "MD",
+      "name": "Raionul Soroca",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SO"
+      },
+      "countryName": "Moldova",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Raionul Soroca",
+      "lat": "48.16667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "88",
+      "lng": "29.66667",
+      "geonameId": 617283,
+      "toponymName": "Raionul Ştefan Vodă",
+      "countryId": "617790",
+      "fcl": "A",
+      "population": 70036,
+      "countryCode": "MD",
+      "name": "Raionul Ştefan Vodă",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SV"
+      },
+      "countryName": "Moldova",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Ştefan-Vodă",
+      "lat": "46.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "83",
+      "lng": "28.83333",
+      "geonameId": 617501,
+      "toponymName": "Rezina",
+      "countryId": "617790",
+      "fcl": "A",
+      "population": 46493,
+      "countryCode": "MD",
+      "name": "Rezina",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "RE"
+      },
+      "countryName": "Moldova",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Rezina",
+      "lat": "47.66667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "84",
+      "lng": "27.53509",
+      "geonameId": 617483,
+      "toponymName": "Rîşcani",
+      "countryId": "617790",
+      "fcl": "A",
+      "population": 66927,
+      "countryCode": "MD",
+      "name": "Rîşcani",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "RI"
+      },
+      "countryName": "Moldova",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Rîşcani",
+      "lat": "47.92778",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "89",
+      "lng": "28.58333",
+      "geonameId": 617301,
+      "toponymName": "Raionul Străşeni",
+      "countryId": "617790",
+      "fcl": "A",
+      "population": 91500,
+      "countryCode": "MD",
+      "name": "Strășeni",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "ST"
+      },
+      "countryName": "Moldova",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Strășeni",
+      "lat": "47.16667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "85",
+      "lng": "28.16667",
+      "geonameId": 617913,
+      "toponymName": "Sîngerei",
+      "countryId": "617790",
+      "fcl": "A",
+      "population": 85657,
+      "countryCode": "MD",
+      "name": "Sîngerei",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SI"
+      },
+      "countryName": "Moldova",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Sîngerei",
+      "lat": "47.66667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "90",
+      "lng": "28.58333",
+      "geonameId": 617264,
+      "toponymName": "Taraclia",
+      "countryId": "617790",
+      "fcl": "A",
+      "population": 42282,
+      "countryCode": "MD",
+      "name": "Taraclia",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "TA"
+      },
+      "countryName": "Moldova",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Taraclia",
+      "lat": "45.91667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "91",
+      "lng": "28.5",
+      "geonameId": 617255,
+      "toponymName": "Teleneşti",
+      "countryId": "617790",
+      "fcl": "A",
+      "population": 68461,
+      "countryCode": "MD",
+      "name": "Teleneşti",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "TE"
+      },
+      "countryName": "Moldova",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Teleneşti",
+      "lat": "47.58333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "58",
+      "lng": "29.25",
+      "geonameId": 858889,
+      "toponymName": "Unitatea Teritorială din Stînga Nistrului",
+      "countryId": "617790",
+      "fcl": "A",
+      "population": 505153,
+      "countryCode": "MD",
+      "name": "Transnistria",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SN"
+      },
+      "countryName": "Moldova",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Transnistria",
+      "lat": "47.36667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "92",
+      "lng": "27.91667",
+      "geonameId": 617181,
+      "toponymName": "Raionul Ungheni",
+      "countryId": "617790",
+      "fcl": "A",
+      "population": 117200,
+      "countryCode": "MD",
+      "name": "Ungheni",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "UN"
+      },
+      "countryName": "Moldova",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Ungheni",
+      "lat": "47.33333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "86",
+      "lng": "28.66667",
+      "geonameId": 858808,
+      "toponymName": "Şoldăneşti",
+      "countryId": "617790",
+      "fcl": "A",
+      "population": 41284,
+      "countryCode": "MD",
+      "name": "Şoldăneşti",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SD"
+      },
+      "countryName": "Moldova",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Şoldăneşti",
+      "lat": "47.83333",
+      "fcode": "ADM1"
+    }
+  ]
+}

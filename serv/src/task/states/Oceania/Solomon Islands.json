@@ -1,0 +1,205 @@
+{
+  "totalResultsCount": 10,
+  "geonames": [
+    {
+      "adminCode1": "10",
+      "lng": "160.24109",
+      "geonameId": 2109495,
+      "toponymName": "Central Province",
+      "countryId": "2103350",
+      "fcl": "A",
+      "population": 23823,
+      "countryCode": "SB",
+      "name": "Central Province",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "CE"
+      },
+      "countryName": "Solomon Islands",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Central Province",
+      "lat": "-9.09667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "12",
+      "lng": "156.86279",
+      "geonameId": 7280292,
+      "toponymName": "Choiseul",
+      "countryId": "2103350",
+      "fcl": "A",
+      "population": 26379,
+      "countryCode": "SB",
+      "name": "Choiseul",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "CH"
+      },
+      "countryName": "Solomon Islands",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Choiseul",
+      "lat": "-6.99186",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "06",
+      "lng": "160.2",
+      "geonameId": 2108831,
+      "toponymName": "Guadalcanal Province",
+      "countryId": "2103350",
+      "fcl": "A",
+      "population": 65220,
+      "countryCode": "SB",
+      "name": "Guadalcanal Province",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "GU"
+      },
+      "countryName": "Solomon Islands",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Guadalcanal",
+      "lat": "-9.63333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "14",
+      "lng": "159.96667",
+      "geonameId": 9259067,
+      "toponymName": "Honiara",
+      "countryId": "2103350",
+      "fcl": "A",
+      "population": 64609,
+      "countryCode": "SB",
+      "name": "Honiara",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "CT"
+      },
+      "countryName": "Solomon Islands",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Honiara",
+      "lat": "-9.44167",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "07",
+      "lng": "159.13696",
+      "geonameId": 2108262,
+      "toponymName": "Isabel Province",
+      "countryId": "2103350",
+      "fcl": "A",
+      "population": 26158,
+      "countryCode": "SB",
+      "name": "Isabel Province",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "IS"
+      },
+      "countryName": "Solomon Islands",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Isabel",
+      "lat": "-8.05379",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "08",
+      "lng": "161.78517",
+      "geonameId": 2178730,
+      "toponymName": "Makira-Ulawa Province",
+      "countryId": "2103350",
+      "fcl": "A",
+      "population": 31006,
+      "countryCode": "SB",
+      "name": "Makira-Ulawa Province",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "MK"
+      },
+      "countryName": "Solomon Islands",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Makira",
+      "lat": "-10.55751",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "03",
+      "lng": "161",
+      "geonameId": 2106552,
+      "toponymName": "Malaita Province",
+      "countryId": "2103350",
+      "fcl": "A",
+      "population": 143111,
+      "countryCode": "SB",
+      "name": "Malaita Province",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "ML"
+      },
+      "countryName": "Solomon Islands",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Malaita",
+      "lat": "-9",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "13",
+      "lng": "160.15457",
+      "geonameId": 7280293,
+      "toponymName": "Rennell and Bellona",
+      "countryId": "2103350",
+      "fcl": "A",
+      "population": 3041,
+      "countryCode": "SB",
+      "name": "Rennell and Bellona",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "RB"
+      },
+      "countryName": "Solomon Islands",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Rennell and Bellona",
+      "lat": "-11.60516",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "09",
+      "lng": "165.93884",
+      "geonameId": 2178472,
+      "toponymName": "Temotu Province",
+      "countryId": "2103350",
+      "fcl": "A",
+      "population": 20697,
+      "countryCode": "SB",
+      "name": "Temotu Province",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "TE"
+      },
+      "countryName": "Solomon Islands",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Temotu",
+      "lat": "-10.72754",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "11",
+      "lng": "157",
+      "geonameId": 2101556,
+      "toponymName": "Western Province",
+      "countryId": "2103350",
+      "fcl": "A",
+      "population": 73089,
+      "countryCode": "SB",
+      "name": "Western Province",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "WE"
+      },
+      "countryName": "Solomon Islands",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Western Province",
+      "lat": "-8",
+      "fcode": "ADM1"
+    }
+  ]
+}

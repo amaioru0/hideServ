@@ -1,0 +1,325 @@
+{
+  "totalResultsCount": 16,
+  "geonames": [
+    {
+      "adminCode1": "04",
+      "lng": "131.1236",
+      "geonameId": 1559776,
+      "toponymName": "State of Hatohobei",
+      "countryId": "1559582",
+      "fcl": "A",
+      "population": 44,
+      "countryCode": "PW",
+      "name": "Hatohobei",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "050"
+      },
+      "countryName": "Palau",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Hatohobei",
+      "lat": "3.009",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "01",
+      "lng": "134.49",
+      "geonameId": 1559964,
+      "toponymName": "State of Aimeliik",
+      "countryId": "1559582",
+      "fcl": "A",
+      "population": 270,
+      "countryCode": "PW",
+      "name": "State of Aimeliik",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "002"
+      },
+      "countryName": "Palau",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Aimeliik",
+      "lat": "7.445",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "02",
+      "lng": "134.51866",
+      "geonameId": 4037645,
+      "toponymName": "State of Airai",
+      "countryId": "1559582",
+      "fcl": "A",
+      "population": 2723,
+      "countryCode": "PW",
+      "name": "State of Airai",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "004"
+      },
+      "countryName": "Palau",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Airai",
+      "lat": "7.36698",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "03",
+      "lng": "134.13803",
+      "geonameId": 4037653,
+      "toponymName": "State of Angaur",
+      "countryId": "1559582",
+      "fcl": "A",
+      "population": 320,
+      "countryCode": "PW",
+      "name": "State of Angaur",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "010"
+      },
+      "countryName": "Palau",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Angaur",
+      "lat": "6.91118",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "05",
+      "lng": "134.7187",
+      "geonameId": 1559774,
+      "toponymName": "State of Kayangel",
+      "countryId": "1559582",
+      "fcl": "A",
+      "population": 188,
+      "countryCode": "PW",
+      "name": "State of Kayangel",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "100"
+      },
+      "countryName": "Palau",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Kayangel",
+      "lat": "8.08353",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "06",
+      "lng": "134.4785",
+      "geonameId": 4037892,
+      "toponymName": "State of Koror",
+      "countryId": "1559582",
+      "fcl": "A",
+      "population": 12676,
+      "countryCode": "PW",
+      "name": "State of Koror",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "150"
+      },
+      "countryName": "Palau",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Koror",
+      "lat": "7.339",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "07",
+      "lng": "134.6345",
+      "geonameId": 4037930,
+      "toponymName": "State of Melekeok",
+      "countryId": "1559582",
+      "fcl": "A",
+      "population": 391,
+      "countryCode": "PW",
+      "name": "State of Melekeok",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "212"
+      },
+      "countryName": "Palau",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Melekeok",
+      "lat": "7.494",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "08",
+      "lng": "134.625",
+      "geonameId": 4037962,
+      "toponymName": "State of Ngaraard",
+      "countryId": "1559582",
+      "fcl": "A",
+      "population": 581,
+      "countryCode": "PW",
+      "name": "State of Ngaraard",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "214"
+      },
+      "countryName": "Palau",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Ngaraard",
+      "lat": "7.62",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "09",
+      "lng": "134.62",
+      "geonameId": 4038037,
+      "toponymName": "State of Ngarchelong",
+      "countryId": "1559582",
+      "fcl": "A",
+      "population": 488,
+      "countryCode": "PW",
+      "name": "State of Ngarchelong",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "218"
+      },
+      "countryName": "Palau",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Ngarchelong",
+      "lat": "7.708",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "10",
+      "lng": "134.573",
+      "geonameId": 4038043,
+      "toponymName": "State of Ngardmau",
+      "countryId": "1559582",
+      "fcl": "A",
+      "population": 166,
+      "countryCode": "PW",
+      "name": "State of Ngardmau",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "222"
+      },
+      "countryName": "Palau",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Ngardmau",
+      "lat": "7.6",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "11",
+      "lng": "134.51978",
+      "geonameId": 1559532,
+      "toponymName": "State of Ngatpang",
+      "countryId": "1559582",
+      "fcl": "A",
+      "population": 464,
+      "countryCode": "PW",
+      "name": "State of Ngatpang",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "224"
+      },
+      "countryName": "Palau",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Ngatpang",
+      "lat": "7.4869",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "12",
+      "lng": "134.6",
+      "geonameId": 4037976,
+      "toponymName": "State of Ngchesar",
+      "countryId": "1559582",
+      "fcl": "A",
+      "population": 300,
+      "countryCode": "PW",
+      "name": "State of Ngchesar",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "226"
+      },
+      "countryName": "Palau",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Ngchesar",
+      "lat": "7.47",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "13",
+      "lng": "134.53826",
+      "geonameId": 4038068,
+      "toponymName": "State of Ngeremlengui",
+      "countryId": "1559582",
+      "fcl": "A",
+      "population": 317,
+      "countryCode": "PW",
+      "name": "State of Ngeremlengui",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "227"
+      },
+      "countryName": "Palau",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Ngaremlengui",
+      "lat": "7.53653",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "14",
+      "lng": "134.621",
+      "geonameId": 4038179,
+      "toponymName": "State of Ngiwal",
+      "countryId": "1559582",
+      "fcl": "A",
+      "population": 223,
+      "countryCode": "PW",
+      "name": "State of Ngiwal",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "228"
+      },
+      "countryName": "Palau",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Ngiwal",
+      "lat": "7.558",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "15",
+      "lng": "134.231",
+      "geonameId": 4038261,
+      "toponymName": "State of Peleliu",
+      "countryId": "1559582",
+      "fcl": "A",
+      "population": 702,
+      "countryCode": "PW",
+      "name": "State of Peleliu",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "350"
+      },
+      "countryName": "Palau",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Peleliu",
+      "lat": "6.993",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "16",
+      "lng": "132.2206",
+      "geonameId": 1559630,
+      "toponymName": "State of Sonsorol",
+      "countryId": "1559582",
+      "fcl": "A",
+      "population": 100,
+      "countryCode": "PW",
+      "name": "State of Sonsorol",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "370"
+      },
+      "countryName": "Palau",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Sonsorol",
+      "lat": "5.331",
+      "fcode": "ADM1"
+    }
+  ]
+}

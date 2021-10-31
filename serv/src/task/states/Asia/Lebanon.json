@@ -1,0 +1,165 @@
+{
+  "totalResultsCount": 8,
+  "geonames": [
+    {
+      "adminCode1": "04",
+      "lng": "35.5",
+      "geonameId": 276780,
+      "toponymName": "Beyrouth",
+      "countryId": "272103",
+      "fcl": "A",
+      "population": 2500000,
+      "countryCode": "LB",
+      "name": "Beyrouth",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "BA"
+      },
+      "countryName": "Lebanon",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Beyrouth",
+      "lat": "33.88333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "10",
+      "lng": "36.16667",
+      "geonameId": 6201370,
+      "toponymName": "Mohafazat Aakkâr",
+      "countryId": "272103",
+      "fcl": "A",
+      "population": 198174,
+      "countryCode": "LB",
+      "name": "Mohafazat Aakkâr",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "AK"
+      },
+      "countryName": "Lebanon",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Aakkâr",
+      "lat": "34.53333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "11",
+      "lng": "36.3",
+      "geonameId": 6201371,
+      "toponymName": "Mohafazat Baalbek-Hermel",
+      "countryId": "272103",
+      "fcl": "A",
+      "population": 157000,
+      "countryCode": "LB",
+      "name": "Mohafazat Baalbek-Hermel",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "BH"
+      },
+      "countryName": "Lebanon",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Baalbek-Hermel",
+      "lat": "34.20833",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "08",
+      "lng": "35.83333",
+      "geonameId": 280282,
+      "toponymName": "Mohafazat Béqaa",
+      "countryId": "272103",
+      "fcl": "A",
+      "population": 750000,
+      "countryCode": "LB",
+      "name": "Mohafazat Béqaa",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "BI"
+      },
+      "countryName": "Lebanon",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Béqaa",
+      "lat": "33.66667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "09",
+      "lng": "35.91667",
+      "geonameId": 278297,
+      "toponymName": "Mohafazat Liban-Nord",
+      "countryId": "272103",
+      "fcl": "A",
+      "population": 899339,
+      "countryCode": "LB",
+      "name": "Mohafazat Liban-Nord",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "AS"
+      },
+      "countryName": "Lebanon",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Liban-Nord",
+      "lat": "34.33333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "05",
+      "lng": "35.66667",
+      "geonameId": 273607,
+      "toponymName": "Mohafazat Mont-Liban",
+      "countryId": "272103",
+      "fcl": "A",
+      "population": 1679229,
+      "countryCode": "LB",
+      "name": "Mohafazat Mont-Liban",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "JL"
+      },
+      "countryName": "Lebanon",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Mont-Liban",
+      "lat": "33.91667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "07",
+      "lng": "35.5",
+      "geonameId": 444191,
+      "toponymName": "Mohafazat Nabatîyé",
+      "countryId": "272103",
+      "fcl": "A",
+      "population": 92000,
+      "countryCode": "LB",
+      "name": "Mohafazat Nabatîyé",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "NA"
+      },
+      "countryName": "Lebanon",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Nabatîyé",
+      "lat": "33.25",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "06",
+      "lng": "35.33333",
+      "geonameId": 279894,
+      "toponymName": "Mohafazat Liban-Sud",
+      "countryId": "272103",
+      "fcl": "A",
+      "population": 500000,
+      "countryCode": "LB",
+      "name": "South Governorate",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "JA"
+      },
+      "countryName": "Lebanon",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "South Governorate",
+      "lat": "33.41667",
+      "fcode": "ADM1"
+    }
+  ]
+}

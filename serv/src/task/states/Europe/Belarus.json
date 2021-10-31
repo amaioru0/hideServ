@@ -1,0 +1,145 @@
+{
+  "totalResultsCount": 7,
+  "geonames": [
+    {
+      "adminCode1": "01",
+      "lng": "23.7854",
+      "geonameId": 629631,
+      "toponymName": "Brest Oblast",
+      "countryId": "630336",
+      "fcl": "A",
+      "population": 1400000,
+      "countryCode": "BY",
+      "name": "Brest",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "BR"
+      },
+      "countryName": "Belarus",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Brest",
+      "lat": "52.09976",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "03",
+      "lng": "24.5",
+      "geonameId": 628035,
+      "toponymName": "Grodno Oblast",
+      "countryId": "630336",
+      "fcl": "A",
+      "population": 1100000,
+      "countryCode": "BY",
+      "name": "Grodnenskaya",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "HR"
+      },
+      "countryName": "Belarus",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Grodnenskaya",
+      "lat": "53.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "02",
+      "lng": "30",
+      "geonameId": 628281,
+      "toponymName": "Homyel’ Voblasc’",
+      "countryId": "630336",
+      "fcl": "A",
+      "population": 1426674,
+      "countryCode": "BY",
+      "name": "Homyel’ Voblasc’",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "HO"
+      },
+      "countryName": "Belarus",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Homyel’ Voblasc’",
+      "lat": "52",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "05",
+      "lng": "28",
+      "geonameId": 625142,
+      "toponymName": "Minsk Oblast",
+      "countryId": "630336",
+      "fcl": "A",
+      "population": 1411000,
+      "countryCode": "BY",
+      "name": "Minsk",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "MI"
+      },
+      "countryName": "Belarus",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Minsk",
+      "lat": "54",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "04",
+      "lng": "27.56667",
+      "geonameId": 625143,
+      "toponymName": "Horad Minsk",
+      "countryId": "630336",
+      "fcl": "A",
+      "population": 2002600,
+      "countryCode": "BY",
+      "name": "Minsk City",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "HM"
+      },
+      "countryName": "Belarus",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Minsk City",
+      "lat": "53.9",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "06",
+      "lng": "30.75",
+      "geonameId": 625073,
+      "toponymName": "Mogilyov Oblast",
+      "countryId": "630336",
+      "fcl": "A",
+      "population": 1088000,
+      "countryCode": "BY",
+      "name": "Mogilev",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "MA"
+      },
+      "countryName": "Belarus",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Mogilev",
+      "lat": "54",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "07",
+      "lng": "29.5",
+      "geonameId": 620134,
+      "toponymName": "Vitebsk Oblast",
+      "countryId": "630336",
+      "fcl": "A",
+      "population": 1230000,
+      "countryCode": "BY",
+      "name": "Vitebsk",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "VI"
+      },
+      "countryName": "Belarus",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Vitebsk",
+      "lat": "55",
+      "fcode": "ADM1"
+    }
+  ]
+}

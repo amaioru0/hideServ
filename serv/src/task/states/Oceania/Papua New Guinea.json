@@ -1,0 +1,445 @@
+{
+  "totalResultsCount": 22,
+  "geonames": [
+    {
+      "adminCode1": "07",
+      "lng": "155",
+      "geonameId": 2089470,
+      "toponymName": "Bougainville",
+      "countryId": "2088628",
+      "fcl": "A",
+      "population": 132886,
+      "countryCode": "PG",
+      "name": "Bougainville",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "NSB"
+      },
+      "countryName": "Papua New Guinea",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Bougainville",
+      "lat": "-6",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "01",
+      "lng": "148",
+      "geonameId": 2133763,
+      "toponymName": "Central Province",
+      "countryId": "2088628",
+      "fcl": "A",
+      "population": 183983,
+      "countryCode": "PG",
+      "name": "Central Province",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "CPM"
+      },
+      "countryName": "Papua New Guinea",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Central Province",
+      "lat": "-10",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "08",
+      "lng": "144.83333",
+      "geonameId": 2098593,
+      "toponymName": "Chimbu Province",
+      "countryId": "2088628",
+      "fcl": "A",
+      "population": 291848,
+      "countryCode": "PG",
+      "name": "Chimbu Province",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "CPK"
+      },
+      "countryName": "Papua New Guinea",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Chimbu",
+      "lat": "-6.25",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "10",
+      "lng": "151.88775",
+      "geonameId": 2097853,
+      "toponymName": "East New Britain Province",
+      "countryId": "2088628",
+      "fcl": "A",
+      "population": 328369,
+      "countryCode": "PG",
+      "name": "East New Britain Province",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "EBR"
+      },
+      "countryName": "Papua New Guinea",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "East New Britain",
+      "lat": "-4.61283",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "11",
+      "lng": "143.75",
+      "geonameId": 2097846,
+      "toponymName": "East Sepik Province",
+      "countryId": "2088628",
+      "fcl": "A",
+      "population": 450530,
+      "countryCode": "PG",
+      "name": "East Sepik Province",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "ESW"
+      },
+      "countryName": "Papua New Guinea",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "East Sepik",
+      "lat": "-4",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "09",
+      "lng": "145.58333",
+      "geonameId": 2097855,
+      "toponymName": "Eastern Highlands Province",
+      "countryId": "2088628",
+      "fcl": "A",
+      "population": 579825,
+      "countryCode": "PG",
+      "name": "Eastern Highlands Province",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "EHG"
+      },
+      "countryName": "Papua New Guinea",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Eastern Highlands",
+      "lat": "-6.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "19",
+      "lng": "143.5",
+      "geonameId": 2097655,
+      "toponymName": "Enga Province",
+      "countryId": "2088628",
+      "fcl": "A",
+      "population": 432045,
+      "countryCode": "PG",
+      "name": "Enga Province",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "EPW"
+      },
+      "countryName": "Papua New Guinea",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Enga",
+      "lat": "-5.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "02",
+      "lng": "145.08545",
+      "geonameId": 2096633,
+      "toponymName": "Gulf Province",
+      "countryId": "2088628",
+      "fcl": "A",
+      "population": 158197,
+      "countryCode": "PG",
+      "name": "Gulf Province",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "GPK"
+      },
+      "countryName": "Papua New Guinea",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Gulf",
+      "lat": "-7.7246",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "21",
+      "lng": "142.84424",
+      "geonameId": 8521658,
+      "toponymName": "Hela",
+      "countryId": "2088628",
+      "fcl": "A",
+      "population": 352698,
+      "countryCode": "PG",
+      "name": "Hela",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "HLA"
+      },
+      "countryName": "Papua New Guinea",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Hela",
+      "lat": "-6.29824",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "22",
+      "lng": "144.67278",
+      "geonameId": 8521660,
+      "toponymName": "Jiwaka",
+      "countryId": "2088628",
+      "fcl": "A",
+      "population": 185641,
+      "countryCode": "PG",
+      "name": "Jiwaka",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "JWK"
+      },
+      "countryName": "Papua New Guinea",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Jiwaka",
+      "lat": "-5.90224",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "12",
+      "lng": "145.5",
+      "geonameId": 2091993,
+      "toponymName": "Madang Province",
+      "countryId": "2088628",
+      "fcl": "A",
+      "population": 493906,
+      "countryCode": "PG",
+      "name": "Madang Province",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "MPM"
+      },
+      "countryName": "Papua New Guinea",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Madang",
+      "lat": "-5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "13",
+      "lng": "147",
+      "geonameId": 2091495,
+      "toponymName": "Manus Province",
+      "countryId": "2088628",
+      "fcl": "A",
+      "population": 60485,
+      "countryCode": "PG",
+      "name": "Manus Province",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "MRL"
+      },
+      "countryName": "Papua New Guinea",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Manus",
+      "lat": "-2",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "03",
+      "lng": "150.31494",
+      "geonameId": 2132895,
+      "toponymName": "Milne Bay Province",
+      "countryId": "2088628",
+      "fcl": "A",
+      "population": 276512,
+      "countryCode": "PG",
+      "name": "Milne Bay Province",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "MBA"
+      },
+      "countryName": "Papua New Guinea",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Milne Bay",
+      "lat": "-10.55262",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "14",
+      "lng": "146.9672",
+      "geonameId": 2090468,
+      "toponymName": "Morobe Province",
+      "countryId": "2088628",
+      "fcl": "A",
+      "population": 674810,
+      "countryCode": "PG",
+      "name": "Morobe Province",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "MPL"
+      },
+      "countryName": "Papua New Guinea",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Morobe",
+      "lat": "-7.0106",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "20",
+      "lng": "147.16667",
+      "geonameId": 2089856,
+      "toponymName": "National Capital District",
+      "countryId": "2088628",
+      "fcl": "A",
+      "population": 307643,
+      "countryCode": "PG",
+      "name": "National Capital",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "NCD"
+      },
+      "countryName": "Papua New Guinea",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "National Capital",
+      "lat": "-9.41667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "15",
+      "lng": "151.5",
+      "geonameId": 2089693,
+      "toponymName": "New Ireland Province",
+      "countryId": "2088628",
+      "fcl": "A",
+      "population": 194067,
+      "countryCode": "PG",
+      "name": "New Ireland",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "NIK"
+      },
+      "countryName": "Papua New Guinea",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "New Ireland",
+      "lat": "-3",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "04",
+      "lng": "148.5",
+      "geonameId": 2089478,
+      "toponymName": "Northern Province",
+      "countryId": "2088628",
+      "fcl": "A",
+      "population": 186309,
+      "countryCode": "PG",
+      "name": "Northern Province",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "NPP"
+      },
+      "countryName": "Papua New Guinea",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Northern Province",
+      "lat": "-9",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "05",
+      "lng": "143.58333",
+      "geonameId": 2086331,
+      "toponymName": "Southern Highlands Province",
+      "countryId": "2088628",
+      "fcl": "A",
+      "population": 510245,
+      "countryCode": "PG",
+      "name": "Southern Highlands Province",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SHM"
+      },
+      "countryName": "Papua New Guinea",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Southern Highlands",
+      "lat": "-6.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "17",
+      "lng": "149.82605",
+      "geonameId": 2083546,
+      "toponymName": "West New Britain Province",
+      "countryId": "2088628",
+      "fcl": "A",
+      "population": 264264,
+      "countryCode": "PG",
+      "name": "West New Britain Province",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "WBK"
+      },
+      "countryName": "Papua New Guinea",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "West New Britain",
+      "lat": "-5.87833",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "18",
+      "lng": "142",
+      "geonameId": 2087246,
+      "toponymName": "West Sepik Province",
+      "countryId": "2088628",
+      "fcl": "A",
+      "population": 185741,
+      "countryCode": "PG",
+      "name": "West Sepik Province",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SAN"
+      },
+      "countryName": "Papua New Guinea",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Sandaun",
+      "lat": "-3.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "16",
+      "lng": "144.25",
+      "geonameId": 2083551,
+      "toponymName": "Western Highlands Province",
+      "countryId": "2088628",
+      "fcl": "A",
+      "population": 362580,
+      "countryCode": "PG",
+      "name": "Western Highlands Province",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "WHM"
+      },
+      "countryName": "Papua New Guinea",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Western Highlands",
+      "lat": "-5.75",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "06",
+      "lng": "142",
+      "geonameId": 2083549,
+      "toponymName": "Western Province",
+      "countryId": "2088628",
+      "fcl": "A",
+      "population": 201351,
+      "countryCode": "PG",
+      "name": "Western Province",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "WPD"
+      },
+      "countryName": "Papua New Guinea",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Western Province",
+      "lat": "-7.5",
+      "fcode": "ADM1"
+    }
+  ]
+}

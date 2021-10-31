@@ -1,0 +1,285 @@
+{
+  "totalResultsCount": 14,
+  "geonames": [
+    {
+      "adminCode1": "01",
+      "lng": "40.9",
+      "geonameId": 173813,
+      "toponymName": "Al-Hasakah Governorate",
+      "countryId": "163843",
+      "fcl": "A",
+      "population": 1512000,
+      "countryCode": "SY",
+      "name": "Al-Hasakah",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "HA"
+      },
+      "countryName": "Syria",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Al-Hasakah",
+      "lat": "36.51667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "09",
+      "lng": "37.61667",
+      "geonameId": 170062,
+      "toponymName": "Aleppo Governorate",
+      "countryId": "163843",
+      "fcl": "A",
+      "population": 3115559,
+      "countryCode": "SY",
+      "name": "Aleppo",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "HL"
+      },
+      "countryName": "Syria",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Aleppo",
+      "lat": "36.25",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "04",
+      "lng": "38.93333",
+      "geonameId": 172957,
+      "toponymName": "Ar-Raqqah Governorate",
+      "countryId": "163843",
+      "fcl": "A",
+      "population": 944000,
+      "countryCode": "SY",
+      "name": "Ar-Raqqah",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "RA"
+      },
+      "countryName": "Syria",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Ar-Raqqah",
+      "lat": "36",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "05",
+      "lng": "36.85",
+      "geonameId": 172410,
+      "toponymName": "As-Suwayda Governorate",
+      "countryId": "163843",
+      "fcl": "A",
+      "population": 770000,
+      "countryCode": "SY",
+      "name": "As-Suwayda",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SU"
+      },
+      "countryName": "Syria",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "As-Suwayda",
+      "lat": "32.76667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "06",
+      "lng": "36.21667",
+      "geonameId": 170903,
+      "toponymName": "Daraa Governorate",
+      "countryId": "163843",
+      "fcl": "A",
+      "population": 1027000,
+      "countryCode": "SY",
+      "name": "Daraa",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "DR"
+      },
+      "countryName": "Syria",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Daraa",
+      "lat": "32.85",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "07",
+      "lng": "40.28333",
+      "geonameId": 170792,
+      "toponymName": "Deir ez-Zor Governorate",
+      "countryId": "163843",
+      "fcl": "A",
+      "population": 1239000,
+      "countryCode": "SY",
+      "name": "Deir ez-Zor",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "DY"
+      },
+      "countryName": "Syria",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Deir ez-Zor",
+      "lat": "35.16667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "13",
+      "lng": "36.28333",
+      "geonameId": 167541,
+      "toponymName": "Damascus Governorate",
+      "countryId": "163843",
+      "fcl": "A",
+      "population": 1711000,
+      "countryCode": "SY",
+      "name": "Dimashq",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "DI"
+      },
+      "countryName": "Syria",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Dimashq",
+      "lat": "33.51667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "10",
+      "lng": "37.2",
+      "geonameId": 170015,
+      "toponymName": "Hama Governorate",
+      "countryId": "163843",
+      "fcl": "A",
+      "population": 1628000,
+      "countryCode": "SY",
+      "name": "Hama",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "HM"
+      },
+      "countryName": "Syria",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Hama",
+      "lat": "35.23333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "11",
+      "lng": "38.3",
+      "geonameId": 169575,
+      "toponymName": "Homs Governorate",
+      "countryId": "163843",
+      "fcl": "A",
+      "population": 1803000,
+      "countryCode": "SY",
+      "name": "Homs",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "HI"
+      },
+      "countryName": "Syria",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Homs",
+      "lat": "34.46667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "12",
+      "lng": "36.66667",
+      "geonameId": 169387,
+      "toponymName": "Idlib Governorate",
+      "countryId": "163843",
+      "fcl": "A",
+      "population": 1501000,
+      "countryCode": "SY",
+      "name": "Idlib",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "ID"
+      },
+      "countryName": "Syria",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Idlib",
+      "lat": "35.76667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "02",
+      "lng": "36.03333",
+      "geonameId": 173578,
+      "toponymName": "Latakia Governorate",
+      "countryId": "163843",
+      "fcl": "A",
+      "population": 1890000,
+      "countryCode": "SY",
+      "name": "Latakia",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "LA"
+      },
+      "countryName": "Syria",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Latakia",
+      "lat": "35.56667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "03",
+      "lng": "35.78333",
+      "geonameId": 173336,
+      "toponymName": "Quneitra Governorate",
+      "countryId": "163843",
+      "fcl": "A",
+      "population": 90000,
+      "countryCode": "SY",
+      "name": "Quneitra",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "QU"
+      },
+      "countryName": "Syria",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Quneitra",
+      "lat": "33.03333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "08",
+      "lng": "37.38333",
+      "geonameId": 170652,
+      "toponymName": "Damascus Countryside",
+      "countryId": "163843",
+      "fcl": "A",
+      "population": 2836000,
+      "countryCode": "SY",
+      "name": "Rif-dimashq",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "RD"
+      },
+      "countryName": "Syria",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Rif-dimashq",
+      "lat": "33.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "14",
+      "lng": "36.15867",
+      "geonameId": 163342,
+      "toponymName": "Tartus Governorate",
+      "countryId": "163843",
+      "fcl": "A",
+      "population": 1550000,
+      "countryCode": "SY",
+      "name": "Tartus",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "TA"
+      },
+      "countryName": "Syria",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Tartus",
+      "lat": "35.00427",
+      "fcode": "ADM1"
+    }
+  ]
+}

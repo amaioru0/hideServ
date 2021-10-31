@@ -1,0 +1,305 @@
+{
+  "totalResultsCount": 15,
+  "geonames": [
+    {
+      "adminCode1": "03",
+      "lng": "95",
+      "geonameId": 1321850,
+      "toponymName": "Ayeyarwady Region",
+      "countryId": "1327865",
+      "fcl": "A",
+      "population": 6175123,
+      "countryCode": "MM",
+      "name": "Ayeyarwady Region",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "07"
+      },
+      "countryName": "Myanmar",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Ayeyarwady",
+      "lat": "17",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "16",
+      "lng": "96.25",
+      "geonameId": 1300463,
+      "toponymName": "Bago Region",
+      "countryId": "1327865",
+      "fcl": "A",
+      "population": 5728709,
+      "countryCode": "MM",
+      "name": "Bago Region",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "02"
+      },
+      "countryName": "Myanmar",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Bago",
+      "lat": "18.25",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "02",
+      "lng": "93.5",
+      "geonameId": 1327132,
+      "toponymName": "Chin State",
+      "countryId": "1327865",
+      "fcl": "A",
+      "population": 478690,
+      "countryCode": "MM",
+      "name": "Chin State",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "14"
+      },
+      "countryName": "Myanmar",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Chin",
+      "lat": "22",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "04",
+      "lng": "97.5",
+      "geonameId": 1321702,
+      "toponymName": "Kachin State",
+      "countryId": "1327865",
+      "fcl": "A",
+      "population": 1689654,
+      "countryCode": "MM",
+      "name": "Kachin State",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "11"
+      },
+      "countryName": "Myanmar",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Kachin",
+      "lat": "26",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "06",
+      "lng": "97.5",
+      "geonameId": 1319539,
+      "toponymName": "Kayah State",
+      "countryId": "1327865",
+      "fcl": "A",
+      "population": 253788,
+      "countryCode": "MM",
+      "name": "Kayah State",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "12"
+      },
+      "countryName": "Myanmar",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Kayah",
+      "lat": "19.25",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "05",
+      "lng": "97.75",
+      "geonameId": 1320233,
+      "toponymName": "Kayin State",
+      "countryId": "1327865",
+      "fcl": "A",
+      "population": 1594146,
+      "countryCode": "MM",
+      "name": "Kayin State",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "13"
+      },
+      "countryName": "Myanmar",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Kayin",
+      "lat": "17.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "15",
+      "lng": "94.75",
+      "geonameId": 1312604,
+      "toponymName": "Magway Region",
+      "countryId": "1327865",
+      "fcl": "A",
+      "population": 4885832,
+      "countryCode": "MM",
+      "name": "Magway Region",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "03"
+      },
+      "countryName": "Myanmar",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Magway",
+      "lat": "20.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "08",
+      "lng": "96",
+      "geonameId": 1311871,
+      "toponymName": "Mandalay Region",
+      "countryId": "1327865",
+      "fcl": "A",
+      "population": 6145588,
+      "countryCode": "MM",
+      "name": "Mandalay Region",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "04"
+      },
+      "countryName": "Myanmar",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Mandalay",
+      "lat": "21",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "13",
+      "lng": "97.75",
+      "geonameId": 1308528,
+      "toponymName": "Mon State",
+      "countryId": "1327865",
+      "fcl": "A",
+      "population": 2535609,
+      "countryCode": "MM",
+      "name": "Mon State",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "15"
+      },
+      "countryName": "Myanmar",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Mon",
+      "lat": "16.25",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "18",
+      "lng": "96.14182",
+      "geonameId": 8239588,
+      "toponymName": "Nay Pyi Taw",
+      "countryId": "1327865",
+      "fcl": "A",
+      "population": 1160000,
+      "countryCode": "MM",
+      "name": "Nay Pyi Taw",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "18"
+      },
+      "countryName": "Myanmar",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Nay Pyi Taw",
+      "lat": "19.8822",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "01",
+      "lng": "94.25",
+      "geonameId": 1298852,
+      "toponymName": "Rakhine State",
+      "countryId": "1327865",
+      "fcl": "A",
+      "population": 3118963,
+      "countryCode": "MM",
+      "name": "Rakhine State",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "16"
+      },
+      "countryName": "Myanmar",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Rakhine",
+      "lat": "19",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "17",
+      "lng": "96.16667",
+      "geonameId": 1298822,
+      "toponymName": "Yangon Region",
+      "countryId": "1327865",
+      "fcl": "A",
+      "population": 7355075,
+      "countryCode": "MM",
+      "name": "Rangoon",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "06"
+      },
+      "countryName": "Myanmar",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Rangoon",
+      "lat": "17",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "10",
+      "lng": "95.5",
+      "geonameId": 1298480,
+      "toponymName": "Sagaing Region",
+      "countryId": "1327865",
+      "fcl": "A",
+      "population": 5320299,
+      "countryCode": "MM",
+      "name": "Sagaing Region",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "01"
+      },
+      "countryName": "Myanmar",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Sagain",
+      "lat": "23.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "11",
+      "lng": "98",
+      "geonameId": 1297099,
+      "toponymName": "Shan State",
+      "countryId": "1327865",
+      "fcl": "A",
+      "population": 5815384,
+      "countryCode": "MM",
+      "name": "Shan State",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "17"
+      },
+      "countryName": "Myanmar",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Shan",
+      "lat": "22",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "12",
+      "lng": "99",
+      "geonameId": 1293118,
+      "toponymName": "Tanintharyi Region",
+      "countryId": "1327865",
+      "fcl": "A",
+      "population": 1383287,
+      "countryCode": "MM",
+      "name": "Tanintharyi Region",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "05"
+      },
+      "countryName": "Myanmar",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Tanintharyi",
+      "lat": "13",
+      "fcode": "ADM1"
+    }
+  ]
+}

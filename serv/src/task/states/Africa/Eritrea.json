@@ -1,0 +1,125 @@
+{
+  "totalResultsCount": 6,
+  "geonames": [
+    {
+      "adminCode1": "01",
+      "lng": "37.5",
+      "geonameId": 448497,
+      "toponymName": "Anseba Region",
+      "countryId": "338010",
+      "fcl": "A",
+      "population": 611627,
+      "countryCode": "ER",
+      "name": "Anseba",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "AN"
+      },
+      "countryName": "Eritrea",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Anseba",
+      "lat": "16.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "02",
+      "lng": "38.83333",
+      "geonameId": 448498,
+      "toponymName": "Debub Region",
+      "countryId": "338010",
+      "fcl": "A",
+      "population": 1476765,
+      "countryCode": "ER",
+      "name": "Debub",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "DU"
+      },
+      "countryName": "Eritrea",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Debub",
+      "lat": "14.83333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "04",
+      "lng": "37.5",
+      "geonameId": 448500,
+      "toponymName": "Gash-Barka Region",
+      "countryId": "338010",
+      "fcl": "A",
+      "population": 786964,
+      "countryCode": "ER",
+      "name": "Gash-Barka",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "GB"
+      },
+      "countryName": "Eritrea",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Gash-Barka",
+      "lat": "15.25",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "05",
+      "lng": "38.91667",
+      "geonameId": 448501,
+      "toponymName": "Maekel Region",
+      "countryId": "338010",
+      "fcl": "A",
+      "population": 766534,
+      "countryCode": "ER",
+      "name": "Maekel",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "MA"
+      },
+      "countryName": "Eritrea",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Maekel",
+      "lat": "15.33333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "06",
+      "lng": "39",
+      "geonameId": 448502,
+      "toponymName": "Northern Red Sea Region",
+      "countryId": "338010",
+      "fcl": "A",
+      "population": 599304,
+      "countryCode": "ER",
+      "name": "Northern Red Sea",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SK"
+      },
+      "countryName": "Eritrea",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Northern Red Sea",
+      "lat": "16",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "03",
+      "lng": "41.5",
+      "geonameId": 448499,
+      "toponymName": "Southern Red Sea Region",
+      "countryId": "338010",
+      "fcl": "A",
+      "population": 289382,
+      "countryCode": "ER",
+      "name": "Southern Red Sea",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "DK"
+      },
+      "countryName": "Eritrea",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Southern Red Sea",
+      "lat": "13.75",
+      "fcode": "ADM1"
+    }
+  ]
+}

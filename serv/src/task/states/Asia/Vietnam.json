@@ -1,0 +1,1265 @@
+{
+  "totalResultsCount": 63,
+  "geonames": [
+    {
+      "adminCode1": "01",
+      "lng": "105.16667",
+      "geonameId": 1594446,
+      "toponymName": "An Giang",
+      "countryId": "1562822",
+      "fcl": "A",
+      "population": 2170100,
+      "countryCode": "VN",
+      "name": "An Giang",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "44"
+      },
+      "countryName": "Vietnam",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "An Giang",
+      "lat": "10.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "87",
+      "lng": "105.5",
+      "geonameId": 1581188,
+      "toponymName": "Thành Phố Cần Thơ",
+      "countryId": "1562822",
+      "fcl": "A",
+      "population": 1214100,
+      "countryCode": "VN",
+      "name": "Can Tho",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "CT"
+      },
+      "countryName": "Vietnam",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Can Tho",
+      "lat": "10.11667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "78",
+      "lng": "108.08333",
+      "geonameId": 1905468,
+      "toponymName": "Thành Phố Đà Nẵng",
+      "countryId": "1562822",
+      "fcl": "A",
+      "population": 1100000,
+      "countryCode": "VN",
+      "name": "Da Nang",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "DN"
+      },
+      "countryName": "Vietnam",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Da Nang",
+      "lat": "16.08333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "49",
+      "lng": "108.25",
+      "geonameId": 1581088,
+      "toponymName": "Gia Lai",
+      "countryId": "1562822",
+      "fcl": "A",
+      "population": 1277600,
+      "countryCode": "VN",
+      "name": "Gia Lai",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "30"
+      },
+      "countryName": "Vietnam",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Gia Lai",
+      "lat": "13.75",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "13",
+      "lng": "106.66667",
+      "geonameId": 1581297,
+      "toponymName": "Thành Phố Hải Phòng",
+      "countryId": "1562822",
+      "fcl": "A",
+      "population": 1925200,
+      "countryCode": "VN",
+      "name": "Haiphong",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "HP"
+      },
+      "countryName": "Vietnam",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Haiphong",
+      "lat": "20.8",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "44",
+      "lng": "105.75",
+      "geonameId": 1581129,
+      "toponymName": "Hanoi",
+      "countryId": "1562822",
+      "fcl": "A",
+      "population": 7067000,
+      "countryCode": "VN",
+      "name": "Hanoi",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "HN"
+      },
+      "countryName": "Vietnam",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Hanoi",
+      "lat": "21",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "20",
+      "lng": "106.62978",
+      "geonameId": 1580578,
+      "toponymName": "Ho Chi Minh City",
+      "countryId": "1562822",
+      "fcl": "A",
+      "population": 12865411,
+      "countryCode": "VN",
+      "name": "Ho Chi Minh",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SG"
+      },
+      "countryName": "Vietnam",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Ho Chi Minh",
+      "lat": "10.82327",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "93",
+      "lng": "105.46412",
+      "geonameId": 7506719,
+      "toponymName": "Hậu Giang Province",
+      "countryId": "1562822",
+      "fcl": "A",
+      "population": 772000,
+      "countryCode": "VN",
+      "name": "Hậu Giang",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "73"
+      },
+      "countryName": "Vietnam",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Hậu Giang",
+      "lat": "9.77605",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "55",
+      "lng": "107.91667",
+      "geonameId": 1565088,
+      "toponymName": "Kon Tum",
+      "countryId": "1562822",
+      "fcl": "A",
+      "population": 432900,
+      "countryCode": "VN",
+      "name": "Kon Tum",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "28"
+      },
+      "countryName": "Vietnam",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Kon Tum",
+      "lat": "14.75",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "24",
+      "lng": "106.16667",
+      "geonameId": 1575788,
+      "toponymName": "Long An",
+      "countryId": "1562822",
+      "fcl": "A",
+      "population": 1376602,
+      "countryCode": "VN",
+      "name": "Long An",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "41"
+      },
+      "countryName": "Vietnam",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Long An",
+      "lat": "10.7",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "63",
+      "lng": "108.66667",
+      "geonameId": 1568769,
+      "toponymName": "Tỉnh Quảng Ngãi",
+      "countryId": "1562822",
+      "fcl": "A",
+      "population": 1217159,
+      "countryCode": "VN",
+      "name": "Quảng Ngãi Province",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "29"
+      },
+      "countryName": "Vietnam",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Quảng Ngãi Province",
+      "lat": "15",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "37",
+      "lng": "106.3",
+      "geonameId": 1564676,
+      "toponymName": "Tỉnh Tiền Giang",
+      "countryId": "1562822",
+      "fcl": "A",
+      "population": 1635700,
+      "countryCode": "VN",
+      "name": "Tiền Giang",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "46"
+      },
+      "countryName": "Vietnam",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Tiền Giang",
+      "lat": "10.4",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "33",
+      "lng": "106.16667",
+      "geonameId": 1566557,
+      "toponymName": "Tỉnh Tây Ninh",
+      "countryId": "1562822",
+      "fcl": "A",
+      "population": 1029800,
+      "countryCode": "VN",
+      "name": "Tây Ninh Province",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "37"
+      },
+      "countryName": "Vietnam",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Tây Ninh Province",
+      "lat": "11.33333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "45",
+      "lng": "107.25",
+      "geonameId": 1584534,
+      "toponymName": "Tỉnh Bà Rịa-Vũng Tàu",
+      "countryId": "1562822",
+      "fcl": "A",
+      "population": 994837,
+      "countryCode": "VN",
+      "name": "Tỉnh Bà Rịa-Vũng Tàu",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "43"
+      },
+      "countryName": "Vietnam",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Bà Rịa-Vũng Tàu",
+      "lat": "10.58333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "75",
+      "lng": "106.66667",
+      "geonameId": 1905475,
+      "toponymName": "Tỉnh Bình Dương",
+      "countryId": "1562822",
+      "fcl": "A",
+      "population": 1691400,
+      "countryCode": "VN",
+      "name": "Tỉnh Bình Dương",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "57"
+      },
+      "countryName": "Vietnam",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Bình Dương",
+      "lat": "11.16667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "76",
+      "lng": "106.91667",
+      "geonameId": 1905480,
+      "toponymName": "Tỉnh Bình Phước",
+      "countryId": "1562822",
+      "fcl": "A",
+      "population": 823600,
+      "countryCode": "VN",
+      "name": "Tỉnh Bình Phước",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "58"
+      },
+      "countryName": "Vietnam",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Bình Phước",
+      "lat": "11.75",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "47",
+      "lng": "108.08333",
+      "geonameId": 1581882,
+      "toponymName": "Tỉnh Bình Thuận",
+      "countryId": "1562822",
+      "fcl": "A",
+      "population": 1140429,
+      "countryCode": "VN",
+      "name": "Tỉnh Bình Thuận",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "40"
+      },
+      "countryName": "Vietnam",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Bình Thuận",
+      "lat": "11.08333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "46",
+      "lng": "109",
+      "geonameId": 1587871,
+      "toponymName": "Tỉnh Bình Định",
+      "countryId": "1562822",
+      "fcl": "A",
+      "population": 1545300,
+      "countryCode": "VN",
+      "name": "Tỉnh Bình Định",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "31"
+      },
+      "countryName": "Vietnam",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Bình Định",
+      "lat": "14.16667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "73",
+      "lng": "105.5",
+      "geonameId": 1905675,
+      "toponymName": "Tỉnh Bạc Liêu",
+      "countryId": "1562822",
+      "fcl": "A",
+      "population": 786200,
+      "countryCode": "VN",
+      "name": "Tỉnh Bạc Liêu",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "55"
+      },
+      "countryName": "Vietnam",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Bạc Liêu",
+      "lat": "9.3",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "71",
+      "lng": "106.43333",
+      "geonameId": 1905419,
+      "toponymName": "Tỉnh Bắc Giang",
+      "countryId": "1562822",
+      "fcl": "A",
+      "population": 1628400,
+      "countryCode": "VN",
+      "name": "Tỉnh Bắc Giang",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "54"
+      },
+      "countryName": "Vietnam",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Bắc Giang",
+      "lat": "21.33333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "72",
+      "lng": "105.83333",
+      "geonameId": 1905669,
+      "toponymName": "Tỉnh Bắc Kạn",
+      "countryId": "1562822",
+      "fcl": "A",
+      "population": 308900,
+      "countryCode": "VN",
+      "name": "Tỉnh Bắc Kạn",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "53"
+      },
+      "countryName": "Vietnam",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Bắc Kạn",
+      "lat": "22.25",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "74",
+      "lng": "106.1",
+      "geonameId": 1905412,
+      "toponymName": "Tỉnh Bắc Ninh",
+      "countryId": "1562822",
+      "fcl": "A",
+      "population": 1024472,
+      "countryCode": "VN",
+      "name": "Tỉnh Bắc Ninh",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "56"
+      },
+      "countryName": "Vietnam",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Bắc Ninh",
+      "lat": "21.1",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "03",
+      "lng": "106.5",
+      "geonameId": 1587974,
+      "toponymName": "Tỉnh Bến Tre",
+      "countryId": "1562822",
+      "fcl": "A",
+      "population": 1345600,
+      "countryCode": "VN",
+      "name": "Tỉnh Bến Tre",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "50"
+      },
+      "countryName": "Vietnam",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Bến Tre",
+      "lat": "10.16667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "05",
+      "lng": "106.08333",
+      "geonameId": 1586182,
+      "toponymName": "Tỉnh Cao Bằng",
+      "countryId": "1562822",
+      "fcl": "A",
+      "population": 528100,
+      "countryCode": "VN",
+      "name": "Tỉnh Cao Bằng",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "04"
+      },
+      "countryName": "Vietnam",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Cao Bằng",
+      "lat": "22.75",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "77",
+      "lng": "105.08333",
+      "geonameId": 1905678,
+      "toponymName": "Tỉnh Cà Mau",
+      "countryId": "1562822",
+      "fcl": "A",
+      "population": 1232000,
+      "countryCode": "VN",
+      "name": "Tỉnh Cà Mau",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "59"
+      },
+      "countryName": "Vietnam",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Cà Mau",
+      "lat": "9.08333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "50",
+      "lng": "105",
+      "geonameId": 1581030,
+      "toponymName": "Tỉnh Hà Giang",
+      "countryId": "1562822",
+      "fcl": "A",
+      "population": 705100,
+      "countryCode": "VN",
+      "name": "Tỉnh Hà Giang",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "03"
+      },
+      "countryName": "Vietnam",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Hà Giang",
+      "lat": "22.75",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "80",
+      "lng": "105.96667",
+      "geonameId": 1905637,
+      "toponymName": "Tỉnh Hà Nam",
+      "countryId": "1562822",
+      "fcl": "A",
+      "population": 820100,
+      "countryCode": "VN",
+      "name": "Tỉnh Hà Nam",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "63"
+      },
+      "countryName": "Vietnam",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Hà Nam",
+      "lat": "20.53333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "52",
+      "lng": "105.75",
+      "geonameId": 1580700,
+      "toponymName": "Tỉnh Hà Tĩnh",
+      "countryId": "1562822",
+      "fcl": "A",
+      "population": 1286700,
+      "countryCode": "VN",
+      "name": "Tỉnh Hà Tĩnh",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "23"
+      },
+      "countryName": "Vietnam",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Hà Tĩnh",
+      "lat": "18.33333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "53",
+      "lng": "105.33333",
+      "geonameId": 1572594,
+      "toponymName": "Tỉnh Hòa Bình",
+      "countryId": "1562822",
+      "fcl": "A",
+      "population": 803300,
+      "countryCode": "VN",
+      "name": "Tỉnh Hòa Bình",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "14"
+      },
+      "countryName": "Vietnam",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Hòa Bình",
+      "lat": "20.66667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "81",
+      "lng": "106.05",
+      "geonameId": 1905699,
+      "toponymName": "Tỉnh Hưng Yên",
+      "countryId": "1562822",
+      "fcl": "A",
+      "population": 1120300,
+      "countryCode": "VN",
+      "name": "Tỉnh Hưng Yên",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "66"
+      },
+      "countryName": "Vietnam",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Hưng Yên",
+      "lat": "20.81667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "79",
+      "lng": "106.33333",
+      "geonameId": 1905686,
+      "toponymName": "Tỉnh Hải Dương",
+      "countryId": "1562822",
+      "fcl": "A",
+      "population": 1698300,
+      "countryCode": "VN",
+      "name": "Tỉnh Hải Dương",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "61"
+      },
+      "countryName": "Vietnam",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Hải Dương",
+      "lat": "20.91667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "54",
+      "lng": "109",
+      "geonameId": 1579634,
+      "toponymName": "Tỉnh Khánh Hòa",
+      "countryId": "1562822",
+      "fcl": "A",
+      "population": 1156903,
+      "countryCode": "VN",
+      "name": "Tỉnh Khánh Hòa",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "34"
+      },
+      "countryName": "Vietnam",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Khánh Hòa",
+      "lat": "12.33333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "21",
+      "lng": "105.16667",
+      "geonameId": 1579008,
+      "toponymName": "Tỉnh Kiến Giang",
+      "countryId": "1562822",
+      "fcl": "A",
+      "population": 1634043,
+      "countryCode": "VN",
+      "name": "Tỉnh Kiến Giang",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "47"
+      },
+      "countryName": "Vietnam",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Kiến Giang",
+      "lat": "10",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "89",
+      "lng": "103.25",
+      "geonameId": 1577954,
+      "toponymName": "Tỉnh Lai Châu",
+      "countryId": "1562822",
+      "fcl": "A",
+      "population": 330500,
+      "countryCode": "VN",
+      "name": "Tỉnh Lai Châu",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "01"
+      },
+      "countryName": "Vietnam",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Lai Châu",
+      "lat": "22.28333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "90",
+      "lng": "104.16667",
+      "geonameId": 1562412,
+      "toponymName": "Tỉnh Lào Cai",
+      "countryId": "1562822",
+      "fcl": "A",
+      "population": 602300,
+      "countryCode": "VN",
+      "name": "Tỉnh Lào Cai",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "02"
+      },
+      "countryName": "Vietnam",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Lào Cai",
+      "lat": "22.3",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "23",
+      "lng": "108.08333",
+      "geonameId": 1577882,
+      "toponymName": "Tỉnh Lâm Đồng",
+      "countryId": "1562822",
+      "fcl": "A",
+      "population": 1198800,
+      "countryCode": "VN",
+      "name": "Tỉnh Lâm Đồng",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "35"
+      },
+      "countryName": "Vietnam",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Lâm Đồng",
+      "lat": "11.66667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "39",
+      "lng": "106.58333",
+      "geonameId": 1576632,
+      "toponymName": "Tỉnh Lạng Sơn",
+      "countryId": "1562822",
+      "fcl": "A",
+      "population": 759000,
+      "countryCode": "VN",
+      "name": "Tỉnh Lạng Sơn",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "09"
+      },
+      "countryName": "Vietnam",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Lạng Sơn",
+      "lat": "21.83333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "82",
+      "lng": "106.25",
+      "geonameId": 1905626,
+      "toponymName": "Tỉnh Nam Định",
+      "countryId": "1562822",
+      "fcl": "A",
+      "population": 1934000,
+      "countryCode": "VN",
+      "name": "Tỉnh Nam Định",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "67"
+      },
+      "countryName": "Vietnam",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Nam Định",
+      "lat": "20.25",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "58",
+      "lng": "104.91667",
+      "geonameId": 1559969,
+      "toponymName": "Tỉnh Nghệ An",
+      "countryId": "1562822",
+      "fcl": "A",
+      "population": 3003200,
+      "countryCode": "VN",
+      "name": "Tỉnh Nghệ An",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "22"
+      },
+      "countryName": "Vietnam",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Nghệ An",
+      "lat": "19.25",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "59",
+      "lng": "105.9",
+      "geonameId": 1559970,
+      "toponymName": "Tỉnh Ninh Bình",
+      "countryId": "1562822",
+      "fcl": "A",
+      "population": 554700,
+      "countryCode": "VN",
+      "name": "Tỉnh Ninh Bình",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "18"
+      },
+      "countryName": "Vietnam",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Ninh Bình",
+      "lat": "20.23333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "60",
+      "lng": "108.83333",
+      "geonameId": 1559971,
+      "toponymName": "Tỉnh Ninh Thuận",
+      "countryId": "1562822",
+      "fcl": "A",
+      "population": 565700,
+      "countryCode": "VN",
+      "name": "Tỉnh Ninh Thuận",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "36"
+      },
+      "countryName": "Vietnam",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Ninh Thuận",
+      "lat": "11.75",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "83",
+      "lng": "105.13333",
+      "geonameId": 1905577,
+      "toponymName": "Tỉnh Phú Thọ",
+      "countryId": "1562822",
+      "fcl": "A",
+      "population": 1364700,
+      "countryCode": "VN",
+      "name": "Tỉnh Phú Thọ",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "68"
+      },
+      "countryName": "Vietnam",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Phú Thọ",
+      "lat": "21.33333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "61",
+      "lng": "109.08333",
+      "geonameId": 1569805,
+      "toponymName": "Tỉnh Phú Yên",
+      "countryId": "1562822",
+      "fcl": "A",
+      "population": 862000,
+      "countryCode": "VN",
+      "name": "Tỉnh Phú Yên",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "32"
+      },
+      "countryName": "Vietnam",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Phú Yên",
+      "lat": "13.16667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "62",
+      "lng": "106.33333",
+      "geonameId": 1568839,
+      "toponymName": "Tỉnh Quảng Bình",
+      "countryId": "1562822",
+      "fcl": "A",
+      "population": 857818,
+      "countryCode": "VN",
+      "name": "Tỉnh Quảng Bình",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "24"
+      },
+      "countryName": "Vietnam",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Quảng Bình",
+      "lat": "17.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "84",
+      "lng": "107.91667",
+      "geonameId": 1905516,
+      "toponymName": "Tỉnh Quảng Nam",
+      "countryId": "1562822",
+      "fcl": "A",
+      "population": 1463300,
+      "countryCode": "VN",
+      "name": "Tỉnh Quảng Nam",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "27"
+      },
+      "countryName": "Vietnam",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Quảng Nam",
+      "lat": "15.58333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "30",
+      "lng": "107.33333",
+      "geonameId": 1568758,
+      "toponymName": "Tỉnh Quảng Ninh",
+      "countryId": "1562822",
+      "fcl": "A",
+      "population": 1177200,
+      "countryCode": "VN",
+      "name": "Tỉnh Quảng Ninh",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "13"
+      },
+      "countryName": "Vietnam",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Quảng Ninh",
+      "lat": "21.25",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "64",
+      "lng": "107",
+      "geonameId": 1568733,
+      "toponymName": "Tỉnh Quảng Trị",
+      "countryId": "1562822",
+      "fcl": "A",
+      "population": 616600,
+      "countryCode": "VN",
+      "name": "Tỉnh Quảng Trị",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "25"
+      },
+      "countryName": "Vietnam",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Quảng Trị",
+      "lat": "16.75",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "65",
+      "lng": "105.91667",
+      "geonameId": 1559972,
+      "toponymName": "Tỉnh Sóc Trăng",
+      "countryId": "1562822",
+      "fcl": "A",
+      "population": 1213400,
+      "countryCode": "VN",
+      "name": "Tỉnh Sóc Trăng",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "52"
+      },
+      "countryName": "Vietnam",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Sóc Trăng",
+      "lat": "9.55",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "32",
+      "lng": "104",
+      "geonameId": 1567643,
+      "toponymName": "Tỉnh Sơn La",
+      "countryId": "1562822",
+      "fcl": "A",
+      "population": 972800,
+      "countryCode": "VN",
+      "name": "Tỉnh Sơn La",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "05"
+      },
+      "countryName": "Vietnam",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Sơn La",
+      "lat": "21.16667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "34",
+      "lng": "105.33333",
+      "geonameId": 1566165,
+      "toponymName": "Tỉnh Thanh Hóa",
+      "countryId": "1562822",
+      "fcl": "A",
+      "population": 3412600,
+      "countryCode": "VN",
+      "name": "Tỉnh Thanh Hóa",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "21"
+      },
+      "countryName": "Vietnam",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Thanh Hóa",
+      "lat": "20.06667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "35",
+      "lng": "106.36667",
+      "geonameId": 1566338,
+      "toponymName": "Tỉnh Thái Bình",
+      "countryId": "1562822",
+      "fcl": "A",
+      "population": 1780954,
+      "countryCode": "VN",
+      "name": "Tỉnh Thái Bình",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "20"
+      },
+      "countryName": "Vietnam",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Thái Bình",
+      "lat": "20.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "85",
+      "lng": "105.83333",
+      "geonameId": 1905497,
+      "toponymName": "Tỉnh Thái Nguyên",
+      "countryId": "1562822",
+      "fcl": "A",
+      "population": 1139400,
+      "countryCode": "VN",
+      "name": "Tỉnh Thái Nguyên",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "69"
+      },
+      "countryName": "Vietnam",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Thái Nguyên",
+      "lat": "21.66667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "66",
+      "lng": "107.58333",
+      "geonameId": 1565033,
+      "toponymName": "Tỉnh Thừa Thiên-Huế",
+      "countryId": "1562822",
+      "fcl": "A",
+      "population": 1088700,
+      "countryCode": "VN",
+      "name": "Tỉnh Thừa Thiên-Huế",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "26"
+      },
+      "countryName": "Vietnam",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Thừa Thiên-Huế",
+      "lat": "16.33333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "67",
+      "lng": "106.3",
+      "geonameId": 1559975,
+      "toponymName": "Tỉnh Trà Vinh",
+      "countryId": "1562822",
+      "fcl": "A",
+      "population": 1015800,
+      "countryCode": "VN",
+      "name": "Tỉnh Trà Vinh",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "51"
+      },
+      "countryName": "Vietnam",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Trà Vinh",
+      "lat": "9.8",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "68",
+      "lng": "105.25",
+      "geonameId": 1559976,
+      "toponymName": "Tỉnh Tuyên Quang",
+      "countryId": "1562822",
+      "fcl": "A",
+      "population": 746900,
+      "countryCode": "VN",
+      "name": "Tỉnh Tuyên Quang",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "07"
+      },
+      "countryName": "Vietnam",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Tuyên Quang",
+      "lat": "22.11667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "69",
+      "lng": "106",
+      "geonameId": 1559977,
+      "toponymName": "Tỉnh Vĩnh Long",
+      "countryId": "1562822",
+      "fcl": "A",
+      "population": 1046390,
+      "countryCode": "VN",
+      "name": "Tỉnh Vĩnh Long",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "49"
+      },
+      "countryName": "Vietnam",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Vĩnh Long",
+      "lat": "10.1",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "86",
+      "lng": "105.56667",
+      "geonameId": 1905856,
+      "toponymName": "Tỉnh Vĩnh Phúc",
+      "countryId": "1562822",
+      "fcl": "A",
+      "population": 1154800,
+      "countryCode": "VN",
+      "name": "Tỉnh Vĩnh Phúc",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "70"
+      },
+      "countryName": "Vietnam",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Vĩnh Phúc",
+      "lat": "21.33333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "70",
+      "lng": "104.58333",
+      "geonameId": 1559978,
+      "toponymName": "Tỉnh Yên Bái",
+      "countryId": "1562822",
+      "fcl": "A",
+      "population": 750200,
+      "countryCode": "VN",
+      "name": "Tỉnh Yên Bái",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "06"
+      },
+      "countryName": "Vietnam",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Yên Bái",
+      "lat": "21.75",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "92",
+      "lng": "102.93333",
+      "geonameId": 1905099,
+      "toponymName": "Tỉnh Ðiện Biên",
+      "countryId": "1562822",
+      "fcl": "A",
+      "population": 440800,
+      "countryCode": "VN",
+      "name": "Tỉnh Ðiện Biên",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "71"
+      },
+      "countryName": "Vietnam",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Ðiện Biên",
+      "lat": "21.33333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "43",
+      "lng": "107.16667",
+      "geonameId": 1582720,
+      "toponymName": "Tỉnh Đồng Nai",
+      "countryId": "1562822",
+      "fcl": "A",
+      "population": 2665100,
+      "countryCode": "VN",
+      "name": "Tỉnh Đồng Nai",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "39"
+      },
+      "countryName": "Vietnam",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Đồng Nai",
+      "lat": "11",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "09",
+      "lng": "105.63333",
+      "geonameId": 1582562,
+      "toponymName": "Tỉnh Đồng Tháp",
+      "countryId": "1562822",
+      "fcl": "A",
+      "population": 1639400,
+      "countryCode": "VN",
+      "name": "Tỉnh Đồng Tháp",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "45"
+      },
+      "countryName": "Vietnam",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Đồng Tháp",
+      "lat": "10.58333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "91",
+      "lng": "107.75",
+      "geonameId": 1904987,
+      "toponymName": "Ðắk Nông",
+      "countryId": "1562822",
+      "fcl": "A",
+      "population": 421600,
+      "countryCode": "VN",
+      "name": "Ðắk Nông",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "72"
+      },
+      "countryName": "Vietnam",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Ðắk Nông",
+      "lat": "12.16667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "88",
+      "lng": "108.25",
+      "geonameId": 1584169,
+      "toponymName": "Đắk Lắk Province",
+      "countryId": "1562822",
+      "fcl": "A",
+      "population": 1733100,
+      "countryCode": "VN",
+      "name": "Đắk Lắk",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "33"
+      },
+      "countryName": "Vietnam",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Đắk Lắk",
+      "lat": "12.75",
+      "fcode": "ADM1"
+    }
+  ]
+}

@@ -1,0 +1,285 @@
+{
+  "totalResultsCount": 14,
+  "geonames": [
+    {
+      "adminCode1": "01",
+      "lng": "72.33333",
+      "geonameId": 1484846,
+      "toponymName": "Andijan Region",
+      "countryId": "1512440",
+      "fcl": "A",
+      "population": 1899000,
+      "countryCode": "UZ",
+      "name": "Andijan Region",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "AN"
+      },
+      "countryName": "Uzbekistan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Andijon",
+      "lat": "40.75",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "02",
+      "lng": "64",
+      "geonameId": 1114929,
+      "toponymName": "Bukhara Region",
+      "countryId": "1512440",
+      "fcl": "A",
+      "population": 1543900,
+      "countryCode": "UZ",
+      "name": "Bukhara",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "BU"
+      },
+      "countryName": "Uzbekistan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Bukhara",
+      "lat": "40",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "03",
+      "lng": "71.25",
+      "geonameId": 1484845,
+      "toponymName": "Fergana Region",
+      "countryId": "1512440",
+      "fcl": "A",
+      "population": 2597500,
+      "countryCode": "UZ",
+      "name": "Fergana",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "FA"
+      },
+      "countryName": "Uzbekistan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Fergana",
+      "lat": "40.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "15",
+      "lng": "67.66667",
+      "geonameId": 1484844,
+      "toponymName": "Jizzakh Region",
+      "countryId": "1512440",
+      "fcl": "A",
+      "population": 910500,
+      "countryCode": "UZ",
+      "name": "Jizzakh Region",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "JI"
+      },
+      "countryName": "Uzbekistan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Jizzax",
+      "lat": "40.33333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "09",
+      "lng": "58.82986",
+      "geonameId": 453752,
+      "toponymName": "Karakalpakstan",
+      "countryId": "1512440",
+      "fcl": "A",
+      "population": 1711800,
+      "countryCode": "UZ",
+      "name": "Karakalpakstan",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "QR"
+      },
+      "countryName": "Uzbekistan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Karakalpakstan",
+      "lat": "44.21636",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "06",
+      "lng": "71.24784",
+      "geonameId": 1484842,
+      "toponymName": "Namangan Region",
+      "countryId": "1512440",
+      "fcl": "A",
+      "population": 1862000,
+      "countryCode": "UZ",
+      "name": "Namangan",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "NG"
+      },
+      "countryName": "Uzbekistan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Namangan",
+      "lat": "40.99747",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "07",
+      "lng": "64",
+      "geonameId": 1484841,
+      "toponymName": "Navoiy Region",
+      "countryId": "1512440",
+      "fcl": "A",
+      "population": 767500,
+      "countryCode": "UZ",
+      "name": "Navoiy Region",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "NW"
+      },
+      "countryName": "Uzbekistan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Navoiy",
+      "lat": "42",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "08",
+      "lng": "66",
+      "geonameId": 1114928,
+      "toponymName": "Qashqadaryo Region",
+      "countryId": "1512440",
+      "fcl": "A",
+      "population": 2067000,
+      "countryCode": "UZ",
+      "name": "Qashqadaryo",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "QA"
+      },
+      "countryName": "Uzbekistan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Qashqadaryo",
+      "lat": "38.58333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "10",
+      "lng": "66.43333",
+      "geonameId": 1114927,
+      "toponymName": "Samarqand Region",
+      "countryId": "1512440",
+      "fcl": "A",
+      "population": 3651700,
+      "countryCode": "UZ",
+      "name": "Samarqand Region",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SA"
+      },
+      "countryName": "Uzbekistan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Samarqand",
+      "lat": "39.8",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "16",
+      "lng": "68.66667",
+      "geonameId": 1484840,
+      "toponymName": "Sirdaryo Region",
+      "countryId": "1512440",
+      "fcl": "A",
+      "population": 648100,
+      "countryCode": "UZ",
+      "name": "Sirdaryo Region",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SI"
+      },
+      "countryName": "Uzbekistan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Sirdaryo Region",
+      "lat": "40.43333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "12",
+      "lng": "67.5",
+      "geonameId": 1114926,
+      "toponymName": "Surxondaryo Region",
+      "countryId": "1512440",
+      "fcl": "A",
+      "population": 2462300,
+      "countryCode": "UZ",
+      "name": "Surxondaryo Region",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SU"
+      },
+      "countryName": "Uzbekistan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Surxondaryo",
+      "lat": "38",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "13",
+      "lng": "69.25",
+      "geonameId": 1484839,
+      "toponymName": "Tashkent",
+      "countryId": "1512440",
+      "fcl": "A",
+      "population": 2309600,
+      "countryCode": "UZ",
+      "name": "Tashkent",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "TK"
+      },
+      "countryName": "Uzbekistan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Tashkent",
+      "lat": "41.33333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "14",
+      "lng": "69.8",
+      "geonameId": 1484838,
+      "toponymName": "Tashkent Region",
+      "countryId": "1512440",
+      "fcl": "A",
+      "population": 4450000,
+      "countryCode": "UZ",
+      "name": "Tashkent Region",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "TO"
+      },
+      "countryName": "Uzbekistan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Toshkent",
+      "lat": "41.23333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "05",
+      "lng": "60.5",
+      "geonameId": 1484843,
+      "toponymName": "Xorazm Region",
+      "countryId": "1512440",
+      "fcl": "A",
+      "population": 1411406,
+      "countryCode": "UZ",
+      "name": "Xorazm Region",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "XO"
+      },
+      "countryName": "Uzbekistan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Xorazm",
+      "lat": "41.5",
+      "fcode": "ADM1"
+    }
+  ]
+}

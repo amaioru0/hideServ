@@ -1,0 +1,645 @@
+{
+  "totalResultsCount": 32,
+  "geonames": [
+    {
+      "adminCode1": "01",
+      "lng": "-102.36667",
+      "geonameId": 4019231,
+      "toponymName": "Estado de Aguascalientes",
+      "countryId": "3996063",
+      "fcl": "A",
+      "population": 1032680,
+      "countryCode": "MX",
+      "name": "Aguascalientes",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "AGU"
+      },
+      "countryName": "Mexico",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Aguascalientes",
+      "lat": "22",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "02",
+      "lng": "-115",
+      "geonameId": 4017700,
+      "toponymName": "Estado de Baja California",
+      "countryId": "3996063",
+      "fcl": "A",
+      "population": 3337543,
+      "countryCode": "MX",
+      "name": "Baja California",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "BCN"
+      },
+      "countryName": "Mexico",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Baja California",
+      "lat": "30",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "03",
+      "lng": "-111.83333",
+      "geonameId": 4017698,
+      "toponymName": "Estado de Baja California Sur",
+      "countryId": "3996063",
+      "fcl": "A",
+      "population": 475586,
+      "countryCode": "MX",
+      "name": "Baja California Sur",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "BCS"
+      },
+      "countryName": "Mexico",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Baja California Sur",
+      "lat": "25.83333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "04",
+      "lng": "-90.25",
+      "geonameId": 3531730,
+      "toponymName": "Estado de Campeche",
+      "countryId": "3996063",
+      "fcl": "A",
+      "population": 743869,
+      "countryCode": "MX",
+      "name": "Campeche",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "CAM"
+      },
+      "countryName": "Mexico",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Campeche",
+      "lat": "18.83333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "05",
+      "lng": "-92.5",
+      "geonameId": 3531011,
+      "toponymName": "Estado de Chiapas",
+      "countryId": "3996063",
+      "fcl": "A",
+      "population": 4250246,
+      "countryCode": "MX",
+      "name": "Chiapas",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "CHP"
+      },
+      "countryName": "Mexico",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Chiapas",
+      "lat": "16.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "06",
+      "lng": "-106.25",
+      "geonameId": 4014336,
+      "toponymName": "Estado de Chihuahua",
+      "countryId": "3996063",
+      "fcl": "A",
+      "population": 3316178,
+      "countryCode": "MX",
+      "name": "Chihuahua",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "CHH"
+      },
+      "countryName": "Mexico",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Chihuahua",
+      "lat": "28.75",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "07",
+      "lng": "-102",
+      "geonameId": 4013674,
+      "toponymName": "Estado de Coahuila de Zaragoza",
+      "countryId": "3996063",
+      "fcl": "A",
+      "population": 2415862,
+      "countryCode": "MX",
+      "name": "Coahuila",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "COA"
+      },
+      "countryName": "Mexico",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Coahuila",
+      "lat": "27.33333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "08",
+      "lng": "-103.9",
+      "geonameId": 4013513,
+      "toponymName": "Estado de Colima",
+      "countryId": "3996063",
+      "fcl": "A",
+      "population": 597970,
+      "countryCode": "MX",
+      "name": "Colima",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "COL"
+      },
+      "countryName": "Mexico",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Colima",
+      "lat": "19.13333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "10",
+      "lng": "-104.83333",
+      "geonameId": 4011741,
+      "toponymName": "Estado de Durango",
+      "countryId": "3996063",
+      "fcl": "A",
+      "population": 1460178,
+      "countryCode": "MX",
+      "name": "Durango",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "DUR"
+      },
+      "countryName": "Mexico",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Durango",
+      "lat": "24.83333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "11",
+      "lng": "-101",
+      "geonameId": 4005267,
+      "toponymName": "Estado de Guanajuato",
+      "countryId": "3996063",
+      "fcl": "A",
+      "population": 4908056,
+      "countryCode": "MX",
+      "name": "Guanajuato",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "GUA"
+      },
+      "countryName": "Mexico",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Guanajuato",
+      "lat": "21",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "12",
+      "lng": "-100",
+      "geonameId": 3527213,
+      "toponymName": "Estado de Guerrero",
+      "countryId": "3996063",
+      "fcl": "A",
+      "population": 3237579,
+      "countryCode": "MX",
+      "name": "Guerrero",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "GRO"
+      },
+      "countryName": "Mexico",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Guerrero",
+      "lat": "17.66667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "13",
+      "lng": "-99",
+      "geonameId": 3527115,
+      "toponymName": "Estado de Hidalgo",
+      "countryId": "3996063",
+      "fcl": "A",
+      "population": 2356133,
+      "countryCode": "MX",
+      "name": "Hidalgo",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "HID"
+      },
+      "countryName": "Mexico",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Hidalgo",
+      "lat": "20.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "14",
+      "lng": "-103.66667",
+      "geonameId": 4004156,
+      "toponymName": "Estado de Jalisco",
+      "countryId": "3996063",
+      "fcl": "A",
+      "population": 6653364,
+      "countryCode": "MX",
+      "name": "Jalisco",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "JAL"
+      },
+      "countryName": "Mexico",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Jalisco",
+      "lat": "20.33333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "09",
+      "lng": "-99.13333",
+      "geonameId": 3527646,
+      "toponymName": "Ciudad de México",
+      "countryId": "3996063",
+      "fcl": "A",
+      "population": 8851080,
+      "countryCode": "MX",
+      "name": "Mexico City",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "CMX"
+      },
+      "countryName": "Mexico",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Mexico City",
+      "lat": "19.28333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "16",
+      "lng": "-101.83333",
+      "geonameId": 3995955,
+      "toponymName": "Estado de Michoacán de Ocampo",
+      "countryId": "3996063",
+      "fcl": "A",
+      "population": 4090997,
+      "countryCode": "MX",
+      "name": "Michoacán",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "MIC"
+      },
+      "countryName": "Mexico",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Michoacán",
+      "lat": "19.16667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "17",
+      "lng": "-99.06667",
+      "geonameId": 3522961,
+      "toponymName": "Estado de Morelos",
+      "countryId": "3996063",
+      "fcl": "A",
+      "population": 1680239,
+      "countryCode": "MX",
+      "name": "Morelos",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "MOR"
+      },
+      "countryName": "Mexico",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Morelos",
+      "lat": "18.75",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "15",
+      "lng": "-99.66667",
+      "geonameId": 3523272,
+      "toponymName": "Estado de México",
+      "countryId": "3996063",
+      "fcl": "A",
+      "population": 16618929,
+      "countryCode": "MX",
+      "name": "México",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "MEX"
+      },
+      "countryName": "Mexico",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "México",
+      "lat": "19.36667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "18",
+      "lng": "-104.83333",
+      "geonameId": 3995012,
+      "toponymName": "Estado de Nayarit",
+      "countryId": "3996063",
+      "fcl": "A",
+      "population": 941442,
+      "countryCode": "MX",
+      "name": "Nayarit",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "NAY"
+      },
+      "countryName": "Mexico",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Nayarit",
+      "lat": "21.83333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "19",
+      "lng": "-99.75",
+      "geonameId": 3522542,
+      "toponymName": "Estado de Nuevo León",
+      "countryId": "3996063",
+      "fcl": "A",
+      "population": 4123418,
+      "countryCode": "MX",
+      "name": "Nuevo León",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "NLE"
+      },
+      "countryName": "Mexico",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Nuevo León",
+      "lat": "25.58333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "20",
+      "lng": "-96.5",
+      "geonameId": 3522509,
+      "toponymName": "Estado de Oaxaca",
+      "countryId": "3996063",
+      "fcl": "A",
+      "population": 3625487,
+      "countryCode": "MX",
+      "name": "Oaxaca",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "OAX"
+      },
+      "countryName": "Mexico",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Oaxaca",
+      "lat": "17",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "21",
+      "lng": "-97.91667",
+      "geonameId": 3521082,
+      "toponymName": "Estado de Puebla",
+      "countryId": "3996063",
+      "fcl": "A",
+      "population": 5522918,
+      "countryCode": "MX",
+      "name": "Puebla",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "PUE"
+      },
+      "countryName": "Mexico",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Puebla",
+      "lat": "18.75",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "22",
+      "lng": "-99.85",
+      "geonameId": 3520914,
+      "toponymName": "Estado de Querétaro",
+      "countryId": "3996063",
+      "fcl": "A",
+      "population": 1568610,
+      "countryCode": "MX",
+      "name": "Querétaro",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "QUE"
+      },
+      "countryName": "Mexico",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Querétaro",
+      "lat": "20.85",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "23",
+      "lng": "-88.25",
+      "geonameId": 3520887,
+      "toponymName": "Estado de Quintana Roo",
+      "countryId": "3996063",
+      "fcl": "A",
+      "population": 1090281,
+      "countryCode": "MX",
+      "name": "Quintana Roo",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "ROO"
+      },
+      "countryName": "Mexico",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Quintana Roo",
+      "lat": "19.66667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "24",
+      "lng": "-100.5",
+      "geonameId": 3985605,
+      "toponymName": "Estado de San Luis Potosí",
+      "countryId": "3996063",
+      "fcl": "A",
+      "population": 2391929,
+      "countryCode": "MX",
+      "name": "San Luis Potosí",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SLP"
+      },
+      "countryName": "Mexico",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "San Luis Potosí",
+      "lat": "22.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "25",
+      "lng": "-107.5",
+      "geonameId": 3983035,
+      "toponymName": "Estado de Sinaloa",
+      "countryId": "3996063",
+      "fcl": "A",
+      "population": 2641696,
+      "countryCode": "MX",
+      "name": "Sinaloa",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SIN"
+      },
+      "countryName": "Mexico",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Sinaloa",
+      "lat": "25",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "26",
+      "lng": "-110.5",
+      "geonameId": 3982846,
+      "toponymName": "Estado de Sonora",
+      "countryId": "3996063",
+      "fcl": "A",
+      "population": 2351427,
+      "countryCode": "MX",
+      "name": "Sonora",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SON"
+      },
+      "countryName": "Mexico",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Sonora",
+      "lat": "29.66667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "27",
+      "lng": "-92.66667",
+      "geonameId": 3516458,
+      "toponymName": "Estado de Tabasco",
+      "countryId": "3996063",
+      "fcl": "A",
+      "population": 2041286,
+      "countryCode": "MX",
+      "name": "Tabasco",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "TAB"
+      },
+      "countryName": "Mexico",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Tabasco",
+      "lat": "18",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "28",
+      "lng": "-98.75",
+      "geonameId": 3516391,
+      "toponymName": "Estado de Tamaulipas",
+      "countryId": "3996063",
+      "fcl": "A",
+      "population": 2976339,
+      "countryCode": "MX",
+      "name": "Tamaulipas",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "TAM"
+      },
+      "countryName": "Mexico",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Tamaulipas",
+      "lat": "24",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "29",
+      "lng": "-98.16667",
+      "geonameId": 3515359,
+      "toponymName": "Estado de Tlaxcala",
+      "countryId": "3996063",
+      "fcl": "A",
+      "population": 1044369,
+      "countryCode": "MX",
+      "name": "Tlaxcala",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "TLA"
+      },
+      "countryName": "Mexico",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Tlaxcala",
+      "lat": "19.41667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "30",
+      "lng": "-96.66667",
+      "geonameId": 3514780,
+      "toponymName": "Estado de Veracruz-Llave",
+      "countryId": "3996063",
+      "fcl": "A",
+      "population": 7058898,
+      "countryCode": "MX",
+      "name": "Veracruz",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "VER"
+      },
+      "countryName": "Mexico",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Veracruz",
+      "lat": "19.33333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "31",
+      "lng": "-88.83333",
+      "geonameId": 3514211,
+      "toponymName": "Estado de Yucatán",
+      "countryId": "3996063",
+      "fcl": "A",
+      "population": 1761761,
+      "countryCode": "MX",
+      "name": "Yucatán",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "YUC"
+      },
+      "countryName": "Mexico",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Yucatán",
+      "lat": "20.75",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "32",
+      "lng": "-103",
+      "geonameId": 3979840,
+      "toponymName": "Estado de Zacatecas",
+      "countryId": "3996063",
+      "fcl": "A",
+      "population": 1363577,
+      "countryCode": "MX",
+      "name": "Zacatecas",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "ZAC"
+      },
+      "countryName": "Mexico",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Zacatecas",
+      "lat": "23.25",
+      "fcode": "ADM1"
+    }
+  ]
+}

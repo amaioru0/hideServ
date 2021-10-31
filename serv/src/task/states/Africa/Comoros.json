@@ -1,0 +1,65 @@
+{
+  "totalResultsCount": 3,
+  "geonames": [
+    {
+      "adminCode1": "02",
+      "lng": "43.33333",
+      "geonameId": 921882,
+      "toponymName": "Grande Comore",
+      "countryId": "921929",
+      "fcl": "A",
+      "population": 345513,
+      "countryCode": "KM",
+      "name": "Grande Comore",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "G"
+      },
+      "countryName": "Comoros",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Grande Comore",
+      "lat": "-11.58333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "03",
+      "lng": "43.73623",
+      "geonameId": 921780,
+      "toponymName": "Mohéli",
+      "countryId": "921929",
+      "fcl": "A",
+      "population": 38000,
+      "countryCode": "KM",
+      "name": "Mohéli",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "M"
+      },
+      "countryName": "Comoros",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Mohéli",
+      "lat": "-12.34268",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "01",
+      "lng": "44.41667",
+      "geonameId": 922001,
+      "toponymName": "Ndzuwani",
+      "countryId": "921929",
+      "fcl": "A",
+      "population": 270255,
+      "countryCode": "KM",
+      "name": "Ndzuwani",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "A"
+      },
+      "countryName": "Comoros",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Anjouan",
+      "lat": "-12.25",
+      "fcode": "ADM1"
+    }
+  ]
+}

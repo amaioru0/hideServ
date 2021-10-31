@@ -1,0 +1,225 @@
+{
+  "totalResultsCount": 11,
+  "geonames": [
+    {
+      "adminCode1": "01",
+      "lng": "-8",
+      "geonameId": 2460594,
+      "toponymName": "Bamako Region",
+      "countryId": "2453866",
+      "fcl": "A",
+      "population": 971351,
+      "countryCode": "ML",
+      "name": "Bamako Region",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "BKO"
+      },
+      "countryName": "Mali",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Bamako",
+      "lat": "12.65",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "09",
+      "lng": "1.6",
+      "geonameId": 2457161,
+      "toponymName": "Gao Region",
+      "countryId": "2453866",
+      "fcl": "A",
+      "population": 544120,
+      "countryCode": "ML",
+      "name": "Gao",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "7"
+      },
+      "countryName": "Mali",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Gao",
+      "lat": "16.6",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "03",
+      "lng": "-10.1",
+      "geonameId": 2455517,
+      "toponymName": "Kayes Region",
+      "countryId": "2453866",
+      "fcl": "A",
+      "population": 1996812,
+      "countryCode": "ML",
+      "name": "Kayes",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "1"
+      },
+      "countryName": "Mali",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Kayes",
+      "lat": "13.9",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "10",
+      "lng": "1.2",
+      "geonameId": 2597449,
+      "toponymName": "Kidal Region",
+      "countryId": "2453866",
+      "fcl": "A",
+      "population": 67638,
+      "countryCode": "ML",
+      "name": "Kidal",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "8"
+      },
+      "countryName": "Mali",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Kidal",
+      "lat": "19.4",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "07",
+      "lng": "-7.5",
+      "geonameId": 2454532,
+      "toponymName": "Koulikoro Region",
+      "countryId": "2453866",
+      "fcl": "A",
+      "population": 2418305,
+      "countryCode": "ML",
+      "name": "Koulikoro",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "2"
+      },
+      "countryName": "Mali",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Koulikoro",
+      "lat": "13.8",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "04",
+      "lng": "-3.4",
+      "geonameId": 2453347,
+      "toponymName": "Mopti Region",
+      "countryId": "2453866",
+      "fcl": "A",
+      "population": 2037330,
+      "countryCode": "ML",
+      "name": "Mopti",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "5"
+      },
+      "countryName": "Mali",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Mopti",
+      "lat": "14.7",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "12070577",
+      "lng": "2.40203",
+      "geonameId": 12070577,
+      "toponymName": "Ménaka Region",
+      "countryId": "2453866",
+      "fcl": "A",
+      "population": 54456,
+      "countryCode": "ML",
+      "name": "Ménaka",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "9"
+      },
+      "countryName": "Mali",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Ménaka",
+      "lat": "15.91531",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "06",
+      "lng": "-6.2",
+      "geonameId": 2451184,
+      "toponymName": "Sikasso Region",
+      "countryId": "2453866",
+      "fcl": "A",
+      "population": 2625919,
+      "countryCode": "ML",
+      "name": "Sikasso",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "3"
+      },
+      "countryName": "Mali",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Sikasso",
+      "lat": "11.3",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "05",
+      "lng": "-5.9",
+      "geonameId": 2451477,
+      "toponymName": "Ségou Region",
+      "countryId": "2453866",
+      "fcl": "A",
+      "population": 2336255,
+      "countryCode": "ML",
+      "name": "Ségou",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "4"
+      },
+      "countryName": "Mali",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Ségou",
+      "lat": "13.6",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "12070575",
+      "lng": "-3.98524",
+      "geonameId": 12070575,
+      "toponymName": "Taoudénit Region",
+      "countryId": "2453866",
+      "fcl": "A",
+      "population": 20000,
+      "countryCode": "ML",
+      "name": "Taoudénit",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "10"
+      },
+      "countryName": "Mali",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Taoudénit",
+      "lat": "22.66651",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "08",
+      "lng": "-3.6",
+      "geonameId": 2449066,
+      "toponymName": "Tombouctou Region",
+      "countryId": "2453866",
+      "fcl": "A",
+      "population": 681691,
+      "countryCode": "ML",
+      "name": "Tombouctou",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "6"
+      },
+      "countryName": "Mali",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Tombouctou",
+      "lat": "19.7",
+      "fcode": "ADM1"
+    }
+  ]
+}

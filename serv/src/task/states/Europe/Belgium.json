@@ -1,0 +1,65 @@
+{
+  "totalResultsCount": 3,
+  "geonames": [
+    {
+      "adminCode1": "BRU",
+      "lng": "4.35144",
+      "geonameId": 2800867,
+      "toponymName": "Bruxelles-Capitale",
+      "countryId": "2802361",
+      "fcl": "A",
+      "population": 1830000,
+      "countryCode": "BE",
+      "name": "Brussels Capital",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "BRU"
+      },
+      "countryName": "Belgium",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Brussels Capital",
+      "lat": "50.85332",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "VLG",
+      "lng": "4.5",
+      "geonameId": 3337388,
+      "toponymName": "Flanders",
+      "countryId": "2802361",
+      "fcl": "A",
+      "population": 6350765,
+      "countryCode": "BE",
+      "name": "Flanders",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "VLG"
+      },
+      "countryName": "Belgium",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Flanders",
+      "lat": "51",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "WAL",
+      "lng": "4.75",
+      "geonameId": 3337387,
+      "toponymName": "Wallonia",
+      "countryId": "2802361",
+      "fcl": "A",
+      "population": 3585214,
+      "countryCode": "BE",
+      "name": "Wallonia",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "WAL"
+      },
+      "countryName": "Belgium",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Wallonia",
+      "lat": "50.5",
+      "fcode": "ADM1"
+    }
+  ]
+}

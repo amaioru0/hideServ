@@ -1,0 +1,405 @@
+{
+  "totalResultsCount": 20,
+  "geonames": [
+    {
+      "adminCode1": "02",
+      "lng": "-8.4815",
+      "geonameId": 2742610,
+      "toponymName": "Distrito de Aveiro",
+      "countryId": "2264397",
+      "fcl": "A",
+      "population": 713578,
+      "countryCode": "PT",
+      "name": "Aveiro",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "01"
+      },
+      "countryName": "Portugal",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Aveiro",
+      "lat": "40.72974",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "23",
+      "lng": "-25.47466",
+      "geonameId": 3411865,
+      "toponymName": "Azores",
+      "countryId": "2264397",
+      "fcl": "A",
+      "population": 242902,
+      "countryCode": "PT",
+      "name": "Azores",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "20"
+      },
+      "countryName": "Portugal",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Azores",
+      "lat": "37.80847",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "03",
+      "lng": "-7.91855",
+      "geonameId": 2270984,
+      "toponymName": "Distrito de Beja",
+      "countryId": "2264397",
+      "fcl": "A",
+      "population": 161211,
+      "countryCode": "PT",
+      "name": "Beja",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "02"
+      },
+      "countryName": "Portugal",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Beja",
+      "lat": "37.84204",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "04",
+      "lng": "-8.42545",
+      "geonameId": 2742031,
+      "toponymName": "Distrito de Braga",
+      "countryId": "2264397",
+      "fcl": "A",
+      "population": 831368,
+      "countryCode": "PT",
+      "name": "Braga",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "03"
+      },
+      "countryName": "Portugal",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Braga",
+      "lat": "41.54821",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "05",
+      "lng": "-6.76346",
+      "geonameId": 2742026,
+      "toponymName": "Distrito de Bragança",
+      "countryId": "2264397",
+      "fcl": "A",
+      "population": 148808,
+      "countryCode": "PT",
+      "name": "Bragança",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "04"
+      },
+      "countryName": "Portugal",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Bragança",
+      "lat": "41.83615",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "06",
+      "lng": "-7.52323",
+      "geonameId": 2269513,
+      "toponymName": "Distrito de Castelo Branco",
+      "countryId": "2264397",
+      "fcl": "A",
+      "population": 208070,
+      "countryCode": "PT",
+      "name": "Castelo Branco",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "05"
+      },
+      "countryName": "Portugal",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Castelo Branco",
+      "lat": "39.95658",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "07",
+      "lng": "-8.32963",
+      "geonameId": 2740636,
+      "toponymName": "Distrito de Coimbra",
+      "countryId": "2264397",
+      "fcl": "A",
+      "population": 441245,
+      "countryCode": "PT",
+      "name": "Coimbra",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "06"
+      },
+      "countryName": "Portugal",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Coimbra",
+      "lat": "40.1925",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "19",
+      "lng": "-8.58651",
+      "geonameId": 2262961,
+      "toponymName": "Distrito de Setúbal",
+      "countryId": "2264397",
+      "fcl": "A",
+      "population": 788459,
+      "countryCode": "PT",
+      "name": "District of Setúbal",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "15"
+      },
+      "countryName": "Portugal",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "District of Setúbal",
+      "lat": "38.34957",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "09",
+      "lng": "-8.16667",
+      "geonameId": 2268337,
+      "toponymName": "Distrito de Faro",
+      "countryId": "2264397",
+      "fcl": "A",
+      "population": 458734,
+      "countryCode": "PT",
+      "name": "Faro",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "08"
+      },
+      "countryName": "Portugal",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Faro",
+      "lat": "37.2",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "11",
+      "lng": "-7.2185",
+      "geonameId": 2738782,
+      "toponymName": "Distrito da Guarda",
+      "countryId": "2264397",
+      "fcl": "A",
+      "population": 173716,
+      "countryCode": "PT",
+      "name": "Guarda",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "09"
+      },
+      "countryName": "Portugal",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Guarda",
+      "lat": "40.64223",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "13",
+      "lng": "-8.81403",
+      "geonameId": 2267094,
+      "toponymName": "Distrito de Leiria",
+      "countryId": "2264397",
+      "fcl": "A",
+      "population": 459450,
+      "countryCode": "PT",
+      "name": "Leiria",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "10"
+      },
+      "countryName": "Portugal",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Leiria",
+      "lat": "39.7205",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "14",
+      "lng": "-9.13333",
+      "geonameId": 2267056,
+      "toponymName": "Distrito de Lisboa",
+      "countryId": "2264397",
+      "fcl": "A",
+      "population": 2135992,
+      "countryCode": "PT",
+      "name": "Lisbon",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "11"
+      },
+      "countryName": "Portugal",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Lisbon",
+      "lat": "39",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "10",
+      "lng": "-16.94699",
+      "geonameId": 2593105,
+      "toponymName": "Madeira",
+      "countryId": "2264397",
+      "fcl": "A",
+      "population": 238928,
+      "countryCode": "PT",
+      "name": "Madeira",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "30"
+      },
+      "countryName": "Portugal",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Madeira",
+      "lat": "32.76737",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "16",
+      "lng": "-7.58333",
+      "geonameId": 2264507,
+      "toponymName": "Distrito de Portalegre",
+      "countryId": "2264397",
+      "fcl": "A",
+      "population": 127018,
+      "countryCode": "PT",
+      "name": "Portalegre",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "12"
+      },
+      "countryName": "Portugal",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Portalegre",
+      "lat": "39.25",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "17",
+      "lng": "-8.32691",
+      "geonameId": 2735941,
+      "toponymName": "Distrito do Porto",
+      "countryId": "2264397",
+      "fcl": "A",
+      "population": 1781826,
+      "countryCode": "PT",
+      "name": "Porto",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "13"
+      },
+      "countryName": "Portugal",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Porto",
+      "lat": "41.22852",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "18",
+      "lng": "-8.50192",
+      "geonameId": 2263478,
+      "toponymName": "Distrito de Santarém",
+      "countryId": "2264397",
+      "fcl": "A",
+      "population": 475344,
+      "countryCode": "PT",
+      "name": "Santarém",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "14"
+      },
+      "countryName": "Portugal",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Santarém",
+      "lat": "39.28881",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "20",
+      "lng": "-8.5063",
+      "geonameId": 2732772,
+      "toponymName": "Distrito de Viana do Castelo",
+      "countryId": "2264397",
+      "fcl": "A",
+      "population": 252011,
+      "countryCode": "PT",
+      "name": "Viana do Castelo",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "16"
+      },
+      "countryName": "Portugal",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Viana do Castelo",
+      "lat": "41.89649",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "21",
+      "lng": "-7.59915",
+      "geonameId": 2732437,
+      "toponymName": "Distrito de Vila Real",
+      "countryId": "2264397",
+      "fcl": "A",
+      "population": 223731,
+      "countryCode": "PT",
+      "name": "Vila Real",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "17"
+      },
+      "countryName": "Portugal",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Vila Real",
+      "lat": "41.54355",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "22",
+      "lng": "-7.79816",
+      "geonameId": 2732264,
+      "toponymName": "Distrito de Viseu",
+      "countryId": "2264397",
+      "fcl": "A",
+      "population": 394927,
+      "countryCode": "PT",
+      "name": "Viseu",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "18"
+      },
+      "countryName": "Portugal",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Viseu",
+      "lat": "40.82747",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "08",
+      "lng": "-7.83333",
+      "geonameId": 2268404,
+      "toponymName": "Distrito de Évora",
+      "countryId": "2264397",
+      "fcl": "A",
+      "population": 173408,
+      "countryCode": "PT",
+      "name": "Évora",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "07"
+      },
+      "countryName": "Portugal",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Évora",
+      "lat": "38.58333",
+      "fcode": "ADM1"
+    }
+  ]
+}

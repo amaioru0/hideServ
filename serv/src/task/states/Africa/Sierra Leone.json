@@ -1,0 +1,105 @@
+{
+  "totalResultsCount": 5,
+  "geonames": [
+    {
+      "adminCode1": "01",
+      "lng": "-11",
+      "geonameId": 2409543,
+      "toponymName": "Eastern Province",
+      "countryId": "2403846",
+      "fcl": "A",
+      "population": 1187532,
+      "countryCode": "SL",
+      "name": "Eastern Province",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "E"
+      },
+      "countryName": "Sierra Leone",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Eastern Province",
+      "lat": "8.25",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "05",
+      "lng": "-12.70098",
+      "geonameId": 11919533,
+      "toponymName": "North West Province",
+      "countryId": "2403846",
+      "fcl": "A",
+      "population": 1162065,
+      "countryCode": "SL",
+      "name": "North West",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "NW"
+      },
+      "countryName": "Sierra Leone",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "North West",
+      "lat": "9.12379",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "02",
+      "lng": "-11.53333",
+      "geonameId": 2404798,
+      "toponymName": "Northern Province",
+      "countryId": "2403846",
+      "fcl": "A",
+      "population": 1718240,
+      "countryCode": "SL",
+      "name": "Northern Province",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "N"
+      },
+      "countryName": "Sierra Leone",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Northern Province",
+      "lat": "9.15",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "03",
+      "lng": "-12",
+      "geonameId": 2403745,
+      "toponymName": "Southern Province",
+      "countryId": "2403846",
+      "fcl": "A",
+      "population": 1377067,
+      "countryCode": "SL",
+      "name": "Southern Province",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "S"
+      },
+      "countryName": "Sierra Leone",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Southern Province",
+      "lat": "7.8",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "04",
+      "lng": "-13.11667",
+      "geonameId": 2403068,
+      "toponymName": "Western Area",
+      "countryId": "2403846",
+      "fcl": "A",
+      "population": 1447271,
+      "countryCode": "SL",
+      "name": "Western Area",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "W"
+      },
+      "countryName": "Sierra Leone",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Western Area",
+      "lat": "8.33333",
+      "fcode": "ADM1"
+    }
+  ]
+}

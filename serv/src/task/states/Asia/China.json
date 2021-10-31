@@ -1,0 +1,625 @@
+{
+  "totalResultsCount": 31,
+  "geonames": [
+    {
+      "adminCode1": "01",
+      "lng": "117.16667",
+      "geonameId": 1818058,
+      "toponymName": "Anhui Sheng",
+      "countryId": "1814991",
+      "fcl": "A",
+      "population": 64610000,
+      "countryCode": "CN",
+      "name": "Anhui",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "AH"
+      },
+      "countryName": "China",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Anhui",
+      "lat": "31.91667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "22",
+      "lng": "116.39706",
+      "geonameId": 2038349,
+      "toponymName": "Beijing Shi",
+      "countryId": "1814991",
+      "fcl": "A",
+      "population": 14933274,
+      "countryCode": "CN",
+      "name": "Beijing",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "BJ"
+      },
+      "countryName": "China",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Beijing",
+      "lat": "39.91691",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "33",
+      "lng": "107.83333",
+      "geonameId": 1814905,
+      "toponymName": "Chongqing Shi",
+      "countryId": "1814991",
+      "fcl": "A",
+      "population": 28390000,
+      "countryCode": "CN",
+      "name": "Chongqing",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "CQ"
+      },
+      "countryName": "China",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Chongqing",
+      "lat": "30.08333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "07",
+      "lng": "118",
+      "geonameId": 1811017,
+      "toponymName": "Fujian Sheng",
+      "countryId": "1814991",
+      "fcl": "A",
+      "population": 36890000,
+      "countryCode": "CN",
+      "name": "Fujian",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "FJ"
+      },
+      "countryName": "China",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Fujian",
+      "lat": "26.25",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "15",
+      "lng": "102.75",
+      "geonameId": 1810676,
+      "toponymName": "Gansu Sheng",
+      "countryId": "1814991",
+      "fcl": "A",
+      "population": 26280000,
+      "countryCode": "CN",
+      "name": "Gansu",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "GS"
+      },
+      "countryName": "China",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Gansu",
+      "lat": "37.75",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "30",
+      "lng": "113.25",
+      "geonameId": 1809935,
+      "toponymName": "Guangdong Sheng",
+      "countryId": "1814991",
+      "fcl": "A",
+      "population": 104303132,
+      "countryCode": "CN",
+      "name": "Guangdong",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "GD"
+      },
+      "countryName": "China",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Guangdong",
+      "lat": "23.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "16",
+      "lng": "109",
+      "geonameId": 1809867,
+      "toponymName": "Guangxi Zhuangzu Zizhiqu",
+      "countryId": "1814991",
+      "fcl": "A",
+      "population": 48160000,
+      "countryCode": "CN",
+      "name": "Guangxi",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "GX"
+      },
+      "countryName": "China",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Guangxi",
+      "lat": "24",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "18",
+      "lng": "107",
+      "geonameId": 1809445,
+      "toponymName": "Guizhou Sheng",
+      "countryId": "1814991",
+      "fcl": "A",
+      "population": 37930000,
+      "countryCode": "CN",
+      "name": "Guizhou",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "GZ"
+      },
+      "countryName": "China",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Guizhou",
+      "lat": "27",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "31",
+      "lng": "109.75",
+      "geonameId": 1809054,
+      "toponymName": "Hainan Sheng",
+      "countryId": "1814991",
+      "fcl": "A",
+      "population": 8540000,
+      "countryCode": "CN",
+      "name": "Hainan",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "HI"
+      },
+      "countryName": "China",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Hainan",
+      "lat": "19.25",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "10",
+      "lng": "115.66667",
+      "geonameId": 1808773,
+      "toponymName": "Hebei Sheng",
+      "countryId": "1814991",
+      "fcl": "A",
+      "population": 69890000,
+      "countryCode": "CN",
+      "name": "Hebei",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "HE"
+      },
+      "countryName": "China",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Hebei",
+      "lat": "39",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "08",
+      "lng": "128",
+      "geonameId": 2036965,
+      "toponymName": "Heilongjiang Sheng",
+      "countryId": "1814991",
+      "fcl": "A",
+      "population": 38250000,
+      "countryCode": "CN",
+      "name": "Heilongjiang",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "HL"
+      },
+      "countryName": "China",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Heilongjiang",
+      "lat": "47.75",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "09",
+      "lng": "113.66667",
+      "geonameId": 1808520,
+      "toponymName": "Henan Sheng",
+      "countryId": "1814991",
+      "fcl": "A",
+      "population": 94290000,
+      "countryCode": "CN",
+      "name": "Henan",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "HA"
+      },
+      "countryName": "China",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Henan",
+      "lat": "34",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "12",
+      "lng": "112.25",
+      "geonameId": 1806949,
+      "toponymName": "Hubei Sheng",
+      "countryId": "1814991",
+      "fcl": "A",
+      "population": 57110000,
+      "countryCode": "CN",
+      "name": "Hubei",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "HB"
+      },
+      "countryName": "China",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Hubei",
+      "lat": "31",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "11",
+      "lng": "111.75",
+      "geonameId": 1806691,
+      "toponymName": "Hunan Sheng",
+      "countryId": "1814991",
+      "fcl": "A",
+      "population": 66980000,
+      "countryCode": "CN",
+      "name": "Hunan",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "HN"
+      },
+      "countryName": "China",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Hunan",
+      "lat": "27.66667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "20",
+      "lng": "114.75",
+      "geonameId": 2035607,
+      "toponymName": "Inner Mongolia Autonomous Region",
+      "countryId": "1814991",
+      "fcl": "A",
+      "population": 24259735,
+      "countryCode": "CN",
+      "name": "Inner Mongolia",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "NM"
+      },
+      "countryName": "China",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Inner Mongolia",
+      "lat": "43.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "04",
+      "lng": "119.83333",
+      "geonameId": 1806260,
+      "toponymName": "Jiangsu Sheng",
+      "countryId": "1814991",
+      "fcl": "A",
+      "population": 76770000,
+      "countryCode": "CN",
+      "name": "Jiangsu",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "JS"
+      },
+      "countryName": "China",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Jiangsu",
+      "lat": "33",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "03",
+      "lng": "115.66667",
+      "geonameId": 1806222,
+      "toponymName": "Jiangxi Sheng",
+      "countryId": "1814991",
+      "fcl": "A",
+      "population": 44000000,
+      "countryCode": "CN",
+      "name": "Jiangxi",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "JX"
+      },
+      "countryName": "China",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Jiangxi",
+      "lat": "27.66667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "05",
+      "lng": "126.16667",
+      "geonameId": 2036500,
+      "toponymName": "Jilin Sheng",
+      "countryId": "1814991",
+      "fcl": "A",
+      "population": 27340000,
+      "countryCode": "CN",
+      "name": "Jilin",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "JL"
+      },
+      "countryName": "China",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Jilin",
+      "lat": "43.58333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "19",
+      "lng": "122.66667",
+      "geonameId": 2036115,
+      "toponymName": "Liaoning Sheng",
+      "countryId": "1814991",
+      "fcl": "A",
+      "population": 43150000,
+      "countryCode": "CN",
+      "name": "Liaoning",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "LN"
+      },
+      "countryName": "China",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Liaoning",
+      "lat": "41.25",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "21",
+      "lng": "106",
+      "geonameId": 1799355,
+      "toponymName": "Ningxia Huizu Zizhiqu",
+      "countryId": "1814991",
+      "fcl": "A",
+      "population": 6180000,
+      "countryCode": "CN",
+      "name": "Ningxia Hui Autonomous Region",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "NX"
+      },
+      "countryName": "China",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Ningxia Hui Autonomous Region",
+      "lat": "37.25",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "06",
+      "lng": "96",
+      "geonameId": 1280239,
+      "toponymName": "Qinghai Sheng",
+      "countryId": "1814991",
+      "fcl": "A",
+      "population": 5626722,
+      "countryCode": "CN",
+      "name": "Qinghai",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "QH"
+      },
+      "countryName": "China",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Qinghai",
+      "lat": "36",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "26",
+      "lng": "109",
+      "geonameId": 1796480,
+      "toponymName": "Shaanxi",
+      "countryId": "1814991",
+      "fcl": "A",
+      "population": 37620000,
+      "countryCode": "CN",
+      "name": "Shaanxi",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SN"
+      },
+      "countryName": "China",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Shaanxi",
+      "lat": "36",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "25",
+      "lng": "118.25",
+      "geonameId": 1796328,
+      "toponymName": "Shandong Sheng",
+      "countryId": "1814991",
+      "fcl": "A",
+      "population": 94170000,
+      "countryCode": "CN",
+      "name": "Shandong",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SD"
+      },
+      "countryName": "China",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Shandong",
+      "lat": "36.33333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "23",
+      "lng": "121.41667",
+      "geonameId": 1796231,
+      "toponymName": "Shanghai Shi",
+      "countryId": "1814991",
+      "fcl": "A",
+      "population": 18880000,
+      "countryCode": "CN",
+      "name": "Shanghai",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SH"
+      },
+      "countryName": "China",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Shanghai",
+      "lat": "31.16667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "24",
+      "lng": "112.25",
+      "geonameId": 1795912,
+      "toponymName": "Shanxi Sheng",
+      "countryId": "1814991",
+      "fcl": "A",
+      "population": 34110000,
+      "countryCode": "CN",
+      "name": "Shanxi",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SX"
+      },
+      "countryName": "China",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Shanxi",
+      "lat": "37.66667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "32",
+      "lng": "102.66667",
+      "geonameId": 1794299,
+      "toponymName": "Sichuan Sheng",
+      "countryId": "1814991",
+      "fcl": "A",
+      "population": 87250000,
+      "countryCode": "CN",
+      "name": "Sichuan",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SC"
+      },
+      "countryName": "China",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Sichuan",
+      "lat": "30.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "28",
+      "lng": "117.33333",
+      "geonameId": 1792943,
+      "toponymName": "Tianjin Shi",
+      "countryId": "1814991",
+      "fcl": "A",
+      "population": 14000000,
+      "countryCode": "CN",
+      "name": "Tianjin",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "TJ"
+      },
+      "countryName": "China",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Tianjin",
+      "lat": "39.33333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "14",
+      "lng": "88",
+      "geonameId": 1279685,
+      "toponymName": "Tibet Autonomous Region",
+      "countryId": "1814991",
+      "fcl": "A",
+      "population": 2870000,
+      "countryCode": "CN",
+      "name": "Tibet",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "XZ"
+      },
+      "countryName": "China",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Tibet",
+      "lat": "31.66667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "13",
+      "lng": "85.5",
+      "geonameId": 1529047,
+      "toponymName": "Xinjiang Uyghur Autonomous Region",
+      "countryId": "1814991",
+      "fcl": "A",
+      "population": 21310000,
+      "countryCode": "CN",
+      "name": "Xinjiang",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "XJ"
+      },
+      "countryName": "China",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Xinjiang",
+      "lat": "41.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "29",
+      "lng": "101.5",
+      "geonameId": 1785694,
+      "toponymName": "Yunnan Sheng",
+      "countryId": "1814991",
+      "fcl": "A",
+      "population": 45430000,
+      "countryCode": "CN",
+      "name": "Yunnan",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "YN"
+      },
+      "countryName": "China",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Yunnan",
+      "lat": "25",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "02",
+      "lng": "120",
+      "geonameId": 1784764,
+      "toponymName": "Zhejiang Sheng",
+      "countryId": "1814991",
+      "fcl": "A",
+      "population": 51200000,
+      "countryCode": "CN",
+      "name": "Zhejiang",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "ZJ"
+      },
+      "countryName": "China",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Zhejiang",
+      "lat": "29.16667",
+      "fcode": "ADM1"
+    }
+  ]
+}

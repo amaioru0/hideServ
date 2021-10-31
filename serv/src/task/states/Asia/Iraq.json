@@ -1,0 +1,382 @@
+{
+  "totalResultsCount": 19,
+  "geonames": [
+    {
+      "adminCode1": "01",
+      "lng": "41.31751",
+      "geonameId": 99592,
+      "toponymName": "Muḩāfaz̧at al Anbār",
+      "countryId": "99237",
+      "fcl": "A",
+      "population": 1961400,
+      "countryCode": "IQ",
+      "name": "Al Anbar",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "AN"
+      },
+      "countryName": "Iraq",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Al Anbar",
+      "lat": "33.54402",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "17",
+      "lng": "43.83333",
+      "geonameId": 98862,
+      "toponymName": "An Najaf",
+      "countryId": "99237",
+      "fcl": "A",
+      "population": 1400000,
+      "countryCode": "IQ",
+      "name": "An Najaf",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "NA"
+      },
+      "countryName": "Iraq",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "An Najaf",
+      "lat": "31.25",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "07",
+      "lng": "44.36667",
+      "geonameId": 98180,
+      "toponymName": "Baghdad Governorate",
+      "countryId": "99237",
+      "fcl": "A",
+      "population": 14000000,
+      "countryCode": "IQ",
+      "name": "Baghdad",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "BG"
+      },
+      "countryName": "Iraq",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Baghdad",
+      "lat": "33.31667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "02",
+      "lng": "47.41667",
+      "geonameId": 89341,
+      "toponymName": "Muḩāfaz̧at al Başrah",
+      "countryId": "99237",
+      "fcl": "A",
+      "population": 4500000,
+      "countryCode": "IQ",
+      "name": "Basra",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "BA"
+      },
+      "countryName": "Iraq",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Basra",
+      "lat": "30.41667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "09",
+      "lng": "46.25",
+      "geonameId": 97019,
+      "toponymName": "Muḩāfaz̧at Dhī Qār",
+      "countryId": "99237",
+      "fcl": "A",
+      "population": 1386335,
+      "countryCode": "IQ",
+      "name": "Dhi Qar",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "DQ"
+      },
+      "countryName": "Iraq",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Dhi Qar",
+      "lat": "31.25",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "10",
+      "lng": "45",
+      "geonameId": 96965,
+      "toponymName": "Diyālá",
+      "countryId": "99237",
+      "fcl": "A",
+      "population": 1224000,
+      "countryCode": "IQ",
+      "name": "Diyālá",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "DI"
+      },
+      "countryName": "Iraq",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Diyālá",
+      "lat": "34",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "08",
+      "lng": "43.13333",
+      "geonameId": 97270,
+      "toponymName": "Dihok",
+      "countryId": "99237",
+      "fcl": "A",
+      "population": 1356415,
+      "countryCode": "IQ",
+      "name": "Duhok",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "DA"
+      },
+      "countryName": "Iraq",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Duhok",
+      "lat": "37.06667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "11",
+      "lng": "44.2",
+      "geonameId": 95445,
+      "toponymName": "Erbil",
+      "countryId": "99237",
+      "fcl": "A",
+      "population": 2000000,
+      "countryCode": "IQ",
+      "name": "Erbil",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "AR"
+      },
+      "countryName": "Iraq",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Arbīl",
+      "lat": "36.33333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "19",
+      "lng": "45.99333",
+      "geonameId": 12218240,
+      "toponymName": "Halabja Governorate",
+      "countryId": "99237",
+      "fcl": "A",
+      "population": 0,
+      "countryCode": "IQ",
+      "name": "Halabja Governorate",
+      "fclName": "country, state, region,...",
+      "countryName": "Iraq",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Halabja Governorate",
+      "lat": "35.18445",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "13",
+      "lng": "44.13333",
+      "geonameId": 98410,
+      "toponymName": "Muḩāfaz̧at Kirkūk",
+      "countryId": "99237",
+      "fcl": "A",
+      "population": 1395614,
+      "countryCode": "IQ",
+      "name": "Kirkuk",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "KI"
+      },
+      "countryName": "Iraq",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Kirkuk",
+      "lat": "35.36667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "14",
+      "lng": "47.06667",
+      "geonameId": 93540,
+      "toponymName": "Muḩāfaz̧at Maysān",
+      "countryId": "99237",
+      "fcl": "A",
+      "population": 971400,
+      "countryCode": "IQ",
+      "name": "Maysan",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "MA"
+      },
+      "countryName": "Iraq",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Maysan",
+      "lat": "31.9",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "16",
+      "lng": "45.41667",
+      "geonameId": 89693,
+      "toponymName": "Muhafazat Wasit",
+      "countryId": "99237",
+      "fcl": "A",
+      "population": 1450000,
+      "countryCode": "IQ",
+      "name": "Muhafazat Wasit",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "WA"
+      },
+      "countryName": "Iraq",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Wāsiţ",
+      "lat": "32.75",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "06",
+      "lng": "44.61667",
+      "geonameId": 98227,
+      "toponymName": "Muḩāfaz̧at Bābil",
+      "countryId": "99237",
+      "fcl": "A",
+      "population": 1950000,
+      "countryCode": "IQ",
+      "name": "Muḩāfaz̧at Bābil",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "BB"
+      },
+      "countryName": "Iraq",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Bābil",
+      "lat": "32.53333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "12",
+      "lng": "43.83333",
+      "geonameId": 94823,
+      "toponymName": "Muḩāfaz̧at Karbalā’",
+      "countryId": "99237",
+      "fcl": "A",
+      "population": 1200000,
+      "countryCode": "IQ",
+      "name": "Muḩāfaz̧at Karbalā’",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "KA"
+      },
+      "countryName": "Iraq",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Karbalāʼ",
+      "lat": "32.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "03",
+      "lng": "45.33333",
+      "geonameId": 99032,
+      "toponymName": "Muḩāfaz̧at al Muthanná",
+      "countryId": "99237",
+      "fcl": "A",
+      "population": 919100,
+      "countryCode": "IQ",
+      "name": "Muḩāfaz̧at al Muthanná",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "MU"
+      },
+      "countryName": "Iraq",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Al Muthanná",
+      "lat": "30.25",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "04",
+      "lng": "45.08333",
+      "geonameId": 99022,
+      "toponymName": "Muḩāfaz̧at al Qādisīyah",
+      "countryId": "99237",
+      "fcl": "A",
+      "population": 908192,
+      "countryCode": "IQ",
+      "name": "Muḩāfaz̧at al Qādisīyah",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "QA"
+      },
+      "countryName": "Iraq",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Al Qādisīyah",
+      "lat": "31.91667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "15",
+      "lng": "42.5",
+      "geonameId": 92877,
+      "toponymName": "Muḩāfaz̧at Nīnawá",
+      "countryId": "99237",
+      "fcl": "A",
+      "population": 3270422,
+      "countryCode": "IQ",
+      "name": "Nineveh",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "NI"
+      },
+      "countryName": "Iraq",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Nineveh",
+      "lat": "36.08333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "18",
+      "lng": "43.65",
+      "geonameId": 91695,
+      "toponymName": "Muhafazat Salah ad Din",
+      "countryId": "99237",
+      "fcl": "A",
+      "population": 1032674,
+      "countryCode": "IQ",
+      "name": "Salah ad Din",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SD"
+      },
+      "countryName": "Iraq",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Salah ad Din",
+      "lat": "34.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "05",
+      "lng": "45.33333",
+      "geonameId": 98465,
+      "toponymName": "Muḩāfaz̧at as Sulaymānīyah",
+      "countryId": "99237",
+      "fcl": "A",
+      "population": 1552000,
+      "countryCode": "IQ",
+      "name": "Sulaymaniyah",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SU"
+      },
+      "countryName": "Iraq",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Sulaymaniyah",
+      "lat": "35.58333",
+      "fcode": "ADM1"
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "totalResultsCount": 8,
+  "geonames": [
+    {
+      "adminCode1": "85",
+      "lng": "90.33333",
+      "geonameId": 1337229,
+      "toponymName": "Barisal Division",
+      "countryId": "1210997",
+      "fcl": "A",
+      "population": 8325666,
+      "countryCode": "BD",
+      "name": "Barisal Division",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "A"
+      },
+      "countryName": "Bangladesh",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Barisāl",
+      "lat": "22.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "84",
+      "lng": "91.5",
+      "geonameId": 1337200,
+      "toponymName": "Chittagong",
+      "countryId": "1210997",
+      "fcl": "A",
+      "population": 28423019,
+      "countryCode": "BD",
+      "name": "Chittagong",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "B"
+      },
+      "countryName": "Bangladesh",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Chittagong",
+      "lat": "22.91667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "81",
+      "lng": "90.25",
+      "geonameId": 1337179,
+      "toponymName": "Dhaka Division",
+      "countryId": "1210997",
+      "fcl": "A",
+      "population": 47424418,
+      "countryCode": "BD",
+      "name": "Dhaka Division",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "C"
+      },
+      "countryName": "Bangladesh",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Dhaka",
+      "lat": "23.83333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "82",
+      "lng": "89.33333",
+      "geonameId": 1337210,
+      "toponymName": "Khulna Division",
+      "countryId": "1210997",
+      "fcl": "A",
+      "population": 15687759,
+      "countryCode": "BD",
+      "name": "Khulna Division",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "D"
+      },
+      "countryName": "Bangladesh",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Khulna",
+      "lat": "22.91667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "H",
+      "lng": "90.38109",
+      "geonameId": 11287936,
+      "toponymName": "Mymensingh Division",
+      "countryId": "1210997",
+      "fcl": "A",
+      "population": 11370000,
+      "countryCode": "BD",
+      "name": "Mymensingh Division",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "H"
+      },
+      "countryName": "Bangladesh",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Mymensingh Division",
+      "lat": "24.72937",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "83",
+      "lng": "89",
+      "geonameId": 1337166,
+      "toponymName": "Rājshāhi Division",
+      "countryId": "1210997",
+      "fcl": "A",
+      "population": 18484858,
+      "countryCode": "BD",
+      "name": "Rajshahi Division",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "E"
+      },
+      "countryName": "Bangladesh",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Rajshahi Division",
+      "lat": "25",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "87",
+      "lng": "89",
+      "geonameId": 7671048,
+      "toponymName": "Rangpur Division",
+      "countryId": "1210997",
+      "fcl": "A",
+      "population": 15787758,
+      "countryCode": "BD",
+      "name": "Rangpur Division",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "F"
+      },
+      "countryName": "Bangladesh",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Rangpur Division",
+      "lat": "25.83333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "86",
+      "lng": "91.66667",
+      "geonameId": 1477362,
+      "toponymName": "Sylhet Division",
+      "countryId": "1210997",
+      "fcl": "A",
+      "population": 9910219,
+      "countryCode": "BD",
+      "name": "Sylhet Division",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "G"
+      },
+      "countryName": "Bangladesh",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Sylhet",
+      "lat": "24.66667",
+      "fcode": "ADM1"
+    }
+  ]
+}

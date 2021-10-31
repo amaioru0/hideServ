@@ -1,0 +1,859 @@
+{
+  "totalResultsCount": 43,
+  "geonames": [
+    {
+      "adminCode1": "01",
+      "lng": "25.25208",
+      "geonameId": 461613,
+      "toponymName": "Aizkraukles novads",
+      "countryId": "458258",
+      "fcl": "A",
+      "population": 40690,
+      "countryCode": "LV",
+      "name": "Aizkraukles novads",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "002"
+      },
+      "countryName": "Latvia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Aizkraukles novads",
+      "lat": "56.60184",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "02",
+      "lng": "27",
+      "geonameId": 461525,
+      "toponymName": "Alūksnes Novads",
+      "countryId": "458258",
+      "fcl": "A",
+      "population": 25667,
+      "countryCode": "LV",
+      "name": "Alūksnes Novads",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "007"
+      },
+      "countryName": "Latvia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Alūksnes Novads",
+      "lat": "57.41667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "AN",
+      "lng": "26.34451",
+      "geonameId": 12276858,
+      "toponymName": "Augšdaugava Municipality",
+      "countryId": "458258",
+      "fcl": "A",
+      "population": 25927,
+      "countryCode": "LV",
+      "name": "Augšdaugava Municipality",
+      "fclName": "country, state, region,...",
+      "countryName": "Latvia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Augšdaugava Municipality",
+      "lat": "55.95973",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "03",
+      "lng": "27.43968",
+      "geonameId": 461160,
+      "toponymName": "Balvu Novads",
+      "countryId": "458258",
+      "fcl": "A",
+      "population": 29780,
+      "countryCode": "LV",
+      "name": "Balvu Novads",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "015"
+      },
+      "countryName": "Latvia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Balvu Novads",
+      "lat": "57.03254",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "04",
+      "lng": "24.33333",
+      "geonameId": 461112,
+      "toponymName": "Bauskas Novads",
+      "countryId": "458258",
+      "fcl": "A",
+      "population": 51666,
+      "countryCode": "LV",
+      "name": "Bauskas Novads",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "016"
+      },
+      "countryName": "Latvia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Bauskas Rajons",
+      "lat": "56.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "05",
+      "lng": "25.4132",
+      "geonameId": 460569,
+      "toponymName": "Cēsu Novads",
+      "countryId": "458258",
+      "fcl": "A",
+      "population": 58890,
+      "countryCode": "LV",
+      "name": "Cēsu Novads",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "022"
+      },
+      "countryName": "Latvia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Cēsu Rajons",
+      "lat": "57.24225",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "06",
+      "lng": "26.53889",
+      "geonameId": 460414,
+      "toponymName": "Daugavpils",
+      "countryId": "458258",
+      "fcl": "A",
+      "population": 96028,
+      "countryCode": "LV",
+      "name": "Daugavpils",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "DGV"
+      },
+      "countryName": "Latvia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Daugavpils",
+      "lat": "55.88139",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "08",
+      "lng": "23.16667",
+      "geonameId": 460311,
+      "toponymName": "Dobeles novads",
+      "countryId": "458258",
+      "fcl": "A",
+      "population": 24521,
+      "countryCode": "LV",
+      "name": "Dobeles novads",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "026"
+      },
+      "countryName": "Latvia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Dobeles novads",
+      "lat": "56.58333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "09",
+      "lng": "26.66667",
+      "geonameId": 459664,
+      "toponymName": "Gulbenes novads",
+      "countryId": "458258",
+      "fcl": "A",
+      "population": 27424,
+      "countryCode": "LV",
+      "name": "Gulbenes novads",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "033"
+      },
+      "countryName": "Latvia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Gulbenes novads",
+      "lat": "57.16667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "11",
+      "lng": "23.71639",
+      "geonameId": 459281,
+      "toponymName": "Jelgava",
+      "countryId": "458258",
+      "fcl": "A",
+      "population": 63534,
+      "countryCode": "LV",
+      "name": "Jelgava",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "JEL"
+      },
+      "countryName": "Latvia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Jelgava",
+      "lat": "56.65111",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "12",
+      "lng": "23.75",
+      "geonameId": 459278,
+      "toponymName": "Jelgavas novads",
+      "countryId": "458258",
+      "fcl": "A",
+      "population": 36054,
+      "countryCode": "LV",
+      "name": "Jelgavas novads",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "041"
+      },
+      "countryName": "Latvia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Jelgavas novads",
+      "lat": "56.58333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "10",
+      "lng": "25.83333",
+      "geonameId": 459282,
+      "toponymName": "Jēkabpils Municipality",
+      "countryId": "458258",
+      "fcl": "A",
+      "population": 53473,
+      "countryCode": "LV",
+      "name": "Jēkabpils Municipality",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "042"
+      },
+      "countryName": "Latvia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Jēkabpils Municipality",
+      "lat": "56.33333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "13",
+      "lng": "23.69531",
+      "geonameId": 459202,
+      "toponymName": "Jūrmala",
+      "countryId": "458258",
+      "fcl": "A",
+      "population": 56060,
+      "countryCode": "LV",
+      "name": "Jūrmala",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "JUR"
+      },
+      "countryName": "Latvia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Jūrmala",
+      "lat": "56.95198",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "14",
+      "lng": "27.31983",
+      "geonameId": 458621,
+      "toponymName": "Krāslavas novads",
+      "countryId": "458258",
+      "fcl": "A",
+      "population": 35778,
+      "countryCode": "LV",
+      "name": "Krāslavas novads",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "047"
+      },
+      "countryName": "Latvia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Krāslavas novads",
+      "lat": "55.92265",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "15",
+      "lng": "22",
+      "geonameId": 458459,
+      "toponymName": "Kuldīgas novads",
+      "countryId": "458258",
+      "fcl": "A",
+      "population": 37119,
+      "countryCode": "LV",
+      "name": "Kuldīgas novads",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "050"
+      },
+      "countryName": "Latvia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Kuldīgas novads",
+      "lat": "56.83333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "16",
+      "lng": "21.03667",
+      "geonameId": 457955,
+      "toponymName": "Liepāja",
+      "countryId": "458258",
+      "fcl": "A",
+      "population": 85260,
+      "countryCode": "LV",
+      "name": "Liepāja",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "LPX"
+      },
+      "countryName": "Latvia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Liepāja",
+      "lat": "56.54194",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "18",
+      "lng": "24.66667",
+      "geonameId": 457889,
+      "toponymName": "Limbažu novads",
+      "countryId": "458258",
+      "fcl": "A",
+      "population": 39018,
+      "countryCode": "LV",
+      "name": "Limbažu novads",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "054"
+      },
+      "countryName": "Latvia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Limbažu novads",
+      "lat": "57.58333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "19",
+      "lng": "27.75",
+      "geonameId": 457773,
+      "toponymName": "Ludzas novads",
+      "countryId": "458258",
+      "fcl": "A",
+      "population": 34113,
+      "countryCode": "LV",
+      "name": "Ludzas novads",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "058"
+      },
+      "countryName": "Latvia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Ludzas novads",
+      "lat": "56.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "90",
+      "lng": "26.35056",
+      "geonameId": 7628341,
+      "toponymName": "Līvānu Novads",
+      "countryId": "458258",
+      "fcl": "A",
+      "population": 14292,
+      "countryCode": "LV",
+      "name": "Līvāni",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "056"
+      },
+      "countryName": "Latvia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Līvāni",
+      "lat": "56.37139",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "20",
+      "lng": "26.25",
+      "geonameId": 457712,
+      "toponymName": "Madona Municipality",
+      "countryId": "458258",
+      "fcl": "A",
+      "population": 45093,
+      "countryCode": "LV",
+      "name": "Madona Municipality",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "059"
+      },
+      "countryName": "Latvia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Madona Municipality",
+      "lat": "56.83333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "95",
+      "lng": "23.95889",
+      "geonameId": 7628319,
+      "toponymName": "Mārupes Novads",
+      "countryId": "458258",
+      "fcl": "A",
+      "population": 13958,
+      "countryCode": "LV",
+      "name": "Mārupe",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "062"
+      },
+      "countryName": "Latvia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Mārupe",
+      "lat": "56.88639",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "21",
+      "lng": "25.10307",
+      "geonameId": 457061,
+      "toponymName": "Ogres novads",
+      "countryId": "458258",
+      "fcl": "A",
+      "population": 61120,
+      "countryCode": "LV",
+      "name": "Ogre",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "067"
+      },
+      "countryName": "Latvia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Ogre",
+      "lat": "56.87581",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "A2",
+      "lng": "23.94806",
+      "geonameId": 7628320,
+      "toponymName": "Olaines Novads",
+      "countryId": "458258",
+      "fcl": "A",
+      "population": 20085,
+      "countryCode": "LV",
+      "name": "Olaine",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "068"
+      },
+      "countryName": "Latvia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Olaine",
+      "lat": "56.79139",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "22",
+      "lng": "26.6939",
+      "geonameId": 456528,
+      "toponymName": "Preiļi Municipality",
+      "countryId": "458258",
+      "fcl": "A",
+      "population": 40536,
+      "countryCode": "LV",
+      "name": "Preiļi Municipality",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "073"
+      },
+      "countryName": "Latvia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Preiļu novads",
+      "lat": "56.27326",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "B5",
+      "lng": "24.59639",
+      "geonameId": 7628359,
+      "toponymName": "Ropažu Novads",
+      "countryId": "458258",
+      "fcl": "A",
+      "population": 6832,
+      "countryCode": "LV",
+      "name": "Ropažu Novads",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "080"
+      },
+      "countryName": "Latvia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Ropažu",
+      "lat": "56.96639",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "23",
+      "lng": "27.34",
+      "geonameId": 456203,
+      "toponymName": "Rēzekne",
+      "countryId": "458258",
+      "fcl": "A",
+      "population": 41662,
+      "countryCode": "LV",
+      "name": "Rēzekne",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "REZ"
+      },
+      "countryName": "Latvia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Rēzekne",
+      "lat": "56.51028",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "24",
+      "lng": "27.16667",
+      "geonameId": 456197,
+      "toponymName": "Rēzeknes Novads",
+      "countryId": "458258",
+      "fcl": "A",
+      "population": 41662,
+      "countryCode": "LV",
+      "name": "Rēzeknes Novads",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "077"
+      },
+      "countryName": "Latvia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Rēzeknes Novads",
+      "lat": "56.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "25",
+      "lng": "24.12167",
+      "geonameId": 456173,
+      "toponymName": "Rīga",
+      "countryId": "458258",
+      "fcl": "A",
+      "population": 627000,
+      "countryCode": "LV",
+      "name": "Rīga",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "RIX"
+      },
+      "countryName": "Latvia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Riga",
+      "lat": "56.97778",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "C3",
+      "lng": "24.35056",
+      "geonameId": 7628323,
+      "toponymName": "Salaspils Novads",
+      "countryId": "458258",
+      "fcl": "A",
+      "population": 22810,
+      "countryCode": "LV",
+      "name": "Salaspils Novads",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "087"
+      },
+      "countryName": "Latvia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Salaspils",
+      "lat": "56.87444",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "27",
+      "lng": "22.5",
+      "geonameId": 455888,
+      "toponymName": "Saldus Municipality",
+      "countryId": "458258",
+      "fcl": "A",
+      "population": 37892,
+      "countryCode": "LV",
+      "name": "Saldus Municipality",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "088"
+      },
+      "countryName": "Latvia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Saldus Rajons",
+      "lat": "56.66667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "C5",
+      "lng": "24.42611",
+      "geonameId": 7628366,
+      "toponymName": "Saulkrastu Novads",
+      "countryId": "458258",
+      "fcl": "A",
+      "population": 6082,
+      "countryCode": "LV",
+      "name": "Saulkrastu Novads",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "089"
+      },
+      "countryName": "Latvia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Saulkrastu",
+      "lat": "57.25139",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "C7",
+      "lng": "24.86389",
+      "geonameId": 7628362,
+      "toponymName": "Siguldas Novads",
+      "countryId": "458258",
+      "fcl": "A",
+      "population": 17579,
+      "countryCode": "LV",
+      "name": "Siguldas Novads",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "091"
+      },
+      "countryName": "Latvia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Sigulda",
+      "lat": "57.12972",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "D1",
+      "lng": "26.01083",
+      "geonameId": 7628380,
+      "toponymName": "Smiltenes Novads",
+      "countryId": "458258",
+      "fcl": "A",
+      "population": 14376,
+      "countryCode": "LV",
+      "name": "Smiltenes Novads",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "094"
+      },
+      "countryName": "Latvia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Smiltene",
+      "lat": "57.40667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "DN",
+      "lng": "21.17443",
+      "geonameId": 12276857,
+      "toponymName": "South Kurzeme Municipality",
+      "countryId": "458258",
+      "fcl": "A",
+      "population": 33364,
+      "countryCode": "LV",
+      "name": "South Kurzeme Municipality",
+      "fclName": "country, state, region,...",
+      "countryName": "Latvia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "South Kurzeme Municipality",
+      "lat": "56.53624",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "28",
+      "lng": "22.58333",
+      "geonameId": 454968,
+      "toponymName": "Talsi Municipality",
+      "countryId": "458258",
+      "fcl": "A",
+      "population": 48425,
+      "countryCode": "LV",
+      "name": "Talsi Municipality",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "097"
+      },
+      "countryName": "Latvia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Talsi Municipality",
+      "lat": "57.33333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "29",
+      "lng": "23",
+      "geonameId": 454771,
+      "toponymName": "Tukuma novads",
+      "countryId": "458258",
+      "fcl": "A",
+      "population": 52357,
+      "countryCode": "LV",
+      "name": "Tukuma novads",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "099"
+      },
+      "countryName": "Latvia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Tukuma novads",
+      "lat": "56.91667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "30",
+      "lng": "25.91667",
+      "geonameId": 454571,
+      "toponymName": "Valka Municipality",
+      "countryId": "458258",
+      "fcl": "A",
+      "population": 33348,
+      "countryCode": "LV",
+      "name": "Valka",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "101"
+      },
+      "countryName": "Latvia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Valka",
+      "lat": "57.58333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "31",
+      "lng": "25.42786",
+      "geonameId": 454564,
+      "toponymName": "Valmiera",
+      "countryId": "458258",
+      "fcl": "A",
+      "population": 60111,
+      "countryCode": "LV",
+      "name": "Valmiera",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "VMR"
+      },
+      "countryName": "Latvia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Valmiera",
+      "lat": "57.53499",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "E1",
+      "lng": "26.63444",
+      "geonameId": 7628342,
+      "toponymName": "Varakļānu Novads",
+      "countryId": "458258",
+      "fcl": "A",
+      "population": 3941,
+      "countryCode": "LV",
+      "name": "Varakļānu Novads",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "102"
+      },
+      "countryName": "Latvia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Varakļāni",
+      "lat": "56.63333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "32",
+      "lng": "21.60167",
+      "geonameId": 454311,
+      "toponymName": "Ventspils",
+      "countryId": "458258",
+      "fcl": "A",
+      "population": 41998,
+      "countryCode": "LV",
+      "name": "Ventspils",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "VEN"
+      },
+      "countryName": "Latvia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Ventspils",
+      "lat": "57.40611",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "33",
+      "lng": "21.83333",
+      "geonameId": 454307,
+      "toponymName": "Ventspils Municipality",
+      "countryId": "458258",
+      "fcl": "A",
+      "population": 14530,
+      "countryCode": "LV",
+      "name": "Ventspils Municipality",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "106"
+      },
+      "countryName": "Latvia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Ventspils Rajons",
+      "lat": "57.33333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "34",
+      "lng": "24.37944",
+      "geonameId": 7628327,
+      "toponymName": "Ādažu Novads",
+      "countryId": "458258",
+      "fcl": "A",
+      "population": 9342,
+      "countryCode": "LV",
+      "name": "Ādaži",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "011"
+      },
+      "countryName": "Latvia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Ādaži",
+      "lat": "57.10917",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "80",
+      "lng": "24.22639",
+      "geonameId": 7628322,
+      "toponymName": "Ķekavas Novads",
+      "countryId": "458258",
+      "fcl": "A",
+      "population": 20945,
+      "countryCode": "LV",
+      "name": "Ķekava",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "052"
+      },
+      "countryName": "Latvia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Ķekava",
+      "lat": "56.79806",
+      "fcode": "ADM1"
+    }
+  ]
+}

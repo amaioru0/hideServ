@@ -1,0 +1,365 @@
+{
+  "totalResultsCount": 18,
+  "geonames": [
+    {
+      "adminCode1": "11",
+      "lng": "-86.93291",
+      "geonameId": 3608814,
+      "toponymName": "Departamento de Islas de la Bahía",
+      "countryId": "3608932",
+      "fcl": "A",
+      "population": 65932,
+      "countryCode": "HN",
+      "name": "Bay Islands",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "IB"
+      },
+      "countryName": "Honduras",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Bay Islands",
+      "lat": "16.09597",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "01",
+      "lng": "-87",
+      "geonameId": 3615027,
+      "toponymName": "Departamento de Atlántida",
+      "countryId": "3608932",
+      "fcl": "A",
+      "population": 11370,
+      "countryCode": "HN",
+      "name": "Departamento de Atlántida",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "AT"
+      },
+      "countryName": "Honduras",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Atlántida",
+      "lat": "15.66667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "02",
+      "lng": "-87.08333",
+      "geonameId": 3613527,
+      "toponymName": "Departamento de Choluteca",
+      "countryId": "3608932",
+      "fcl": "A",
+      "population": 420350,
+      "countryCode": "HN",
+      "name": "Departamento de Choluteca",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "CH"
+      },
+      "countryName": "Honduras",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Choluteca",
+      "lat": "13.33333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "03",
+      "lng": "-85.66667",
+      "geonameId": 3613358,
+      "toponymName": "Departamento de Colón",
+      "countryId": "3608932",
+      "fcl": "A",
+      "population": 319786,
+      "countryCode": "HN",
+      "name": "Departamento de Colón",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "CL"
+      },
+      "countryName": "Honduras",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Colón",
+      "lat": "15.75",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "04",
+      "lng": "-87.66667",
+      "geonameId": 3613319,
+      "toponymName": "Departamento de Comayagua",
+      "countryId": "3608932",
+      "fcl": "A",
+      "population": 390643,
+      "countryCode": "HN",
+      "name": "Departamento de Comayagua",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "CM"
+      },
+      "countryName": "Honduras",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Comayagua",
+      "lat": "14.58333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "05",
+      "lng": "-88.91667",
+      "geonameId": 3613229,
+      "toponymName": "Departamento de Copán",
+      "countryId": "3608932",
+      "fcl": "A",
+      "population": 382722,
+      "countryCode": "HN",
+      "name": "Departamento de Copán",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "CP"
+      },
+      "countryName": "Honduras",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Copán",
+      "lat": "14.91667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "06",
+      "lng": "-88",
+      "geonameId": 3613140,
+      "toponymName": "Departamento de Cortés",
+      "countryId": "3608932",
+      "fcl": "A",
+      "population": 1202510,
+      "countryCode": "HN",
+      "name": "Departamento de Cortés",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "CR"
+      },
+      "countryName": "Honduras",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Cortés",
+      "lat": "15.41667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "07",
+      "lng": "-86.5",
+      "geonameId": 3610942,
+      "toponymName": "Departamento de El Paraíso",
+      "countryId": "3608932",
+      "fcl": "A",
+      "population": 383565,
+      "countryCode": "HN",
+      "name": "Departamento de El Paraíso",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "EP"
+      },
+      "countryName": "Honduras",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "El Paraíso",
+      "lat": "14.08333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "08",
+      "lng": "-87.16667",
+      "geonameId": 3609672,
+      "toponymName": "Departamento de Francisco Morazán",
+      "countryId": "3608932",
+      "fcl": "A",
+      "population": 1680700,
+      "countryCode": "HN",
+      "name": "Departamento de Francisco Morazán",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "FM"
+      },
+      "countryName": "Honduras",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Francisco Morazán",
+      "lat": "14.25",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "09",
+      "lng": "-84.33333",
+      "geonameId": 3609583,
+      "toponymName": "Departamento de Gracias a Dios",
+      "countryId": "3608932",
+      "fcl": "A",
+      "population": 76278,
+      "countryCode": "HN",
+      "name": "Departamento de Gracias a Dios",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "GD"
+      },
+      "countryName": "Honduras",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Gracias a Dios",
+      "lat": "15.25",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "10",
+      "lng": "-88.16667",
+      "geonameId": 3608833,
+      "toponymName": "Departamento de Intibucá",
+      "countryId": "3608932",
+      "fcl": "A",
+      "population": 232509,
+      "countryCode": "HN",
+      "name": "Departamento de Intibucá",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "IN"
+      },
+      "countryName": "Honduras",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Intibucá",
+      "lat": "14.33333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "12",
+      "lng": "-87.91667",
+      "geonameId": 3607251,
+      "toponymName": "Departamento de La Paz",
+      "countryId": "3608932",
+      "fcl": "A",
+      "population": 173731,
+      "countryCode": "HN",
+      "name": "Departamento de La Paz",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "LP"
+      },
+      "countryName": "Honduras",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "La Paz",
+      "lat": "14.08333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "13",
+      "lng": "-88.58333",
+      "geonameId": 3606066,
+      "toponymName": "Departamento de Lempira",
+      "countryId": "3608932",
+      "fcl": "A",
+      "population": 277910,
+      "countryCode": "HN",
+      "name": "Departamento de Lempira",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "LE"
+      },
+      "countryName": "Honduras",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Lempira",
+      "lat": "14.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "14",
+      "lng": "-89",
+      "geonameId": 3604318,
+      "toponymName": "Departamento de Ocotepeque",
+      "countryId": "3608932",
+      "fcl": "A",
+      "population": 118558,
+      "countryCode": "HN",
+      "name": "Departamento de Ocotepeque",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "OC"
+      },
+      "countryName": "Honduras",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Ocotepeque",
+      "lat": "14.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "15",
+      "lng": "-86",
+      "geonameId": 3604249,
+      "toponymName": "Departamento de Olancho",
+      "countryId": "3608932",
+      "fcl": "A",
+      "population": 458365,
+      "countryCode": "HN",
+      "name": "Departamento de Olancho",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "OL"
+      },
+      "countryName": "Honduras",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Olancho",
+      "lat": "14.83333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "16",
+      "lng": "-88.33333",
+      "geonameId": 3601689,
+      "toponymName": "Departamento de Santa Bárbara",
+      "countryId": "3608932",
+      "fcl": "A",
+      "population": 368298,
+      "countryCode": "HN",
+      "name": "Departamento de Santa Bárbara",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SB"
+      },
+      "countryName": "Honduras",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Santa Bárbara",
+      "lat": "15.08333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "17",
+      "lng": "-87.58333",
+      "geonameId": 3600456,
+      "toponymName": "Departamento de Valle",
+      "countryId": "3608932",
+      "fcl": "A",
+      "population": 160346,
+      "countryCode": "HN",
+      "name": "Departamento de Valle",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "VA"
+      },
+      "countryName": "Honduras",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Valle",
+      "lat": "13.58333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "18",
+      "lng": "-87.16667",
+      "geonameId": 3600193,
+      "toponymName": "Departamento de Yoro",
+      "countryId": "3608932",
+      "fcl": "A",
+      "population": 503886,
+      "countryCode": "HN",
+      "name": "Departamento de Yoro",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "YO"
+      },
+      "countryName": "Honduras",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Yoro",
+      "lat": "15.25",
+      "fcode": "ADM1"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "totalResultsCount": 3,
+  "geonames": [
+    {
+      "adminCode1": "C",
+      "lng": "34",
+      "geonameId": 931597,
+      "toponymName": "Central Region",
+      "countryId": "927384",
+      "fcl": "A",
+      "population": 7523340,
+      "countryCode": "MW",
+      "name": "Central Region",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "C"
+      },
+      "countryName": "Malawi",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Central Region",
+      "lat": "-13.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "N",
+      "lng": "34",
+      "geonameId": 924591,
+      "toponymName": "Northern Region",
+      "countryId": "927384",
+      "fcl": "A",
+      "population": 2289780,
+      "countryCode": "MW",
+      "name": "Northern Region",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "N"
+      },
+      "countryName": "Malawi",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Northern Region",
+      "lat": "-11",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "S",
+      "lng": "35",
+      "geonameId": 923817,
+      "toponymName": "Southern Region",
+      "countryId": "927384",
+      "fcl": "A",
+      "population": 7750629,
+      "countryCode": "MW",
+      "name": "Southern Region",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "S"
+      },
+      "countryName": "Malawi",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Southern Region",
+      "lat": "-15.5",
+      "fcode": "ADM1"
+    }
+  ]
+}

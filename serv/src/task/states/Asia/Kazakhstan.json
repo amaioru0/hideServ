@@ -1,0 +1,363 @@
+{
+  "totalResultsCount": 18,
+  "geonames": [
+    {
+      "adminCode1": "04",
+      "lng": "58.58333",
+      "geonameId": 610688,
+      "toponymName": "Aktyubinskaya Oblast’",
+      "countryId": "1522867",
+      "fcl": "A",
+      "population": 797036,
+      "countryCode": "KZ",
+      "name": "Aktyubinskaya Oblast’",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "AKT"
+      },
+      "countryName": "Kazakhstan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Aqtöbe",
+      "lat": "48.58333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "02",
+      "lng": "76.9",
+      "geonameId": 1526395,
+      "toponymName": "Almaty",
+      "countryId": "1522867",
+      "fcl": "A",
+      "population": 1472866,
+      "countryCode": "KZ",
+      "name": "Almaty",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "ALA"
+      },
+      "countryName": "Kazakhstan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Almaty",
+      "lat": "43.26667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "01",
+      "lng": "78",
+      "geonameId": 1537162,
+      "toponymName": "Almaty Oblysy",
+      "countryId": "1522867",
+      "fcl": "A",
+      "population": 1949837,
+      "countryCode": "KZ",
+      "name": "Almaty Oblysy",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "ALM"
+      },
+      "countryName": "Kazakhstan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Almaty Oblysy",
+      "lat": "44.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "03",
+      "lng": "69.91667",
+      "geonameId": 1518003,
+      "toponymName": "Aqmola Oblysy",
+      "countryId": "1522867",
+      "fcl": "A",
+      "population": 733113,
+      "countryCode": "KZ",
+      "name": "Aqmola Oblysy",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "AKM"
+      },
+      "countryName": "Kazakhstan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Aqmola",
+      "lat": "51.83333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "06",
+      "lng": "52",
+      "geonameId": 609862,
+      "toponymName": "Atyraū Oblysy",
+      "countryId": "1522867",
+      "fcl": "A",
+      "population": 556388,
+      "countryCode": "KZ",
+      "name": "Atyraū Oblysy",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "ATY"
+      },
+      "countryName": "Kazakhstan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Atyraū",
+      "lat": "47",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "08",
+      "lng": "63.28333",
+      "geonameId": 1538316,
+      "toponymName": "Baikonur",
+      "countryId": "1522867",
+      "fcl": "A",
+      "population": 36175,
+      "countryCode": "KZ",
+      "name": "Baikonur",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {},
+      "countryName": "Kazakhstan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Baikonur",
+      "lat": "45.65",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "15",
+      "lng": "81.5",
+      "geonameId": 1517381,
+      "toponymName": "East Kazakhstan",
+      "countryId": "1522867",
+      "fcl": "A",
+      "population": 1464269,
+      "countryCode": "KZ",
+      "name": "East Kazakhstan",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "VOS"
+      },
+      "countryName": "Kazakhstan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "East Kazakhstan",
+      "lat": "48.83333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "12",
+      "lng": "71",
+      "geonameId": 1523401,
+      "toponymName": "Qaraghandy Oblysy",
+      "countryId": "1522867",
+      "fcl": "A",
+      "population": 1363638,
+      "countryCode": "KZ",
+      "name": "Karaganda",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "KAR"
+      },
+      "countryName": "Kazakhstan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Karaganda",
+      "lat": "48.25",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "09",
+      "lng": "54",
+      "geonameId": 608879,
+      "toponymName": "Mangistauskaya Oblast’",
+      "countryId": "1522867",
+      "fcl": "A",
+      "population": 596706,
+      "countryCode": "KZ",
+      "name": "Mangistauskaya Oblast’",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "MAN"
+      },
+      "countryName": "Kazakhstan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Mangghystaū",
+      "lat": "44",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "16",
+      "lng": "69.5",
+      "geonameId": 1519367,
+      "toponymName": "North Kazakhstan",
+      "countryId": "1522867",
+      "fcl": "A",
+      "population": 579403,
+      "countryCode": "KZ",
+      "name": "North Kazakhstan",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SEV"
+      },
+      "countryName": "Kazakhstan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "North Kazakhstan",
+      "lat": "54.33333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "05",
+      "lng": "71.43333",
+      "geonameId": 1538317,
+      "toponymName": "Nur-Sultan",
+      "countryId": "1522867",
+      "fcl": "A",
+      "population": 835153,
+      "countryCode": "KZ",
+      "name": "Nur-Sultan",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "AST"
+      },
+      "countryName": "Kazakhstan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Nur-Sultan",
+      "lat": "51.13333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "11",
+      "lng": "76.25",
+      "geonameId": 1520239,
+      "toponymName": "Pavlodar Region",
+      "countryId": "1522867",
+      "fcl": "A",
+      "population": 755640,
+      "countryCode": "KZ",
+      "name": "Pavlodar Region",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "PAV"
+      },
+      "countryName": "Kazakhstan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Pavlodar Region",
+      "lat": "52.08333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "13",
+      "lng": "64",
+      "geonameId": 1521671,
+      "toponymName": "Qostanay Oblysy",
+      "countryId": "1522867",
+      "fcl": "A",
+      "population": 880227,
+      "countryCode": "KZ",
+      "name": "Qostanay Oblysy",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "KUS"
+      },
+      "countryName": "Kazakhstan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Qostanay",
+      "lat": "51.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "14",
+      "lng": "65",
+      "geonameId": 1521406,
+      "toponymName": "Qyzylorda Oblysy",
+      "countryId": "1522867",
+      "fcl": "A",
+      "population": 727990,
+      "countryCode": "KZ",
+      "name": "Qyzylorda Oblysy",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "KZY"
+      },
+      "countryName": "Kazakhstan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Qyzylorda",
+      "lat": "45",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "1537272",
+      "lng": "69.58333",
+      "geonameId": 1537272,
+      "toponymName": "Shymkent",
+      "countryId": "1522867",
+      "fcl": "A",
+      "population": 1000000,
+      "countryCode": "KZ",
+      "name": "Shymkent",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SHY"
+      },
+      "countryName": "Kazakhstan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Shymkent",
+      "lat": "42.31667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "10",
+      "lng": "68.66667",
+      "geonameId": 1524787,
+      "toponymName": "Turkistan",
+      "countryId": "1522867",
+      "fcl": "A",
+      "population": 2894800,
+      "countryCode": "KZ",
+      "name": "Turkistan",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "YUZ"
+      },
+      "countryName": "Kazakhstan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Turkistan",
+      "lat": "43.25",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "07",
+      "lng": "50.66667",
+      "geonameId": 607847,
+      "toponymName": "West Kazakhstan",
+      "countryId": "1522867",
+      "fcl": "A",
+      "population": 618261,
+      "countryCode": "KZ",
+      "name": "West Kazakhstan",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "ZAP"
+      },
+      "countryName": "Kazakhstan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Batys Qazaqstan",
+      "lat": "49.83333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "17",
+      "lng": "72.08333",
+      "geonameId": 1524444,
+      "toponymName": "Zhambyl Oblysy",
+      "countryId": "1522867",
+      "fcl": "A",
+      "population": 1071645,
+      "countryCode": "KZ",
+      "name": "Zhambyl Oblysy",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "ZHA"
+      },
+      "countryName": "Kazakhstan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Zhambyl",
+      "lat": "44.33333",
+      "fcode": "ADM1"
+    }
+  ]
+}

@@ -1,0 +1,325 @@
+{
+  "totalResultsCount": 16,
+  "geonames": [
+    {
+      "adminCode1": "12",
+      "lng": "-2.45",
+      "geonameId": 12105072,
+      "toponymName": "Ahafo",
+      "countryId": "2300660",
+      "fcl": "A",
+      "population": 600000,
+      "countryCode": "GH",
+      "name": "Ahafo",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "AF"
+      },
+      "countryName": "Ghana",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Ahafo",
+      "lat": "7",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "02",
+      "lng": "-1.5",
+      "geonameId": 2304116,
+      "toponymName": "Ashanti Region",
+      "countryId": "2300660",
+      "fcl": "A",
+      "population": 4105402,
+      "countryCode": "GH",
+      "name": "Ashanti Region",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "AH"
+      },
+      "countryName": "Ghana",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Ashanti",
+      "lat": "6.75",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "13",
+      "lng": "-2.5",
+      "geonameId": 12105069,
+      "toponymName": "Bono",
+      "countryId": "2300660",
+      "fcl": "A",
+      "population": 1082520,
+      "countryCode": "GH",
+      "name": "Bono",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "BO"
+      },
+      "countryName": "Ghana",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Bono",
+      "lat": "7.65",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "14",
+      "lng": "-1.05",
+      "geonameId": 12105073,
+      "toponymName": "Bono East",
+      "countryId": "2300660",
+      "fcl": "A",
+      "population": 1034421,
+      "countryCode": "GH",
+      "name": "Bono East",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "BE"
+      },
+      "countryName": "Ghana",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Bono East",
+      "lat": "7.75",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "04",
+      "lng": "-1",
+      "geonameId": 2302353,
+      "toponymName": "Central Region",
+      "countryId": "2300660",
+      "fcl": "A",
+      "population": 1717543,
+      "countryCode": "GH",
+      "name": "Central Region",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "CP"
+      },
+      "countryName": "Ghana",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Central",
+      "lat": "5.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "05",
+      "lng": "-0.5",
+      "geonameId": 2301360,
+      "toponymName": "Eastern Region",
+      "countryId": "2300660",
+      "fcl": "A",
+      "population": 2633154,
+      "countryCode": "GH",
+      "name": "Eastern Region",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "EP"
+      },
+      "countryName": "Ghana",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Eastern",
+      "lat": "6.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "01",
+      "lng": "0",
+      "geonameId": 2300569,
+      "toponymName": "Greater Accra Region",
+      "countryId": "2300660",
+      "fcl": "A",
+      "population": 3460792,
+      "countryCode": "GH",
+      "name": "Greater Accra Region",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "AA"
+      },
+      "countryName": "Ghana",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Greater Accra",
+      "lat": "5.75",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "15",
+      "lng": "-0.6",
+      "geonameId": 12105071,
+      "toponymName": "North East",
+      "countryId": "2300660",
+      "fcl": "A",
+      "population": 590000,
+      "countryCode": "GH",
+      "name": "North East",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "NE"
+      },
+      "countryName": "Ghana",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "North East",
+      "lat": "10.4",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "06",
+      "lng": "-0.1",
+      "geonameId": 2297169,
+      "toponymName": "Northern Region",
+      "countryId": "2300660",
+      "fcl": "A",
+      "population": 2003152,
+      "countryCode": "GH",
+      "name": "Northern Region",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "NP"
+      },
+      "countryName": "Ghana",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Northern",
+      "lat": "9.45",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "16",
+      "lng": "0.3",
+      "geonameId": 12105070,
+      "toponymName": "Oti",
+      "countryId": "2300660",
+      "fcl": "A",
+      "population": 742664,
+      "countryCode": "GH",
+      "name": "Oti",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "OT"
+      },
+      "countryName": "Ghana",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Oti",
+      "lat": "7.9",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "17",
+      "lng": "-1.6",
+      "geonameId": 12105074,
+      "toponymName": "Savannah",
+      "countryId": "2300660",
+      "fcl": "A",
+      "population": 580000,
+      "countryCode": "GH",
+      "name": "Savannah",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SV"
+      },
+      "countryName": "Ghana",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Savannah",
+      "lat": "9.15",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "10",
+      "lng": "-0.75",
+      "geonameId": 2294291,
+      "toponymName": "Upper East Region",
+      "countryId": "2300660",
+      "fcl": "A",
+      "population": 948118,
+      "countryCode": "GH",
+      "name": "Upper East Region",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "UE"
+      },
+      "countryName": "Ghana",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Upper East",
+      "lat": "10.75",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "11",
+      "lng": "-2.25",
+      "geonameId": 2294286,
+      "toponymName": "Upper West Region",
+      "countryId": "2300660",
+      "fcl": "A",
+      "population": 610452,
+      "countryCode": "GH",
+      "name": "Upper West Region",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "UW"
+      },
+      "countryName": "Ghana",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Upper West",
+      "lat": "10.33333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "08",
+      "lng": "0.5",
+      "geonameId": 2294234,
+      "toponymName": "Volta Region",
+      "countryId": "2300660",
+      "fcl": "A",
+      "population": 1738710,
+      "countryCode": "GH",
+      "name": "Volta Region",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "TV"
+      },
+      "countryName": "Ghana",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Volta",
+      "lat": "6.4",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "18",
+      "lng": "-2.8",
+      "geonameId": 12105075,
+      "toponymName": "Western North",
+      "countryId": "2300660",
+      "fcl": "A",
+      "population": 928309,
+      "countryCode": "GH",
+      "name": "Western North",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "WN"
+      },
+      "countryName": "Ghana",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Western North",
+      "lat": "6.3",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "09",
+      "lng": "-2.25",
+      "geonameId": 2294076,
+      "toponymName": "Western Region",
+      "countryId": "2300660",
+      "fcl": "A",
+      "population": 2376021,
+      "countryCode": "GH",
+      "name": "Western Region",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "WP"
+      },
+      "countryName": "Ghana",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Western",
+      "lat": "5.45",
+      "fcode": "ADM1"
+    }
+  ]
+}

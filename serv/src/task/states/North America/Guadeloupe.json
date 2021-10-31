@@ -1,0 +1,22 @@
+{
+  "totalResultsCount": 1,
+  "geonames": [
+    {
+      "adminCode1": "GP",
+      "lng": "-61.58369",
+      "geonameId": 6690363,
+      "toponymName": "Guadeloupe",
+      "countryId": "3579143",
+      "fcl": "A",
+      "population": 400584,
+      "countryCode": "GP",
+      "name": "Guadeloupe",
+      "fclName": "country, state, region,...",
+      "countryName": "Guadeloupe",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Guadeloupe",
+      "lat": "16.25011",
+      "fcode": "ADM1"
+    }
+  ]
+}

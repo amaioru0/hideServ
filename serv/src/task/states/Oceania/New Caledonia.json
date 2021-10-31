@@ -1,0 +1,65 @@
+{
+  "totalResultsCount": 3,
+  "geonames": [
+    {
+      "adminCode1": "03",
+      "lng": "167.26135",
+      "geonameId": 7521415,
+      "toponymName": "Province des îles Loyauté",
+      "countryId": "2139685",
+      "fcl": "A",
+      "population": 17436,
+      "countryCode": "NC",
+      "name": "Loyalty Islands",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "L"
+      },
+      "countryName": "New Caledonia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Loyalty Islands",
+      "lat": "-20.91911",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "01",
+      "lng": "164.9",
+      "geonameId": 2140685,
+      "toponymName": "Province Nord",
+      "countryId": "2139685",
+      "fcl": "A",
+      "population": 45137,
+      "countryCode": "NC",
+      "name": "North Province",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "N"
+      },
+      "countryName": "New Caledonia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "North Province",
+      "lat": "-21.05",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "02",
+      "lng": "165.83333",
+      "geonameId": 2140464,
+      "toponymName": "Province Sud",
+      "countryId": "2139685",
+      "fcl": "A",
+      "population": 183007,
+      "countryCode": "NC",
+      "name": "South Province",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "S"
+      },
+      "countryName": "New Caledonia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "South Province",
+      "lat": "-21.75",
+      "fcode": "ADM1"
+    }
+  ]
+}

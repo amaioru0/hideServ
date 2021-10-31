@@ -1,0 +1,145 @@
+{
+  "totalResultsCount": 7,
+  "geonames": [
+    {
+      "adminCode1": "3",
+      "lng": "85.39536",
+      "geonameId": 12095449,
+      "toponymName": "Bagmati Province",
+      "countryId": "1282988",
+      "fcl": "A",
+      "population": 5530000,
+      "countryCode": "NP",
+      "name": "Bagmati Province",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "P3"
+      },
+      "countryName": "Nepal",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Bagmati Province",
+      "lat": "27.65249",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "4",
+      "lng": "84.03806",
+      "geonameId": 12095450,
+      "toponymName": "Gandaki Pradesh",
+      "countryId": "1282988",
+      "fcl": "A",
+      "population": 2403757,
+      "countryCode": "NP",
+      "name": "Gandaki Pradesh",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "P4"
+      },
+      "countryName": "Nepal",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Gandaki Pradesh",
+      "lat": "28.38431",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "6",
+      "lng": "82.4769",
+      "geonameId": 12095452,
+      "toponymName": "Karnali Province",
+      "countryId": "1282988",
+      "fcl": "A",
+      "population": 1570418,
+      "countryCode": "NP",
+      "name": "Karnali Pradesh",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "P6"
+      },
+      "countryName": "Nepal",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Karnali Pradesh",
+      "lat": "29.29913",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "5",
+      "lng": "82.524",
+      "geonameId": 12095451,
+      "toponymName": "Lumbini Province",
+      "countryId": "1282988",
+      "fcl": "A",
+      "population": 4500000,
+      "countryCode": "NP",
+      "name": "Lumbini Province",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "P5"
+      },
+      "countryName": "Nepal",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Lumbini Province",
+      "lat": "28.09952",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "1",
+      "lng": "87.18018",
+      "geonameId": 12095447,
+      "toponymName": "Province 1",
+      "countryId": "1282988",
+      "fcl": "A",
+      "population": 4534000,
+      "countryCode": "NP",
+      "name": "Province 1",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "P1"
+      },
+      "countryName": "Nepal",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Province 1",
+      "lat": "27.23006",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "2",
+      "lng": "85.61",
+      "geonameId": 12095448,
+      "toponymName": "Province 2",
+      "countryId": "1282988",
+      "fcl": "A",
+      "population": 6158000,
+      "countryCode": "NP",
+      "name": "Province 2",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "P2"
+      },
+      "countryName": "Nepal",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Province 2",
+      "lat": "26.94242",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "7",
+      "lng": "80.92063",
+      "geonameId": 12095453,
+      "toponymName": "Sudurpashchim Pradesh",
+      "countryId": "1282988",
+      "fcl": "A",
+      "population": 2552000,
+      "countryCode": "NP",
+      "name": "Sudurpashchim Pradesh",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "P7"
+      },
+      "countryName": "Nepal",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Sudurpashchim Pradesh",
+      "lat": "29.32055",
+      "fcode": "ADM1"
+    }
+  ]
+}

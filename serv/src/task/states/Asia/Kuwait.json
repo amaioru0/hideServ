@@ -1,0 +1,125 @@
+{
+  "totalResultsCount": 6,
+  "geonames": [
+    {
+      "adminCode1": "02",
+      "lng": "47.91667",
+      "geonameId": 285788,
+      "toponymName": "Al Asimah Governorate",
+      "countryId": "285570",
+      "fcl": "A",
+      "population": 511001,
+      "countryCode": "KW",
+      "name": "Al Asimah",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "KU"
+      },
+      "countryName": "Kuwait",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Al Asimah",
+      "lat": "29.33333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "04",
+      "lng": "48",
+      "geonameId": 285841,
+      "toponymName": "Muḩāfaz̧at al Aḩmadī",
+      "countryId": "285570",
+      "fcl": "A",
+      "population": 430923,
+      "countryCode": "KW",
+      "name": "Al Aḩmadī",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "AH"
+      },
+      "countryName": "Kuwait",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Al Aḩmadī",
+      "lat": "28.91667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "07",
+      "lng": "47.91667",
+      "geonameId": 285816,
+      "toponymName": "Muḩāfaz̧at al Farwānīyah",
+      "countryId": "285570",
+      "fcl": "A",
+      "population": 640375,
+      "countryCode": "KW",
+      "name": "Al Farwaniyah",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "FA"
+      },
+      "countryName": "Kuwait",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Al Farwaniyah",
+      "lat": "29.25",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "08",
+      "lng": "48.05",
+      "geonameId": 285628,
+      "toponymName": "Muḩāfaz̧at Ḩawallī",
+      "countryId": "285570",
+      "fcl": "A",
+      "population": 714876,
+      "countryCode": "KW",
+      "name": "Hawalli",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "HA"
+      },
+      "countryName": "Kuwait",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Hawalli",
+      "lat": "29.3",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "09",
+      "lng": "48.05",
+      "geonameId": 7733358,
+      "toponymName": "Muḩāfaz̧at Mubārak al Kabīr",
+      "countryId": "285570",
+      "fcl": "A",
+      "population": 223716,
+      "countryCode": "KW",
+      "name": "Mubārak al Kabīr",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "MU"
+      },
+      "countryName": "Kuwait",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Mubārak al Kabīr",
+      "lat": "29.225",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "05",
+      "lng": "47.5",
+      "geonameId": 285798,
+      "toponymName": "Muḩāfaz̧at al Jahrā’",
+      "countryId": "285570",
+      "fcl": "A",
+      "population": 307316,
+      "countryCode": "KW",
+      "name": "Muḩāfaz̧at al Jahrā’",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "JA"
+      },
+      "countryName": "Kuwait",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Al Jahrāʼ",
+      "lat": "29.5",
+      "fcode": "ADM1"
+    }
+  ]
+}

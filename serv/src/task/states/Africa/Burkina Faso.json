@@ -1,0 +1,265 @@
+{
+  "totalResultsCount": 13,
+  "geonames": [
+    {
+      "adminCode1": "01",
+      "lng": "-3.47305",
+      "geonameId": 6930701,
+      "toponymName": "Boucle du Mouhoun Region",
+      "countryId": "2361809",
+      "fcl": "A",
+      "population": 1434847,
+      "countryCode": "BF",
+      "name": "Boucle du Mouhoun",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "01"
+      },
+      "countryName": "Burkina Faso",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Boucle du Mouhoun",
+      "lat": "12.47203",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "02",
+      "lng": "-4.5",
+      "geonameId": 6930703,
+      "toponymName": "Cascades Region",
+      "countryId": "2361809",
+      "fcl": "A",
+      "population": 524956,
+      "countryCode": "BF",
+      "name": "Cascades Region",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "02"
+      },
+      "countryName": "Burkina Faso",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Cascades",
+      "lat": "10.38",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "03",
+      "lng": "-1.53276",
+      "geonameId": 6930704,
+      "toponymName": "Centre",
+      "countryId": "2361809",
+      "fcl": "A",
+      "population": 2136581,
+      "countryCode": "BF",
+      "name": "Centre",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "03"
+      },
+      "countryName": "Burkina Faso",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Centre",
+      "lat": "12.37874",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "04",
+      "lng": "-0.35706",
+      "geonameId": 6930705,
+      "toponymName": "Centre-Est",
+      "countryId": "2361809",
+      "fcl": "A",
+      "population": 1132023,
+      "countryCode": "BF",
+      "name": "Centre-Est",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "04"
+      },
+      "countryName": "Burkina Faso",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Centre-Est",
+      "lat": "11.78922",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "05",
+      "lng": "-1.0855",
+      "geonameId": 6930706,
+      "toponymName": "Centre-Nord",
+      "countryId": "2361809",
+      "fcl": "A",
+      "population": 1203073,
+      "countryCode": "BF",
+      "name": "Centre-Nord",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "05"
+      },
+      "countryName": "Burkina Faso",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Centre-Nord",
+      "lat": "13.09829",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "06",
+      "lng": "-2.36876",
+      "geonameId": 6930707,
+      "toponymName": "Centre-Ouest",
+      "countryId": "2361809",
+      "fcl": "A",
+      "population": 1348784,
+      "countryCode": "BF",
+      "name": "Centre-Ouest",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "06"
+      },
+      "countryName": "Burkina Faso",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Centre-Ouest",
+      "lat": "12.25488",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "07",
+      "lng": "-1.07374",
+      "geonameId": 6930708,
+      "toponymName": "Centre-Sud",
+      "countryId": "2361809",
+      "fcl": "A",
+      "population": 722631,
+      "countryCode": "BF",
+      "name": "Centre-Sud",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "07"
+      },
+      "countryName": "Burkina Faso",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Centre-Sud",
+      "lat": "11.67132",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "08",
+      "lng": "0.36349",
+      "geonameId": 6930709,
+      "toponymName": "Est",
+      "countryId": "2361809",
+      "fcl": "A",
+      "population": 1209399,
+      "countryCode": "BF",
+      "name": "Est",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "08"
+      },
+      "countryName": "Burkina Faso",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Est",
+      "lat": "12.06308",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "09",
+      "lng": "-4.32",
+      "geonameId": 6930710,
+      "toponymName": "High-Basins Region",
+      "countryId": "2361809",
+      "fcl": "A",
+      "population": 1410284,
+      "countryCode": "BF",
+      "name": "Hauts-Bassins",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "09"
+      },
+      "countryName": "Burkina Faso",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Hauts-Bassins",
+      "lat": "11.28",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "10",
+      "lng": "-2.4212",
+      "geonameId": 6930711,
+      "toponymName": "Nord",
+      "countryId": "2361809",
+      "fcl": "A",
+      "population": 1182770,
+      "countryCode": "BF",
+      "name": "Nord",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "10"
+      },
+      "countryName": "Burkina Faso",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Nord",
+      "lat": "13.58809",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "11",
+      "lng": "-1.30102",
+      "geonameId": 6930712,
+      "toponymName": "Plateau-Central",
+      "countryId": "2361809",
+      "fcl": "A",
+      "population": 696372,
+      "countryCode": "BF",
+      "name": "Plateau-Central",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "11"
+      },
+      "countryName": "Burkina Faso",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Plateau-Central",
+      "lat": "12.58774",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "12",
+      "lng": "-0.04575",
+      "geonameId": 6930713,
+      "toponymName": "Sahel",
+      "countryId": "2361809",
+      "fcl": "A",
+      "population": 968442,
+      "countryCode": "BF",
+      "name": "Sahel",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "12"
+      },
+      "countryName": "Burkina Faso",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Sahel",
+      "lat": "14.03351",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "13",
+      "lng": "-3.2",
+      "geonameId": 6930714,
+      "toponymName": "Southwest Region",
+      "countryId": "2361809",
+      "fcl": "A",
+      "population": 624056,
+      "countryCode": "BF",
+      "name": "Sud-Ouest",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "13"
+      },
+      "countryName": "Burkina Faso",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Sud-Ouest",
+      "lat": "10.5",
+      "fcode": "ADM1"
+    }
+  ]
+}

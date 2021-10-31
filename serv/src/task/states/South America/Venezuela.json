@@ -1,0 +1,505 @@
+{
+  "totalResultsCount": 25,
+  "geonames": [
+    {
+      "adminCode1": "01",
+      "lng": "-66",
+      "geonameId": 3649302,
+      "toponymName": "Estado Amazonas",
+      "countryId": "3625428",
+      "fcl": "A",
+      "population": 142200,
+      "countryCode": "VE",
+      "name": "Amazonas",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "Z"
+      },
+      "countryName": "Venezuela",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Amazonas",
+      "lat": "3.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "02",
+      "lng": "-64.33333",
+      "geonameId": 3649198,
+      "toponymName": "Estado Anzoátegui",
+      "countryId": "3625428",
+      "fcl": "A",
+      "population": 1477900,
+      "countryCode": "VE",
+      "name": "Anzoátegui",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "B"
+      },
+      "countryName": "Venezuela",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Anzoátegui",
+      "lat": "9",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "03",
+      "lng": "-68.83333",
+      "geonameId": 3649151,
+      "toponymName": "Estado Apure",
+      "countryId": "3625428",
+      "fcl": "A",
+      "population": 473900,
+      "countryCode": "VE",
+      "name": "Apure",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "C"
+      },
+      "countryName": "Venezuela",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Apure",
+      "lat": "7.16667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "04",
+      "lng": "-67.16667",
+      "geonameId": 3649110,
+      "toponymName": "Estado Aragua",
+      "countryId": "3625428",
+      "fcl": "A",
+      "population": 1689056,
+      "countryCode": "VE",
+      "name": "Aragua",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "D"
+      },
+      "countryName": "Venezuela",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Aragua",
+      "lat": "10",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "05",
+      "lng": "-69.83333",
+      "geonameId": 3648544,
+      "toponymName": "Estado Barinas",
+      "countryId": "3625428",
+      "fcl": "A",
+      "population": 756600,
+      "countryCode": "VE",
+      "name": "Barinas",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "E"
+      },
+      "countryName": "Venezuela",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Barinas",
+      "lat": "8.16667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "06",
+      "lng": "-63.5",
+      "geonameId": 3648106,
+      "toponymName": "Estado Bolívar",
+      "countryId": "3625428",
+      "fcl": "A",
+      "population": 1620359,
+      "countryCode": "VE",
+      "name": "Bolívar",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "F"
+      },
+      "countryName": "Venezuela",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Bolívar",
+      "lat": "6.33333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "07",
+      "lng": "-68.08333",
+      "geonameId": 3646751,
+      "toponymName": "Estado Carabobo",
+      "countryId": "3625428",
+      "fcl": "A",
+      "population": 2245744,
+      "countryCode": "VE",
+      "name": "Carabobo",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "G"
+      },
+      "countryName": "Venezuela",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Carabobo",
+      "lat": "10.16667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "08",
+      "lng": "-68.33333",
+      "geonameId": 3645386,
+      "toponymName": "Estado Cojedes",
+      "countryId": "3625428",
+      "fcl": "A",
+      "population": 300300,
+      "countryCode": "VE",
+      "name": "Cojedes",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "H"
+      },
+      "countryName": "Venezuela",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Cojedes",
+      "lat": "9.33333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "09",
+      "lng": "-61.33333",
+      "geonameId": 3644541,
+      "toponymName": "Delta Amacuro",
+      "countryId": "3625428",
+      "fcl": "A",
+      "population": 152700,
+      "countryCode": "VE",
+      "name": "Delta Amacuro",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "Y"
+      },
+      "countryName": "Venezuela",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Delta Amacuro",
+      "lat": "8.75",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "24",
+      "lng": "-65.30889",
+      "geonameId": 3640846,
+      "toponymName": "Dependencias Federales",
+      "countryId": "3625428",
+      "fcl": "A",
+      "population": 2155,
+      "countryCode": "VE",
+      "name": "Dependencias Federales",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "W"
+      },
+      "countryName": "Venezuela",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Dependencias Federales",
+      "lat": "10.92346",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "25",
+      "lng": "-66.98333",
+      "geonameId": 3640847,
+      "toponymName": "Distrito Capital",
+      "countryId": "3625428",
+      "fcl": "A",
+      "population": 2097400,
+      "countryCode": "VE",
+      "name": "Distrito Federal",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "A"
+      },
+      "countryName": "Venezuela",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Distrito Federal",
+      "lat": "10.47639",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "26",
+      "lng": "-66.9",
+      "geonameId": 3830309,
+      "toponymName": "Estado La Guaira",
+      "countryId": "3625428",
+      "fcl": "A",
+      "population": 332900,
+      "countryCode": "VE",
+      "name": "Estado La Guaira",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "X"
+      },
+      "countryName": "Venezuela",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Estado La Guaira",
+      "lat": "10.56667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "11",
+      "lng": "-69.83333",
+      "geonameId": 3640873,
+      "toponymName": "Estado Falcón",
+      "countryId": "3625428",
+      "fcl": "A",
+      "population": 950057,
+      "countryCode": "VE",
+      "name": "Falcón",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "I"
+      },
+      "countryName": "Venezuela",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Falcón",
+      "lat": "11",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "12",
+      "lng": "-66.58333",
+      "geonameId": 3640017,
+      "toponymName": "Estado Guárico",
+      "countryId": "3625428",
+      "fcl": "A",
+      "population": 745100,
+      "countryCode": "VE",
+      "name": "Guárico",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "J"
+      },
+      "countryName": "Venezuela",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Guárico",
+      "lat": "8.66667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "13",
+      "lng": "-69.83333",
+      "geonameId": 3636539,
+      "toponymName": "Estado Lara",
+      "countryId": "3625428",
+      "fcl": "A",
+      "population": 1795100,
+      "countryCode": "VE",
+      "name": "Lara",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "K"
+      },
+      "countryName": "Venezuela",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Lara",
+      "lat": "10.16667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "15",
+      "lng": "-66.41667",
+      "geonameId": 3632191,
+      "toponymName": "Miranda",
+      "countryId": "3625428",
+      "fcl": "A",
+      "population": 2675165,
+      "countryCode": "VE",
+      "name": "Miranda",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "M"
+      },
+      "countryName": "Venezuela",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Miranda",
+      "lat": "10.25",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "16",
+      "lng": "-63",
+      "geonameId": 3632100,
+      "toponymName": "Estado Monagas",
+      "countryId": "3625428",
+      "fcl": "A",
+      "population": 908626,
+      "countryCode": "VE",
+      "name": "Monagas",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "N"
+      },
+      "countryName": "Venezuela",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Monagas",
+      "lat": "9.33333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "14",
+      "lng": "-71.16667",
+      "geonameId": 3632306,
+      "toponymName": "Estado Mérida",
+      "countryId": "3625428",
+      "fcl": "A",
+      "population": 843800,
+      "countryCode": "VE",
+      "name": "Mérida",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "L"
+      },
+      "countryName": "Venezuela",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Mérida",
+      "lat": "8.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "17",
+      "lng": "-64",
+      "geonameId": 3631462,
+      "toponymName": "Estado Nueva Esparta",
+      "countryId": "3625428",
+      "fcl": "A",
+      "population": 491610,
+      "countryCode": "VE",
+      "name": "Nueva Esparta",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "O"
+      },
+      "countryName": "Venezuela",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Nueva Esparta",
+      "lat": "11",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "18",
+      "lng": "-69.25",
+      "geonameId": 3629941,
+      "toponymName": "Estado Portuguesa",
+      "countryId": "3625428",
+      "fcl": "A",
+      "population": 873400,
+      "countryCode": "VE",
+      "name": "Portuguesa",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "P"
+      },
+      "countryName": "Venezuela",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Portuguesa",
+      "lat": "9.16667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "19",
+      "lng": "-63.5",
+      "geonameId": 3626655,
+      "toponymName": "Estado Sucre",
+      "countryId": "3625428",
+      "fcl": "A",
+      "population": 916600,
+      "countryCode": "VE",
+      "name": "Sucre",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "R"
+      },
+      "countryName": "Venezuela",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Sucre",
+      "lat": "10.41667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "21",
+      "lng": "-70.50888",
+      "geonameId": 3625974,
+      "toponymName": "Estado Trujillo",
+      "countryId": "3625428",
+      "fcl": "A",
+      "population": 711400,
+      "countryCode": "VE",
+      "name": "Trujillo",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "T"
+      },
+      "countryName": "Venezuela",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Trujillo",
+      "lat": "9.43856",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "20",
+      "lng": "-72.08333",
+      "geonameId": 3626553,
+      "toponymName": "Estado Táchira",
+      "countryId": "3625428",
+      "fcl": "A",
+      "population": 1177300,
+      "countryCode": "VE",
+      "name": "Táchira",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "S"
+      },
+      "countryName": "Venezuela",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Táchira",
+      "lat": "7.83333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "22",
+      "lng": "-68.73734",
+      "geonameId": 3625210,
+      "toponymName": "Estado Yaracuy",
+      "countryId": "3625428",
+      "fcl": "A",
+      "population": 597700,
+      "countryCode": "VE",
+      "name": "Yaracuy",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "U"
+      },
+      "countryName": "Venezuela",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Yaracuy",
+      "lat": "10.33974",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "23",
+      "lng": "-72.16667",
+      "geonameId": 3625035,
+      "toponymName": "Estado Zulia",
+      "countryId": "3625428",
+      "fcl": "A",
+      "population": 3704404,
+      "countryCode": "VE",
+      "name": "Zulia",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "V"
+      },
+      "countryName": "Venezuela",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Zulia",
+      "lat": "10",
+      "fcode": "ADM1"
+    }
+  ]
+}

@@ -1,0 +1,445 @@
+{
+  "totalResultsCount": 22,
+  "geonames": [
+    {
+      "adminCode1": "01",
+      "lng": "-22.83333",
+      "geonameId": 3374855,
+      "toponymName": "Concelho da Boa Vista",
+      "countryId": "3374766",
+      "fcl": "A",
+      "population": 8554,
+      "countryCode": "CV",
+      "name": "Boa Vista",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "BV"
+      },
+      "countryName": "Cabo Verde",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Boa Vista",
+      "lat": "16.08333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "02",
+      "lng": "-24.7",
+      "geonameId": 3374832,
+      "toponymName": "Concelho da Brava",
+      "countryId": "3374766",
+      "fcl": "A",
+      "population": 6619,
+      "countryCode": "CV",
+      "name": "Brava",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "BR"
+      },
+      "countryName": "Cabo Verde",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Brava",
+      "lat": "14.86667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "04",
+      "lng": "-23.16667",
+      "geonameId": 3374487,
+      "toponymName": "Concelho do Maio",
+      "countryId": "3374766",
+      "fcl": "A",
+      "population": 7589,
+      "countryCode": "CV",
+      "name": "Maio",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "MA"
+      },
+      "countryName": "Cabo Verde",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Maio",
+      "lat": "15.21667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "13",
+      "lng": "-24.35",
+      "geonameId": 3411924,
+      "toponymName": "Concelho dos Mosteiros",
+      "countryId": "3374766",
+      "fcl": "A",
+      "population": 9520,
+      "countryCode": "CV",
+      "name": "Mosteiros",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "MO"
+      },
+      "countryName": "Cabo Verde",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Mosteiros",
+      "lat": "15",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "05",
+      "lng": "-25.01667",
+      "geonameId": 3374391,
+      "toponymName": "Concelho do Paul",
+      "countryId": "3374766",
+      "fcl": "A",
+      "population": 6997,
+      "countryCode": "CV",
+      "name": "Paul",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "PA"
+      },
+      "countryName": "Cabo Verde",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Paul",
+      "lat": "17.11667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "21",
+      "lng": "-25.2",
+      "geonameId": 7602868,
+      "toponymName": "Concelho do Porto Novo",
+      "countryId": "3374766",
+      "fcl": "A",
+      "population": 17906,
+      "countryCode": "CV",
+      "name": "Porto Novo",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "PN"
+      },
+      "countryName": "Cabo Verde",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Porto Novo",
+      "lat": "17.01667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "14",
+      "lng": "-23.51667",
+      "geonameId": 3374332,
+      "toponymName": "Concelho da Praia",
+      "countryId": "3374766",
+      "fcl": "A",
+      "population": 130271,
+      "countryCode": "CV",
+      "name": "Praia",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "PR"
+      },
+      "countryName": "Cabo Verde",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Praia",
+      "lat": "14.95",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "22",
+      "lng": "-24.2",
+      "geonameId": 7602869,
+      "toponymName": "Concelho da Ribeira Brava",
+      "countryId": "3374766",
+      "fcl": "A",
+      "population": 7564,
+      "countryCode": "CV",
+      "name": "Ribeira Brava",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "RB"
+      },
+      "countryName": "Cabo Verde",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Ribeira Brava",
+      "lat": "16.61667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "07",
+      "lng": "-25.11667",
+      "geonameId": 3374274,
+      "toponymName": "Concelho da Ribeira Grande",
+      "countryId": "3374766",
+      "fcl": "A",
+      "population": 19201,
+      "countryCode": "CV",
+      "name": "Ribeira Grande",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "RG"
+      },
+      "countryName": "Cabo Verde",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Ribeira Grande",
+      "lat": "17.13333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "23",
+      "lng": "-23.65",
+      "geonameId": 7603281,
+      "toponymName": "Concelho de Ribeira Grande de Santiago",
+      "countryId": "3374766",
+      "fcl": "A",
+      "population": 8323,
+      "countryCode": "CV",
+      "name": "Ribeira Grande de Santiago",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "RS"
+      },
+      "countryName": "Cabo Verde",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Ribeira Grande de Santiago",
+      "lat": "14.98333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "08",
+      "lng": "-22.91667",
+      "geonameId": 3374249,
+      "toponymName": "Sal Municipality",
+      "countryId": "3374766",
+      "fcl": "A",
+      "population": 29110,
+      "countryCode": "CV",
+      "name": "Sal",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SL"
+      },
+      "countryName": "Cabo Verde",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Sal",
+      "lat": "16.75",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "15",
+      "lng": "-23.7",
+      "geonameId": 3374226,
+      "toponymName": "Concelho de Santa Catarina",
+      "countryId": "3374766",
+      "fcl": "A",
+      "population": 41455,
+      "countryCode": "CV",
+      "name": "Santa Catarina",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "CA"
+      },
+      "countryName": "Cabo Verde",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Santa Catarina",
+      "lat": "15.1",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "24",
+      "lng": "-24.33333",
+      "geonameId": 7602870,
+      "toponymName": "Concelho de Santa Catarina do Fogo",
+      "countryId": "3374766",
+      "fcl": "A",
+      "population": 5299,
+      "countryCode": "CV",
+      "name": "Santa Catarina do Fogo",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "CF"
+      },
+      "countryName": "Cabo Verde",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Santa Catarina do Fogo",
+      "lat": "14.9",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "16",
+      "lng": "-23.56667",
+      "geonameId": 3411925,
+      "toponymName": "Concelho de Santa Cruz",
+      "countryId": "3374766",
+      "fcl": "A",
+      "population": 26585,
+      "countryCode": "CV",
+      "name": "Santa Cruz",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "CR"
+      },
+      "countryName": "Cabo Verde",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Santa Cruz",
+      "lat": "15.1",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "18",
+      "lng": "-24.43333",
+      "geonameId": 3411927,
+      "toponymName": "Concelho do São Filipe",
+      "countryId": "3374766",
+      "fcl": "A",
+      "population": 22227,
+      "countryCode": "CV",
+      "name": "Sao Filipe",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SF"
+      },
+      "countryName": "Cabo Verde",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "São Filipe",
+      "lat": "14.93333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "19",
+      "lng": "-23.65",
+      "geonameId": 3411928,
+      "toponymName": "Concelho de São Miguel",
+      "countryId": "3374766",
+      "fcl": "A",
+      "population": 15630,
+      "countryCode": "CV",
+      "name": "Sao Miguel",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SM"
+      },
+      "countryName": "Cabo Verde",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "São Miguel",
+      "lat": "15.2",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "17",
+      "lng": "-23.53333",
+      "geonameId": 3411926,
+      "toponymName": "Concelho de São Domingos",
+      "countryId": "3374766",
+      "fcl": "A",
+      "population": 13699,
+      "countryCode": "CV",
+      "name": "São Domingos",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SD"
+      },
+      "countryName": "Cabo Verde",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "São Domingos",
+      "lat": "15.01667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "25",
+      "lng": "-23.6",
+      "geonameId": 7602873,
+      "toponymName": "São Lourenço dos Órgãos",
+      "countryId": "3374766",
+      "fcl": "A",
+      "population": 8533,
+      "countryCode": "CV",
+      "name": "São Lourenço dos Órgãos",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SO"
+      },
+      "countryName": "Cabo Verde",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "São Lourenço dos Órgãos",
+      "lat": "15.06667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "26",
+      "lng": "-23.63333",
+      "geonameId": 7602871,
+      "toponymName": "Concelho de São Salvador do Mundo",
+      "countryId": "3374766",
+      "fcl": "A",
+      "population": 8643,
+      "countryCode": "CV",
+      "name": "São Salvador do Mundo",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SS"
+      },
+      "countryName": "Cabo Verde",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "São Salvador do Mundo",
+      "lat": "15.08333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "11",
+      "lng": "-25",
+      "geonameId": 3374198,
+      "toponymName": "Concelho de São Vicente",
+      "countryId": "3374766",
+      "fcl": "A",
+      "population": 75601,
+      "countryCode": "CV",
+      "name": "São Vicente",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SV"
+      },
+      "countryName": "Cabo Verde",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "São Vicente",
+      "lat": "16.83333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "20",
+      "lng": "-23.71667",
+      "geonameId": 3374161,
+      "toponymName": "Concelho do Tarrafal",
+      "countryId": "3374766",
+      "fcl": "A",
+      "population": 18561,
+      "countryCode": "CV",
+      "name": "Tarrafal",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "TA"
+      },
+      "countryName": "Cabo Verde",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Tarrafal",
+      "lat": "15.26667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "27",
+      "lng": "-24.35",
+      "geonameId": 7602872,
+      "toponymName": "Concelho do Tarrafal de São Nicolau",
+      "countryId": "3374766",
+      "fcl": "A",
+      "population": 5205,
+      "countryCode": "CV",
+      "name": "Tarrafal de Sao Nicolau",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "TS"
+      },
+      "countryName": "Cabo Verde",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Tarrafal de São Nicolau",
+      "lat": "16.6",
+      "fcode": "ADM1"
+    }
+  ]
+}

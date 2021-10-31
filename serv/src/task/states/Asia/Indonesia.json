@@ -1,0 +1,685 @@
+{
+  "totalResultsCount": 34,
+  "geonames": [
+    {
+      "adminCode1": "01",
+      "lng": "97",
+      "geonameId": 1215638,
+      "toponymName": "Nanggroe Aceh Darussalam Province",
+      "countryId": "1643084",
+      "fcl": "A",
+      "population": 4748085,
+      "countryCode": "ID",
+      "name": "Aceh",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "AC"
+      },
+      "countryName": "Indonesia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Aceh",
+      "lat": "4",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "02",
+      "lng": "115",
+      "geonameId": 1650535,
+      "toponymName": "Provinsi Bali",
+      "countryId": "1643084",
+      "fcl": "A",
+      "population": 3890757,
+      "countryCode": "ID",
+      "name": "Bali",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "BA"
+      },
+      "countryName": "Indonesia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Bali",
+      "lat": "-8.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "35",
+      "lng": "106.66667",
+      "geonameId": 1923047,
+      "toponymName": "Kepulauan Bangka Belitung",
+      "countryId": "1643084",
+      "fcl": "A",
+      "population": 1276873,
+      "countryCode": "ID",
+      "name": "Bangka–Belitung Islands",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "BB"
+      },
+      "countryName": "Indonesia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Bangka–Belitung Islands",
+      "lat": "-2.66667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "33",
+      "lng": "106.25",
+      "geonameId": 1923045,
+      "toponymName": "Banten",
+      "countryId": "1643084",
+      "fcl": "A",
+      "population": 10632166,
+      "countryCode": "ID",
+      "name": "Banten",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "BT"
+      },
+      "countryName": "Indonesia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Banten",
+      "lat": "-6.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "03",
+      "lng": "102.26683",
+      "geonameId": 1649147,
+      "toponymName": "Propinsi Bengkulu",
+      "countryId": "1643084",
+      "fcl": "A",
+      "population": 1828291,
+      "countryCode": "ID",
+      "name": "Bengkulu",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "BE"
+      },
+      "countryName": "Indonesia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Bengkulu",
+      "lat": "-3.79965",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "07",
+      "lng": "110",
+      "geonameId": 1642669,
+      "toponymName": "Provinsi Jawa Tengah",
+      "countryId": "1643084",
+      "fcl": "A",
+      "population": 34087148,
+      "countryCode": "ID",
+      "name": "Central Java",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "JT"
+      },
+      "countryName": "Indonesia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Central Java",
+      "lat": "-7.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "13",
+      "lng": "113.5",
+      "geonameId": 1641898,
+      "toponymName": "Provinsi Kalimantan Tengah",
+      "countryId": "1643084",
+      "fcl": "A",
+      "population": 2212089,
+      "countryCode": "ID",
+      "name": "Central Kalimantan",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "KT"
+      },
+      "countryName": "Indonesia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Central Kalimantan",
+      "lat": "-2",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "21",
+      "lng": "122.3538",
+      "geonameId": 1626231,
+      "toponymName": "Sulawesi Tengah",
+      "countryId": "1643084",
+      "fcl": "A",
+      "population": 2635009,
+      "countryCode": "ID",
+      "name": "Central Sulawesi",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "ST"
+      },
+      "countryName": "Indonesia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Central Sulawesi",
+      "lat": "-0.9166",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "08",
+      "lng": "112.5099",
+      "geonameId": 1642668,
+      "toponymName": "Jawa Timur",
+      "countryId": "1643084",
+      "fcl": "A",
+      "population": 22200177,
+      "countryCode": "ID",
+      "name": "East Java",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "JI"
+      },
+      "countryName": "Indonesia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "East Java",
+      "lat": "-7.7394",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "14",
+      "lng": "116.5",
+      "geonameId": 1641897,
+      "toponymName": "Provinsi Kalimantan Timur",
+      "countryId": "1643084",
+      "fcl": "A",
+      "population": 3553143,
+      "countryCode": "ID",
+      "name": "East Kalimantan",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "KI"
+      },
+      "countryName": "Indonesia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "East Kalimantan",
+      "lat": "0.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "18",
+      "lng": "121.07937",
+      "geonameId": 1633791,
+      "toponymName": "East Nusa Tenggara",
+      "countryId": "1643084",
+      "fcl": "A",
+      "population": 5070746,
+      "countryCode": "ID",
+      "name": "East Nusa Tenggara",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "NT"
+      },
+      "countryName": "Indonesia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "East Nusa Tenggara",
+      "lat": "-8.65738",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "34",
+      "lng": "122.4704",
+      "geonameId": 1923046,
+      "toponymName": "Provinsi Gorontalo",
+      "countryId": "1643084",
+      "fcl": "A",
+      "population": 1040164,
+      "countryCode": "ID",
+      "name": "Gorontalo",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "GO"
+      },
+      "countryName": "Indonesia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Gorontalo",
+      "lat": "0.693",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "04",
+      "lng": "106.8584",
+      "geonameId": 1642907,
+      "toponymName": "Daerah Khusus Ibukota Jakarta",
+      "countryId": "1643084",
+      "fcl": "A",
+      "population": 9953016,
+      "countryCode": "ID",
+      "name": "Jakarta",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "JK"
+      },
+      "countryName": "Indonesia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Jakarta",
+      "lat": "-6.2182",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "05",
+      "lng": "103",
+      "geonameId": 1642856,
+      "toponymName": "Provinsi Jambi",
+      "countryId": "1643084",
+      "fcl": "A",
+      "population": 3249601,
+      "countryCode": "ID",
+      "name": "Jambi",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "JA"
+      },
+      "countryName": "Indonesia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Jambi",
+      "lat": "-1.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "15",
+      "lng": "105",
+      "geonameId": 1638535,
+      "toponymName": "Provinsi Lampung",
+      "countryId": "1643084",
+      "fcl": "A",
+      "population": 4817226,
+      "countryCode": "ID",
+      "name": "Lampung",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "LA"
+      },
+      "countryName": "Indonesia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Lampung",
+      "lat": "-5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "28",
+      "lng": "130.14527",
+      "geonameId": 1636627,
+      "toponymName": "Provinsi Maluku",
+      "countryId": "1643084",
+      "fcl": "A",
+      "population": 1531402,
+      "countryCode": "ID",
+      "name": "Maluku",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "MA"
+      },
+      "countryName": "Indonesia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Maluku",
+      "lat": "-3.23846",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "42",
+      "lng": "116.53198",
+      "geonameId": 8604684,
+      "toponymName": "North Kalimantan",
+      "countryId": "1643084",
+      "fcl": "A",
+      "population": 738163,
+      "countryCode": "ID",
+      "name": "North Kalimantan",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "KU"
+      },
+      "countryName": "Indonesia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "North Kalimantan",
+      "lat": "3.35989",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "29",
+      "lng": "127.84241",
+      "geonameId": 1958070,
+      "toponymName": "North Maluku",
+      "countryId": "1643084",
+      "fcl": "A",
+      "population": 1038087,
+      "countryCode": "ID",
+      "name": "North Maluku",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "MU"
+      },
+      "countryName": "Indonesia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "North Maluku",
+      "lat": "0.62621",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "31",
+      "lng": "124.83333",
+      "geonameId": 1626229,
+      "toponymName": "Sulawesi Utara",
+      "countryId": "1643084",
+      "fcl": "A",
+      "population": 2270596,
+      "countryCode": "ID",
+      "name": "North Sulawesi",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SA"
+      },
+      "countryName": "Indonesia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "North Sulawesi",
+      "lat": "1.25",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "26",
+      "lng": "99",
+      "geonameId": 1213642,
+      "toponymName": "North Sumatra",
+      "countryId": "1643084",
+      "fcl": "A",
+      "population": 9630873,
+      "countryCode": "ID",
+      "name": "North Sumatra",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SU"
+      },
+      "countryName": "Indonesia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "North Sumatra",
+      "lat": "2",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "36",
+      "lng": "138",
+      "geonameId": 1643012,
+      "toponymName": "Provinsi Papua",
+      "countryId": "1643084",
+      "fcl": "A",
+      "population": 2833381,
+      "countryCode": "ID",
+      "name": "Papua",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "PA"
+      },
+      "countryName": "Indonesia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Papua",
+      "lat": "-4.75",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "37",
+      "lng": "101.749",
+      "geonameId": 1629652,
+      "toponymName": "Provinsi Riau",
+      "countryId": "1643084",
+      "fcl": "A",
+      "population": 5714477,
+      "countryCode": "ID",
+      "name": "Riau",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "RI"
+      },
+      "countryName": "Indonesia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Riau",
+      "lat": "0.5005",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "40",
+      "lng": "107.01868",
+      "geonameId": 1996551,
+      "toponymName": "Provinsi Kepulauan Riau",
+      "countryId": "1643084",
+      "fcl": "A",
+      "population": 1747812,
+      "countryCode": "ID",
+      "name": "Riau Islands",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "KR"
+      },
+      "countryName": "Indonesia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Riau Islands",
+      "lat": "0.63333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "12",
+      "lng": "115.5",
+      "geonameId": 1641899,
+      "toponymName": "Provinsi Kalimantan Selatan",
+      "countryId": "1643084",
+      "fcl": "A",
+      "population": 3626616,
+      "countryCode": "ID",
+      "name": "South Kalimantan",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "KS"
+      },
+      "countryName": "Indonesia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "South Kalimantan",
+      "lat": "-2.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "38",
+      "lng": "120.25",
+      "geonameId": 1626232,
+      "toponymName": "Provinsi Sulawesi Selatan",
+      "countryId": "1643084",
+      "fcl": "A",
+      "population": 8034776,
+      "countryCode": "ID",
+      "name": "South Sulawesi",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SN"
+      },
+      "countryName": "Indonesia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "South Sulawesi",
+      "lat": "-4.33333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "32",
+      "lng": "103.83333",
+      "geonameId": 1626196,
+      "toponymName": "Sumatera Selatan",
+      "countryId": "1643084",
+      "fcl": "A",
+      "population": 7743794,
+      "countryCode": "ID",
+      "name": "South Sumatra",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SS"
+      },
+      "countryName": "Indonesia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "South Sumatra",
+      "lat": "-2.75",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "22",
+      "lng": "122.2149",
+      "geonameId": 1626230,
+      "toponymName": "Sulawesi Tenggara",
+      "countryId": "1643084",
+      "fcl": "A",
+      "population": 2232586,
+      "countryCode": "ID",
+      "name": "Southeast Sulawesi",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SG"
+      },
+      "countryName": "Indonesia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Southeast Sulawesi",
+      "lat": "-4.3935",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "30",
+      "lng": "107.5",
+      "geonameId": 1642672,
+      "toponymName": "Jawa Barat",
+      "countryId": "1643084",
+      "fcl": "A",
+      "population": 45278744,
+      "countryCode": "ID",
+      "name": "West Java",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "JB"
+      },
+      "countryName": "Indonesia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "West Java",
+      "lat": "-6.75",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "11",
+      "lng": "110.5",
+      "geonameId": 1641900,
+      "toponymName": "Provinsi Kalimantan Barat",
+      "countryId": "1643084",
+      "fcl": "A",
+      "population": 4395983,
+      "countryCode": "ID",
+      "name": "West Kalimantan",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "KB"
+      },
+      "countryName": "Indonesia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "West Kalimantan",
+      "lat": "0",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "17",
+      "lng": "117.5333",
+      "geonameId": 1633792,
+      "toponymName": "West Nusa Tenggara",
+      "countryId": "1643084",
+      "fcl": "A",
+      "population": 4500212,
+      "countryCode": "ID",
+      "name": "West Nusa Tenggara",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "NB"
+      },
+      "countryName": "Indonesia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "West Nusa Tenggara",
+      "lat": "-8.74",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "39",
+      "lng": "134.06118",
+      "geonameId": 1996549,
+      "toponymName": "Provinsi Papua Barat",
+      "countryId": "1643084",
+      "fcl": "A",
+      "population": 760422,
+      "countryCode": "ID",
+      "name": "West Papua",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "PB"
+      },
+      "countryName": "Indonesia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "West Papua",
+      "lat": "-0.86531",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "41",
+      "lng": "119.3333",
+      "geonameId": 1996550,
+      "toponymName": "Provinsi Sulawesi Barat",
+      "countryId": "1643084",
+      "fcl": "A",
+      "population": 1158651,
+      "countryCode": "ID",
+      "name": "West Sulawesi",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SR"
+      },
+      "countryName": "Indonesia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "West Sulawesi",
+      "lat": "-2.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "24",
+      "lng": "100.5",
+      "geonameId": 1626197,
+      "toponymName": "Provinsi Sumatera Barat",
+      "countryId": "1643084",
+      "fcl": "A",
+      "population": 5014112,
+      "countryCode": "ID",
+      "name": "West Sumatra",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SB"
+      },
+      "countryName": "Indonesia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "West Sumatra",
+      "lat": "-1",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "10",
+      "lng": "110.34393",
+      "geonameId": 1621176,
+      "toponymName": "Daerah Istimewa Yogyakarta",
+      "countryId": "1643084",
+      "fcl": "A",
+      "population": 3665448,
+      "countryCode": "ID",
+      "name": "Yogyakarta",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "YO"
+      },
+      "countryName": "Indonesia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Yogyakarta",
+      "lat": "-7.8008",
+      "fcode": "ADM1"
+    }
+  ]
+}

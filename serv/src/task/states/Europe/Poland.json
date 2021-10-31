@@ -1,0 +1,325 @@
+{
+  "totalResultsCount": 16,
+  "geonames": [
+    {
+      "adminCode1": "86",
+      "lng": "17.2",
+      "geonameId": 3337498,
+      "toponymName": "Greater Poland Voivodeship",
+      "countryId": "798544",
+      "fcl": "A",
+      "population": 3408281,
+      "countryCode": "PL",
+      "name": "Greater Poland",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "30"
+      },
+      "countryName": "Poland",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Greater Poland",
+      "lat": "52.3",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "73",
+      "lng": "18.5",
+      "geonameId": 3337500,
+      "toponymName": "Kuyavian-Pomeranian Voivodeship",
+      "countryId": "798544",
+      "fcl": "A",
+      "population": 2069083,
+      "countryCode": "PL",
+      "name": "Kuyavian-Pomeranian",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "04"
+      },
+      "countryName": "Poland",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Kujawsko-Pomorskie",
+      "lat": "53.08333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "77",
+      "lng": "20.26667",
+      "geonameId": 858786,
+      "toponymName": "Lesser Poland Voivodeship",
+      "countryId": "798544",
+      "fcl": "A",
+      "population": 3298270,
+      "countryCode": "PL",
+      "name": "Lesser Poland",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "12"
+      },
+      "countryName": "Poland",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Lesser Poland",
+      "lat": "49.86667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "72",
+      "lng": "16.43333",
+      "geonameId": 3337492,
+      "toponymName": "Lower Silesian Voivodeship",
+      "countryId": "798544",
+      "fcl": "A",
+      "population": 2876627,
+      "countryCode": "PL",
+      "name": "Lower Silesia",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "02"
+      },
+      "countryName": "Poland",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Lower Silesia",
+      "lat": "51.1",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "75",
+      "lng": "22.9",
+      "geonameId": 858785,
+      "toponymName": "Lublin Voivodeship",
+      "countryId": "798544",
+      "fcl": "A",
+      "population": 2157202,
+      "countryCode": "PL",
+      "name": "Lublin",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "06"
+      },
+      "countryName": "Poland",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Lublin",
+      "lat": "51.23333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "76",
+      "lng": "15.33333",
+      "geonameId": 3337494,
+      "toponymName": "Lubusz Voivodeship",
+      "countryId": "798544",
+      "fcl": "A",
+      "population": 1010047,
+      "countryCode": "PL",
+      "name": "Lubusz",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "08"
+      },
+      "countryName": "Poland",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Lubusz",
+      "lat": "52.2",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "78",
+      "lng": "21.1",
+      "geonameId": 858787,
+      "toponymName": "Masovian Voivodeship",
+      "countryId": "798544",
+      "fcl": "A",
+      "population": 5222167,
+      "countryCode": "PL",
+      "name": "Masovian",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "14"
+      },
+      "countryName": "Poland",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Mazovia",
+      "lat": "52.36667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "79",
+      "lng": "17.9",
+      "geonameId": 3337495,
+      "toponymName": "Opole Voivodeship",
+      "countryId": "798544",
+      "fcl": "A",
+      "population": 1031097,
+      "countryCode": "PL",
+      "name": "Opole Voivodeship",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "16"
+      },
+      "countryName": "Poland",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Opole Voivodeship",
+      "lat": "50.66667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "81",
+      "lng": "23",
+      "geonameId": 858789,
+      "toponymName": "Podlaskie Voivodeship",
+      "countryId": "798544",
+      "fcl": "A",
+      "population": 1189731,
+      "countryCode": "PL",
+      "name": "Podlachian",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "20"
+      },
+      "countryName": "Poland",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Podlasie",
+      "lat": "53.25",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "82",
+      "lng": "18",
+      "geonameId": 3337496,
+      "toponymName": "Pomeranian Voivodeship",
+      "countryId": "798544",
+      "fcl": "A",
+      "population": 2230099,
+      "countryCode": "PL",
+      "name": "Pomerania",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "22"
+      },
+      "countryName": "Poland",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Pomerania",
+      "lat": "54.25",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "83",
+      "lng": "18.93333",
+      "geonameId": 3337497,
+      "toponymName": "Silesian Voivodeship",
+      "countryId": "798544",
+      "fcl": "A",
+      "population": 4640725,
+      "countryCode": "PL",
+      "name": "Silesia",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "24"
+      },
+      "countryName": "Poland",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Silesia",
+      "lat": "50.33333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "80",
+      "lng": "22.16667",
+      "geonameId": 858788,
+      "toponymName": "Podkarpackie Voivodeship",
+      "countryId": "798544",
+      "fcl": "A",
+      "population": 2101732,
+      "countryCode": "PL",
+      "name": "Subcarpathia",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "18"
+      },
+      "countryName": "Poland",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Subcarpathia",
+      "lat": "50",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "85",
+      "lng": "20.83333",
+      "geonameId": 858791,
+      "toponymName": "Warmian-Masurian Voivodeship",
+      "countryId": "798544",
+      "fcl": "A",
+      "population": 1427118,
+      "countryCode": "PL",
+      "name": "Warmia-Masuria",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "28"
+      },
+      "countryName": "Poland",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Warmia-Masuria",
+      "lat": "53.83333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "87",
+      "lng": "15.58333",
+      "geonameId": 3337499,
+      "toponymName": "West Pomeranian Voivodeship",
+      "countryId": "798544",
+      "fcl": "A",
+      "population": 1693198,
+      "countryCode": "PL",
+      "name": "West Pomerania",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "32"
+      },
+      "countryName": "Poland",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "West Pomerania",
+      "lat": "53.58333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "74",
+      "lng": "19.43333",
+      "geonameId": 3337493,
+      "toponymName": "Województwo Łódzkie",
+      "countryId": "798544",
+      "fcl": "A",
+      "population": 2541832,
+      "countryCode": "PL",
+      "name": "Łódź Voivodeship",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "10"
+      },
+      "countryName": "Poland",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Łódź Voivodeship",
+      "lat": "51.6",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "84",
+      "lng": "20.75",
+      "geonameId": 858790,
+      "toponymName": "Województwo Świętokrzyskie",
+      "countryId": "798544",
+      "fcl": "A",
+      "population": 1270120,
+      "countryCode": "PL",
+      "name": "Świętokrzyskie",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "26"
+      },
+      "countryName": "Poland",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Świętokrzyskie",
+      "lat": "50.75",
+      "fcode": "ADM1"
+    }
+  ]
+}

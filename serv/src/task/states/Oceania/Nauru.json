@@ -1,0 +1,285 @@
+{
+  "totalResultsCount": 14,
+  "geonames": [
+    {
+      "adminCode1": "01",
+      "lng": "166.90994",
+      "geonameId": 2110451,
+      "toponymName": "Aiwo District",
+      "countryId": "2110425",
+      "fcl": "A",
+      "population": 1300,
+      "countryCode": "NR",
+      "name": "Aiwo",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "01"
+      },
+      "countryName": "Nauru",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Aiwo",
+      "lat": "-0.53422",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "02",
+      "lng": "166.9524",
+      "geonameId": 2110449,
+      "toponymName": "Anabar District",
+      "countryId": "2110425",
+      "fcl": "A",
+      "population": 378,
+      "countryCode": "NR",
+      "name": "Anabar",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "02"
+      },
+      "countryName": "Nauru",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Anabar",
+      "lat": "-0.50742",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "03",
+      "lng": "166.94348",
+      "geonameId": 2110448,
+      "toponymName": "Anetan District",
+      "countryId": "2110425",
+      "fcl": "A",
+      "population": 880,
+      "countryCode": "NR",
+      "name": "Anetan",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "03"
+      },
+      "countryName": "Nauru",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Anetan",
+      "lat": "-0.5035",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "04",
+      "lng": "166.95032",
+      "geonameId": 2110445,
+      "toponymName": "Anibare District",
+      "countryId": "2110425",
+      "fcl": "A",
+      "population": 232,
+      "countryCode": "NR",
+      "name": "Anibare",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "04"
+      },
+      "countryName": "Nauru",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Anibare",
+      "lat": "-0.53459",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "05",
+      "lng": "166.92969",
+      "geonameId": 2110442,
+      "toponymName": "Baiti District",
+      "countryId": "2110425",
+      "fcl": "A",
+      "population": 810,
+      "countryCode": "NR",
+      "name": "Baiti",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "05"
+      },
+      "countryName": "Nauru",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Baiti",
+      "lat": "-0.50754",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "06",
+      "lng": "166.91421",
+      "geonameId": 2110441,
+      "toponymName": "Boe District",
+      "countryId": "2110425",
+      "fcl": "A",
+      "population": 950,
+      "countryCode": "NR",
+      "name": "Boe",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "06"
+      },
+      "countryName": "Nauru",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Boe",
+      "lat": "-0.54158",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "07",
+      "lng": "166.92086",
+      "geonameId": 2110440,
+      "toponymName": "Buada District",
+      "countryId": "2110425",
+      "fcl": "A",
+      "population": 980,
+      "countryCode": "NR",
+      "name": "Buada",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "07"
+      },
+      "countryName": "Nauru",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Buada",
+      "lat": "-0.53532",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "08",
+      "lng": "166.91632",
+      "geonameId": 2110437,
+      "toponymName": "Denigomodu District",
+      "countryId": "2110425",
+      "fcl": "A",
+      "population": 2827,
+      "countryCode": "NR",
+      "name": "Denigomodu",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "08"
+      },
+      "countryName": "Nauru",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Denigomodu",
+      "lat": "-0.52187",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "09",
+      "lng": "166.93453",
+      "geonameId": 2110435,
+      "toponymName": "Ewa District",
+      "countryId": "2110425",
+      "fcl": "A",
+      "population": 397,
+      "countryCode": "NR",
+      "name": "Ewa",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "09"
+      },
+      "countryName": "Nauru",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Ewa",
+      "lat": "-0.5033",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "10",
+      "lng": "166.95798",
+      "geonameId": 2110432,
+      "toponymName": "Ijuw District",
+      "countryId": "2110425",
+      "fcl": "A",
+      "population": 180,
+      "countryCode": "NR",
+      "name": "Ijuw",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "10"
+      },
+      "countryName": "Nauru",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Ijuw",
+      "lat": "-0.52141",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "11",
+      "lng": "166.93788",
+      "geonameId": 2110431,
+      "toponymName": "Meneng District",
+      "countryId": "2110425",
+      "fcl": "A",
+      "population": 1400,
+      "countryCode": "NR",
+      "name": "Meneng",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "11"
+      },
+      "countryName": "Nauru",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Meneng",
+      "lat": "-0.55242",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "12",
+      "lng": "166.9223",
+      "geonameId": 2110423,
+      "toponymName": "Nibok District",
+      "countryId": "2110425",
+      "fcl": "A",
+      "population": 479,
+      "countryCode": "NR",
+      "name": "Nibok",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "12"
+      },
+      "countryName": "Nauru",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Nibok",
+      "lat": "-0.51725",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "13",
+      "lng": "166.9258",
+      "geonameId": 2110420,
+      "toponymName": "Uaboe District",
+      "countryId": "2110425",
+      "fcl": "A",
+      "population": 386,
+      "countryCode": "NR",
+      "name": "Uaboe",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "13"
+      },
+      "countryName": "Nauru",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Uaboe",
+      "lat": "-0.51399",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "14",
+      "lng": "166.91599",
+      "geonameId": 2110418,
+      "toponymName": "Yaren",
+      "countryId": "2110425",
+      "fcl": "A",
+      "population": 1100,
+      "countryCode": "NR",
+      "name": "Yaren",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "14"
+      },
+      "countryName": "Nauru",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Yaren",
+      "lat": "-0.54724",
+      "fcode": "ADM1"
+    }
+  ]
+}

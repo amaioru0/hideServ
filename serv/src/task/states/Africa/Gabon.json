@@ -1,0 +1,185 @@
+{
+  "totalResultsCount": 9,
+  "geonames": [
+    {
+      "adminCode1": "01",
+      "lng": "10.03333",
+      "geonameId": 2400682,
+      "toponymName": "Estuaire",
+      "countryId": "2400553",
+      "fcl": "A",
+      "population": 638219,
+      "countryCode": "GA",
+      "name": "Estuaire",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "1"
+      },
+      "countryName": "Gabon",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Estuaire",
+      "lat": "0.3",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "02",
+      "lng": "13.9",
+      "geonameId": 2400454,
+      "toponymName": "Province du Haut-Ogooué",
+      "countryId": "2400553",
+      "fcl": "A",
+      "population": 143715,
+      "countryCode": "GA",
+      "name": "Haut-Ogooué",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "2"
+      },
+      "countryName": "Gabon",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Haut-Ogooué",
+      "lat": "-1.3",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "03",
+      "lng": "10.58333",
+      "geonameId": 2397842,
+      "toponymName": "Province du Moyen-Ogooué",
+      "countryId": "2400553",
+      "fcl": "A",
+      "population": 58307,
+      "countryCode": "GA",
+      "name": "Moyen-Ogooué",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "3"
+      },
+      "countryName": "Gabon",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Moyen-Ogooué",
+      "lat": "-0.41667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "04",
+      "lng": "11.16667",
+      "geonameId": 2397466,
+      "toponymName": "Province de la Ngounié",
+      "countryId": "2400553",
+      "fcl": "A",
+      "population": 107173,
+      "countryCode": "GA",
+      "name": "Ngouni",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "4"
+      },
+      "countryName": "Gabon",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Ngouni",
+      "lat": "-1.63333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "05",
+      "lng": "11",
+      "geonameId": 2397141,
+      "toponymName": "Province de la Nyanga",
+      "countryId": "2400553",
+      "fcl": "A",
+      "population": 54330,
+      "countryCode": "GA",
+      "name": "Nyanga",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "5"
+      },
+      "countryName": "Gabon",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Nyanga",
+      "lat": "-3",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "06",
+      "lng": "12.83333",
+      "geonameId": 2396926,
+      "toponymName": "Province de l’Ogooué-Ivindo",
+      "countryId": "2400553",
+      "fcl": "A",
+      "population": 67326,
+      "countryCode": "GA",
+      "name": "Ogooué-Ivindo",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "6"
+      },
+      "countryName": "Gabon",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Ogooué-Ivindo",
+      "lat": "0.66667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "07",
+      "lng": "12.66667",
+      "geonameId": 2396925,
+      "toponymName": "Province de l’Ogooué-Lolo",
+      "countryId": "2400553",
+      "fcl": "A",
+      "population": 60510,
+      "countryCode": "GA",
+      "name": "Ogooué-Lolo",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "7"
+      },
+      "countryName": "Gabon",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Ogooué-Lolo",
+      "lat": "-0.83333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "08",
+      "lng": "9.58333",
+      "geonameId": 2396924,
+      "toponymName": "Province de l’Ogooué-Maritime",
+      "countryId": "2400553",
+      "fcl": "A",
+      "population": 134913,
+      "countryCode": "GA",
+      "name": "Ogooué-Maritime",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "8"
+      },
+      "countryName": "Gabon",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Ogooué-Maritime",
+      "lat": "-1.58333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "09",
+      "lng": "12",
+      "geonameId": 2396076,
+      "toponymName": "Province du Woleu-Ntem",
+      "countryId": "2400553",
+      "fcl": "A",
+      "population": 134028,
+      "countryCode": "GA",
+      "name": "Woleu-Ntem",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "9"
+      },
+      "countryName": "Gabon",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Woleu-Ntem",
+      "lat": "1.5",
+      "fcode": "ADM1"
+    }
+  ]
+}

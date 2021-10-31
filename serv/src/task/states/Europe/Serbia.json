@@ -1,0 +1,42 @@
+{
+  "totalResultsCount": 2,
+  "geonames": [
+    {
+      "adminCode1": "SE",
+      "lng": "21",
+      "geonameId": 785958,
+      "toponymName": "Central Serbia",
+      "countryId": "6290252",
+      "fcl": "A",
+      "population": 5108463,
+      "countryCode": "RS",
+      "name": "Central Serbia",
+      "fclName": "country, state, region,...",
+      "countryName": "Serbia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Central Serbia",
+      "lat": "44",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "VO",
+      "lng": "20",
+      "geonameId": 784272,
+      "toponymName": "Autonomna Pokrajina Vojvodina",
+      "countryId": "6290252",
+      "fcl": "A",
+      "population": 2134409,
+      "countryCode": "RS",
+      "name": "Vojvodina",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "VO"
+      },
+      "countryName": "Serbia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Vojvodina",
+      "lat": "45",
+      "fcode": "ADM1"
+    }
+  ]
+}

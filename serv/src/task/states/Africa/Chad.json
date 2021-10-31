@@ -1,0 +1,465 @@
+{
+  "totalResultsCount": 23,
+  "geonames": [
+    {
+      "adminCode1": "22",
+      "lng": "16.91667",
+      "geonameId": 7603255,
+      "toponymName": "Province du Barh-El-Gazel",
+      "countryId": "2434508",
+      "fcl": "A",
+      "population": 260865,
+      "countryCode": "TD",
+      "name": "Barh-El-Gazel",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "BG"
+      },
+      "countryName": "Chad",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Barh el Gazel",
+      "lat": "14.66667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "01",
+      "lng": "19",
+      "geonameId": 2435899,
+      "toponymName": "Batha Region",
+      "countryId": "2434508",
+      "fcl": "A",
+      "population": 391742,
+      "countryCode": "TD",
+      "name": "Batha",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "BA"
+      },
+      "countryName": "Chad",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Batha",
+      "lat": "14",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "23",
+      "lng": "18.5",
+      "geonameId": 7602866,
+      "toponymName": "Borkou Region",
+      "countryId": "2434508",
+      "fcl": "A",
+      "population": 107251,
+      "countryCode": "TD",
+      "name": "Borkou",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "BO"
+      },
+      "countryName": "Chad",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Borkou",
+      "lat": "18.25",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "15",
+      "lng": "16.25",
+      "geonameId": 2434478,
+      "toponymName": "Chari-Baguirmi Region",
+      "countryId": "2434508",
+      "fcl": "A",
+      "population": 1700160,
+      "countryCode": "TD",
+      "name": "Chari-Baguirmi",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "CB"
+      },
+      "countryName": "Chad",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Chari-Baguirmi",
+      "lat": "11.34",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "27",
+      "lng": "23.16667",
+      "geonameId": 8604858,
+      "toponymName": "Ennedi-Est",
+      "countryId": "2434508",
+      "fcl": "A",
+      "population": 113000,
+      "countryCode": "TD",
+      "name": "Ennedi Est",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "EE"
+      },
+      "countryName": "Chad",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Ennedi-Est",
+      "lat": "17.75",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "28",
+      "lng": "21.4",
+      "geonameId": 8604857,
+      "toponymName": "Ennedi-Ouest",
+      "countryId": "2434508",
+      "fcl": "A",
+      "population": 60000,
+      "countryCode": "TD",
+      "name": "Ennedi-Ouest",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "EO"
+      },
+      "countryName": "Chad",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Ennedi-Ouest",
+      "lat": "18.4",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "05",
+      "lng": "18.5",
+      "geonameId": 2431555,
+      "toponymName": "Guera Region",
+      "countryId": "2434508",
+      "fcl": "A",
+      "population": 415909,
+      "countryCode": "TD",
+      "name": "Guéra",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "GR"
+      },
+      "countryName": "Chad",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Guéra",
+      "lat": "11.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "18",
+      "lng": "16.16667",
+      "geonameId": 7603251,
+      "toponymName": "Hadjer-Lamis",
+      "countryId": "2434508",
+      "fcl": "A",
+      "population": 562957,
+      "countryCode": "TD",
+      "name": "Hadjer-Lamis",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "HL"
+      },
+      "countryName": "Chad",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Hadjer-Lamis",
+      "lat": "12.66667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "06",
+      "lng": "15",
+      "geonameId": 2430873,
+      "toponymName": "Kanem Region",
+      "countryId": "2434508",
+      "fcl": "A",
+      "population": 380157,
+      "countryCode": "TD",
+      "name": "Kanem",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "KA"
+      },
+      "countryName": "Chad",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Kanem",
+      "lat": "15",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "07",
+      "lng": "14.5",
+      "geonameId": 2429323,
+      "toponymName": "Lac Region",
+      "countryId": "2434508",
+      "fcl": "A",
+      "population": 343496,
+      "countryCode": "TD",
+      "name": "Lac",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "LC"
+      },
+      "countryName": "Chad",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Lac",
+      "lat": "13.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "08",
+      "lng": "15.87236",
+      "geonameId": 2429060,
+      "toponymName": "Logone Occidental Region",
+      "countryId": "2434508",
+      "fcl": "A",
+      "population": 618580,
+      "countryCode": "TD",
+      "name": "Logone Occidental",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "LO"
+      },
+      "countryName": "Chad",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Logone Occidental",
+      "lat": "8.7529",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "09",
+      "lng": "16.42",
+      "geonameId": 2429058,
+      "toponymName": "Logone Oriental Region",
+      "countryId": "2434508",
+      "fcl": "A",
+      "population": 598990,
+      "countryCode": "TD",
+      "name": "Logone Oriental",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "LR"
+      },
+      "countryName": "Chad",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Logone Oriental",
+      "lat": "8.25",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "19",
+      "lng": "17.91567",
+      "geonameId": 7603252,
+      "toponymName": "Mandoul",
+      "countryId": "2434508",
+      "fcl": "A",
+      "population": 637086,
+      "countryCode": "TD",
+      "name": "Mandoul",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "MA"
+      },
+      "countryName": "Chad",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Mandoul",
+      "lat": "8.32941",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "16",
+      "lng": "15.83",
+      "geonameId": 2428132,
+      "toponymName": "Mayo-Kebbi East Region",
+      "countryId": "2434508",
+      "fcl": "A",
+      "population": 1120612,
+      "countryCode": "TD",
+      "name": "Mayo-Kebbi Est",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "ME"
+      },
+      "countryName": "Chad",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Mayo-Kebbi Est",
+      "lat": "10",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "20",
+      "lng": "14.75",
+      "geonameId": 7603253,
+      "toponymName": "Mayo-Kebbi West Region",
+      "countryId": "2434508",
+      "fcl": "A",
+      "population": 569087,
+      "countryCode": "TD",
+      "name": "Mayo-Kebbi Ouest",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "MO"
+      },
+      "countryName": "Chad",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Mayo-Kebbi Ouest",
+      "lat": "9.33",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "17",
+      "lng": "18.5",
+      "geonameId": 2427315,
+      "toponymName": "Moyen-Chari Region",
+      "countryId": "2434508",
+      "fcl": "A",
+      "population": 1003054,
+      "countryCode": "TD",
+      "name": "Moyen-Chari",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "MC"
+      },
+      "countryName": "Chad",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Moyen-Chari",
+      "lat": "9.3333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "21",
+      "lng": "15.06666",
+      "geonameId": 7603254,
+      "toponymName": "Ville de N'Djamena",
+      "countryId": "2434508",
+      "fcl": "A",
+      "population": 1092066,
+      "countryCode": "TD",
+      "name": "N’Djaména",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "ND"
+      },
+      "countryName": "Chad",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "N’Djaména",
+      "lat": "12.11666",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "12",
+      "lng": "21.25",
+      "geonameId": 242246,
+      "toponymName": "Ouaddai Region",
+      "countryId": "2434508",
+      "fcl": "A",
+      "population": 738647,
+      "countryCode": "TD",
+      "name": "Ouaddaï",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "OD"
+      },
+      "countryName": "Chad",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Ouadaï",
+      "lat": "13.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "13",
+      "lng": "20.5",
+      "geonameId": 242048,
+      "toponymName": "Salamat Region",
+      "countryId": "2434508",
+      "fcl": "A",
+      "population": 250430,
+      "countryCode": "TD",
+      "name": "Salamat",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SA"
+      },
+      "countryName": "Chad",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Salamat",
+      "lat": "11",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "25",
+      "lng": "21.5",
+      "geonameId": 7603257,
+      "toponymName": "Sila",
+      "countryId": "2434508",
+      "fcl": "A",
+      "population": 289776,
+      "countryCode": "TD",
+      "name": "Sila",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SI"
+      },
+      "countryName": "Chad",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Sila",
+      "lat": "12.25",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "14",
+      "lng": "16.5",
+      "geonameId": 2425287,
+      "toponymName": "Tandjile Region",
+      "countryId": "2434508",
+      "fcl": "A",
+      "population": 616362,
+      "countryCode": "TD",
+      "name": "Tandjilé",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "TA"
+      },
+      "countryName": "Chad",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Tandjilé",
+      "lat": "9.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "26",
+      "lng": "16.66667",
+      "geonameId": 7603258,
+      "toponymName": "Tibesti Region",
+      "countryId": "2434508",
+      "fcl": "A",
+      "population": 21970,
+      "countryCode": "TD",
+      "name": "Tibesti",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "TI"
+      },
+      "countryName": "Chad",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Tibesti",
+      "lat": "20.33333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "02",
+      "lng": "21.5",
+      "geonameId": 244877,
+      "toponymName": "Wadi Fira Region",
+      "countryId": "2434508",
+      "fcl": "A",
+      "population": 250978,
+      "countryCode": "TD",
+      "name": "Wadi Fira",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "WF"
+      },
+      "countryName": "Chad",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Wadi Fira",
+      "lat": "15",
+      "fcode": "ADM1"
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "totalResultsCount": 11,
+  "geonames": [
+    {
+      "adminCode1": "01",
+      "lng": "9.50408",
+      "geonameId": 3042074,
+      "toponymName": "Balzers",
+      "countryId": "3042058",
+      "fcl": "A",
+      "population": 4447,
+      "countryCode": "LI",
+      "name": "Balzers",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "01"
+      },
+      "countryName": "Liechtenstein",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Balzers",
+      "lat": "47.0677",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "02",
+      "lng": "9.53588",
+      "geonameId": 3042069,
+      "toponymName": "Eschen",
+      "countryId": "3042058",
+      "fcl": "A",
+      "population": 4008,
+      "countryCode": "LI",
+      "name": "Eschen",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "02"
+      },
+      "countryName": "Liechtenstein",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Eschen",
+      "lat": "47.20178",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "03",
+      "lng": "9.50995",
+      "geonameId": 3042063,
+      "toponymName": "Gamprin",
+      "countryId": "3042058",
+      "fcl": "A",
+      "population": 1268,
+      "countryCode": "LI",
+      "name": "Gamprin",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "03"
+      },
+      "countryName": "Liechtenstein",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Gamprin",
+      "lat": "47.21986",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "04",
+      "lng": "9.55898",
+      "geonameId": 3042056,
+      "toponymName": "Mauren",
+      "countryId": "3042058",
+      "fcl": "A",
+      "population": 3626,
+      "countryCode": "LI",
+      "name": "Mauren",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "04"
+      },
+      "countryName": "Liechtenstein",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Mauren",
+      "lat": "47.21513",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "05",
+      "lng": "9.55994",
+      "geonameId": 3042050,
+      "toponymName": "Planken",
+      "countryId": "3042058",
+      "fcl": "A",
+      "population": 377,
+      "countryCode": "LI",
+      "name": "Planken",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "05"
+      },
+      "countryName": "Liechtenstein",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Planken",
+      "lat": "47.18015",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "06",
+      "lng": "9.53323",
+      "geonameId": 3042047,
+      "toponymName": "Ruggell",
+      "countryId": "3042058",
+      "fcl": "A",
+      "population": 1862,
+      "countryCode": "LI",
+      "name": "Ruggell",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "06"
+      },
+      "countryName": "Liechtenstein",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Ruggell",
+      "lat": "47.24502",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "07",
+      "lng": "9.52401",
+      "geonameId": 3042042,
+      "toponymName": "Schaan",
+      "countryId": "3042058",
+      "fcl": "A",
+      "population": 5748,
+      "countryCode": "LI",
+      "name": "Schaan",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "07"
+      },
+      "countryName": "Liechtenstein",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Schaan",
+      "lat": "47.17433",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "08",
+      "lng": "9.55103",
+      "geonameId": 3042038,
+      "toponymName": "Schellenberg",
+      "countryId": "3042058",
+      "fcl": "A",
+      "population": 1004,
+      "countryCode": "LI",
+      "name": "Schellenberg",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "08"
+      },
+      "countryName": "Liechtenstein",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Schellenberg",
+      "lat": "47.23431",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "09",
+      "lng": "9.55517",
+      "geonameId": 3042036,
+      "toponymName": "Triesen",
+      "countryId": "3042058",
+      "fcl": "A",
+      "population": 4701,
+      "countryCode": "LI",
+      "name": "Triesen",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "09"
+      },
+      "countryName": "Liechtenstein",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Triesen",
+      "lat": "47.08381",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "10",
+      "lng": "9.55962",
+      "geonameId": 3042034,
+      "toponymName": "Triesenberg",
+      "countryId": "3042058",
+      "fcl": "A",
+      "population": 2689,
+      "countryCode": "LI",
+      "name": "Triesenberg",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "10"
+      },
+      "countryName": "Liechtenstein",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Triesenberg",
+      "lat": "47.12663",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "11",
+      "lng": "9.52655",
+      "geonameId": 3042031,
+      "toponymName": "Vaduz",
+      "countryId": "3042058",
+      "fcl": "A",
+      "population": 5197,
+      "countryCode": "LI",
+      "name": "Vaduz",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "11"
+      },
+      "countryName": "Liechtenstein",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Vaduz",
+      "lat": "47.14539",
+      "fcode": "ADM1"
+    }
+  ]
+}

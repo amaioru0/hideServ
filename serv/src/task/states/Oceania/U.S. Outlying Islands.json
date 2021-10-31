@@ -1,0 +1,185 @@
+{
+  "totalResultsCount": 9,
+  "geonames": [
+    {
+      "adminCode1": "050",
+      "lng": "-176.47944",
+      "geonameId": 5854907,
+      "toponymName": "Baker Island",
+      "countryId": "5854968",
+      "fcl": "A",
+      "population": 0,
+      "countryCode": "UM",
+      "name": "Baker Island",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "81"
+      },
+      "countryName": "U.S. Outlying Islands",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Baker Island",
+      "lat": "0.19472",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "150",
+      "lng": "-159.99702",
+      "geonameId": 5854926,
+      "toponymName": "Jarvis Island",
+      "countryId": "5854968",
+      "fcl": "A",
+      "population": 0,
+      "countryCode": "UM",
+      "name": "Bunker's Shoal",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "86"
+      },
+      "countryName": "U.S. Outlying Islands",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Jarvis Island",
+      "lat": "-0.37215",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "100",
+      "lng": "-176.61733",
+      "geonameId": 5854922,
+      "toponymName": "Howland Island",
+      "countryId": "5854968",
+      "fcl": "A",
+      "population": 0,
+      "countryCode": "UM",
+      "name": "Howland Island",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "84"
+      },
+      "countryName": "U.S. Outlying Islands",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Howland Island",
+      "lat": "0.81021",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "200",
+      "lng": "-169.52754",
+      "geonameId": 5854929,
+      "toponymName": "Johnston Atoll",
+      "countryId": "5854968",
+      "fcl": "A",
+      "population": 0,
+      "countryCode": "UM",
+      "name": "Johnston Atoll",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "67"
+      },
+      "countryName": "U.S. Outlying Islands",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Johnston Atoll",
+      "lat": "16.73385",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "250",
+      "lng": "-162.37537",
+      "geonameId": 5854936,
+      "toponymName": "Kingman Reef",
+      "countryId": "5854968",
+      "fcl": "A",
+      "population": 0,
+      "countryCode": "UM",
+      "name": "Kingman Reef",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "89"
+      },
+      "countryName": "U.S. Outlying Islands",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Kingman Reef",
+      "lat": "6.38354",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "300",
+      "lng": "-177.37813",
+      "geonameId": 5854943,
+      "toponymName": "Midway Atoll",
+      "countryId": "5854968",
+      "fcl": "A",
+      "population": 40,
+      "countryCode": "UM",
+      "name": "Midway Islands",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "71"
+      },
+      "countryName": "U.S. Outlying Islands",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Midway Islands",
+      "lat": "28.20935",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "350",
+      "lng": "-75.012",
+      "geonameId": 4743755,
+      "toponymName": "Navassa Island",
+      "countryId": "5854968",
+      "fcl": "A",
+      "population": 0,
+      "countryCode": "UM",
+      "name": "Navassa Island",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "76"
+      },
+      "countryName": "U.S. Outlying Islands",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Navassa Island",
+      "lat": "18.403",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "400",
+      "lng": "-162.07425",
+      "geonameId": 5854952,
+      "toponymName": "Palmyra Atoll",
+      "countryId": "5854968",
+      "fcl": "A",
+      "population": 10,
+      "countryCode": "UM",
+      "name": "Palmyra Atoll",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "95"
+      },
+      "countryName": "U.S. Outlying Islands",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Palmyra Atoll",
+      "lat": "5.87727",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "450",
+      "lng": "166.64828",
+      "geonameId": 4041685,
+      "toponymName": "Wake Atoll",
+      "countryId": "5854968",
+      "fcl": "A",
+      "population": 150,
+      "countryCode": "UM",
+      "name": "Wake Island",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "79"
+      },
+      "countryName": "U.S. Outlying Islands",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Wake Island",
+      "lat": "19.28012",
+      "fcode": "ADM1"
+    }
+  ]
+}

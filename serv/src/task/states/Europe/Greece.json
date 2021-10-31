@@ -1,0 +1,285 @@
+{
+  "totalResultsCount": 14,
+  "geonames": [
+    {
+      "adminCode1": "ESYE31",
+      "lng": "23.9035",
+      "geonameId": 6692632,
+      "toponymName": "Attica",
+      "countryId": "390903",
+      "fcl": "A",
+      "population": 3761810,
+      "countryCode": "GR",
+      "name": "Attica",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "I"
+      },
+      "countryName": "Greece",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Attica",
+      "lat": "37.92037",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "ESYE24",
+      "lng": "23.13995",
+      "geonameId": 6697800,
+      "toponymName": "Central Greece",
+      "countryId": "390903",
+      "fcl": "A",
+      "population": 605329,
+      "countryCode": "GR",
+      "name": "Central Greece",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "H"
+      },
+      "countryName": "Greece",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Central Greece",
+      "lat": "38.35243",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "ESYE12",
+      "lng": "22.84058",
+      "geonameId": 6697801,
+      "toponymName": "Central Macedonia",
+      "countryId": "390903",
+      "fcl": "A",
+      "population": 1871952,
+      "countryCode": "GR",
+      "name": "Central Macedonia",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "B"
+      },
+      "countryName": "Greece",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Central Macedonia",
+      "lat": "40.91351",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "ESYE43",
+      "lng": "24.89502",
+      "geonameId": 6697802,
+      "toponymName": "Crete",
+      "countryId": "390903",
+      "fcl": "A",
+      "population": 601131,
+      "countryCode": "GR",
+      "name": "Crete",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "M"
+      },
+      "countryName": "Greece",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Crete",
+      "lat": "35.15585",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "ESYE11",
+      "lng": "25.33447",
+      "geonameId": 6697803,
+      "toponymName": "Eastern Macedonia and Thrace",
+      "countryId": "390903",
+      "fcl": "A",
+      "population": 611067,
+      "countryCode": "GR",
+      "name": "East Macedonia and Thrace",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "A"
+      },
+      "countryName": "Greece",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "East Macedonia and Thrace",
+      "lat": "40.94671",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "ESYE21",
+      "lng": "20.71472",
+      "geonameId": 6697804,
+      "toponymName": "Epirus",
+      "countryId": "390903",
+      "fcl": "A",
+      "population": 353820,
+      "countryCode": "GR",
+      "name": "Epirus",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "D"
+      },
+      "countryName": "Greece",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Epirus",
+      "lat": "39.23651",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "ESYE22",
+      "lng": "20.78305",
+      "geonameId": 6697805,
+      "toponymName": "Ionian Islands",
+      "countryId": "390903",
+      "fcl": "A",
+      "population": 212984,
+      "countryCode": "GR",
+      "name": "Ionian Islands",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "F"
+      },
+      "countryName": "Greece",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Ionian Islands",
+      "lat": "37.79299",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "736572",
+      "lng": "24.33021",
+      "geonameId": 736572,
+      "toponymName": "Mount Athos",
+      "countryId": "390903",
+      "fcl": "A",
+      "population": 2262,
+      "countryCode": "GR",
+      "name": "Mount Athos",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "69"
+      },
+      "countryName": "Greece",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Mount Athos",
+      "lat": "40.15798",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "ESYE41",
+      "lng": "26.81956",
+      "geonameId": 6697806,
+      "toponymName": "North Aegean",
+      "countryId": "390903",
+      "fcl": "A",
+      "population": 206121,
+      "countryCode": "GR",
+      "name": "North Aegean",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "K"
+      },
+      "countryName": "Greece",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "North Aegean",
+      "lat": "37.71942",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "ESYE25",
+      "lng": "22.43958",
+      "geonameId": 6697807,
+      "toponymName": "Peloponnese",
+      "countryId": "390903",
+      "fcl": "A",
+      "population": 638942,
+      "countryCode": "GR",
+      "name": "Peloponnese",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "J"
+      },
+      "countryName": "Greece",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Peloponnese",
+      "lat": "37.62728",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "ESYE42",
+      "lng": "27.90603",
+      "geonameId": 6697808,
+      "toponymName": "South Aegean",
+      "countryId": "390903",
+      "fcl": "A",
+      "population": 302686,
+      "countryCode": "GR",
+      "name": "South Aegean",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "L"
+      },
+      "countryName": "Greece",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "South Aegean",
+      "lat": "36.16726",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "ESYE14",
+      "lng": "21.98364",
+      "geonameId": 6697809,
+      "toponymName": "Thessaly",
+      "countryId": "390903",
+      "fcl": "A",
+      "population": 753888,
+      "countryCode": "GR",
+      "name": "Thessaly",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "E"
+      },
+      "countryName": "Greece",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Thessaly",
+      "lat": "39.40224",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "ESYE23",
+      "lng": "21.2915",
+      "geonameId": 6697810,
+      "toponymName": "Western Greece",
+      "countryId": "390903",
+      "fcl": "A",
+      "population": 740506,
+      "countryCode": "GR",
+      "name": "West Greece",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "G"
+      },
+      "countryName": "Greece",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "West Greece",
+      "lat": "38.48799",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "ESYE13",
+      "lng": "21.32446",
+      "geonameId": 6697811,
+      "toponymName": "Western Macedonia",
+      "countryId": "390903",
+      "fcl": "A",
+      "population": 301522,
+      "countryCode": "GR",
+      "name": "West Macedonia",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "C"
+      },
+      "countryName": "Greece",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "West Macedonia",
+      "lat": "40.26695",
+      "fcode": "ADM1"
+    }
+  ]
+}

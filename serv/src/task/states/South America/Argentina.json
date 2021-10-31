@@ -1,0 +1,485 @@
+{
+  "totalResultsCount": 24,
+  "geonames": [
+    {
+      "adminCode1": "01",
+      "lng": "-60",
+      "geonameId": 3435907,
+      "toponymName": "Buenos Aires",
+      "countryId": "3865483",
+      "fcl": "A",
+      "population": 15625084,
+      "countryCode": "AR",
+      "name": "Buenos Aires",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "B"
+      },
+      "countryName": "Argentina",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Buenos Aires",
+      "lat": "-36",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "07",
+      "lng": "-58.45",
+      "geonameId": 3433955,
+      "toponymName": "Ciudad Autónoma de Buenos Aires",
+      "countryId": "3865483",
+      "fcl": "A",
+      "population": 2776138,
+      "countryCode": "AR",
+      "name": "Buenos Aires F.D.",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "C"
+      },
+      "countryName": "Argentina",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Buenos Aires F.D.",
+      "lat": "-34.6",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "02",
+      "lng": "-67",
+      "geonameId": 3862286,
+      "toponymName": "Catamarca Province",
+      "countryId": "3865483",
+      "fcl": "A",
+      "population": 334568,
+      "countryCode": "AR",
+      "name": "Catamarca",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "K"
+      },
+      "countryName": "Argentina",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Catamarca",
+      "lat": "-27",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "03",
+      "lng": "-60.5",
+      "geonameId": 3861887,
+      "toponymName": "Chaco Province",
+      "countryId": "3865483",
+      "fcl": "A",
+      "population": 984446,
+      "countryCode": "AR",
+      "name": "Chaco",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "H"
+      },
+      "countryName": "Argentina",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Chaco",
+      "lat": "-26.33333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "04",
+      "lng": "-69",
+      "geonameId": 3861244,
+      "toponymName": "Chubut Province",
+      "countryId": "3865483",
+      "fcl": "A",
+      "population": 413237,
+      "countryCode": "AR",
+      "name": "Chubut",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "U"
+      },
+      "countryName": "Argentina",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Chubut",
+      "lat": "-44",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "05",
+      "lng": "-64",
+      "geonameId": 3860255,
+      "toponymName": "Córdoba Province",
+      "countryId": "3865483",
+      "fcl": "A",
+      "population": 3066801,
+      "countryCode": "AR",
+      "name": "Cordoba",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "X"
+      },
+      "countryName": "Argentina",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Cordoba",
+      "lat": "-32",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "06",
+      "lng": "-58",
+      "geonameId": 3435214,
+      "toponymName": "Corrientes Province",
+      "countryId": "3865483",
+      "fcl": "A",
+      "population": 930991,
+      "countryCode": "AR",
+      "name": "Corrientes",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "W"
+      },
+      "countryName": "Argentina",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Corrientes",
+      "lat": "-29",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "08",
+      "lng": "-59",
+      "geonameId": 3434137,
+      "toponymName": "Entre Ríos Province",
+      "countryId": "3865483",
+      "fcl": "A",
+      "population": 1158147,
+      "countryCode": "AR",
+      "name": "Entre Rios",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "E"
+      },
+      "countryName": "Argentina",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Entre Rios",
+      "lat": "-32",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "09",
+      "lng": "-60",
+      "geonameId": 3433896,
+      "toponymName": "Formosa Province",
+      "countryId": "3865483",
+      "fcl": "A",
+      "population": 486559,
+      "countryCode": "AR",
+      "name": "Formosa",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "P"
+      },
+      "countryName": "Argentina",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Formosa",
+      "lat": "-25",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "10",
+      "lng": "-66",
+      "geonameId": 3853404,
+      "toponymName": "Jujuy Province",
+      "countryId": "3865483",
+      "fcl": "A",
+      "population": 611888,
+      "countryCode": "AR",
+      "name": "Jujuy",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "Y"
+      },
+      "countryName": "Argentina",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Jujuy",
+      "lat": "-23",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "11",
+      "lng": "-66",
+      "geonameId": 3849574,
+      "toponymName": "La Pampa Province",
+      "countryId": "3865483",
+      "fcl": "A",
+      "population": 299294,
+      "countryCode": "AR",
+      "name": "La Pampa",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "L"
+      },
+      "countryName": "Argentina",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "La Pampa",
+      "lat": "-37",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "12",
+      "lng": "-67",
+      "geonameId": 3848949,
+      "toponymName": "La Rioja Province",
+      "countryId": "3865483",
+      "fcl": "A",
+      "population": 289983,
+      "countryCode": "AR",
+      "name": "La Rioja",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "F"
+      },
+      "countryName": "Argentina",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "La Rioja",
+      "lat": "-29.58333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "13",
+      "lng": "-68.5",
+      "geonameId": 3844419,
+      "toponymName": "Mendoza Province",
+      "countryId": "3865483",
+      "fcl": "A",
+      "population": 1579651,
+      "countryCode": "AR",
+      "name": "Mendoza",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "M"
+      },
+      "countryName": "Argentina",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Mendoza",
+      "lat": "-34.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "14",
+      "lng": "-54.34387",
+      "geonameId": 3430657,
+      "toponymName": "Misiones Province",
+      "countryId": "3865483",
+      "fcl": "A",
+      "population": 965522,
+      "countryCode": "AR",
+      "name": "Misiones",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "N"
+      },
+      "countryName": "Argentina",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Misiones",
+      "lat": "-26.81427",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "15",
+      "lng": "-70",
+      "geonameId": 3843122,
+      "toponymName": "Neuquén Province",
+      "countryId": "3865483",
+      "fcl": "A",
+      "population": 474155,
+      "countryCode": "AR",
+      "name": "Neuquen",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "Q"
+      },
+      "countryName": "Argentina",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Neuquen",
+      "lat": "-39",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "16",
+      "lng": "-67",
+      "geonameId": 3838830,
+      "toponymName": "Río Negro Province",
+      "countryId": "3865483",
+      "fcl": "A",
+      "population": 552822,
+      "countryCode": "AR",
+      "name": "Rio Negro",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "R"
+      },
+      "countryName": "Argentina",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Rio Negro",
+      "lat": "-40",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "17",
+      "lng": "-65.43457",
+      "geonameId": 3838231,
+      "toponymName": "Salta Province",
+      "countryId": "3865483",
+      "fcl": "A",
+      "population": 1079051,
+      "countryCode": "AR",
+      "name": "Salta",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "A"
+      },
+      "countryName": "Argentina",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Salta",
+      "lat": "-24.75806",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "18",
+      "lng": "-69",
+      "geonameId": 3837152,
+      "toponymName": "San Juan Province",
+      "countryId": "3865483",
+      "fcl": "A",
+      "population": 620023,
+      "countryCode": "AR",
+      "name": "San Juan",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "J"
+      },
+      "countryName": "Argentina",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "San Juan",
+      "lat": "-31",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "19",
+      "lng": "-66",
+      "geonameId": 3837029,
+      "toponymName": "San Luis Province",
+      "countryId": "3865483",
+      "fcl": "A",
+      "population": 367933,
+      "countryCode": "AR",
+      "name": "San Luis",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "D"
+      },
+      "countryName": "Argentina",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "San Luis",
+      "lat": "-34",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "20",
+      "lng": "-70",
+      "geonameId": 3836350,
+      "toponymName": "Santa Cruz Province",
+      "countryId": "3865483",
+      "fcl": "A",
+      "population": 196958,
+      "countryCode": "AR",
+      "name": "Santa Cruz",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "Z"
+      },
+      "countryName": "Argentina",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Santa Cruz",
+      "lat": "-49",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "21",
+      "lng": "-61",
+      "geonameId": 3836276,
+      "toponymName": "Santa Fe Province",
+      "countryId": "3865483",
+      "fcl": "A",
+      "population": 3000701,
+      "countryCode": "AR",
+      "name": "Santa Fe",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "S"
+      },
+      "countryName": "Argentina",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Santa Fe",
+      "lat": "-31",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "22",
+      "lng": "-63.5",
+      "geonameId": 3835868,
+      "toponymName": "Santiago del Estero Province",
+      "countryId": "3865483",
+      "fcl": "A",
+      "population": 804457,
+      "countryCode": "AR",
+      "name": "Santiago del Estero",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "G"
+      },
+      "countryName": "Argentina",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Santiago del Estero",
+      "lat": "-28",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "23",
+      "lng": "-67",
+      "geonameId": 3834450,
+      "toponymName": "Tierra del Fuego Province",
+      "countryId": "3865483",
+      "fcl": "A",
+      "population": 101079,
+      "countryCode": "AR",
+      "name": "Tierra del Fuego",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "V"
+      },
+      "countryName": "Argentina",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Tierra del Fuego",
+      "lat": "-54.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "24",
+      "lng": "-65.5",
+      "geonameId": 3833578,
+      "toponymName": "Tucumán Province",
+      "countryId": "3865483",
+      "fcl": "A",
+      "population": 1338523,
+      "countryCode": "AR",
+      "name": "Tucuman",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "T"
+      },
+      "countryName": "Argentina",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Tucuman",
+      "lat": "-27",
+      "fcode": "ADM1"
+    }
+  ]
+}

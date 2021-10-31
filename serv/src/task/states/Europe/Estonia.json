@@ -1,0 +1,305 @@
+{
+  "totalResultsCount": 15,
+  "geonames": [
+    {
+      "adminCode1": "01",
+      "lng": "24.83333",
+      "geonameId": 592170,
+      "toponymName": "Harjumaa",
+      "countryId": "453733",
+      "fcl": "A",
+      "population": 555566,
+      "countryCode": "EE",
+      "name": "Harjumaa",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "37"
+      },
+      "countryName": "Estonia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Harjumaa",
+      "lat": "59.33333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "02",
+      "lng": "22.63333",
+      "geonameId": 592133,
+      "toponymName": "Hiiumaa",
+      "countryId": "453733",
+      "fcl": "A",
+      "population": 10275,
+      "countryCode": "EE",
+      "name": "Hiiumaa",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "39"
+      },
+      "countryName": "Estonia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Hiiumaa",
+      "lat": "58.9",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "03",
+      "lng": "27.41667",
+      "geonameId": 592075,
+      "toponymName": "Ida-Virumaa",
+      "countryId": "453733",
+      "fcl": "A",
+      "population": 173514,
+      "countryCode": "EE",
+      "name": "Ida-Virumaa",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "45"
+      },
+      "countryName": "Estonia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Ida-Virumaa",
+      "lat": "59.25",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "04",
+      "lng": "25.66667",
+      "geonameId": 591961,
+      "toponymName": "Järvamaa",
+      "countryId": "453733",
+      "fcl": "A",
+      "population": 38142,
+      "countryCode": "EE",
+      "name": "Järvamaa",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "52"
+      },
+      "countryName": "Estonia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Järvamaa",
+      "lat": "58.91667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "05",
+      "lng": "26.46667",
+      "geonameId": 591901,
+      "toponymName": "Jõgevamaa",
+      "countryId": "453733",
+      "fcl": "A",
+      "population": 37546,
+      "countryCode": "EE",
+      "name": "Jõgevamaa",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "50"
+      },
+      "countryName": "Estonia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Jõgevamaa",
+      "lat": "58.73333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "07",
+      "lng": "23.55",
+      "geonameId": 590856,
+      "toponymName": "Läänemaa",
+      "countryId": "453733",
+      "fcl": "A",
+      "population": 23810,
+      "countryCode": "EE",
+      "name": "Lääne",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "56"
+      },
+      "countryName": "Estonia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Lääne",
+      "lat": "58.93333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "08",
+      "lng": "26.33333",
+      "geonameId": 590854,
+      "toponymName": "Lääne-Virumaa",
+      "countryId": "453733",
+      "fcl": "A",
+      "population": 66409,
+      "countryCode": "EE",
+      "name": "Lääne-Virumaa",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "60"
+      },
+      "countryName": "Estonia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Lääne-Virumaa",
+      "lat": "59.25",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "11",
+      "lng": "24.56667",
+      "geonameId": 589576,
+      "toponymName": "Pärnumaa",
+      "countryId": "453733",
+      "fcl": "A",
+      "population": 81428,
+      "countryCode": "EE",
+      "name": "Pärnumaa",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "68"
+      },
+      "countryName": "Estonia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Pärnumaa",
+      "lat": "58.46667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "12",
+      "lng": "27.16667",
+      "geonameId": 589373,
+      "toponymName": "Põlvamaa",
+      "countryId": "453733",
+      "fcl": "A",
+      "population": 31730,
+      "countryCode": "EE",
+      "name": "Põlvamaa",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "64"
+      },
+      "countryName": "Estonia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Põlvamaa",
+      "lat": "58.08333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "13",
+      "lng": "24.7",
+      "geonameId": 589115,
+      "toponymName": "Raplamaa",
+      "countryId": "453733",
+      "fcl": "A",
+      "population": 37100,
+      "countryCode": "EE",
+      "name": "Raplamaa",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "71"
+      },
+      "countryName": "Estonia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Raplamaa",
+      "lat": "58.96667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "14",
+      "lng": "22.58333",
+      "geonameId": 588879,
+      "toponymName": "Saaremaa",
+      "countryId": "453733",
+      "fcl": "A",
+      "population": 35275,
+      "countryCode": "EE",
+      "name": "Saare",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "74"
+      },
+      "countryName": "Estonia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Saare",
+      "lat": "58.41667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "18",
+      "lng": "26.72496",
+      "geonameId": 588334,
+      "toponymName": "Tartumaa",
+      "countryId": "453733",
+      "fcl": "A",
+      "population": 150139,
+      "countryCode": "EE",
+      "name": "Tartu",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "79"
+      },
+      "countryName": "Estonia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Tartu",
+      "lat": "58.38065",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "19",
+      "lng": "26.16667",
+      "geonameId": 587875,
+      "toponymName": "Valgamaa",
+      "countryId": "453733",
+      "fcl": "A",
+      "population": 34789,
+      "countryCode": "EE",
+      "name": "Valgamaa",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "81"
+      },
+      "countryName": "Estonia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Valgamaa",
+      "lat": "57.91667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "20",
+      "lng": "25.56667",
+      "geonameId": 587590,
+      "toponymName": "Viljandimaa",
+      "countryId": "453733",
+      "fcl": "A",
+      "population": 56498,
+      "countryCode": "EE",
+      "name": "Viljandimaa",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "84"
+      },
+      "countryName": "Estonia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Viljandimaa",
+      "lat": "58.33333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "21",
+      "lng": "26.93333",
+      "geonameId": 587448,
+      "toponymName": "Võrumaa",
+      "countryId": "453733",
+      "fcl": "A",
+      "population": 38687,
+      "countryCode": "EE",
+      "name": "Võrumaa",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "87"
+      },
+      "countryName": "Estonia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Võrumaa",
+      "lat": "57.76667",
+      "fcode": "ADM1"
+    }
+  ]
+}

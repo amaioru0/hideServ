@@ -1,0 +1,365 @@
+{
+  "totalResultsCount": 18,
+  "geonames": [
+    {
+      "adminCode1": "19",
+      "lng": "13.82743",
+      "geonameId": 2243598,
+      "toponymName": "Bengo Province",
+      "countryId": "3351879",
+      "fcl": "A",
+      "population": 351579,
+      "countryCode": "AO",
+      "name": "Bengo",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "BGO"
+      },
+      "countryName": "Angola",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Bengo",
+      "lat": "-8.97504",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "01",
+      "lng": "13.92825",
+      "geonameId": 3351660,
+      "toponymName": "Benguela",
+      "countryId": "3351879",
+      "fcl": "A",
+      "population": 2036662,
+      "countryCode": "AO",
+      "name": "Benguela",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "BGU"
+      },
+      "countryName": "Angola",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Benguela",
+      "lat": "-12.85399",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "02",
+      "lng": "17.3031",
+      "geonameId": 3351640,
+      "toponymName": "Província do Bié",
+      "countryId": "3351879",
+      "fcl": "A",
+      "population": 1338923,
+      "countryCode": "AO",
+      "name": "Bíe",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "BIE"
+      },
+      "countryName": "Angola",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Bíe",
+      "lat": "-12.34989",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "03",
+      "lng": "12.40532",
+      "geonameId": 2243266,
+      "toponymName": "Cabinda",
+      "countryId": "3351879",
+      "fcl": "A",
+      "population": 688285,
+      "countryCode": "AO",
+      "name": "Cabinda",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "CAB"
+      },
+      "countryName": "Angola",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Cabinda",
+      "lat": "-4.93423",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "04",
+      "lng": "19.3832",
+      "geonameId": 876337,
+      "toponymName": "Cuando Cubango",
+      "countryId": "3351879",
+      "fcl": "A",
+      "population": 130000,
+      "countryCode": "AO",
+      "name": "Cuando Cobango",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "CCU"
+      },
+      "countryName": "Angola",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Cuando Cobango",
+      "lat": "-15.94761",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "05",
+      "lng": "14.8887",
+      "geonameId": 2241660,
+      "toponymName": "Cuanza Norte Province",
+      "countryId": "3351879",
+      "fcl": "A",
+      "population": 402357,
+      "countryCode": "AO",
+      "name": "Cuanza Norte",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "CNO"
+      },
+      "countryName": "Angola",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Cuanza Norte",
+      "lat": "-8.91136",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "07",
+      "lng": "15.43526",
+      "geonameId": 3349096,
+      "toponymName": "Cunene Province",
+      "countryId": "3351879",
+      "fcl": "A",
+      "population": 965288,
+      "countryCode": "AO",
+      "name": "Cunene",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "CNN"
+      },
+      "countryName": "Angola",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Cunene",
+      "lat": "-16.51009",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "08",
+      "lng": "15.66667",
+      "geonameId": 3348310,
+      "toponymName": "Huambo",
+      "countryId": "3351879",
+      "fcl": "A",
+      "population": 1896147,
+      "countryCode": "AO",
+      "name": "Huambo",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "HUA"
+      },
+      "countryName": "Angola",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Huambo",
+      "lat": "-12.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "09",
+      "lng": "15.00014",
+      "geonameId": 3348303,
+      "toponymName": "Huila Province",
+      "countryId": "3351879",
+      "fcl": "A",
+      "population": 2354398,
+      "countryCode": "AO",
+      "name": "Huíla",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "HUI"
+      },
+      "countryName": "Angola",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Huíla",
+      "lat": "-14.69531",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "06",
+      "lng": "15.03197",
+      "geonameId": 3349234,
+      "toponymName": "Cuanza-Sul",
+      "countryId": "3351879",
+      "fcl": "A",
+      "population": 653121,
+      "countryCode": "AO",
+      "name": "Kwanza Sul",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "CUS"
+      },
+      "countryName": "Angola",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Kwanza Sul",
+      "lat": "-10.82696",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "20",
+      "lng": "13.33924",
+      "geonameId": 2240444,
+      "toponymName": "Luanda Province",
+      "countryId": "3351879",
+      "fcl": "A",
+      "population": 6542942,
+      "countryCode": "AO",
+      "name": "Luanda",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "LUA"
+      },
+      "countryName": "Angola",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Luanda",
+      "lat": "-8.91667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "17",
+      "lng": "19.64852",
+      "geonameId": 145702,
+      "toponymName": "Lunda Norte Province",
+      "countryId": "3351879",
+      "fcl": "A",
+      "population": 799950,
+      "countryCode": "AO",
+      "name": "Luanda Norte",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "LNO"
+      },
+      "countryName": "Angola",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Luanda Norte",
+      "lat": "-8.63543",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "18",
+      "lng": "20.62489",
+      "geonameId": 145701,
+      "toponymName": "Lunda-Sul",
+      "countryId": "3351879",
+      "fcl": "A",
+      "population": 516077,
+      "countryCode": "AO",
+      "name": "Lunda Sul",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "LSU"
+      },
+      "countryName": "Angola",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Lunda Sul",
+      "lat": "-10.25918",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "12",
+      "lng": "16.82553",
+      "geonameId": 2239858,
+      "toponymName": "Malanje Province",
+      "countryId": "3351879",
+      "fcl": "A",
+      "population": 968135,
+      "countryCode": "AO",
+      "name": "Malanje",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "MAL"
+      },
+      "countryName": "Angola",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Malanje",
+      "lat": "-9.67548",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "14",
+      "lng": "20.93266",
+      "geonameId": 875996,
+      "toponymName": "Moxico",
+      "countryId": "3351879",
+      "fcl": "A",
+      "population": 727594,
+      "countryCode": "AO",
+      "name": "Moxico",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "MOX"
+      },
+      "countryName": "Angola",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Moxico",
+      "lat": "-12.84869",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "13",
+      "lng": "12.66002",
+      "geonameId": 3347016,
+      "toponymName": "Namibe Province",
+      "countryId": "3351879",
+      "fcl": "A",
+      "population": 471613,
+      "countryCode": "AO",
+      "name": "Namibe",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "NAM"
+      },
+      "countryName": "Angola",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Namibe",
+      "lat": "-15.33207",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "15",
+      "lng": "15.44056",
+      "geonameId": 2236566,
+      "toponymName": "Província do Uíge",
+      "countryId": "3351879",
+      "fcl": "A",
+      "population": 1426354,
+      "countryCode": "AO",
+      "name": "Uíge",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "UIG"
+      },
+      "countryName": "Angola",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Uíge",
+      "lat": "-7.10719",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "16",
+      "lng": "13.51966",
+      "geonameId": 2236355,
+      "toponymName": "Zaire",
+      "countryId": "3351879",
+      "fcl": "A",
+      "population": 567225,
+      "countryCode": "AO",
+      "name": "Zaire",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "ZAI"
+      },
+      "countryName": "Angola",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Zaire",
+      "lat": "-6.58717",
+      "fcode": "ADM1"
+    }
+  ]
+}

@@ -1,0 +1,556 @@
+{
+  "totalResultsCount": 28,
+  "geonames": [
+    {
+      "adminCode1": "02",
+      "lng": "55.48333",
+      "geonameId": 241449,
+      "toponymName": "Anse Boileau",
+      "countryId": "241170",
+      "fcl": "A",
+      "population": 4027,
+      "countryCode": "SC",
+      "name": "Anse Boileau",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "02"
+      },
+      "countryName": "Seychelles",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Anse Boileau",
+      "lat": "-4.70833",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "03",
+      "lng": "55.45",
+      "geonameId": 241447,
+      "toponymName": "Anse Etoile",
+      "countryId": "241170",
+      "fcl": "A",
+      "population": 4633,
+      "countryCode": "SC",
+      "name": "Anse Etoile",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "03"
+      },
+      "countryName": "Seychelles",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Anse Etoile",
+      "lat": "-4.59167",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "05",
+      "lng": "55.51667",
+      "geonameId": 241444,
+      "toponymName": "Anse Royale",
+      "countryId": "241170",
+      "fcl": "A",
+      "population": 3773,
+      "countryCode": "SC",
+      "name": "Anse Royale",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "05"
+      },
+      "countryName": "Seychelles",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Anse Royale",
+      "lat": "-4.74167",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "01",
+      "lng": "55.51718",
+      "geonameId": 241450,
+      "toponymName": "Anse aux Pins",
+      "countryId": "241170",
+      "fcl": "A",
+      "population": 3638,
+      "countryCode": "SC",
+      "name": "Anse-aux-Pins",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "01"
+      },
+      "countryName": "Seychelles",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Anse-aux-Pins",
+      "lat": "-4.68931",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "28",
+      "lng": "55.51667",
+      "geonameId": 448410,
+      "toponymName": "Au Cap",
+      "countryId": "241170",
+      "fcl": "A",
+      "population": 3205,
+      "countryCode": "SC",
+      "name": "Au Cap",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "04"
+      },
+      "countryName": "Seychelles",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Au Cap",
+      "lat": "-4.7",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "06",
+      "lng": "55.48333",
+      "geonameId": 241439,
+      "toponymName": "Baie Lazare",
+      "countryId": "241170",
+      "fcl": "A",
+      "population": 3053,
+      "countryCode": "SC",
+      "name": "Baie Lazare",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "06"
+      },
+      "countryName": "Seychelles",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Baie Lazare",
+      "lat": "-4.74722",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "07",
+      "lng": "55.73333",
+      "geonameId": 241438,
+      "toponymName": "Baie Sainte Anne",
+      "countryId": "241170",
+      "fcl": "A",
+      "population": 3918,
+      "countryCode": "SC",
+      "name": "Baie Sainte Anne",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "07"
+      },
+      "countryName": "Seychelles",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Baie Sainte Anne",
+      "lat": "-4.31667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "08",
+      "lng": "55.4316",
+      "geonameId": 241428,
+      "toponymName": "Beau Vallon",
+      "countryId": "241170",
+      "fcl": "A",
+      "population": 3892,
+      "countryCode": "SC",
+      "name": "Beau Vallon",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "08"
+      },
+      "countryName": "Seychelles",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Beau Vallon",
+      "lat": "-4.62014",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "09",
+      "lng": "55.44434",
+      "geonameId": 241426,
+      "toponymName": "Bel Air",
+      "countryId": "241170",
+      "fcl": "A",
+      "population": 2878,
+      "countryCode": "SC",
+      "name": "Bel Air",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "09"
+      },
+      "countryName": "Seychelles",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Bel Air",
+      "lat": "-4.632",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "10",
+      "lng": "55.41787",
+      "geonameId": 241424,
+      "toponymName": "Bel Ombre",
+      "countryId": "241170",
+      "fcl": "A",
+      "population": 3753,
+      "countryCode": "SC",
+      "name": "Bel Ombre",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "10"
+      },
+      "countryName": "Seychelles",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Bel Ombre",
+      "lat": "-4.61835",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "11",
+      "lng": "55.48333",
+      "geonameId": 241396,
+      "toponymName": "Cascade",
+      "countryId": "241170",
+      "fcl": "A",
+      "population": 3684,
+      "countryCode": "SC",
+      "name": "Cascade",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "11"
+      },
+      "countryName": "Seychelles",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Cascade",
+      "lat": "-4.66667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "26",
+      "lng": "55.45409",
+      "geonameId": 241302,
+      "toponymName": "English River",
+      "countryId": "241170",
+      "fcl": "A",
+      "population": 4023,
+      "countryCode": "SC",
+      "name": "English River",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "16"
+      },
+      "countryName": "Seychelles",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "English River",
+      "lat": "-4.61176",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "12",
+      "lng": "55.44167",
+      "geonameId": 241336,
+      "toponymName": "Glacis",
+      "countryId": "241170",
+      "fcl": "A",
+      "population": 3640,
+      "countryCode": "SC",
+      "name": "Glacis",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "12"
+      },
+      "countryName": "Seychelles",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Glacis",
+      "lat": "-4.575",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "24",
+      "lng": "55.45833",
+      "geonameId": 241330,
+      "toponymName": "Grand Anse Mahe",
+      "countryId": "241170",
+      "fcl": "A",
+      "population": 3800,
+      "countryCode": "SC",
+      "name": "Grand Anse Mahe",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "13"
+      },
+      "countryName": "Seychelles",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Grand Anse Mahe",
+      "lat": "-4.68333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "14",
+      "lng": "55.71667",
+      "geonameId": 241331,
+      "toponymName": "Grand Anse Praslin",
+      "countryId": "241170",
+      "fcl": "A",
+      "population": 3609,
+      "countryCode": "SC",
+      "name": "Grand Anse Praslin",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "14"
+      },
+      "countryName": "Seychelles",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Grand Anse Praslin",
+      "lat": "-4.31667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "12200079",
+      "lng": "55.46611",
+      "geonameId": 12200079,
+      "toponymName": "Ile Perseverance I",
+      "countryId": "241170",
+      "fcl": "A",
+      "population": 0,
+      "countryCode": "SC",
+      "name": "Ile Perseverance I",
+      "fclName": "country, state, region,...",
+      "countryName": "Seychelles",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Ile Perseverance I",
+      "lat": "-4.60799",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "12200080",
+      "lng": "55.46315",
+      "geonameId": 12200080,
+      "toponymName": "Ile Perseverance II",
+      "countryId": "241170",
+      "fcl": "A",
+      "population": 0,
+      "countryCode": "SC",
+      "name": "Ile Perseverance II",
+      "fclName": "country, state, region,...",
+      "countryName": "Seychelles",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Ile Perseverance II",
+      "lat": "-4.60222",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "25",
+      "lng": "55.8375",
+      "geonameId": 241311,
+      "toponymName": "La Digue",
+      "countryId": "241170",
+      "fcl": "A",
+      "population": 2000,
+      "countryCode": "SC",
+      "name": "La Digue",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "15"
+      },
+      "countryName": "Seychelles",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "La Digue",
+      "lat": "-4.35833",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "29",
+      "lng": "55.46993",
+      "geonameId": 448408,
+      "toponymName": "Les Mamelles",
+      "countryId": "241170",
+      "fcl": "A",
+      "population": 2159,
+      "countryCode": "SC",
+      "name": "Les Mamelles",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "24"
+      },
+      "countryName": "Seychelles",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Les Mamelles",
+      "lat": "-4.65137",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "17",
+      "lng": "55.44096",
+      "geonameId": 241252,
+      "toponymName": "Mont Buxton",
+      "countryId": "241170",
+      "fcl": "A",
+      "population": 2995,
+      "countryCode": "SC",
+      "name": "Mont Buxton",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "17"
+      },
+      "countryName": "Seychelles",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Mont Buxton",
+      "lat": "-4.61766",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "18",
+      "lng": "55.45833",
+      "geonameId": 241251,
+      "toponymName": "Mont Fleuri",
+      "countryId": "241170",
+      "fcl": "A",
+      "population": 3610,
+      "countryCode": "SC",
+      "name": "Mont Fleuri",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "18"
+      },
+      "countryName": "Seychelles",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Mont Fleuri",
+      "lat": "-4.63333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "11876017",
+      "lng": "51.03403",
+      "geonameId": 11876017,
+      "toponymName": "Outer Islands",
+      "countryId": "241170",
+      "fcl": "A",
+      "population": 574,
+      "countryCode": "SC",
+      "name": "Outer Islands",
+      "fclName": "country, state, region,...",
+      "countryName": "Seychelles",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Outer Islands",
+      "lat": "-9.97242",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "19",
+      "lng": "55.45833",
+      "geonameId": 241224,
+      "toponymName": "Plaisance",
+      "countryId": "241170",
+      "fcl": "A",
+      "population": 3220,
+      "countryCode": "SC",
+      "name": "Plaisance",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "19"
+      },
+      "countryName": "Seychelles",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Plaisance",
+      "lat": "-4.65",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "20",
+      "lng": "55.52173",
+      "geonameId": 241221,
+      "toponymName": "Pointe Larue",
+      "countryId": "241170",
+      "fcl": "A",
+      "population": 2775,
+      "countryCode": "SC",
+      "name": "Pointe Larue",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "20"
+      },
+      "countryName": "Seychelles",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Pointe Larue",
+      "lat": "-4.67738",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "27",
+      "lng": "55.4",
+      "geonameId": 241215,
+      "toponymName": "Port Glaud",
+      "countryId": "241170",
+      "fcl": "A",
+      "population": 2273,
+      "countryCode": "SC",
+      "name": "Port Glaud",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "21"
+      },
+      "countryName": "Seychelles",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Port Glaud",
+      "lat": "-4.65",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "30",
+      "lng": "55.46995",
+      "geonameId": 448409,
+      "toponymName": "Roche Caiman",
+      "countryId": "241170",
+      "fcl": "A",
+      "population": 3056,
+      "countryCode": "SC",
+      "name": "Roche Caiman",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "25"
+      },
+      "countryName": "Seychelles",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Roche Caiman",
+      "lat": "-4.64059",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "22",
+      "lng": "55.44466",
+      "geonameId": 241181,
+      "toponymName": "Saint Louis",
+      "countryId": "241170",
+      "fcl": "A",
+      "population": 3224,
+      "countryCode": "SC",
+      "name": "Saint Louis",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "22"
+      },
+      "countryName": "Seychelles",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Saint Louis",
+      "lat": "-4.62413",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "23",
+      "lng": "55.51667",
+      "geonameId": 241151,
+      "toponymName": "Takamaka",
+      "countryId": "241170",
+      "fcl": "A",
+      "population": 2602,
+      "countryCode": "SC",
+      "name": "Takamaka",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "23"
+      },
+      "countryName": "Seychelles",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Takamaka",
+      "lat": "-4.78333",
+      "fcode": "ADM1"
+    }
+  ]
+}

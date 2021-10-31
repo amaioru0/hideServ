@@ -1,0 +1,245 @@
+{
+  "totalResultsCount": 12,
+  "geonames": [
+    {
+      "adminCode1": "02",
+      "lng": "41.00501",
+      "geonameId": 6643410,
+      "toponymName": "Abkhazia",
+      "countryId": "614540",
+      "fcl": "A",
+      "population": 242862,
+      "countryCode": "GE",
+      "name": "Abkhazia",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "AB"
+      },
+      "countryName": "Georgia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Abkhazia",
+      "lat": "43.0005",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "04",
+      "lng": "42",
+      "geonameId": 615929,
+      "toponymName": "Ajaria",
+      "countryId": "614540",
+      "fcl": "A",
+      "population": 370030,
+      "countryCode": "GE",
+      "name": "Achara",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "AJ"
+      },
+      "countryName": "Georgia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Achara",
+      "lat": "41.66667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "65",
+      "lng": "42.2",
+      "geonameId": 865538,
+      "toponymName": "Guria",
+      "countryId": "614540",
+      "fcl": "A",
+      "population": 141827,
+      "countryCode": "GE",
+      "name": "Guria",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "GU"
+      },
+      "countryName": "Georgia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Guria",
+      "lat": "41.96667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "66",
+      "lng": "42.98333",
+      "geonameId": 865539,
+      "toponymName": "Imereti",
+      "countryId": "614540",
+      "fcl": "A",
+      "population": 486000,
+      "countryCode": "GE",
+      "name": "Imereti",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "IM"
+      },
+      "countryName": "Georgia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Imereti",
+      "lat": "42.16667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "51",
+      "lng": "44.83333",
+      "geonameId": 611716,
+      "toponymName": "K'alak'i T'bilisi",
+      "countryId": "614540",
+      "fcl": "A",
+      "population": 1106539,
+      "countryCode": "GE",
+      "name": "K'alak'i T'bilisi",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "TB"
+      },
+      "countryName": "Georgia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "T'bilisi",
+      "lat": "41.71667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "67",
+      "lng": "45.71667",
+      "geonameId": 865537,
+      "toponymName": "Kakheti",
+      "countryId": "614540",
+      "fcl": "A",
+      "population": 310000,
+      "countryCode": "GE",
+      "name": "Kakheti",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "KA"
+      },
+      "countryName": "Georgia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Kakheti",
+      "lat": "41.75",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "68",
+      "lng": "44.51667",
+      "geonameId": 865536,
+      "toponymName": "Kvemo Kartli",
+      "countryId": "614540",
+      "fcl": "A",
+      "population": 423000,
+      "countryCode": "GE",
+      "name": "Kvemo Kartli",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "KK"
+      },
+      "countryName": "Georgia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Kvemo Kartli",
+      "lat": "41.51667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "69",
+      "lng": "44.75",
+      "geonameId": 865541,
+      "toponymName": "Mtskheta-Mtianeti",
+      "countryId": "614540",
+      "fcl": "A",
+      "population": 122576,
+      "countryCode": "GE",
+      "name": "Mtskheta-Mtianeti",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "MM"
+      },
+      "countryName": "Georgia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Mtskheta-Mtianeti",
+      "lat": "42.28333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "70",
+      "lng": "43.13333",
+      "geonameId": 865542,
+      "toponymName": "Racha-Lechkhumi and Kvemo Svaneti",
+      "countryId": "614540",
+      "fcl": "A",
+      "population": 48571,
+      "countryCode": "GE",
+      "name": "Racha-Lechkhumi and Kvemo Svaneti",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "RL"
+      },
+      "countryName": "Georgia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Racha-Lechkhumi and Kvemo Svaneti",
+      "lat": "42.63333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "71",
+      "lng": "42.21496",
+      "geonameId": 865543,
+      "toponymName": "Samegrelo-Zemo Svanetis Mkhare",
+      "countryId": "614540",
+      "fcl": "A",
+      "population": 311000,
+      "countryCode": "GE",
+      "name": "Samegrelo and Zemo Svaneti",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SZ"
+      },
+      "countryName": "Georgia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Samegrelo and Zemo Svaneti",
+      "lat": "42.70076",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "72",
+      "lng": "43.26667",
+      "geonameId": 865544,
+      "toponymName": "Samtskhe-Javakheti",
+      "countryId": "614540",
+      "fcl": "A",
+      "population": 207443,
+      "countryCode": "GE",
+      "name": "Samtskhe-Javakheti",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SJ"
+      },
+      "countryName": "Georgia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Samtskhe-Javakheti",
+      "lat": "41.58333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "73",
+      "lng": "44.14",
+      "geonameId": 865540,
+      "toponymName": "Shida Kartli",
+      "countryId": "614540",
+      "fcl": "A",
+      "population": 320657,
+      "countryCode": "GE",
+      "name": "Shida Kartli",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SK"
+      },
+      "countryName": "Georgia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Shida Kartli",
+      "lat": "42.32",
+      "fcode": "ADM1"
+    }
+  ]
+}

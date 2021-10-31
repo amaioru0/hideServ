@@ -1,0 +1,1025 @@
+{
+  "totalResultsCount": 51,
+  "geonames": [
+    {
+      "adminCode1": "AL",
+      "lng": "-86.75026",
+      "geonameId": 4829764,
+      "toponymName": "Alabama",
+      "countryId": "6252001",
+      "fcl": "A",
+      "population": 4530315,
+      "countryCode": "US",
+      "name": "Alabama",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "AL"
+      },
+      "countryName": "United States",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Alabama",
+      "lat": "32.75041",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "AK",
+      "lng": "-150.00028",
+      "geonameId": 5879092,
+      "toponymName": "Alaska",
+      "countryId": "6252001",
+      "fcl": "A",
+      "population": 660633,
+      "countryCode": "US",
+      "name": "Alaska",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "AK"
+      },
+      "countryName": "United States",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Alaska",
+      "lat": "64.00028",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "AZ",
+      "lng": "-111.50098",
+      "geonameId": 5551752,
+      "toponymName": "Arizona",
+      "countryId": "6252001",
+      "fcl": "A",
+      "population": 5863809,
+      "countryCode": "US",
+      "name": "Arizona",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "AZ"
+      },
+      "countryName": "United States",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Arizona",
+      "lat": "34.5003",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "AR",
+      "lng": "-92.50044",
+      "geonameId": 4099753,
+      "toponymName": "Arkansas",
+      "countryId": "6252001",
+      "fcl": "A",
+      "population": 2757631,
+      "countryCode": "US",
+      "name": "Arkansas",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "AR"
+      },
+      "countryName": "United States",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Arkansas",
+      "lat": "34.75037",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "CA",
+      "lng": "-119.75126",
+      "geonameId": 5332921,
+      "toponymName": "California",
+      "countryId": "6252001",
+      "fcl": "A",
+      "population": 39512223,
+      "countryCode": "US",
+      "name": "California",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "CA"
+      },
+      "countryName": "United States",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "California",
+      "lat": "37.25022",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "CO",
+      "lng": "-105.50083",
+      "geonameId": 5417618,
+      "toponymName": "Colorado",
+      "countryId": "6252001",
+      "fcl": "A",
+      "population": 4678630,
+      "countryCode": "US",
+      "name": "Colorado",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "CO"
+      },
+      "countryName": "United States",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Colorado",
+      "lat": "39.00027",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "CT",
+      "lng": "-72.66648",
+      "geonameId": 4831725,
+      "toponymName": "Connecticut",
+      "countryId": "6252001",
+      "fcl": "A",
+      "population": 3527249,
+      "countryCode": "US",
+      "name": "Connecticut",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "CT"
+      },
+      "countryName": "United States",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Connecticut",
+      "lat": "41.66704",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "DE",
+      "lng": "-75.49992",
+      "geonameId": 4142224,
+      "toponymName": "Delaware",
+      "countryId": "6252001",
+      "fcl": "A",
+      "population": 838549,
+      "countryCode": "US",
+      "name": "Delaware",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "DE"
+      },
+      "countryName": "United States",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Delaware",
+      "lat": "39.00039",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "FL",
+      "lng": "-82.5001",
+      "geonameId": 4155751,
+      "toponymName": "Florida",
+      "countryId": "6252001",
+      "fcl": "A",
+      "population": 17671452,
+      "countryCode": "US",
+      "name": "Florida",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "FL"
+      },
+      "countryName": "United States",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Florida",
+      "lat": "28.75054",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "GA",
+      "lng": "-83.50018",
+      "geonameId": 4197000,
+      "toponymName": "Georgia",
+      "countryId": "6252001",
+      "fcl": "A",
+      "population": 8975842,
+      "countryCode": "US",
+      "name": "Georgia",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "GA"
+      },
+      "countryName": "United States",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Georgia",
+      "lat": "32.75042",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "HI",
+      "lng": "-156.38612",
+      "geonameId": 5855797,
+      "toponymName": "Hawaii",
+      "countryId": "6252001",
+      "fcl": "A",
+      "population": 1284220,
+      "countryCode": "US",
+      "name": "Hawaii",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "HI"
+      },
+      "countryName": "United States",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Hawaii",
+      "lat": "20.78785",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "ID",
+      "lng": "-114.25118",
+      "geonameId": 5596512,
+      "toponymName": "Idaho",
+      "countryId": "6252001",
+      "fcl": "A",
+      "population": 1416564,
+      "countryCode": "US",
+      "name": "Idaho",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "ID"
+      },
+      "countryName": "United States",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Idaho",
+      "lat": "44.5002",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "IL",
+      "lng": "-89.25037",
+      "geonameId": 4896861,
+      "toponymName": "Illinois",
+      "countryId": "6252001",
+      "fcl": "A",
+      "population": 12772888,
+      "countryCode": "US",
+      "name": "Illinois",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "IL"
+      },
+      "countryName": "United States",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Illinois",
+      "lat": "40.00032",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "IN",
+      "lng": "-86.25027",
+      "geonameId": 4921868,
+      "toponymName": "Indiana",
+      "countryId": "6252001",
+      "fcl": "A",
+      "population": 6265933,
+      "countryCode": "US",
+      "name": "Indiana",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "IN"
+      },
+      "countryName": "United States",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Indiana",
+      "lat": "40.00032",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "IA",
+      "lng": "-93.50049",
+      "geonameId": 4862182,
+      "toponymName": "Iowa",
+      "countryId": "6252001",
+      "fcl": "A",
+      "population": 2955010,
+      "countryCode": "US",
+      "name": "Iowa",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "IA"
+      },
+      "countryName": "United States",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Iowa",
+      "lat": "42.00027",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "KS",
+      "lng": "-98.50063",
+      "geonameId": 4273857,
+      "toponymName": "Kansas",
+      "countryId": "6252001",
+      "fcl": "A",
+      "population": 2740759,
+      "countryCode": "US",
+      "name": "Kansas",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "KS"
+      },
+      "countryName": "United States",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Kansas",
+      "lat": "38.50029",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "KY",
+      "lng": "-84.87762",
+      "geonameId": 6254925,
+      "toponymName": "Kentucky",
+      "countryId": "6252001",
+      "fcl": "A",
+      "population": 4206074,
+      "countryCode": "US",
+      "name": "Kentucky",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "KY"
+      },
+      "countryName": "United States",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Kentucky",
+      "lat": "38.20042",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "LA",
+      "lng": "-92.0004",
+      "geonameId": 4331987,
+      "toponymName": "Louisiana",
+      "countryId": "6252001",
+      "fcl": "A",
+      "population": 4515939,
+      "countryCode": "US",
+      "name": "Louisiana",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "LA"
+      },
+      "countryName": "United States",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Louisiana",
+      "lat": "31.00047",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "ME",
+      "lng": "-69.24977",
+      "geonameId": 4971068,
+      "toponymName": "Maine",
+      "countryId": "6252001",
+      "fcl": "A",
+      "population": 1325518,
+      "countryCode": "US",
+      "name": "Maine",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "ME"
+      },
+      "countryName": "United States",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Maine",
+      "lat": "45.50032",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "MD",
+      "lng": "-76.74997",
+      "geonameId": 4361885,
+      "toponymName": "Maryland",
+      "countryId": "6252001",
+      "fcl": "A",
+      "population": 5624246,
+      "countryCode": "US",
+      "name": "Maryland",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "MD"
+      },
+      "countryName": "United States",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Maryland",
+      "lat": "39.00039",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "MA",
+      "lng": "-71.10832",
+      "geonameId": 6254926,
+      "toponymName": "Massachusetts",
+      "countryId": "6252001",
+      "fcl": "A",
+      "population": 6433422,
+      "countryCode": "US",
+      "name": "Massachusetts",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "MA"
+      },
+      "countryName": "United States",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Massachusetts",
+      "lat": "42.36565",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "MI",
+      "lng": "-85.50033",
+      "geonameId": 5001836,
+      "toponymName": "Michigan",
+      "countryId": "6252001",
+      "fcl": "A",
+      "population": 9883360,
+      "countryCode": "US",
+      "name": "Michigan",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "MI"
+      },
+      "countryName": "United States",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Michigan",
+      "lat": "44.25029",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "MN",
+      "lng": "-94.25055",
+      "geonameId": 5037779,
+      "toponymName": "Minnesota",
+      "countryId": "6252001",
+      "fcl": "A",
+      "population": 5141953,
+      "countryCode": "US",
+      "name": "Minnesota",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "MN"
+      },
+      "countryName": "United States",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Minnesota",
+      "lat": "46.25024",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "MS",
+      "lng": "-89.75036",
+      "geonameId": 4436296,
+      "toponymName": "Mississippi",
+      "countryId": "6252001",
+      "fcl": "A",
+      "population": 2901371,
+      "countryCode": "US",
+      "name": "Mississippi",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "MS"
+      },
+      "countryName": "United States",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Mississippi",
+      "lat": "32.75041",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "MO",
+      "lng": "-92.50046",
+      "geonameId": 4398678,
+      "toponymName": "Missouri",
+      "countryId": "6252001",
+      "fcl": "A",
+      "population": 5768151,
+      "countryCode": "US",
+      "name": "Missouri",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "MO"
+      },
+      "countryName": "United States",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Missouri",
+      "lat": "38.25031",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "MT",
+      "lng": "-109.75102",
+      "geonameId": 5667009,
+      "toponymName": "Montana",
+      "countryId": "6252001",
+      "fcl": "A",
+      "population": 930698,
+      "countryCode": "US",
+      "name": "Montana",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "MT"
+      },
+      "countryName": "United States",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Montana",
+      "lat": "47.00025",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "NE",
+      "lng": "-99.75067",
+      "geonameId": 5073708,
+      "toponymName": "Nebraska",
+      "countryId": "6252001",
+      "fcl": "A",
+      "population": 1757399,
+      "countryCode": "US",
+      "name": "Nebraska",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "NE"
+      },
+      "countryName": "United States",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Nebraska",
+      "lat": "41.50028",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "NV",
+      "lng": "-116.75119",
+      "geonameId": 5509151,
+      "toponymName": "Nevada",
+      "countryId": "6252001",
+      "fcl": "A",
+      "population": 2399532,
+      "countryCode": "US",
+      "name": "Nevada",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "NV"
+      },
+      "countryName": "United States",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Nevada",
+      "lat": "39.25021",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "NH",
+      "lng": "-71.4998",
+      "geonameId": 5090174,
+      "toponymName": "New Hampshire",
+      "countryId": "6252001",
+      "fcl": "A",
+      "population": 1316216,
+      "countryCode": "US",
+      "name": "New Hampshire",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "NH"
+      },
+      "countryName": "United States",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "New Hampshire",
+      "lat": "43.66702",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "NJ",
+      "lng": "-74.49987",
+      "geonameId": 5101760,
+      "toponymName": "New Jersey",
+      "countryId": "6252001",
+      "fcl": "A",
+      "population": 8751436,
+      "countryCode": "US",
+      "name": "New Jersey",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "NJ"
+      },
+      "countryName": "United States",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "New Jersey",
+      "lat": "40.16706",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "NM",
+      "lng": "-106.00085",
+      "geonameId": 5481136,
+      "toponymName": "New Mexico",
+      "countryId": "6252001",
+      "fcl": "A",
+      "population": 1912684,
+      "countryCode": "US",
+      "name": "New Mexico",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "NM"
+      },
+      "countryName": "United States",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "New Mexico",
+      "lat": "34.50034",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "NY",
+      "lng": "-75.4999",
+      "geonameId": 5128638,
+      "toponymName": "New York",
+      "countryId": "6252001",
+      "fcl": "A",
+      "population": 19274244,
+      "countryCode": "US",
+      "name": "New York",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "NY"
+      },
+      "countryName": "United States",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "New York",
+      "lat": "43.00035",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "NC",
+      "lng": "-80.00032",
+      "geonameId": 4482348,
+      "toponymName": "North Carolina",
+      "countryId": "6252001",
+      "fcl": "A",
+      "population": 10488084,
+      "countryCode": "US",
+      "name": "North Carolina",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "NC"
+      },
+      "countryName": "United States",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "North Carolina",
+      "lat": "35.50069",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "ND",
+      "lng": "-100.00068",
+      "geonameId": 5690763,
+      "toponymName": "North Dakota",
+      "countryId": "6252001",
+      "fcl": "A",
+      "population": 630529,
+      "countryCode": "US",
+      "name": "North Dakota",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "ND"
+      },
+      "countryName": "United States",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "North Dakota",
+      "lat": "47.50027",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "OH",
+      "lng": "-83.00018",
+      "geonameId": 5165418,
+      "toponymName": "Ohio",
+      "countryId": "6252001",
+      "fcl": "A",
+      "population": 11467123,
+      "countryCode": "US",
+      "name": "Ohio",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "OH"
+      },
+      "countryName": "United States",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Ohio",
+      "lat": "40.25034",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "OK",
+      "lng": "-97.50328",
+      "geonameId": 4544379,
+      "toponymName": "Oklahoma",
+      "countryId": "6252001",
+      "fcl": "A",
+      "population": 3547049,
+      "countryCode": "US",
+      "name": "Oklahoma",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "OK"
+      },
+      "countryName": "United States",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Oklahoma",
+      "lat": "35.49209",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "OR",
+      "lng": "-120.50139",
+      "geonameId": 5744337,
+      "toponymName": "Oregon",
+      "countryId": "6252001",
+      "fcl": "A",
+      "population": 3642919,
+      "countryCode": "US",
+      "name": "Oregon",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "OR"
+      },
+      "countryName": "United States",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Oregon",
+      "lat": "44.00013",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "PA",
+      "lng": "-77.7",
+      "geonameId": 6254927,
+      "toponymName": "Pennsylvania",
+      "countryId": "6252001",
+      "fcl": "A",
+      "population": 12440621,
+      "countryCode": "US",
+      "name": "Pennsylvania",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "PA"
+      },
+      "countryName": "United States",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Pennsylvania",
+      "lat": "40.8",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "RI",
+      "lng": "-71.49978",
+      "geonameId": 5224323,
+      "toponymName": "Rhode Island",
+      "countryId": "6252001",
+      "fcl": "A",
+      "population": 1050292,
+      "countryCode": "US",
+      "name": "Rhode Island",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "RI"
+      },
+      "countryName": "United States",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Rhode Island",
+      "lat": "41.75038",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "SC",
+      "lng": "-81.00009",
+      "geonameId": 4597040,
+      "toponymName": "South Carolina",
+      "countryId": "6252001",
+      "fcl": "A",
+      "population": 4229842,
+      "countryCode": "US",
+      "name": "South Carolina",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SC"
+      },
+      "countryName": "United States",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "South Carolina",
+      "lat": "34.00043",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "SD",
+      "lng": "-100.25069",
+      "geonameId": 5769223,
+      "toponymName": "South Dakota",
+      "countryId": "6252001",
+      "fcl": "A",
+      "population": 770184,
+      "countryCode": "US",
+      "name": "South Dakota",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SD"
+      },
+      "countryName": "United States",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "South Dakota",
+      "lat": "44.50026",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "TN",
+      "lng": "-86.25027",
+      "geonameId": 4662168,
+      "toponymName": "Tennessee",
+      "countryId": "6252001",
+      "fcl": "A",
+      "population": 5935099,
+      "countryCode": "US",
+      "name": "Tennessee",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "TN"
+      },
+      "countryName": "United States",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Tennessee",
+      "lat": "35.75035",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "TX",
+      "lng": "-99.25061",
+      "geonameId": 4736286,
+      "toponymName": "Texas",
+      "countryId": "6252001",
+      "fcl": "A",
+      "population": 22875689,
+      "countryCode": "US",
+      "name": "Texas",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "TX"
+      },
+      "countryName": "United States",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Texas",
+      "lat": "31.25044",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "UT",
+      "lng": "-111.75103",
+      "geonameId": 5549030,
+      "toponymName": "Utah",
+      "countryId": "6252001",
+      "fcl": "A",
+      "population": 2427340,
+      "countryCode": "US",
+      "name": "Utah",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "UT"
+      },
+      "countryName": "United States",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Utah",
+      "lat": "39.25024",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "VT",
+      "lng": "-72.74983",
+      "geonameId": 5242283,
+      "toponymName": "Vermont",
+      "countryId": "6252001",
+      "fcl": "A",
+      "population": 624501,
+      "countryCode": "US",
+      "name": "Vermont",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "VT"
+      },
+      "countryName": "United States",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Vermont",
+      "lat": "44.00034",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "VA",
+      "lng": "-77.44675",
+      "geonameId": 6254928,
+      "toponymName": "Virginia",
+      "countryId": "6252001",
+      "fcl": "A",
+      "population": 7642884,
+      "countryCode": "US",
+      "name": "Virginia",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "VA"
+      },
+      "countryName": "United States",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Virginia",
+      "lat": "37.54812",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "WA",
+      "lng": "-120.50147",
+      "geonameId": 5815135,
+      "toponymName": "Washington",
+      "countryId": "6252001",
+      "fcl": "A",
+      "population": 6271775,
+      "countryCode": "US",
+      "name": "Washington",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "WA"
+      },
+      "countryName": "United States",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Washington",
+      "lat": "47.50012",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "DC",
+      "lng": "-77.00025",
+      "geonameId": 4138106,
+      "toponymName": "District of Columbia",
+      "countryId": "6252001",
+      "fcl": "A",
+      "population": 552433,
+      "countryCode": "US",
+      "name": "Washington, D.C.",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "DC"
+      },
+      "countryName": "United States",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Washington, D.C.",
+      "lat": "38.91706",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "WV",
+      "lng": "-80.50009",
+      "geonameId": 4826850,
+      "toponymName": "West Virginia",
+      "countryId": "6252001",
+      "fcl": "A",
+      "population": 1817871,
+      "countryCode": "US",
+      "name": "West Virginia",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "WV"
+      },
+      "countryName": "United States",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "West Virginia",
+      "lat": "38.50038",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "WI",
+      "lng": "-90.00041",
+      "geonameId": 5279468,
+      "toponymName": "Wisconsin",
+      "countryId": "6252001",
+      "fcl": "A",
+      "population": 5535168,
+      "countryCode": "US",
+      "name": "Wisconsin",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "WI"
+      },
+      "countryName": "United States",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Wisconsin",
+      "lat": "44.50024",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "WY",
+      "lng": "-107.5009",
+      "geonameId": 5843591,
+      "toponymName": "Wyoming",
+      "countryId": "6252001",
+      "fcl": "A",
+      "population": 505907,
+      "countryCode": "US",
+      "name": "Wyoming",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "WY"
+      },
+      "countryName": "United States",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Wyoming",
+      "lat": "43.00024",
+      "fcode": "ADM1"
+    }
+  ]
+}

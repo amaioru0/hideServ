@@ -1,0 +1,245 @@
+{
+  "totalResultsCount": 12,
+  "geonames": [
+    {
+      "adminCode1": "40",
+      "lng": "20.08333",
+      "geonameId": 865730,
+      "toponymName": "Qarku i Beratit",
+      "countryId": "783754",
+      "fcl": "A",
+      "population": 141944,
+      "countryCode": "AL",
+      "name": "Qarku i Beratit",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "01"
+      },
+      "countryName": "Albania",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Berat",
+      "lat": "40.63333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "41",
+      "lng": "20.23333",
+      "geonameId": 865731,
+      "toponymName": "Qarku i Dibrës",
+      "countryId": "783754",
+      "fcl": "A",
+      "population": 137047,
+      "countryCode": "AL",
+      "name": "Qarku i Dibrës",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "09"
+      },
+      "countryName": "Albania",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Dibër",
+      "lat": "41.6",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "42",
+      "lng": "19.61667",
+      "geonameId": 3344947,
+      "toponymName": "Qarku i Durrësit",
+      "countryId": "783754",
+      "fcl": "A",
+      "population": 262785,
+      "countryCode": "AL",
+      "name": "Qarku i Durrësit",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "02"
+      },
+      "countryName": "Albania",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Durrës",
+      "lat": "41.48333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "43",
+      "lng": "20.2",
+      "geonameId": 865732,
+      "toponymName": "Qarku i Elbasanit",
+      "countryId": "783754",
+      "fcl": "A",
+      "population": 295827,
+      "countryCode": "AL",
+      "name": "Qarku i Elbasanit",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "03"
+      },
+      "countryName": "Albania",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Elbasan",
+      "lat": "41.06667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "44",
+      "lng": "19.61667",
+      "geonameId": 3344948,
+      "toponymName": "Qarku i Fierit",
+      "countryId": "783754",
+      "fcl": "A",
+      "population": 310331,
+      "countryCode": "AL",
+      "name": "Qarku i Fierit",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "04"
+      },
+      "countryName": "Albania",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Fier",
+      "lat": "40.76667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "45",
+      "lng": "20.2",
+      "geonameId": 865733,
+      "toponymName": "Qarku i Gjirokastrës",
+      "countryId": "783754",
+      "fcl": "A",
+      "population": 72000,
+      "countryCode": "AL",
+      "name": "Qarku i Gjirokastrës",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "05"
+      },
+      "countryName": "Albania",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Gjirokastër",
+      "lat": "40.21667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "46",
+      "lng": "20.66667",
+      "geonameId": 865734,
+      "toponymName": "Qarku i Korçës",
+      "countryId": "783754",
+      "fcl": "A",
+      "population": 220357,
+      "countryCode": "AL",
+      "name": "Qarku i Korçës",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "06"
+      },
+      "countryName": "Albania",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Korçë",
+      "lat": "40.61667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "47",
+      "lng": "20.36667",
+      "geonameId": 865735,
+      "toponymName": "Qarku i Kukësit",
+      "countryId": "783754",
+      "fcl": "A",
+      "population": 85292,
+      "countryCode": "AL",
+      "name": "Qarku i Kukësit",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "07"
+      },
+      "countryName": "Albania",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Kukës",
+      "lat": "42.2",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "48",
+      "lng": "19.86667",
+      "geonameId": 3344949,
+      "toponymName": "Qarku i Lezhës",
+      "countryId": "783754",
+      "fcl": "A",
+      "population": 134027,
+      "countryCode": "AL",
+      "name": "Qarku i Lezhës",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "08"
+      },
+      "countryName": "Albania",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Lezhë",
+      "lat": "41.8",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "49",
+      "lng": "19.75",
+      "geonameId": 3344950,
+      "toponymName": "Qarku i Shkodrës",
+      "countryId": "783754",
+      "fcl": "A",
+      "population": 200000,
+      "countryCode": "AL",
+      "name": "Qarku i Shkodrës",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "10"
+      },
+      "countryName": "Albania",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Shkodër",
+      "lat": "42.18333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "51",
+      "lng": "19.8",
+      "geonameId": 3344952,
+      "toponymName": "Qarku i Vlorës",
+      "countryId": "783754",
+      "fcl": "A",
+      "population": 190000,
+      "countryCode": "AL",
+      "name": "Qarku i Vlorës",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "12"
+      },
+      "countryName": "Albania",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Vlorë",
+      "lat": "40.16667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "50",
+      "lng": "19.78333",
+      "geonameId": 3344951,
+      "toponymName": "Tirana",
+      "countryId": "783754",
+      "fcl": "A",
+      "population": 749365,
+      "countryCode": "AL",
+      "name": "Tirana",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "11"
+      },
+      "countryName": "Albania",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Tirana",
+      "lat": "41.26667",
+      "fcode": "ADM1"
+    }
+  ]
+}

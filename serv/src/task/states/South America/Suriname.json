@@ -1,0 +1,205 @@
+{
+  "totalResultsCount": 10,
+  "geonames": [
+    {
+      "adminCode1": "10",
+      "lng": "-55.16667",
+      "geonameId": 3384481,
+      "toponymName": "Distrikt Brokopondo",
+      "countryId": "3382998",
+      "fcl": "A",
+      "population": 14549,
+      "countryCode": "SR",
+      "name": "Distrikt Brokopondo",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "BR"
+      },
+      "countryName": "Suriname",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Brokopondo",
+      "lat": "4.75",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "11",
+      "lng": "-54.91667",
+      "geonameId": 3384418,
+      "toponymName": "Distrikt Commewijne",
+      "countryId": "3382998",
+      "fcl": "A",
+      "population": 24767,
+      "countryCode": "SR",
+      "name": "Distrikt Commewijne",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "CM"
+      },
+      "countryName": "Suriname",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Commewijne",
+      "lat": "5.75",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "12",
+      "lng": "-56.25",
+      "geonameId": 3384397,
+      "toponymName": "Distrikt Coronie",
+      "countryId": "3382998",
+      "fcl": "A",
+      "population": 2883,
+      "countryCode": "SR",
+      "name": "Distrikt Coronie",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "CR"
+      },
+      "countryName": "Suriname",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Coronie",
+      "lat": "5.58333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "13",
+      "lng": "-54.33333",
+      "geonameId": 3383560,
+      "toponymName": "Distrikt Marowijne",
+      "countryId": "3382998",
+      "fcl": "A",
+      "population": 16634,
+      "countryCode": "SR",
+      "name": "Distrikt Marowijne",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "MA"
+      },
+      "countryName": "Suriname",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Marowijne",
+      "lat": "5.58333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "14",
+      "lng": "-56.83333",
+      "geonameId": 3383438,
+      "toponymName": "Distrikt Nickerie",
+      "countryId": "3382998",
+      "fcl": "A",
+      "population": 36708,
+      "countryCode": "SR",
+      "name": "Distrikt Nickerie",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "NI"
+      },
+      "countryName": "Suriname",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Nickerie",
+      "lat": "5.66667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "15",
+      "lng": "-55.33333",
+      "geonameId": 3383337,
+      "toponymName": "Distrikt Para",
+      "countryId": "3382998",
+      "fcl": "A",
+      "population": 18994,
+      "countryCode": "SR",
+      "name": "Distrikt Para",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "PR"
+      },
+      "countryName": "Suriname",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Para",
+      "lat": "5.41667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "16",
+      "lng": "-55.16667",
+      "geonameId": 3383329,
+      "toponymName": "Distrikt Paramaribo",
+      "countryId": "3382998",
+      "fcl": "A",
+      "population": 242946,
+      "countryCode": "SR",
+      "name": "Distrikt Paramaribo",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "PM"
+      },
+      "countryName": "Suriname",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Paramaribo",
+      "lat": "5.86667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "17",
+      "lng": "-55.58333",
+      "geonameId": 3383110,
+      "toponymName": "Distrikt Saramacca",
+      "countryId": "3382998",
+      "fcl": "A",
+      "population": 16171,
+      "countryCode": "SR",
+      "name": "Distrikt Saramacca",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SA"
+      },
+      "countryName": "Suriname",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Saramacca",
+      "lat": "5.66667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "18",
+      "lng": "-56",
+      "geonameId": 3383062,
+      "toponymName": "Distrikt Sipaliwini",
+      "countryId": "3382998",
+      "fcl": "A",
+      "population": 34524,
+      "countryCode": "SR",
+      "name": "Distrikt Sipaliwini",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SI"
+      },
+      "countryName": "Suriname",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Sipaliwini",
+      "lat": "4",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "19",
+      "lng": "-55.25",
+      "geonameId": 3382761,
+      "toponymName": "Distrikt Wanica",
+      "countryId": "3382998",
+      "fcl": "A",
+      "population": 86814,
+      "countryCode": "SR",
+      "name": "Distrikt Wanica",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "WA"
+      },
+      "countryName": "Suriname",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Wanica",
+      "lat": "5.75",
+      "fcode": "ADM1"
+    }
+  ]
+}

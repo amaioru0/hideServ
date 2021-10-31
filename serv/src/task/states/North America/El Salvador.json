@@ -1,0 +1,285 @@
+{
+  "totalResultsCount": 14,
+  "geonames": [
+    {
+      "adminCode1": "01",
+      "lng": "-89.91667",
+      "geonameId": 3587425,
+      "toponymName": "Departamento de Ahuachapán",
+      "countryId": "3585968",
+      "fcl": "A",
+      "population": 333406,
+      "countryCode": "SV",
+      "name": "Departamento de Ahuachapán",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "AH"
+      },
+      "countryName": "El Salvador",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Ahuachapán",
+      "lat": "13.86667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "02",
+      "lng": "-88.75",
+      "geonameId": 3587217,
+      "toponymName": "Departamento de Cabañas",
+      "countryId": "3585968",
+      "fcl": "A",
+      "population": 164945,
+      "countryCode": "SV",
+      "name": "Departamento de Cabañas",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "CA"
+      },
+      "countryName": "El Salvador",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Cabañas",
+      "lat": "13.86667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "03",
+      "lng": "-89.01667",
+      "geonameId": 3587090,
+      "toponymName": "Departamento de Chalatenango",
+      "countryId": "3585968",
+      "fcl": "A",
+      "population": 204808,
+      "countryCode": "SV",
+      "name": "Departamento de Chalatenango",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "CH"
+      },
+      "countryName": "El Salvador",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Chalatenango",
+      "lat": "14.13333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "04",
+      "lng": "-89.03333",
+      "geonameId": 3586831,
+      "toponymName": "Departamento de Cuscatlán",
+      "countryId": "3585968",
+      "fcl": "A",
+      "population": 252528,
+      "countryCode": "SV",
+      "name": "Departamento de Cuscatlán",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "CU"
+      },
+      "countryName": "El Salvador",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Cuscatlán",
+      "lat": "13.83333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "05",
+      "lng": "-89.38333",
+      "geonameId": 3585155,
+      "toponymName": "Departamento de La Libertad",
+      "countryId": "3585968",
+      "fcl": "A",
+      "population": 747662,
+      "countryCode": "SV",
+      "name": "Departamento de La Libertad",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "LI"
+      },
+      "countryName": "El Salvador",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "La Libertad",
+      "lat": "13.75",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "06",
+      "lng": "-88.98333",
+      "geonameId": 3585087,
+      "toponymName": "Departamento de La Paz",
+      "countryId": "3585968",
+      "fcl": "A",
+      "population": 328221,
+      "countryCode": "SV",
+      "name": "Departamento de La Paz",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "PA"
+      },
+      "countryName": "El Salvador",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "La Paz",
+      "lat": "13.46667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "07",
+      "lng": "-87.9",
+      "geonameId": 3584767,
+      "toponymName": "Departamento de La Unión",
+      "countryId": "3585968",
+      "fcl": "A",
+      "population": 263271,
+      "countryCode": "SV",
+      "name": "Departamento de La Unión",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "UN"
+      },
+      "countryName": "El Salvador",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "La Unión",
+      "lat": "13.55",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "08",
+      "lng": "-88.1",
+      "geonameId": 3584317,
+      "toponymName": "Departamento de Morazán",
+      "countryId": "3585968",
+      "fcl": "A",
+      "population": 199519,
+      "countryCode": "SV",
+      "name": "Departamento de Morazán",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "MO"
+      },
+      "countryName": "El Salvador",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Morazán",
+      "lat": "13.8",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "09",
+      "lng": "-88.28333",
+      "geonameId": 3583462,
+      "toponymName": "Departamento de San Miguel",
+      "countryId": "3585968",
+      "fcl": "A",
+      "population": 478792,
+      "countryCode": "SV",
+      "name": "Departamento de San Miguel",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SM"
+      },
+      "countryName": "El Salvador",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "San Miguel",
+      "lat": "13.53333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "10",
+      "lng": "-89.18333",
+      "geonameId": 3583360,
+      "toponymName": "Departamento de San Salvador",
+      "countryId": "3585968",
+      "fcl": "A",
+      "population": 1740847,
+      "countryCode": "SV",
+      "name": "Departamento de San Salvador",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SS"
+      },
+      "countryName": "El Salvador",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "San Salvador",
+      "lat": "13.78333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "12",
+      "lng": "-88.75",
+      "geonameId": 3583176,
+      "toponymName": "Departamento de San Vicente",
+      "countryId": "3585968",
+      "fcl": "A",
+      "population": 174561,
+      "countryCode": "SV",
+      "name": "Departamento de San Vicente",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SV"
+      },
+      "countryName": "El Salvador",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "San Vicente",
+      "lat": "13.51667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "11",
+      "lng": "-89.58333",
+      "geonameId": 3583332,
+      "toponymName": "Departamento de Santa Ana",
+      "countryId": "3585968",
+      "fcl": "A",
+      "population": 572081,
+      "countryCode": "SV",
+      "name": "Departamento de Santa Ana",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SA"
+      },
+      "countryName": "El Salvador",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Santa Ana",
+      "lat": "14.1",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "13",
+      "lng": "-89.7",
+      "geonameId": 3583101,
+      "toponymName": "Departamento de Sonsonate",
+      "countryId": "3585968",
+      "fcl": "A",
+      "population": 463739,
+      "countryCode": "SV",
+      "name": "Departamento de Sonsonate",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SO"
+      },
+      "countryName": "El Salvador",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Sonsonate",
+      "lat": "13.7",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "14",
+      "lng": "-88.53333",
+      "geonameId": 3582882,
+      "toponymName": "Departamento de Usulután",
+      "countryId": "3585968",
+      "fcl": "A",
+      "population": 366040,
+      "countryCode": "SV",
+      "name": "Departamento de Usulután",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "US"
+      },
+      "countryName": "El Salvador",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Usulután",
+      "lat": "13.43333",
+      "fcode": "ADM1"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "totalResultsCount": 2,
+  "geonames": [
+    {
+      "adminCode1": "01",
+      "lng": "7.39886",
+      "geonameId": 2410878,
+      "toponymName": "Príncipe",
+      "countryId": "2410758",
+      "fcl": "A",
+      "population": 5000,
+      "countryCode": "ST",
+      "name": "Príncipe",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "P"
+      },
+      "countryName": "São Tomé and Príncipe",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Príncipe",
+      "lat": "1.62198",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "02",
+      "lng": "6.6",
+      "geonameId": 2410764,
+      "toponymName": "São Tomé",
+      "countryId": "2410758",
+      "fcl": "A",
+      "population": 157000,
+      "countryCode": "ST",
+      "name": "São Tomé Island",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {},
+      "countryName": "São Tomé and Príncipe",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "São Tomé Island",
+      "lat": "0.25",
+      "fcode": "ADM1"
+    }
+  ]
+}

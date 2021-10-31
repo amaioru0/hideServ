@@ -1,0 +1,345 @@
+{
+  "totalResultsCount": 17,
+  "geonames": [
+    {
+      "adminCode1": "01",
+      "lng": "-85.5",
+      "geonameId": 3620673,
+      "toponymName": "Departamento de Boaco",
+      "countryId": "3617476",
+      "fcl": "A",
+      "population": 171000,
+      "countryCode": "NI",
+      "name": "Departamento de Boaco",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "BO"
+      },
+      "countryName": "Nicaragua",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Boaco",
+      "lat": "12.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "02",
+      "lng": "-86.25",
+      "geonameId": 3620481,
+      "toponymName": "Departamento de Carazo",
+      "countryId": "3617476",
+      "fcl": "A",
+      "population": 177100,
+      "countryCode": "NI",
+      "name": "Departamento de Carazo",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "CA"
+      },
+      "countryName": "Nicaragua",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Carazo",
+      "lat": "11.75",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "03",
+      "lng": "-87.08333",
+      "geonameId": 3620380,
+      "toponymName": "Departamento de Chinandega",
+      "countryId": "3617476",
+      "fcl": "A",
+      "population": 441300,
+      "countryCode": "NI",
+      "name": "Departamento de Chinandega",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "CI"
+      },
+      "countryName": "Nicaragua",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Chinandega",
+      "lat": "12.83333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "04",
+      "lng": "-85.16667",
+      "geonameId": 3620368,
+      "toponymName": "Departamento de Chontales",
+      "countryId": "3617476",
+      "fcl": "A",
+      "population": 182000,
+      "countryCode": "NI",
+      "name": "Departamento de Chontales",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "CO"
+      },
+      "countryName": "Nicaragua",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Chontales",
+      "lat": "12.08333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "05",
+      "lng": "-86.33333",
+      "geonameId": 3619193,
+      "toponymName": "Departamento de Estelí",
+      "countryId": "3617476",
+      "fcl": "A",
+      "population": 215400,
+      "countryCode": "NI",
+      "name": "Departamento de Estelí",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "ES"
+      },
+      "countryName": "Nicaragua",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Estelí",
+      "lat": "13.16667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "06",
+      "lng": "-85.91667",
+      "geonameId": 3619135,
+      "toponymName": "Departamento de Granada",
+      "countryId": "3617476",
+      "fcl": "A",
+      "population": 190600,
+      "countryCode": "NI",
+      "name": "Departamento de Granada",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "GR"
+      },
+      "countryName": "Nicaragua",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Granada",
+      "lat": "11.83333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "07",
+      "lng": "-85.58333",
+      "geonameId": 3618928,
+      "toponymName": "Departamento de Jinotega",
+      "countryId": "3617476",
+      "fcl": "A",
+      "population": 297300,
+      "countryCode": "NI",
+      "name": "Departamento de Jinotega",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "JI"
+      },
+      "countryName": "Nicaragua",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Jinotega",
+      "lat": "13.75",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "08",
+      "lng": "-86.58333",
+      "geonameId": 3618029,
+      "toponymName": "Departamento de León",
+      "countryId": "3617476",
+      "fcl": "A",
+      "population": 389600,
+      "countryCode": "NI",
+      "name": "Departamento de León",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "LE"
+      },
+      "countryName": "Nicaragua",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "León",
+      "lat": "12.58333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "09",
+      "lng": "-86.41667",
+      "geonameId": 3617796,
+      "toponymName": "Departamento de Madriz",
+      "countryId": "3617476",
+      "fcl": "A",
+      "population": 133300,
+      "countryCode": "NI",
+      "name": "Departamento de Madriz",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "MD"
+      },
+      "countryName": "Nicaragua",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Madriz",
+      "lat": "13.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "10",
+      "lng": "-86.41667",
+      "geonameId": 3617762,
+      "toponymName": "Departamento de Managua",
+      "countryId": "3617476",
+      "fcl": "A",
+      "population": 1380300,
+      "countryCode": "NI",
+      "name": "Departamento de Managua",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "MN"
+      },
+      "countryName": "Nicaragua",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Managua",
+      "lat": "12",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "11",
+      "lng": "-86.16667",
+      "geonameId": 3617722,
+      "toponymName": "Departamento de Masaya",
+      "countryId": "3617476",
+      "fcl": "A",
+      "population": 317500,
+      "countryCode": "NI",
+      "name": "Departamento de Masaya",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "MS"
+      },
+      "countryName": "Nicaragua",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Masaya",
+      "lat": "12",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "12",
+      "lng": "-85.66667",
+      "geonameId": 3617707,
+      "toponymName": "Departamento de Matagalpa",
+      "countryId": "3617476",
+      "fcl": "A",
+      "population": 484900,
+      "countryCode": "NI",
+      "name": "Departamento de Matagalpa",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "MT"
+      },
+      "countryName": "Nicaragua",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Matagalpa",
+      "lat": "12.91667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "13",
+      "lng": "-86.16667",
+      "geonameId": 3617458,
+      "toponymName": "Departamento de Nueva Segovia",
+      "countryId": "3617476",
+      "fcl": "A",
+      "population": 211200,
+      "countryCode": "NI",
+      "name": "Departamento de Nueva Segovia",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "NS"
+      },
+      "countryName": "Nicaragua",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Nueva Segovia",
+      "lat": "13.7",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "15",
+      "lng": "-85.75",
+      "geonameId": 3617051,
+      "toponymName": "Departamento de Rivas",
+      "countryId": "3617476",
+      "fcl": "A",
+      "population": 166900,
+      "countryCode": "NI",
+      "name": "Departamento de Rivas",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "RI"
+      },
+      "countryName": "Nicaragua",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Rivas",
+      "lat": "11.3",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "14",
+      "lng": "-84.58333",
+      "geonameId": 3617056,
+      "toponymName": "Departamento de Río San Juan",
+      "countryId": "3617476",
+      "fcl": "A",
+      "population": 95500,
+      "countryCode": "NI",
+      "name": "Departamento de Río San Juan",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SJ"
+      },
+      "countryName": "Nicaragua",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Río San Juan",
+      "lat": "11.33333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "17",
+      "lng": "-84.25",
+      "geonameId": 3830307,
+      "toponymName": "Costa Caribe Norte",
+      "countryId": "3617476",
+      "fcl": "A",
+      "population": 249700,
+      "countryCode": "NI",
+      "name": "North Caribbean Coast",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "AN"
+      },
+      "countryName": "Nicaragua",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "North Caribbean Coast",
+      "lat": "14",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "18",
+      "lng": "-84.14978",
+      "geonameId": 3830308,
+      "toponymName": "Costa Caribe Sur",
+      "countryId": "3617476",
+      "fcl": "A",
+      "population": 306510,
+      "countryCode": "NI",
+      "name": "South Caribbean Coast",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "AS"
+      },
+      "countryName": "Nicaragua",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "South Caribbean Coast",
+      "lat": "11.84585",
+      "fcode": "ADM1"
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "totalResultsCount": 11,
+  "geonames": [
+    {
+      "adminCode1": "42",
+      "lng": "7.62322",
+      "geonameId": 12110596,
+      "toponymName": "Agder",
+      "countryId": "3144096",
+      "fcl": "A",
+      "population": 306849,
+      "countryCode": "NO",
+      "name": "Agder",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "42"
+      },
+      "countryName": "Norway",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Agder",
+      "lat": "58.69829",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "34",
+      "lng": "10.4272",
+      "geonameId": 12110598,
+      "toponymName": "Innlandet",
+      "countryId": "3144096",
+      "fcl": "A",
+      "population": 371385,
+      "countryCode": "NO",
+      "name": "Innlandet",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "34"
+      },
+      "countryName": "Norway",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Innlandet",
+      "lat": "61.43367",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "08",
+      "lng": "7.1506",
+      "geonameId": 3145495,
+      "toponymName": "Møre og Romsdal fylke",
+      "countryId": "3144096",
+      "fcl": "A",
+      "population": 244689,
+      "countryCode": "NO",
+      "name": "Møre og Romsdal",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "15"
+      },
+      "countryName": "Norway",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Møre og Romsdal",
+      "lat": "62.7345",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "09",
+      "lng": "14.76254",
+      "geonameId": 3144301,
+      "toponymName": "Nordland Fylke",
+      "countryId": "3144096",
+      "fcl": "A",
+      "population": 236825,
+      "countryCode": "NO",
+      "name": "Nordland",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "18"
+      },
+      "countryName": "Norway",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Nordland",
+      "lat": "66.914",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "12",
+      "lng": "10.7336",
+      "geonameId": 3143242,
+      "toponymName": "Oslo County",
+      "countryId": "3144096",
+      "fcl": "A",
+      "population": 629313,
+      "countryCode": "NO",
+      "name": "Oslo County",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "03"
+      },
+      "countryName": "Norway",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Oslo",
+      "lat": "59.9119",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "14",
+      "lng": "6.20442",
+      "geonameId": 3141558,
+      "toponymName": "Rogaland Fylke",
+      "countryId": "3144096",
+      "fcl": "A",
+      "population": 393104,
+      "countryCode": "NO",
+      "name": "Rogaland",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "11"
+      },
+      "countryName": "Norway",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Rogaland",
+      "lat": "59.09608",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "54",
+      "lng": "23.71225",
+      "geonameId": 12110597,
+      "toponymName": "Troms og Finnmark",
+      "countryId": "3144096",
+      "fcl": "A",
+      "population": 243311,
+      "countryCode": "NO",
+      "name": "Troms og Finnmark",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "54"
+      },
+      "countryName": "Norway",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Troms og Finnmark",
+      "lat": "69.72429",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "21",
+      "lng": "11.58001",
+      "geonameId": 11862827,
+      "toponymName": "Trøndelag",
+      "countryId": "3144096",
+      "fcl": "A",
+      "population": 454596,
+      "countryCode": "NO",
+      "name": "Trøndelag",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "50"
+      },
+      "countryName": "Norway",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Trøndelag",
+      "lat": "64.02475",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "38",
+      "lng": "8.72285",
+      "geonameId": 12110599,
+      "toponymName": "Vestfold og Telemark",
+      "countryId": "3144096",
+      "fcl": "A",
+      "population": 415777,
+      "countryCode": "NO",
+      "name": "Vestfold og Telemark",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "38"
+      },
+      "countryName": "Norway",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Vestfold og Telemark",
+      "lat": "59.49381",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "46",
+      "lng": "6.43261",
+      "geonameId": 12110600,
+      "toponymName": "Vestland",
+      "countryId": "3144096",
+      "fcl": "A",
+      "population": 636533,
+      "countryCode": "NO",
+      "name": "Vestland",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "46"
+      },
+      "countryName": "Norway",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Vestland",
+      "lat": "60.93024",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "30",
+      "lng": "9.89478",
+      "geonameId": 12110595,
+      "toponymName": "Viken",
+      "countryId": "3144096",
+      "fcl": "A",
+      "population": 1213354,
+      "countryCode": "NO",
+      "name": "Viken",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "30"
+      },
+      "countryName": "Norway",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Viken",
+      "lat": "60.08051",
+      "fcode": "ADM1"
+    }
+  ]
+}

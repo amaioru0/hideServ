@@ -1,0 +1,165 @@
+{
+  "totalResultsCount": 8,
+  "geonames": [
+    {
+      "adminCode1": "01",
+      "lng": "19.5",
+      "geonameId": 3343954,
+      "toponymName": "Banska Bystrica",
+      "countryId": "3057568",
+      "fcl": "A",
+      "population": 662121,
+      "countryCode": "SK",
+      "name": "Banska Bystrica",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "BC"
+      },
+      "countryName": "Slovakia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Banskobystrický kraj",
+      "lat": "48.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "02",
+      "lng": "17.16667",
+      "geonameId": 3343955,
+      "toponymName": "Bratislava",
+      "countryId": "3057568",
+      "fcl": "A",
+      "population": 599015,
+      "countryCode": "SK",
+      "name": "Bratislava",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "BL"
+      },
+      "countryName": "Slovakia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Bratislavský Kraj",
+      "lat": "48.33333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "03",
+      "lng": "21.33333",
+      "geonameId": 865084,
+      "toponymName": "Kosice",
+      "countryId": "3057568",
+      "fcl": "A",
+      "population": 766012,
+      "countryCode": "SK",
+      "name": "Kosice",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "KI"
+      },
+      "countryName": "Slovakia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Košický kraj",
+      "lat": "48.66667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "04",
+      "lng": "18.33333",
+      "geonameId": 3343956,
+      "toponymName": "Nitra",
+      "countryId": "3057568",
+      "fcl": "A",
+      "population": 713422,
+      "countryCode": "SK",
+      "name": "Nitra",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "NI"
+      },
+      "countryName": "Slovakia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Nitriansky kraj",
+      "lat": "48.16667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "05",
+      "lng": "21.25",
+      "geonameId": 865085,
+      "toponymName": "Presov",
+      "countryId": "3057568",
+      "fcl": "A",
+      "population": 789968,
+      "countryCode": "SK",
+      "name": "Presov",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "PV"
+      },
+      "countryName": "Slovakia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Prešovský kraj",
+      "lat": "49.16667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "06",
+      "lng": "18.25",
+      "geonameId": 3343957,
+      "toponymName": "Trencin",
+      "countryId": "3057568",
+      "fcl": "A",
+      "population": 605582,
+      "countryCode": "SK",
+      "name": "Trencin",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "TC"
+      },
+      "countryName": "Slovakia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Trenčiansky kraj",
+      "lat": "48.83333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "07",
+      "lng": "17.66667",
+      "geonameId": 3343958,
+      "toponymName": "Trnava",
+      "countryId": "3057568",
+      "fcl": "A",
+      "population": 551003,
+      "countryCode": "SK",
+      "name": "Trnava",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "TA"
+      },
+      "countryName": "Slovakia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Trnava",
+      "lat": "48.41667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "08",
+      "lng": "19.16667",
+      "geonameId": 3056506,
+      "toponymName": "Zilina",
+      "countryId": "3057568",
+      "fcl": "A",
+      "population": 692332,
+      "countryCode": "SK",
+      "name": "Zilina",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "ZI"
+      },
+      "countryName": "Slovakia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Žilinský kraj",
+      "lat": "49.16667",
+      "fcode": "ADM1"
+    }
+  ]
+}

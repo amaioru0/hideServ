@@ -1,0 +1,325 @@
+{
+  "totalResultsCount": 16,
+  "geonames": [
+    {
+      "adminCode1": "AR",
+      "lng": "-82.75606",
+      "geonameId": 7668824,
+      "toponymName": "Artemisa",
+      "countryId": "3562981",
+      "fcl": "A",
+      "population": 502392,
+      "countryCode": "CU",
+      "name": "Artemisa",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "15"
+      },
+      "countryName": "Cuba",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Artemisa",
+      "lat": "22.814",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "02",
+      "lng": "-82.3",
+      "geonameId": 3564073,
+      "toponymName": "La Habana",
+      "countryId": "3562981",
+      "fcl": "A",
+      "population": 722045,
+      "countryCode": "CU",
+      "name": "Havana",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "03"
+      },
+      "countryName": "Cuba",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Havana",
+      "lat": "23.08333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "13",
+      "lng": "-76.9",
+      "geonameId": 3550595,
+      "toponymName": "Las Tunas",
+      "countryId": "3562981",
+      "fcl": "A",
+      "population": 536027,
+      "countryCode": "CU",
+      "name": "Las Tunas",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "10"
+      },
+      "countryName": "Cuba",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Las Tunas",
+      "lat": "21.1",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "MA",
+      "lng": "-82.14718",
+      "geonameId": 7668827,
+      "toponymName": "Provincia Mayabeque",
+      "countryId": "3562981",
+      "fcl": "A",
+      "population": 381446,
+      "countryCode": "CU",
+      "name": "Mayabeque",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "16"
+      },
+      "countryName": "Cuba",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Mayabeque",
+      "lat": "22.96155",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "04",
+      "lng": "-82.81667",
+      "geonameId": 3556608,
+      "toponymName": "Municipio Especial Isla de la Juventud",
+      "countryId": "3562981",
+      "fcl": "A",
+      "population": 86420,
+      "countryCode": "CU",
+      "name": "Municipio Especial Isla de la Juventud",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "99"
+      },
+      "countryName": "Cuba",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Isla de la Juventud",
+      "lat": "21.7",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "09",
+      "lng": "-76.86667",
+      "geonameId": 3558052,
+      "toponymName": "Provincia Granma",
+      "countryId": "3562981",
+      "fcl": "A",
+      "population": 835675,
+      "countryCode": "CU",
+      "name": "Provincia Granma",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "12"
+      },
+      "countryName": "Cuba",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Granma",
+      "lat": "20.28333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "05",
+      "lng": "-77.85",
+      "geonameId": 3566062,
+      "toponymName": "Provincia de Camagüey",
+      "countryId": "3562981",
+      "fcl": "A",
+      "population": 321992,
+      "countryCode": "CU",
+      "name": "Provincia de Camagüey",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "09"
+      },
+      "countryName": "Cuba",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Camagüey",
+      "lat": "21.35",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "07",
+      "lng": "-78.63333",
+      "geonameId": 3564175,
+      "toponymName": "Provincia de Ciego de Ávila",
+      "countryId": "3562981",
+      "fcl": "A",
+      "population": 422576,
+      "countryCode": "CU",
+      "name": "Provincia de Ciego de Ávila",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "08"
+      },
+      "countryName": "Cuba",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Ciego de Ávila",
+      "lat": "21.96667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "08",
+      "lng": "-80.45",
+      "geonameId": 3564120,
+      "toponymName": "Provincia de Cienfuegos",
+      "countryId": "3562981",
+      "fcl": "A",
+      "population": 405481,
+      "countryCode": "CU",
+      "name": "Provincia de Cienfuegos",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "06"
+      },
+      "countryName": "Cuba",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Cienfuegos",
+      "lat": "22.26667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "10",
+      "lng": "-74.86667",
+      "geonameId": 3557685,
+      "toponymName": "Provincia de Guantánamo",
+      "countryId": "3562981",
+      "fcl": "A",
+      "population": 510863,
+      "countryCode": "CU",
+      "name": "Provincia de Guantánamo",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "14"
+      },
+      "countryName": "Cuba",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Guantánamo",
+      "lat": "20.21667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "12",
+      "lng": "-75.91667",
+      "geonameId": 3556965,
+      "toponymName": "Provincia de Holguín",
+      "countryId": "3562981",
+      "fcl": "A",
+      "population": 1037161,
+      "countryCode": "CU",
+      "name": "Provincia de Holguín",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "11"
+      },
+      "countryName": "Cuba",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Holguín",
+      "lat": "20.75",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "03",
+      "lng": "-81.16667",
+      "geonameId": 3547394,
+      "toponymName": "Provincia de Matanzas",
+      "countryId": "3562981",
+      "fcl": "A",
+      "population": 690113,
+      "countryCode": "CU",
+      "name": "Provincia de Matanzas",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "04"
+      },
+      "countryName": "Cuba",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Matanzas",
+      "lat": "22.66667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "01",
+      "lng": "-83.83333",
+      "geonameId": 3544088,
+      "toponymName": "Provincia de Pinar del Río",
+      "countryId": "3562981",
+      "fcl": "A",
+      "population": 592851,
+      "countryCode": "CU",
+      "name": "Provincia de Pinar del Río",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "01"
+      },
+      "countryName": "Cuba",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Pinar del Río",
+      "lat": "22.41667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "14",
+      "lng": "-79.41667",
+      "geonameId": 3540665,
+      "toponymName": "Provincia de Sancti Spíritus",
+      "countryId": "3562981",
+      "fcl": "A",
+      "population": 465468,
+      "countryCode": "CU",
+      "name": "Provincia de Sancti Spíritus",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "07"
+      },
+      "countryName": "Cuba",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Sancti Spíritus",
+      "lat": "21.91667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "15",
+      "lng": "-75.93333",
+      "geonameId": 3536725,
+      "toponymName": "Provincia de Santiago de Cuba",
+      "countryId": "3562981",
+      "fcl": "A",
+      "population": 1047015,
+      "countryCode": "CU",
+      "name": "Provincia de Santiago de Cuba",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "13"
+      },
+      "countryName": "Cuba",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Santiago de Cuba",
+      "lat": "20.2",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "16",
+      "lng": "-80",
+      "geonameId": 3534168,
+      "toponymName": "Provincia de Villa Clara",
+      "countryId": "3562981",
+      "fcl": "A",
+      "population": 803562,
+      "countryCode": "CU",
+      "name": "Provincia de Villa Clara",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "05"
+      },
+      "countryName": "Cuba",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Villa Clara",
+      "lat": "22.56667",
+      "fcode": "ADM1"
+    }
+  ]
+}

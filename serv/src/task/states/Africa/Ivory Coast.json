@@ -1,0 +1,285 @@
+{
+  "totalResultsCount": 14,
+  "geonames": [
+    {
+      "adminCode1": "93",
+      "lng": "-3.9992",
+      "geonameId": 11153151,
+      "toponymName": "Abidjan",
+      "countryId": "2287781",
+      "fcl": "A",
+      "population": 4707404,
+      "countryCode": "CI",
+      "name": "Abidjan",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "AB"
+      },
+      "countryName": "Ivory Coast",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Abidjan",
+      "lat": "5.36289",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "76",
+      "lng": "-6.66085",
+      "geonameId": 11153052,
+      "toponymName": "Bas-Sassandra",
+      "countryId": "2287781",
+      "fcl": "A",
+      "population": 2280548,
+      "countryCode": "CI",
+      "name": "Bas-Sassandra",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "BS"
+      },
+      "countryName": "Ivory Coast",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Bas-Sassandra",
+      "lat": "5.49929",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "94",
+      "lng": "-3.25105",
+      "geonameId": 11153053,
+      "toponymName": "Comoé",
+      "countryId": "2287781",
+      "fcl": "A",
+      "population": 1203052,
+      "countryCode": "CI",
+      "name": "Comoé",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "CM"
+      },
+      "countryName": "Ivory Coast",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Comoé",
+      "lat": "5.50386",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "77",
+      "lng": "-7.37629",
+      "geonameId": 11153054,
+      "toponymName": "Denguélé",
+      "countryId": "2287781",
+      "fcl": "A",
+      "population": 289779,
+      "countryCode": "CI",
+      "name": "Denguélé",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "DN"
+      },
+      "countryName": "Ivory Coast",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Denguélé",
+      "lat": "9.49712",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "95",
+      "lng": "-5.94893",
+      "geonameId": 11153055,
+      "toponymName": "Gôh-Djiboua",
+      "countryId": "2287781",
+      "fcl": "A",
+      "population": 1605286,
+      "countryCode": "CI",
+      "name": "Gôh-Djiboua",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "GD"
+      },
+      "countryName": "Ivory Coast",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Gôh-Djiboua",
+      "lat": "6.13184",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "81",
+      "lng": "-4.44848",
+      "geonameId": 11153056,
+      "toponymName": "Lacs",
+      "countryId": "2287781",
+      "fcl": "A",
+      "population": 1258604,
+      "countryCode": "CI",
+      "name": "Lacs",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "LC"
+      },
+      "countryName": "Ivory Coast",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Lacs",
+      "lat": "7.03125",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "82",
+      "lng": "-4.29862",
+      "geonameId": 11153057,
+      "toponymName": "Lagunes",
+      "countryId": "2287781",
+      "fcl": "A",
+      "population": 1478047,
+      "countryCode": "CI",
+      "name": "Lagunes",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "LG"
+      },
+      "countryName": "Ivory Coast",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Lagunes",
+      "lat": "5.87068",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "78",
+      "lng": "-7.62897",
+      "geonameId": 11153058,
+      "toponymName": "Montagnes",
+      "countryId": "2287781",
+      "fcl": "A",
+      "population": 2371920,
+      "countryCode": "CI",
+      "name": "Montagnes",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "MG"
+      },
+      "countryName": "Ivory Coast",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Montagnes",
+      "lat": "6.95434",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "96",
+      "lng": "-6.50734",
+      "geonameId": 11153059,
+      "toponymName": "Sassandra-Marahoué",
+      "countryId": "2287781",
+      "fcl": "A",
+      "population": 2293304,
+      "countryCode": "CI",
+      "name": "Sassandra-Marahoué",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SM"
+      },
+      "countryName": "Ivory Coast",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Sassandra-Marahoué",
+      "lat": "6.96585",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "87",
+      "lng": "-5.49419",
+      "geonameId": 11153060,
+      "toponymName": "Savanes",
+      "countryId": "2287781",
+      "fcl": "A",
+      "population": 1607497,
+      "countryCode": "CI",
+      "name": "Savanes",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SV"
+      },
+      "countryName": "Ivory Coast",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Savanes",
+      "lat": "9.48829",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "90",
+      "lng": "-4.85458",
+      "geonameId": 11153061,
+      "toponymName": "Vallée du Bandama",
+      "countryId": "2287781",
+      "fcl": "A",
+      "population": 1440826,
+      "countryCode": "CI",
+      "name": "Vallée du Bandama",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "VB"
+      },
+      "countryName": "Ivory Coast",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Vallée du Bandama",
+      "lat": "8.25011",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "97",
+      "lng": "-6.62544",
+      "geonameId": 11153062,
+      "toponymName": "Woroba",
+      "countryId": "2287781",
+      "fcl": "A",
+      "population": 845139,
+      "countryCode": "CI",
+      "name": "Woroba",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "WR"
+      },
+      "countryName": "Ivory Coast",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Woroba",
+      "lat": "7.99044",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "98",
+      "lng": "-5.28333",
+      "geonameId": 10629377,
+      "toponymName": "Yamoussoukro Autonomous District",
+      "countryId": "2287781",
+      "fcl": "A",
+      "population": 355573,
+      "countryCode": "CI",
+      "name": "Yamoussoukro Autonomous District",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "YM"
+      },
+      "countryName": "Ivory Coast",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Yamoussoukro",
+      "lat": "6.81667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "92",
+      "lng": "-3.21384",
+      "geonameId": 11153063,
+      "toponymName": "Zanzan",
+      "countryId": "2287781",
+      "fcl": "A",
+      "population": 934352,
+      "countryCode": "CI",
+      "name": "Zanzan",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "ZZ"
+      },
+      "countryName": "Ivory Coast",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Zanzan",
+      "lat": "8.50016",
+      "fcode": "ADM1"
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "totalResultsCount": 6,
+  "geonames": [
+    {
+      "adminCode1": "06",
+      "lng": "-61.18283",
+      "geonameId": 3577892,
+      "toponymName": "Grenadines",
+      "countryId": "3577815",
+      "fcl": "A",
+      "population": 9200,
+      "countryCode": "VC",
+      "name": "Grenadines",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "06"
+      },
+      "countryName": "St Vincent and Grenadines",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Grenadines",
+      "lat": "12.8781",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "01",
+      "lng": "-61.15196",
+      "geonameId": 3577934,
+      "toponymName": "Parish of Charlotte",
+      "countryId": "3577815",
+      "fcl": "A",
+      "population": 38000,
+      "countryCode": "VC",
+      "name": "Parish of Charlotte",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "01"
+      },
+      "countryName": "St Vincent and Grenadines",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Charlotte",
+      "lat": "13.25064",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "02",
+      "lng": "-61.23015",
+      "geonameId": 3577822,
+      "toponymName": "Parish of Saint Andrew",
+      "countryId": "3577815",
+      "fcl": "A",
+      "population": 6700,
+      "countryCode": "VC",
+      "name": "Parish of Saint Andrew",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "02"
+      },
+      "countryName": "St Vincent and Grenadines",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Saint Andrew",
+      "lat": "13.20393",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "03",
+      "lng": "-61.2",
+      "geonameId": 3577821,
+      "toponymName": "Parish of Saint David",
+      "countryId": "3577815",
+      "fcl": "A",
+      "population": 7033,
+      "countryCode": "VC",
+      "name": "Parish of Saint David",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "03"
+      },
+      "countryName": "St Vincent and Grenadines",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Saint David",
+      "lat": "13.3",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "04",
+      "lng": "-61.19282",
+      "geonameId": 3577819,
+      "toponymName": "Parish of Saint George",
+      "countryId": "3577815",
+      "fcl": "A",
+      "population": 53957,
+      "countryCode": "VC",
+      "name": "Parish of Saint George",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "04"
+      },
+      "countryName": "St Vincent and Grenadines",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Saint George",
+      "lat": "13.16524",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "05",
+      "lng": "-61.23449",
+      "geonameId": 3577818,
+      "toponymName": "Parish of Saint Patrick",
+      "countryId": "3577815",
+      "fcl": "A",
+      "population": 6089,
+      "countryCode": "VC",
+      "name": "Parish of Saint Patrick",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "05"
+      },
+      "countryName": "St Vincent and Grenadines",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Saint Patrick",
+      "lat": "13.2399",
+      "fcode": "ADM1"
+    }
+  ]
+}

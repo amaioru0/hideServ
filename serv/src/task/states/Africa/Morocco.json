@@ -1,0 +1,245 @@
+{
+  "totalResultsCount": 12,
+  "geonames": [
+    {
+      "adminCode1": "05",
+      "lng": "-6.3089",
+      "geonameId": 11281878,
+      "toponymName": "Béni Mellal-Khénifra",
+      "countryId": "2542007",
+      "fcl": "A",
+      "population": 2520776,
+      "countryCode": "MA",
+      "name": "Béni Mellal-Khénifra",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "05"
+      },
+      "countryName": "Morocco",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Béni Mellal-Khénifra",
+      "lat": "32.3264",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "06",
+      "lng": "-7.43225",
+      "geonameId": 11281879,
+      "toponymName": "Casablanca-Settat",
+      "countryId": "2542007",
+      "fcl": "A",
+      "population": 6861739,
+      "countryCode": "MA",
+      "name": "Casablanca-Settat",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "06"
+      },
+      "countryName": "Morocco",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Casablanca-Settat",
+      "lat": "33.47804",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "12",
+      "lng": "-15.91782",
+      "geonameId": 11281886,
+      "toponymName": "Dakhla-Oued Ed-Dahab",
+      "countryId": "2542007",
+      "fcl": "A",
+      "population": 142955,
+      "countryCode": "MA",
+      "name": "Dakhla-Oued Ed-Dahab",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "12"
+      },
+      "countryName": "Morocco",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Dakhla-Oued Ed-Dahab",
+      "lat": "23.75128",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "08",
+      "lng": "-4.41925",
+      "geonameId": 11281881,
+      "toponymName": "Drâa-Tafilalet",
+      "countryId": "2542007",
+      "fcl": "A",
+      "population": 1635008,
+      "countryCode": "MA",
+      "name": "Drâa-Tafilalet",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "08"
+      },
+      "countryName": "Morocco",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Drâa-Tafilalet",
+      "lat": "31.69156",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "03",
+      "lng": "-5.00565",
+      "geonameId": 11281876,
+      "toponymName": "Fès-Meknès",
+      "countryId": "2542007",
+      "fcl": "A",
+      "population": 4236892,
+      "countryCode": "MA",
+      "name": "Fès-Meknès",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "03"
+      },
+      "countryName": "Morocco",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Fès-Meknès",
+      "lat": "34.02831",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "10",
+      "lng": "-10.0391",
+      "geonameId": 11281884,
+      "toponymName": "Guelmim-Oued Noun",
+      "countryId": "2542007",
+      "fcl": "A",
+      "population": 433757,
+      "countryCode": "MA",
+      "name": "Guelmim-Oued Noun",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "10"
+      },
+      "countryName": "Morocco",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Guelmim-Oued Noun",
+      "lat": "29.00173",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "11",
+      "lng": "-12.20787",
+      "geonameId": 11281885,
+      "toponymName": "Laâyoune-Sakia El Hamra",
+      "countryId": "2542007",
+      "fcl": "A",
+      "population": 367758,
+      "countryCode": "MA",
+      "name": "Laâyoune-Sakia El Hamra",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "11"
+      },
+      "countryName": "Morocco",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Laâyoune-Sakia El Hamra",
+      "lat": "27.8583",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "07",
+      "lng": "-7.98569",
+      "geonameId": 11281880,
+      "toponymName": "Marrakesh-Safi",
+      "countryId": "2542007",
+      "fcl": "A",
+      "population": 4520569,
+      "countryCode": "MA",
+      "name": "Marrakesh-Safi",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "07"
+      },
+      "countryName": "Morocco",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Marrakesh-Safi",
+      "lat": "31.63488",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "02",
+      "lng": "-2.12585",
+      "geonameId": 11281875,
+      "toponymName": "Oriental",
+      "countryId": "2542007",
+      "fcl": "A",
+      "population": 2314346,
+      "countryCode": "MA",
+      "name": "Oriental",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "02"
+      },
+      "countryName": "Morocco",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Oriental",
+      "lat": "34.82696",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "04",
+      "lng": "-6.78028",
+      "geonameId": 11281877,
+      "toponymName": "Rabat-Salé-Kénitra",
+      "countryId": "2542007",
+      "fcl": "A",
+      "population": 4580866,
+      "countryCode": "MA",
+      "name": "Rabat-Salé-Kénitra",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "04"
+      },
+      "countryName": "Morocco",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Rabat-Salé-Kénitra",
+      "lat": "34.00106",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "09",
+      "lng": "-9.56566",
+      "geonameId": 11281882,
+      "toponymName": "Souss-Massa",
+      "countryId": "2542007",
+      "fcl": "A",
+      "population": 2676847,
+      "countryCode": "MA",
+      "name": "Souss-Massa",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "09"
+      },
+      "countryName": "Morocco",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Souss-Massa",
+      "lat": "30.42539",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "01",
+      "lng": "-5.774",
+      "geonameId": 11281874,
+      "toponymName": "Tanger-Tetouan-Al Hoceima",
+      "countryId": "2542007",
+      "fcl": "A",
+      "population": 3556729,
+      "countryCode": "MA",
+      "name": "Tanger-Tetouan-Al Hoceima",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "01"
+      },
+      "countryName": "Morocco",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Tanger-Tetouan-Al Hoceima",
+      "lat": "35.72626",
+      "fcode": "ADM1"
+    }
+  ]
+}

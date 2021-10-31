@@ -1,0 +1,225 @@
+{
+  "totalResultsCount": 11,
+  "geonames": [
+    {
+      "adminCode1": "01",
+      "lng": "44.16667",
+      "geonameId": 828259,
+      "toponymName": "Aragatsotni Marz",
+      "countryId": "174982",
+      "fcl": "A",
+      "population": 132925,
+      "countryCode": "AM",
+      "name": "Aragatsotn",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "AG"
+      },
+      "countryName": "Armenia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Aragatsotn",
+      "lat": "40.41667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "02",
+      "lng": "44.83333",
+      "geonameId": 409313,
+      "toponymName": "Ararati Marz",
+      "countryId": "174982",
+      "fcl": "A",
+      "population": 260367,
+      "countryCode": "AM",
+      "name": "Ararat",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "AR"
+      },
+      "countryName": "Armenia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Ararat",
+      "lat": "39.91667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "03",
+      "lng": "44",
+      "geonameId": 828260,
+      "toponymName": "Armaviri Marz",
+      "countryId": "174982",
+      "fcl": "A",
+      "population": 265770,
+      "countryCode": "AM",
+      "name": "Armavir",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "AV"
+      },
+      "countryName": "Armenia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Armavir",
+      "lat": "40.11667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "04",
+      "lng": "45.41667",
+      "geonameId": 828261,
+      "toponymName": "Geghark’unik’i Marz",
+      "countryId": "174982",
+      "fcl": "A",
+      "population": 235075,
+      "countryCode": "AM",
+      "name": "Gegharkunik",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "GR"
+      },
+      "countryName": "Armenia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Gegharkunik",
+      "lat": "40.25",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "05",
+      "lng": "44.75",
+      "geonameId": 828262,
+      "toponymName": "Kotayk’i Marz",
+      "countryId": "174982",
+      "fcl": "A",
+      "population": 254397,
+      "countryCode": "AM",
+      "name": "Kotayk",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "KT"
+      },
+      "countryName": "Armenia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Kotayk",
+      "lat": "40.41667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "06",
+      "lng": "44.5",
+      "geonameId": 828263,
+      "toponymName": "Lorru Marz",
+      "countryId": "174982",
+      "fcl": "A",
+      "population": 235537,
+      "countryCode": "AM",
+      "name": "Lori",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "LO"
+      },
+      "countryName": "Armenia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Lori",
+      "lat": "41",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "07",
+      "lng": "43.83333",
+      "geonameId": 828264,
+      "toponymName": "Shiraki Marz",
+      "countryId": "174982",
+      "fcl": "A",
+      "population": 251941,
+      "countryCode": "AM",
+      "name": "Shirak",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SH"
+      },
+      "countryName": "Armenia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Shirak",
+      "lat": "40.75",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "08",
+      "lng": "46.25",
+      "geonameId": 409314,
+      "toponymName": "Syunik’i Marz",
+      "countryId": "174982",
+      "fcl": "A",
+      "population": 141771,
+      "countryCode": "AM",
+      "name": "Syunik",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SU"
+      },
+      "countryName": "Armenia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Syunik",
+      "lat": "39.33333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "09",
+      "lng": "45.16667",
+      "geonameId": 828265,
+      "toponymName": "Tavushi Marz",
+      "countryId": "174982",
+      "fcl": "A",
+      "population": 128609,
+      "countryCode": "AM",
+      "name": "Tavush",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "TV"
+      },
+      "countryName": "Armenia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Tavush",
+      "lat": "40.91667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "10",
+      "lng": "45.41667",
+      "geonameId": 409315,
+      "toponymName": "Vayots’ Dzor",
+      "countryId": "174982",
+      "fcl": "A",
+      "population": 52846,
+      "countryCode": "AM",
+      "name": "Vayots Dzor",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "VD"
+      },
+      "countryName": "Armenia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Vayots Dzor",
+      "lat": "39.75",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "11",
+      "lng": "44.5",
+      "geonameId": 616051,
+      "toponymName": "Yerevan",
+      "countryId": "174982",
+      "fcl": "A",
+      "population": 1060138,
+      "countryCode": "AM",
+      "name": "Yerevan",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "ER"
+      },
+      "countryName": "Armenia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Yerevan",
+      "lat": "40.18333",
+      "fcode": "ADM1"
+    }
+  ]
+}

@@ -1,0 +1,1625 @@
+{
+  "totalResultsCount": 81,
+  "geonames": [
+    {
+      "adminCode1": "81",
+      "lng": "35.28809",
+      "geonameId": 325361,
+      "toponymName": "Adana",
+      "countryId": "298795",
+      "fcl": "A",
+      "population": 2149260,
+      "countryCode": "TR",
+      "name": "Adana",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "01"
+      },
+      "countryName": "Turkey",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Adana",
+      "lat": "36.985",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "02",
+      "lng": "38.25",
+      "geonameId": 325329,
+      "toponymName": "Adıyaman",
+      "countryId": "298795",
+      "fcl": "A",
+      "population": 597184,
+      "countryCode": "TR",
+      "name": "Adıyaman",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "02"
+      },
+      "countryName": "Turkey",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Adıyaman",
+      "lat": "37.75",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "03",
+      "lng": "30.66667",
+      "geonameId": 325302,
+      "toponymName": "Afyonkarahisar",
+      "countryId": "298795",
+      "fcl": "A",
+      "population": 707123,
+      "countryCode": "TR",
+      "name": "Afyonkarahisar",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "03"
+      },
+      "countryName": "Turkey",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Afyonkarahisar",
+      "lat": "38.75",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "75",
+      "lng": "34.0142",
+      "geonameId": 443185,
+      "toponymName": "Aksaray",
+      "countryId": "298795",
+      "fcl": "A",
+      "population": 382806,
+      "countryCode": "TR",
+      "name": "Aksaray",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "68"
+      },
+      "countryName": "Turkey",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Aksaray",
+      "lat": "38.36503",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "05",
+      "lng": "35.8867",
+      "geonameId": 752014,
+      "toponymName": "Amasya",
+      "countryId": "298795",
+      "fcl": "A",
+      "population": 321977,
+      "countryCode": "TR",
+      "name": "Amasya",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "05"
+      },
+      "countryName": "Turkey",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Amasya",
+      "lat": "40.72619",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "68",
+      "lng": "32.85403",
+      "geonameId": 323784,
+      "toponymName": "Ankara",
+      "countryId": "298795",
+      "fcl": "A",
+      "population": 5045083,
+      "countryCode": "TR",
+      "name": "Ankara",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "06"
+      },
+      "countryName": "Turkey",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Ankara",
+      "lat": "39.92063",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "07",
+      "lng": "31.90215",
+      "geonameId": 323776,
+      "toponymName": "Antalya",
+      "countryId": "298795",
+      "fcl": "A",
+      "population": 2158265,
+      "countryCode": "TR",
+      "name": "Antalya",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "07"
+      },
+      "countryName": "Turkey",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Antalya",
+      "lat": "36.76984",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "86",
+      "lng": "42.83333",
+      "geonameId": 862470,
+      "toponymName": "Ardahan",
+      "countryId": "298795",
+      "fcl": "A",
+      "population": 102782,
+      "countryCode": "TR",
+      "name": "Ardahan",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "75"
+      },
+      "countryName": "Turkey",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Ardahan",
+      "lat": "41.08333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "08",
+      "lng": "41.83333",
+      "geonameId": 751816,
+      "toponymName": "Artvin",
+      "countryId": "298795",
+      "fcl": "A",
+      "population": 169334,
+      "countryCode": "TR",
+      "name": "Artvin",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "08"
+      },
+      "countryName": "Turkey",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Artvin",
+      "lat": "41.16667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "09",
+      "lng": "28",
+      "geonameId": 322819,
+      "toponymName": "Aydın",
+      "countryId": "298795",
+      "fcl": "A",
+      "population": 1020957,
+      "countryCode": "TR",
+      "name": "Aydın",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "09"
+      },
+      "countryName": "Turkey",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Aydın",
+      "lat": "37.75",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "04",
+      "lng": "43.16667",
+      "geonameId": 325163,
+      "toponymName": "Ağrı",
+      "countryId": "298795",
+      "fcl": "A",
+      "population": 551177,
+      "countryCode": "TR",
+      "name": "Ağrı",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "04"
+      },
+      "countryName": "Turkey",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Ağrı",
+      "lat": "39.66667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "10",
+      "lng": "28",
+      "geonameId": 322164,
+      "toponymName": "Balıkesir",
+      "countryId": "298795",
+      "fcl": "A",
+      "population": 1162761,
+      "countryCode": "TR",
+      "name": "Balıkesir",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "10"
+      },
+      "countryName": "Turkey",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Balıkesir",
+      "lat": "39.75",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "87",
+      "lng": "32.5",
+      "geonameId": 862467,
+      "toponymName": "Bartın",
+      "countryId": "298795",
+      "fcl": "A",
+      "population": 189139,
+      "countryCode": "TR",
+      "name": "Bartın",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "74"
+      },
+      "countryName": "Turkey",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Bartın",
+      "lat": "41.58333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "76",
+      "lng": "41.33333",
+      "geonameId": 443186,
+      "toponymName": "Batman",
+      "countryId": "298795",
+      "fcl": "A",
+      "population": 547581,
+      "countryCode": "TR",
+      "name": "Batman",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "72"
+      },
+      "countryName": "Turkey",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Batman",
+      "lat": "38",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "77",
+      "lng": "40.25",
+      "geonameId": 862471,
+      "toponymName": "Bayburt",
+      "countryId": "298795",
+      "fcl": "A",
+      "population": 75620,
+      "countryCode": "TR",
+      "name": "Bayburt",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "69"
+      },
+      "countryName": "Turkey",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Bayburt",
+      "lat": "40.25",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "11",
+      "lng": "30.16667",
+      "geonameId": 321122,
+      "toponymName": "Bilecik",
+      "countryId": "298795",
+      "fcl": "A",
+      "population": 208888,
+      "countryCode": "TR",
+      "name": "Bilecik",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "11"
+      },
+      "countryName": "Turkey",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Bilecik",
+      "lat": "40",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "12",
+      "lng": "40.83333",
+      "geonameId": 321079,
+      "toponymName": "Bingöl",
+      "countryId": "298795",
+      "fcl": "A",
+      "population": 265514,
+      "countryCode": "TR",
+      "name": "Bingöl",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "12"
+      },
+      "countryName": "Turkey",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Bingöl",
+      "lat": "39.08333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "13",
+      "lng": "42.39134",
+      "geonameId": 321022,
+      "toponymName": "Bitlis",
+      "countryId": "298795",
+      "fcl": "A",
+      "population": 337156,
+      "countryCode": "TR",
+      "name": "Bitlis",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "13"
+      },
+      "countryName": "Turkey",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Bitlis",
+      "lat": "38.34201",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "14",
+      "lng": "31.58216",
+      "geonameId": 750510,
+      "toponymName": "Bolu",
+      "countryId": "298795",
+      "fcl": "A",
+      "population": 283496,
+      "countryCode": "TR",
+      "name": "Bolu",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "14"
+      },
+      "countryName": "Turkey",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Bolu",
+      "lat": "40.64131",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "15",
+      "lng": "30",
+      "geonameId": 320390,
+      "toponymName": "Burdur",
+      "countryId": "298795",
+      "fcl": "A",
+      "population": 257267,
+      "countryCode": "TR",
+      "name": "Burdur",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "15"
+      },
+      "countryName": "Turkey",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Burdur",
+      "lat": "37.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "16",
+      "lng": "29.08333",
+      "geonameId": 750268,
+      "toponymName": "Bursa",
+      "countryId": "298795",
+      "fcl": "A",
+      "population": 2740970,
+      "countryCode": "TR",
+      "name": "Bursa",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "16"
+      },
+      "countryName": "Turkey",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Bursa",
+      "lat": "40.16667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "17",
+      "lng": "26.83333",
+      "geonameId": 749778,
+      "toponymName": "Çanakkale",
+      "countryId": "298795",
+      "fcl": "A",
+      "population": 502328,
+      "countryCode": "TR",
+      "name": "Canakkale",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "17"
+      },
+      "countryName": "Turkey",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Canakkale",
+      "lat": "40.08333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "20",
+      "lng": "29.06982",
+      "geonameId": 317106,
+      "toponymName": "Denizli",
+      "countryId": "298795",
+      "fcl": "A",
+      "population": 963464,
+      "countryCode": "TR",
+      "name": "Denizli",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "20"
+      },
+      "countryName": "Turkey",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Denizli",
+      "lat": "37.84016",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "21",
+      "lng": "40.23193",
+      "geonameId": 316540,
+      "toponymName": "Diyarbakır",
+      "countryId": "298795",
+      "fcl": "A",
+      "population": 1607437,
+      "countryCode": "TR",
+      "name": "Diyarbakır",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "21"
+      },
+      "countryName": "Turkey",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Diyarbakır",
+      "lat": "37.96152",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "93",
+      "lng": "31.16667",
+      "geonameId": 865521,
+      "toponymName": "Düzce",
+      "countryId": "298795",
+      "fcl": "A",
+      "population": 351509,
+      "countryCode": "TR",
+      "name": "Düzce",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "81"
+      },
+      "countryName": "Turkey",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Düzce",
+      "lat": "40.83333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "22",
+      "lng": "26.66667",
+      "geonameId": 747711,
+      "toponymName": "Edirne",
+      "countryId": "298795",
+      "fcl": "A",
+      "population": 398582,
+      "countryCode": "TR",
+      "name": "Edirne",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "22"
+      },
+      "countryName": "Turkey",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Edirne",
+      "lat": "41.25",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "23",
+      "lng": "39.17725",
+      "geonameId": 315807,
+      "toponymName": "Elâzığ",
+      "countryId": "298795",
+      "fcl": "A",
+      "population": 568239,
+      "countryCode": "TR",
+      "name": "Elazığ",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "23"
+      },
+      "countryName": "Turkey",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Elazığ",
+      "lat": "38.73695",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "24",
+      "lng": "39.5",
+      "geonameId": 315372,
+      "toponymName": "Erzincan",
+      "countryId": "298795",
+      "fcl": "A",
+      "population": 219996,
+      "countryCode": "TR",
+      "name": "Erzincan",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "24"
+      },
+      "countryName": "Turkey",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Erzincan",
+      "lat": "39.75",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "25",
+      "lng": "41.5",
+      "geonameId": 315367,
+      "toponymName": "Erzurum",
+      "countryId": "298795",
+      "fcl": "A",
+      "population": 766729,
+      "countryCode": "TR",
+      "name": "Erzurum",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "25"
+      },
+      "countryName": "Turkey",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Erzurum",
+      "lat": "40",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "26",
+      "lng": "31.16667",
+      "geonameId": 315201,
+      "toponymName": "Eskişehir",
+      "countryId": "298795",
+      "fcl": "A",
+      "population": 799724,
+      "countryCode": "TR",
+      "name": "Eskişehir",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "26"
+      },
+      "countryName": "Turkey",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Eskişehir",
+      "lat": "39.66667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "83",
+      "lng": "37.33333",
+      "geonameId": 314829,
+      "toponymName": "Gaziantep",
+      "countryId": "298795",
+      "fcl": "A",
+      "population": 1844438,
+      "countryCode": "TR",
+      "name": "Gaziantep",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "27"
+      },
+      "countryName": "Turkey",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Gaziantep",
+      "lat": "37.08333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "28",
+      "lng": "38.5",
+      "geonameId": 746878,
+      "toponymName": "Giresun",
+      "countryId": "298795",
+      "fcl": "A",
+      "population": 425007,
+      "countryCode": "TR",
+      "name": "Giresun",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "28"
+      },
+      "countryName": "Turkey",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Giresun",
+      "lat": "40.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "69",
+      "lng": "39.58333",
+      "geonameId": 746423,
+      "toponymName": "Gümüşhane",
+      "countryId": "298795",
+      "fcl": "A",
+      "population": 141412,
+      "countryCode": "TR",
+      "name": "Gümüşhane",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "29"
+      },
+      "countryName": "Turkey",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Gümüşhane",
+      "lat": "40.25",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "70",
+      "lng": "44.16667",
+      "geonameId": 312888,
+      "toponymName": "Hakkari",
+      "countryId": "298795",
+      "fcl": "A",
+      "population": 273041,
+      "countryCode": "TR",
+      "name": "Hakkâri",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "30"
+      },
+      "countryName": "Turkey",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Hakkâri",
+      "lat": "37.58333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "31",
+      "lng": "36.25",
+      "geonameId": 312394,
+      "toponymName": "Hatay",
+      "countryId": "298795",
+      "fcl": "A",
+      "population": 1503066,
+      "countryCode": "TR",
+      "name": "Hatay",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "31"
+      },
+      "countryName": "Turkey",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Hatay",
+      "lat": "36.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "33",
+      "lng": "31",
+      "geonameId": 311071,
+      "toponymName": "Isparta",
+      "countryId": "298795",
+      "fcl": "A",
+      "population": 417774,
+      "countryCode": "TR",
+      "name": "Isparta",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "32"
+      },
+      "countryName": "Turkey",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Isparta",
+      "lat": "38",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "34",
+      "lng": "28.98331",
+      "geonameId": 745042,
+      "toponymName": "İstanbul",
+      "countryId": "298795",
+      "fcl": "A",
+      "population": 14160467,
+      "countryCode": "TR",
+      "name": "Istanbul",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "34"
+      },
+      "countryName": "Turkey",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Istanbul",
+      "lat": "41.03508",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "88",
+      "lng": "44",
+      "geonameId": 443184,
+      "toponymName": "Iğdır",
+      "countryId": "298795",
+      "fcl": "A",
+      "population": 190424,
+      "countryCode": "TR",
+      "name": "Iğdır",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "76"
+      },
+      "countryName": "Turkey",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Iğdır",
+      "lat": "39.91667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "46",
+      "lng": "37",
+      "geonameId": 310858,
+      "toponymName": "Kahramanmaraş",
+      "countryId": "298795",
+      "fcl": "A",
+      "population": 1075706,
+      "countryCode": "TR",
+      "name": "Kahramanmaraş",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "46"
+      },
+      "countryName": "Turkey",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Kahramanmaraş",
+      "lat": "38",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "89",
+      "lng": "32.5",
+      "geonameId": 862468,
+      "toponymName": "Karabük",
+      "countryId": "298795",
+      "fcl": "A",
+      "population": 230251,
+      "countryCode": "TR",
+      "name": "Karabük",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "78"
+      },
+      "countryName": "Turkey",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Karabük",
+      "lat": "41.25",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "78",
+      "lng": "33.25",
+      "geonameId": 443187,
+      "toponymName": "Karaman",
+      "countryId": "298795",
+      "fcl": "A",
+      "population": 237939,
+      "countryCode": "TR",
+      "name": "Karaman",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "70"
+      },
+      "countryName": "Turkey",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Karaman",
+      "lat": "37.08333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "84",
+      "lng": "43.08333",
+      "geonameId": 743942,
+      "toponymName": "Kars",
+      "countryId": "298795",
+      "fcl": "A",
+      "population": 300874,
+      "countryCode": "TR",
+      "name": "Kars",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "36"
+      },
+      "countryName": "Turkey",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Kars",
+      "lat": "40.41667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "37",
+      "lng": "33.66667",
+      "geonameId": 743881,
+      "toponymName": "Kastamonu",
+      "countryId": "298795",
+      "fcl": "A",
+      "population": 368093,
+      "countryCode": "TR",
+      "name": "Kastamonu",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "37"
+      },
+      "countryName": "Turkey",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Kastamonu",
+      "lat": "41.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "38",
+      "lng": "35.49683",
+      "geonameId": 308463,
+      "toponymName": "Kayseri",
+      "countryId": "298795",
+      "fcl": "A",
+      "population": 1295355,
+      "countryCode": "TR",
+      "name": "Kayseri",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "38"
+      },
+      "countryName": "Turkey",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Kayseri",
+      "lat": "38.73695",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "90",
+      "lng": "37.14",
+      "geonameId": 443213,
+      "toponymName": "Kilis",
+      "countryId": "298795",
+      "fcl": "A",
+      "population": 128586,
+      "countryCode": "TR",
+      "name": "Kilis",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "79"
+      },
+      "countryName": "Turkey",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Kilis",
+      "lat": "36.73",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "41",
+      "lng": "29.91667",
+      "geonameId": 742865,
+      "toponymName": "Kocaeli",
+      "countryId": "298795",
+      "fcl": "A",
+      "population": 1676202,
+      "countryCode": "TR",
+      "name": "Kocaeli",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "41"
+      },
+      "countryName": "Turkey",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Kocaeli",
+      "lat": "40.91667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "71",
+      "lng": "32.5",
+      "geonameId": 306569,
+      "toponymName": "Konya",
+      "countryId": "298795",
+      "fcl": "A",
+      "population": 2079225,
+      "countryCode": "TR",
+      "name": "Konya",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "42"
+      },
+      "countryName": "Turkey",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Konya",
+      "lat": "38.16667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "43",
+      "lng": "29.5",
+      "geonameId": 305267,
+      "toponymName": "Kütahya",
+      "countryId": "298795",
+      "fcl": "A",
+      "population": 572059,
+      "countryCode": "TR",
+      "name": "Kütahya",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "43"
+      },
+      "countryName": "Turkey",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Kütahya",
+      "lat": "39.25",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "39",
+      "lng": "27.5",
+      "geonameId": 743165,
+      "toponymName": "Kırklareli",
+      "countryId": "298795",
+      "fcl": "A",
+      "population": 340559,
+      "countryCode": "TR",
+      "name": "Kırklareli",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "39"
+      },
+      "countryName": "Turkey",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Kırklareli",
+      "lat": "41.66667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "79",
+      "lng": "33.75",
+      "geonameId": 443188,
+      "toponymName": "Kırıkkale",
+      "countryId": "298795",
+      "fcl": "A",
+      "population": 274658,
+      "countryCode": "TR",
+      "name": "Kırıkkale",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "71"
+      },
+      "countryName": "Turkey",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Kırıkkale",
+      "lat": "39.83333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "40",
+      "lng": "34.16667",
+      "geonameId": 307513,
+      "toponymName": "Kırşehir",
+      "countryId": "298795",
+      "fcl": "A",
+      "population": 223498,
+      "countryCode": "TR",
+      "name": "Kırşehir",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "40"
+      },
+      "countryName": "Turkey",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Kırşehir",
+      "lat": "39.33333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "44",
+      "lng": "38",
+      "geonameId": 304919,
+      "toponymName": "Malatya",
+      "countryId": "298795",
+      "fcl": "A",
+      "population": 762538,
+      "countryCode": "TR",
+      "name": "Malatya",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "44"
+      },
+      "countryName": "Turkey",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Malatya",
+      "lat": "38.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "45",
+      "lng": "28.16667",
+      "geonameId": 304825,
+      "toponymName": "Manisa",
+      "countryId": "298795",
+      "fcl": "A",
+      "population": 1359463,
+      "countryCode": "TR",
+      "name": "Manisa",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "45"
+      },
+      "countryName": "Turkey",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Manisa",
+      "lat": "38.83333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "72",
+      "lng": "40.71533",
+      "geonameId": 304794,
+      "toponymName": "Mardin",
+      "countryId": "298795",
+      "fcl": "A",
+      "population": 779738,
+      "countryCode": "TR",
+      "name": "Mardin",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "47"
+      },
+      "countryName": "Turkey",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Mardin",
+      "lat": "37.31775",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "32",
+      "lng": "34.65088",
+      "geonameId": 311728,
+      "toponymName": "Mersin",
+      "countryId": "298795",
+      "fcl": "A",
+      "population": 1705774,
+      "countryCode": "TR",
+      "name": "Mersin",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "33"
+      },
+      "countryName": "Turkey",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Mersin",
+      "lat": "36.86204",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "48",
+      "lng": "28.35571",
+      "geonameId": 304183,
+      "toponymName": "Muğla",
+      "countryId": "298795",
+      "fcl": "A",
+      "population": 866665,
+      "countryCode": "TR",
+      "name": "Muğla",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "48"
+      },
+      "countryName": "Turkey",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Muğla",
+      "lat": "37.23033",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "49",
+      "lng": "41.75",
+      "geonameId": 304041,
+      "toponymName": "Muş",
+      "countryId": "298795",
+      "fcl": "A",
+      "population": 412553,
+      "countryCode": "TR",
+      "name": "Muş",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "49"
+      },
+      "countryName": "Turkey",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Muş",
+      "lat": "39",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "50",
+      "lng": "34.66667",
+      "geonameId": 303830,
+      "toponymName": "Nevşehir",
+      "countryId": "298795",
+      "fcl": "A",
+      "population": 285460,
+      "countryCode": "TR",
+      "name": "Nevşehir",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "50"
+      },
+      "countryName": "Turkey",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Nevşehir",
+      "lat": "38.91667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "73",
+      "lng": "34.75",
+      "geonameId": 303826,
+      "toponymName": "Niğde",
+      "countryId": "298795",
+      "fcl": "A",
+      "population": 343658,
+      "countryCode": "TR",
+      "name": "Niğde",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "51"
+      },
+      "countryName": "Turkey",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Niğde",
+      "lat": "37.83333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "52",
+      "lng": "37.68448",
+      "geonameId": 741098,
+      "toponymName": "Ordu",
+      "countryId": "298795",
+      "fcl": "A",
+      "population": 731452,
+      "countryCode": "TR",
+      "name": "Ordu",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "52"
+      },
+      "countryName": "Turkey",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Ordu",
+      "lat": "40.90858",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "91",
+      "lng": "36.24596",
+      "geonameId": 443183,
+      "toponymName": "Osmaniye",
+      "countryId": "298795",
+      "fcl": "A",
+      "population": 498981,
+      "countryCode": "TR",
+      "name": "Osmaniye",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "80"
+      },
+      "countryName": "Turkey",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Osmaniye",
+      "lat": "37.23525",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "53",
+      "lng": "40.89489",
+      "geonameId": 740481,
+      "toponymName": "Rize",
+      "countryId": "298795",
+      "fcl": "A",
+      "population": 328205,
+      "countryCode": "TR",
+      "name": "Rize",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "53"
+      },
+      "countryName": "Turkey",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Rize",
+      "lat": "40.90443",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "54",
+      "lng": "30.58333",
+      "geonameId": 740352,
+      "toponymName": "Sakarya",
+      "countryId": "298795",
+      "fcl": "A",
+      "population": 917373,
+      "countryCode": "TR",
+      "name": "Sakarya",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "54"
+      },
+      "countryName": "Turkey",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Sakarya",
+      "lat": "40.75",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "55",
+      "lng": "36.33333",
+      "geonameId": 740263,
+      "toponymName": "Samsun",
+      "countryId": "298795",
+      "fcl": "A",
+      "population": 1261810,
+      "countryCode": "TR",
+      "name": "Samsun",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "55"
+      },
+      "countryName": "Turkey",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Samsun",
+      "lat": "41.25",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "74",
+      "lng": "41.9458",
+      "geonameId": 300821,
+      "toponymName": "Siirt",
+      "countryId": "298795",
+      "fcl": "A",
+      "population": 314153,
+      "countryCode": "TR",
+      "name": "Siirt",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "56"
+      },
+      "countryName": "Turkey",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Siirt",
+      "lat": "37.96152",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "57",
+      "lng": "34.87095",
+      "geonameId": 739598,
+      "toponymName": "Sinop",
+      "countryId": "298795",
+      "fcl": "A",
+      "population": 204568,
+      "countryCode": "TR",
+      "name": "Sinop",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "57"
+      },
+      "countryName": "Turkey",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Sinop",
+      "lat": "41.77106",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "58",
+      "lng": "37.00195",
+      "geonameId": 300617,
+      "toponymName": "Sivas",
+      "countryId": "298795",
+      "fcl": "A",
+      "population": 623824,
+      "countryCode": "TR",
+      "name": "Sivas",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "58"
+      },
+      "countryName": "Turkey",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Sivas",
+      "lat": "39.79165",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "59",
+      "lng": "27.5",
+      "geonameId": 738926,
+      "toponymName": "Tekirdağ",
+      "countryId": "298795",
+      "fcl": "A",
+      "population": 874475,
+      "countryCode": "TR",
+      "name": "Tekirdağ",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "59"
+      },
+      "countryName": "Turkey",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Tekirdağ",
+      "lat": "41",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "60",
+      "lng": "36.58333",
+      "geonameId": 738742,
+      "toponymName": "Tokat",
+      "countryId": "298795",
+      "fcl": "A",
+      "population": 598708,
+      "countryCode": "TR",
+      "name": "Tokat",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "60"
+      },
+      "countryName": "Turkey",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Tokat",
+      "lat": "40.41667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "61",
+      "lng": "39.81255",
+      "geonameId": 738647,
+      "toponymName": "Trabzon",
+      "countryId": "298795",
+      "fcl": "A",
+      "population": 758237,
+      "countryCode": "TR",
+      "name": "Trabzon",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "61"
+      },
+      "countryName": "Turkey",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Trabzon",
+      "lat": "40.86946",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "62",
+      "lng": "39.54749",
+      "geonameId": 298845,
+      "toponymName": "Tunceli",
+      "countryId": "298795",
+      "fcl": "A",
+      "population": 85428,
+      "countryCode": "TR",
+      "name": "Tunceli",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "62"
+      },
+      "countryName": "Turkey",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Tunceli",
+      "lat": "39.10711",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "64",
+      "lng": "29.41667",
+      "geonameId": 298298,
+      "toponymName": "Uşak",
+      "countryId": "298795",
+      "fcl": "A",
+      "population": 346508,
+      "countryCode": "TR",
+      "name": "Uşak",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "64"
+      },
+      "countryName": "Turkey",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Uşak",
+      "lat": "38.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "65",
+      "lng": "43.71779",
+      "geonameId": 298113,
+      "toponymName": "Van",
+      "countryId": "298795",
+      "fcl": "A",
+      "population": 1070113,
+      "countryCode": "TR",
+      "name": "Van",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "65"
+      },
+      "countryName": "Turkey",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Van",
+      "lat": "38.40736",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "92",
+      "lng": "29.16667",
+      "geonameId": 862469,
+      "toponymName": "Yalova",
+      "countryId": "298795",
+      "fcl": "A",
+      "population": 220122,
+      "countryCode": "TR",
+      "name": "Yalova",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "77"
+      },
+      "countryName": "Turkey",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Yalova",
+      "lat": "40.58333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "66",
+      "lng": "35.33333",
+      "geonameId": 296560,
+      "toponymName": "Yozgat",
+      "countryId": "298795",
+      "fcl": "A",
+      "population": 444211,
+      "countryCode": "TR",
+      "name": "Yozgat",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "66"
+      },
+      "countryName": "Turkey",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Yozgat",
+      "lat": "39.58333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "85",
+      "lng": "31.83333",
+      "geonameId": 737021,
+      "toponymName": "Zonguldak",
+      "countryId": "298795",
+      "fcl": "A",
+      "population": 601567,
+      "countryCode": "TR",
+      "name": "Zonguldak",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "67"
+      },
+      "countryName": "Turkey",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Zonguldak",
+      "lat": "41.25",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "82",
+      "lng": "33.41667",
+      "geonameId": 749747,
+      "toponymName": "Çankırı",
+      "countryId": "298795",
+      "fcl": "A",
+      "population": 190909,
+      "countryCode": "TR",
+      "name": "Çankırı",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "18"
+      },
+      "countryName": "Turkey",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Çankırı",
+      "lat": "40.66667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "19",
+      "lng": "34.75",
+      "geonameId": 748877,
+      "toponymName": "Çorum",
+      "countryId": "298795",
+      "fcl": "A",
+      "population": 532080,
+      "countryCode": "TR",
+      "name": "Çorum",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "19"
+      },
+      "countryName": "Turkey",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Çorum",
+      "lat": "40.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "35",
+      "lng": "27.09229",
+      "geonameId": 311044,
+      "toponymName": "İzmir",
+      "countryId": "298795",
+      "fcl": "A",
+      "population": 4061074,
+      "countryCode": "TR",
+      "name": "İzmir",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "35"
+      },
+      "countryName": "Turkey",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "İzmir",
+      "lat": "38.46219",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "63",
+      "lng": "38.78174",
+      "geonameId": 298332,
+      "toponymName": "Şanlıurfa",
+      "countryId": "298795",
+      "fcl": "A",
+      "population": 1801980,
+      "countryCode": "TR",
+      "name": "Şanlıurfa",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "63"
+      },
+      "countryName": "Turkey",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Şanlıurfa",
+      "lat": "37.21283",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "80",
+      "lng": "42.5",
+      "geonameId": 443189,
+      "toponymName": "Şırnak",
+      "countryId": "298795",
+      "fcl": "A",
+      "population": 475255,
+      "countryCode": "TR",
+      "name": "Şırnak",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "73"
+      },
+      "countryName": "Turkey",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Şırnak",
+      "lat": "37.5",
+      "fcode": "ADM1"
+    }
+  ]
+}

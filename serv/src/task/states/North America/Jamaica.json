@@ -1,0 +1,285 @@
+{
+  "totalResultsCount": 14,
+  "geonames": [
+    {
+      "adminCode1": "01",
+      "lng": "-77.3",
+      "geonameId": 3490952,
+      "toponymName": "Clarendon",
+      "countryId": "3489940",
+      "fcl": "A",
+      "population": 243857,
+      "countryCode": "JM",
+      "name": "Clarendon",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "13"
+      },
+      "countryName": "Jamaica",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Clarendon",
+      "lat": "17.98333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "02",
+      "lng": "-78.13333",
+      "geonameId": 3490145,
+      "toponymName": "Parish of Hanover",
+      "countryId": "3489940",
+      "fcl": "A",
+      "population": 66602,
+      "countryCode": "JM",
+      "name": "Hanover",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "09"
+      },
+      "countryName": "Jamaica",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Hanover",
+      "lat": "18.41667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "17",
+      "lng": "-76.8",
+      "geonameId": 3489853,
+      "toponymName": "Kingston",
+      "countryId": "3489940",
+      "fcl": "A",
+      "population": 90822,
+      "countryCode": "JM",
+      "name": "Kingston",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "01"
+      },
+      "countryName": "Jamaica",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Kingston",
+      "lat": "17.96667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "04",
+      "lng": "-77.53333",
+      "geonameId": 3489586,
+      "toponymName": "Manchester",
+      "countryId": "3489940",
+      "fcl": "A",
+      "population": 191796,
+      "countryCode": "JM",
+      "name": "Manchester",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "12"
+      },
+      "countryName": "Jamaica",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Manchester",
+      "lat": "18.05",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "09",
+      "lng": "-77.26667",
+      "geonameId": 3488715,
+      "toponymName": "Parish of Saint Ann",
+      "countryId": "3489940",
+      "fcl": "A",
+      "population": 171739,
+      "countryCode": "JM",
+      "name": "Parish of Saint Ann",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "06"
+      },
+      "countryName": "Jamaica",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "St Ann",
+      "lat": "18.35",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "07",
+      "lng": "-76.53333",
+      "geonameId": 3488997,
+      "toponymName": "Portland",
+      "countryId": "3489940",
+      "fcl": "A",
+      "population": 80787,
+      "countryCode": "JM",
+      "name": "Portland",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "04"
+      },
+      "countryName": "Jamaica",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Portland",
+      "lat": "18.13333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "08",
+      "lng": "-76.75",
+      "geonameId": 3488716,
+      "toponymName": "Saint Andrew",
+      "countryId": "3489940",
+      "fcl": "A",
+      "population": 555995,
+      "countryCode": "JM",
+      "name": "Saint Andrew",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "02"
+      },
+      "countryName": "Jamaica",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "St. Andrew",
+      "lat": "18.06667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "10",
+      "lng": "-77.01667",
+      "geonameId": 3488711,
+      "toponymName": "Saint Catherine",
+      "countryId": "3489940",
+      "fcl": "A",
+      "population": 529218,
+      "countryCode": "JM",
+      "name": "Saint Catherine",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "14"
+      },
+      "countryName": "Jamaica",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Saint Catherine",
+      "lat": "18.06667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "12",
+      "lng": "-77.88333",
+      "geonameId": 3488700,
+      "toponymName": "Saint James",
+      "countryId": "3489940",
+      "fcl": "A",
+      "population": 180498,
+      "countryCode": "JM",
+      "name": "Saint James",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "08"
+      },
+      "countryName": "Jamaica",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "St. James",
+      "lat": "18.38333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "13",
+      "lng": "-76.9",
+      "geonameId": 3488693,
+      "toponymName": "Saint Mary",
+      "countryId": "3489940",
+      "fcl": "A",
+      "population": 111377,
+      "countryCode": "JM",
+      "name": "Saint Mary",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "05"
+      },
+      "countryName": "Jamaica",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "St. Mary",
+      "lat": "18.31667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "14",
+      "lng": "-76.43333",
+      "geonameId": 3488688,
+      "toponymName": "Saint Thomas",
+      "countryId": "3489940",
+      "fcl": "A",
+      "population": 93328,
+      "countryCode": "JM",
+      "name": "Saint Thomas",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "03"
+      },
+      "countryName": "Jamaica",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "St. Thomas",
+      "lat": "17.9",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "11",
+      "lng": "-77.78333",
+      "geonameId": 3488708,
+      "toponymName": "Saint Elizabeth",
+      "countryId": "3489940",
+      "fcl": "A",
+      "population": 145409,
+      "countryCode": "JM",
+      "name": "St. Elizabeth",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "11"
+      },
+      "countryName": "Jamaica",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "St. Elizabeth",
+      "lat": "18.05",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "15",
+      "lng": "-77.63333",
+      "geonameId": 3488222,
+      "toponymName": "Trelawny",
+      "countryId": "3489940",
+      "fcl": "A",
+      "population": 75618,
+      "countryCode": "JM",
+      "name": "Trelawny",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "07"
+      },
+      "countryName": "Jamaica",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Trelawny",
+      "lat": "18.38333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "16",
+      "lng": "-78.15",
+      "geonameId": 3488081,
+      "toponymName": "Westmoreland",
+      "countryId": "3489940",
+      "fcl": "A",
+      "population": 141393,
+      "countryCode": "JM",
+      "name": "Westmoreland",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "10"
+      },
+      "countryName": "Jamaica",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Westmoreland",
+      "lat": "18.23333",
+      "fcode": "ADM1"
+    }
+  ]
+}

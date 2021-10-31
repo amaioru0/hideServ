@@ -1,0 +1,285 @@
+{
+  "totalResultsCount": 14,
+  "geonames": [
+    {
+      "adminCode1": "01",
+      "lng": "-17.28333",
+      "geonameId": 2253350,
+      "toponymName": "Dakar",
+      "countryId": "2245662",
+      "fcl": "A",
+      "population": 2431062,
+      "countryCode": "SN",
+      "name": "Dakar",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "DK"
+      },
+      "countryName": "Senegal",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Dakar",
+      "lat": "14.76667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "03",
+      "lng": "-16.1",
+      "geonameId": 2252308,
+      "toponymName": "Diourbel",
+      "countryId": "2245662",
+      "fcl": "A",
+      "population": 1420082,
+      "countryCode": "SN",
+      "name": "Diourbel",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "DB"
+      },
+      "countryName": "Senegal",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Diourbel",
+      "lat": "14.76667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "09",
+      "lng": "-16.5",
+      "geonameId": 2251910,
+      "toponymName": "Fatick",
+      "countryId": "2245662",
+      "fcl": "A",
+      "population": 24243,
+      "countryCode": "SN",
+      "name": "Fatick",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "FK"
+      },
+      "countryName": "Senegal",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Fatick",
+      "lat": "14.28333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "10",
+      "lng": "-16",
+      "geonameId": 2250804,
+      "toponymName": "Kaolack",
+      "countryId": "2245662",
+      "fcl": "A",
+      "population": 918355,
+      "countryCode": "SN",
+      "name": "Kaolack",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "KL"
+      },
+      "countryName": "Senegal",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Kaolack",
+      "lat": "14",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "11",
+      "lng": "-14.41667",
+      "geonameId": 2249781,
+      "toponymName": "Kolda",
+      "countryId": "2245662",
+      "fcl": "A",
+      "population": 633652,
+      "countryCode": "SN",
+      "name": "Kolda",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "KD"
+      },
+      "countryName": "Senegal",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Kolda",
+      "lat": "13",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "13",
+      "lng": "-15.5",
+      "geonameId": 2249221,
+      "toponymName": "Louga",
+      "countryId": "2245662",
+      "fcl": "A",
+      "population": 835325,
+      "countryCode": "SN",
+      "name": "Louga",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "LG"
+      },
+      "countryName": "Senegal",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Louga",
+      "lat": "15.41667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "15",
+      "lng": "-13.66667",
+      "geonameId": 2248753,
+      "toponymName": "Matam",
+      "countryId": "2245662",
+      "fcl": "A",
+      "population": 477964,
+      "countryCode": "SN",
+      "name": "Matam",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "MT"
+      },
+      "countryName": "Senegal",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Matam",
+      "lat": "15.16667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "16",
+      "lng": "-15.54565",
+      "geonameId": 7303935,
+      "toponymName": "Région de Kaffrine",
+      "countryId": "2245662",
+      "fcl": "A",
+      "population": 28396,
+      "countryCode": "SN",
+      "name": "Région de Kaffrine",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "KA"
+      },
+      "countryName": "Senegal",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Kaffrine",
+      "lat": "14.10528",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "17",
+      "lng": "-12.17586",
+      "geonameId": 7303936,
+      "toponymName": "Région de Kédougou",
+      "countryId": "2245662",
+      "fcl": "A",
+      "population": 152134,
+      "countryCode": "SN",
+      "name": "Région de Kédougou",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "KE"
+      },
+      "countryName": "Senegal",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Kédougou",
+      "lat": "12.55146",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "18",
+      "lng": "-15.55801",
+      "geonameId": 7303937,
+      "toponymName": "Région de Sédhiou",
+      "countryId": "2245662",
+      "fcl": "A",
+      "population": 434877,
+      "countryCode": "SN",
+      "name": "Région de Sédhiou",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SE"
+      },
+      "countryName": "Senegal",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Sédhiou",
+      "lat": "12.70683",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "07",
+      "lng": "-16.86667",
+      "geonameId": 2244800,
+      "toponymName": "Région de Thiès",
+      "countryId": "2245662",
+      "fcl": "A",
+      "population": 1709112,
+      "countryCode": "SN",
+      "name": "Région de Thiès",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "TH"
+      },
+      "countryName": "Senegal",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Thiès",
+      "lat": "14.86667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "14",
+      "lng": "-15",
+      "geonameId": 2246451,
+      "toponymName": "Saint-Louis",
+      "countryId": "2245662",
+      "fcl": "A",
+      "population": 732667,
+      "countryCode": "SN",
+      "name": "Saint-Louis",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SL"
+      },
+      "countryName": "Senegal",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Saint-Louis",
+      "lat": "16.33333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "05",
+      "lng": "-13.25",
+      "geonameId": 2244990,
+      "toponymName": "Tambacounda",
+      "countryId": "2245662",
+      "fcl": "A",
+      "population": 649854,
+      "countryCode": "SN",
+      "name": "Tambacounda",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "TC"
+      },
+      "countryName": "Senegal",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Tambacounda",
+      "lat": "13.91667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "12",
+      "lng": "-16.36667",
+      "geonameId": 2243939,
+      "toponymName": "Ziguinchor",
+      "countryId": "2245662",
+      "fcl": "A",
+      "population": 523840,
+      "countryCode": "SN",
+      "name": "Ziguinchor",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "ZG"
+      },
+      "countryName": "Senegal",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Ziguinchor",
+      "lat": "12.8",
+      "fcode": "ADM1"
+    }
+  ]
+}

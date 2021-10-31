@@ -1,0 +1,445 @@
+{
+  "totalResultsCount": 22,
+  "geonames": [
+    {
+      "adminCode1": "02",
+      "lng": "44.91667",
+      "geonameId": 80412,
+      "toponymName": "Governorate Number One",
+      "countryId": "69543",
+      "fcl": "A",
+      "population": 731000,
+      "countryCode": "YE",
+      "name": "Aden",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "AD"
+      },
+      "countryName": "Yemen",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Aden",
+      "lat": "12.83333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "20",
+      "lng": "45.39442",
+      "geonameId": 79838,
+      "toponymName": "Al Bayda Governorate",
+      "countryId": "69543",
+      "fcl": "A",
+      "population": 695000,
+      "countryCode": "YE",
+      "name": "Al Bayda",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "BA"
+      },
+      "countryName": "Yemen",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Al Bayda",
+      "lat": "14.34166",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "08",
+      "lng": "43.19279",
+      "geonameId": 79416,
+      "toponymName": "Muḩāfaz̧at al Ḩudaydah",
+      "countryId": "69543",
+      "fcl": "A",
+      "population": 2621000,
+      "countryCode": "YE",
+      "name": "Al Hudaydah",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "HU"
+      },
+      "countryName": "Yemen",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Al Hudaydah",
+      "lat": "14.91732",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "21",
+      "lng": "45.5243",
+      "geonameId": 74222,
+      "toponymName": "Muḩāfaz̧at al Jawf",
+      "countryId": "69543",
+      "fcl": "A",
+      "population": 532000,
+      "countryCode": "YE",
+      "name": "Al Jawf",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "JA"
+      },
+      "countryName": "Yemen",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Al Jawf",
+      "lat": "16.5974",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "03",
+      "lng": "51.5",
+      "geonameId": 78985,
+      "toponymName": "Al Mahrah",
+      "countryId": "69543",
+      "fcl": "A",
+      "population": 133873,
+      "countryCode": "YE",
+      "name": "Al Mahrah",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "MR"
+      },
+      "countryName": "Yemen",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Al Mahrah",
+      "lat": "17",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "10",
+      "lng": "43.53616",
+      "geonameId": 73200,
+      "toponymName": "Al Maḩwīt",
+      "countryId": "69543",
+      "fcl": "A",
+      "population": 597000,
+      "countryCode": "YE",
+      "name": "Al Maḩwīt",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "MW"
+      },
+      "countryName": "Yemen",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Al Maḩwīt",
+      "lat": "15.39198",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "26",
+      "lng": "44.221",
+      "geonameId": 6940571,
+      "toponymName": "Amanat alasimah",
+      "countryId": "69543",
+      "fcl": "A",
+      "population": 1947139,
+      "countryCode": "YE",
+      "name": "Amanat Alasimah",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SA"
+      },
+      "countryName": "Yemen",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Amanat Alasimah",
+      "lat": "15.45037",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "18",
+      "lng": "44.7625",
+      "geonameId": 6201193,
+      "toponymName": "Muḩāfaz̧at aḑ Ḑāli‘",
+      "countryId": "69543",
+      "fcl": "A",
+      "population": 569000,
+      "countryCode": "YE",
+      "name": "Aḑ Ḑāli‘",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "DA"
+      },
+      "countryName": "Yemen",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Aḑ Ḑāli‘",
+      "lat": "13.8924",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "11",
+      "lng": "44.27294",
+      "geonameId": 76183,
+      "toponymName": "Muḩāfaz̧at Dhamār",
+      "countryId": "69543",
+      "fcl": "A",
+      "population": 1603000,
+      "countryCode": "YE",
+      "name": "Dhamār",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "DH"
+      },
+      "countryName": "Yemen",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Dhamār",
+      "lat": "14.68296",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "23",
+      "lng": "44.16667",
+      "geonameId": 6201196,
+      "toponymName": "Ibb",
+      "countryId": "69543",
+      "fcl": "A",
+      "population": 2560000,
+      "countryCode": "YE",
+      "name": "Ibb",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "IB"
+      },
+      "countryName": "Yemen",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Ibb",
+      "lat": "14",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "24",
+      "lng": "44.58333",
+      "geonameId": 6201197,
+      "toponymName": "Muḩāfaz̧at Laḩij",
+      "countryId": "69543",
+      "fcl": "A",
+      "population": 752102,
+      "countryCode": "YE",
+      "name": "Laḩij",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "LA"
+      },
+      "countryName": "Yemen",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Laḩij",
+      "lat": "13.16667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "14",
+      "lng": "45.32534",
+      "geonameId": 72966,
+      "toponymName": "Muḩāfaz̧at Ma’rib",
+      "countryId": "69543",
+      "fcl": "A",
+      "population": 288000,
+      "countryCode": "YE",
+      "name": "Ma’rib",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "MA"
+      },
+      "countryName": "Yemen",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Ma’rib",
+      "lat": "15.4591",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "04",
+      "lng": "49",
+      "geonameId": 75411,
+      "toponymName": "Hadhramaut Governorate",
+      "countryId": "69543",
+      "fcl": "A",
+      "population": 1255000,
+      "countryCode": "YE",
+      "name": "Muhafazat Hadramaout",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "HD"
+      },
+      "countryName": "Yemen",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Muhafazat Hadramaout",
+      "lat": "16",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "01",
+      "lng": "46.126",
+      "geonameId": 80425,
+      "toponymName": "Muḩāfaz̧at Abyan",
+      "countryId": "69543",
+      "fcl": "A",
+      "population": 494849,
+      "countryCode": "YE",
+      "name": "Muḩāfaz̧at Abyan",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "AB"
+      },
+      "countryName": "Yemen",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Abyan",
+      "lat": "13.6291",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "19",
+      "lng": "43.90983",
+      "geonameId": 6201194,
+      "toponymName": "Muḩāfaz̧at ‘Amrān",
+      "countryId": "69543",
+      "fcl": "A",
+      "population": 1061000,
+      "countryCode": "YE",
+      "name": "Omran",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "AM"
+      },
+      "countryName": "Yemen",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Omran",
+      "lat": "16.23022",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "27",
+      "lng": "43.66667",
+      "geonameId": 71532,
+      "toponymName": "Muḩāfaz̧at Raymah",
+      "countryId": "69543",
+      "fcl": "A",
+      "population": 394448,
+      "countryCode": "YE",
+      "name": "Raymah",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "RA"
+      },
+      "countryName": "Yemen",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Raymah",
+      "lat": "14.63333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "16",
+      "lng": "44.42489",
+      "geonameId": 71132,
+      "toponymName": "Sanaa",
+      "countryId": "69543",
+      "fcl": "A",
+      "population": 1109000,
+      "countryCode": "YE",
+      "name": "Sanaa",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SN"
+      },
+      "countryName": "Yemen",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Sanaa",
+      "lat": "15.26069",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "05",
+      "lng": "47",
+      "geonameId": 70935,
+      "toponymName": "Shabwah",
+      "countryId": "69543",
+      "fcl": "A",
+      "population": 446431,
+      "countryCode": "YE",
+      "name": "Shabwah",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SH"
+      },
+      "countryName": "Yemen",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Shabwah",
+      "lat": "15",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "28",
+      "lng": "53.82065",
+      "geonameId": 9645387,
+      "toponymName": "Socotra",
+      "countryId": "69543",
+      "fcl": "A",
+      "population": 44000,
+      "countryCode": "YE",
+      "name": "Soqatra",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SU"
+      },
+      "countryName": "Yemen",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Soqatra",
+      "lat": "12.50228",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "25",
+      "lng": "44",
+      "geonameId": 70222,
+      "toponymName": "Muḩāfaz̧at Ta‘izz",
+      "countryId": "69543",
+      "fcl": "A",
+      "population": 2613947,
+      "countryCode": "YE",
+      "name": "Ta‘izz",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "TA"
+      },
+      "countryName": "Yemen",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Ta‘izz",
+      "lat": "13.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "15",
+      "lng": "43.91488",
+      "geonameId": 71333,
+      "toponymName": "Muḩāfaz̧at Şa‘dah",
+      "countryId": "69543",
+      "fcl": "A",
+      "population": 838000,
+      "countryCode": "YE",
+      "name": "Şa‘dah",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SD"
+      },
+      "countryName": "Yemen",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Şa‘dah",
+      "lat": "17.0634",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "22",
+      "lng": "43.25",
+      "geonameId": 6201195,
+      "toponymName": "Muḩāfaz̧at Ḩajjah",
+      "countryId": "69543",
+      "fcl": "A",
+      "population": 1782000,
+      "countryCode": "YE",
+      "name": "Ḩajjah",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "HJ"
+      },
+      "countryName": "Yemen",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Ḩajjah",
+      "lat": "16",
+      "fcode": "ADM1"
+    }
+  ]
+}

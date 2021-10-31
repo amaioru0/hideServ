@@ -1,0 +1,385 @@
+{
+  "totalResultsCount": 19,
+  "geonames": [
+    {
+      "adminCode1": "01",
+      "lng": "-57",
+      "geonameId": 3443756,
+      "toponymName": "Departamento de Artigas",
+      "countryId": "3439705",
+      "fcl": "A",
+      "population": 78391,
+      "countryCode": "UY",
+      "name": "Artigas",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "AR"
+      },
+      "countryName": "Uruguay",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Artigas",
+      "lat": "-30.58333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "02",
+      "lng": "-55.91667",
+      "geonameId": 3443411,
+      "toponymName": "Departamento de Canelones",
+      "countryId": "3439705",
+      "fcl": "A",
+      "population": 490595,
+      "countryCode": "UY",
+      "name": "Canelones",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "CA"
+      },
+      "countryName": "Uruguay",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Canelones",
+      "lat": "-34.53333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "03",
+      "lng": "-54.33333",
+      "geonameId": 3443173,
+      "toponymName": "Departamento de Cerro Largo",
+      "countryId": "3439705",
+      "fcl": "A",
+      "population": 87019,
+      "countryCode": "UY",
+      "name": "Cerro Largo",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "CL"
+      },
+      "countryName": "Uruguay",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Cerro Largo",
+      "lat": "-32.33333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "04",
+      "lng": "-57.66667",
+      "geonameId": 3443025,
+      "toponymName": "Departamento de Colonia",
+      "countryId": "3439705",
+      "fcl": "A",
+      "population": 119249,
+      "countryCode": "UY",
+      "name": "Colonia",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "CO"
+      },
+      "countryName": "Uruguay",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Colonia",
+      "lat": "-34.16667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "05",
+      "lng": "-56.08333",
+      "geonameId": 3442720,
+      "toponymName": "Departamento de Durazno",
+      "countryId": "3439705",
+      "fcl": "A",
+      "population": 59176,
+      "countryCode": "UY",
+      "name": "Departamento de Durazno",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "DU"
+      },
+      "countryName": "Uruguay",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Durazno",
+      "lat": "-33.08333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "06",
+      "lng": "-56.83333",
+      "geonameId": 3442587,
+      "toponymName": "Departamento de Flores",
+      "countryId": "3439705",
+      "fcl": "A",
+      "population": 25109,
+      "countryCode": "UY",
+      "name": "Departamento de Flores",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "FS"
+      },
+      "countryName": "Uruguay",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Flores",
+      "lat": "-33.58333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "10",
+      "lng": "-56.2",
+      "geonameId": 3441572,
+      "toponymName": "Departamento de Montevideo",
+      "countryId": "3439705",
+      "fcl": "A",
+      "population": 1324115,
+      "countryCode": "UY",
+      "name": "Departamento de Montevideo",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "MO"
+      },
+      "countryName": "Uruguay",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Montevideo",
+      "lat": "-34.825",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "11",
+      "lng": "-57.25",
+      "geonameId": 3441242,
+      "toponymName": "Departamento de Paysandú",
+      "countryId": "3439705",
+      "fcl": "A",
+      "population": 113506,
+      "countryCode": "UY",
+      "name": "Departamento de Paysandú",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "PA"
+      },
+      "countryName": "Uruguay",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Paysandú",
+      "lat": "-32.08333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "13",
+      "lng": "-55.25",
+      "geonameId": 3440780,
+      "toponymName": "Departamento de Rivera",
+      "countryId": "3439705",
+      "fcl": "A",
+      "population": 105701,
+      "countryCode": "UY",
+      "name": "Departamento de Rivera",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "RV"
+      },
+      "countryName": "Uruguay",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Rivera",
+      "lat": "-31.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "14",
+      "lng": "-54",
+      "geonameId": 3440771,
+      "toponymName": "Departamento de Rocha",
+      "countryId": "3439705",
+      "fcl": "A",
+      "population": 69938,
+      "countryCode": "UY",
+      "name": "Departamento de Rocha",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "RO"
+      },
+      "countryName": "Uruguay",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Rocha",
+      "lat": "-34",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "12",
+      "lng": "-57.33333",
+      "geonameId": 3440789,
+      "toponymName": "Departamento de Río Negro",
+      "countryId": "3439705",
+      "fcl": "A",
+      "population": 54255,
+      "countryCode": "UY",
+      "name": "Departamento de Río Negro",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "RN"
+      },
+      "countryName": "Uruguay",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Río Negro",
+      "lat": "-32.75",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "15",
+      "lng": "-57",
+      "geonameId": 3440711,
+      "toponymName": "Departamento de Salto",
+      "countryId": "3439705",
+      "fcl": "A",
+      "population": 123793,
+      "countryCode": "UY",
+      "name": "Departamento de Salto",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SA"
+      },
+      "countryName": "Uruguay",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Salto",
+      "lat": "-31.41667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "16",
+      "lng": "-56.75",
+      "geonameId": 3440645,
+      "toponymName": "Departamento de San José",
+      "countryId": "3439705",
+      "fcl": "A",
+      "population": 103848,
+      "countryCode": "UY",
+      "name": "Departamento de San José",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SJ"
+      },
+      "countryName": "Uruguay",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "San José",
+      "lat": "-34.25",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "18",
+      "lng": "-55.75",
+      "geonameId": 3440033,
+      "toponymName": "Departamento de Tacuarembó",
+      "countryId": "3439705",
+      "fcl": "A",
+      "population": 91062,
+      "countryCode": "UY",
+      "name": "Departamento de Tacuarembó",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "TA"
+      },
+      "countryName": "Uruguay",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Tacuarembó",
+      "lat": "-32.08333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "19",
+      "lng": "-54.25",
+      "geonameId": 3439780,
+      "toponymName": "Departamento de Treinta y Tres",
+      "countryId": "3439705",
+      "fcl": "A",
+      "population": 49324,
+      "countryCode": "UY",
+      "name": "Departamento de Treinta y Tres",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "TT"
+      },
+      "countryName": "Uruguay",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Treinta y Tres",
+      "lat": "-33",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "07",
+      "lng": "-55.91667",
+      "geonameId": 3442584,
+      "toponymName": "Departamento de Florida",
+      "countryId": "3439705",
+      "fcl": "A",
+      "population": 68334,
+      "countryCode": "UY",
+      "name": "Florida",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "FD"
+      },
+      "countryName": "Uruguay",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Florida",
+      "lat": "-33.83333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "08",
+      "lng": "-55",
+      "geonameId": 3442007,
+      "toponymName": "Departamento de Lavalleja",
+      "countryId": "3439705",
+      "fcl": "A",
+      "population": 60889,
+      "countryCode": "UY",
+      "name": "Lavalleja",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "LA"
+      },
+      "countryName": "Uruguay",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Lavalleja",
+      "lat": "-34",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "09",
+      "lng": "-54.83333",
+      "geonameId": 3441890,
+      "toponymName": "Departamento de Maldonado",
+      "countryId": "3439705",
+      "fcl": "A",
+      "population": 142086,
+      "countryCode": "UY",
+      "name": "Maldonado",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "MA"
+      },
+      "countryName": "Uruguay",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Maldonado",
+      "lat": "-34.58333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "17",
+      "lng": "-57.75",
+      "geonameId": 3440054,
+      "toponymName": "Departamento de Soriano",
+      "countryId": "3439705",
+      "fcl": "A",
+      "population": 84879,
+      "countryCode": "UY",
+      "name": "Soriano",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SO"
+      },
+      "countryName": "Uruguay",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Soriano",
+      "lat": "-33.5",
+      "fcode": "ADM1"
+    }
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "totalResultsCount": 10,
+  "geonames": [
+    {
+      "adminCode1": "02",
+      "lng": "29",
+      "geonameId": 921064,
+      "toponymName": "Central Province",
+      "countryId": "895949",
+      "fcl": "A",
+      "population": 1743999,
+      "countryCode": "ZM",
+      "name": "Central Province",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "02"
+      },
+      "countryName": "Zambia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Central",
+      "lat": "-14",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "08",
+      "lng": "28",
+      "geonameId": 917524,
+      "toponymName": "Copperbelt Province",
+      "countryId": "895949",
+      "fcl": "A",
+      "population": 2542132,
+      "countryCode": "ZM",
+      "name": "Copperbelt",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "08"
+      },
+      "countryName": "Zambia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Copperbelt",
+      "lat": "-13",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "03",
+      "lng": "32",
+      "geonameId": 917388,
+      "toponymName": "Eastern Province",
+      "countryId": "895949",
+      "fcl": "A",
+      "population": 1961269,
+      "countryCode": "ZM",
+      "name": "Eastern Province",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "03"
+      },
+      "countryName": "Zambia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Eastern",
+      "lat": "-13.66667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "04",
+      "lng": "29",
+      "geonameId": 909845,
+      "toponymName": "Luapula Province",
+      "countryId": "895949",
+      "fcl": "A",
+      "population": 991927,
+      "countryCode": "ZM",
+      "name": "Luapula Province",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "04"
+      },
+      "countryName": "Zambia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Luapula",
+      "lat": "-11",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "09",
+      "lng": "29",
+      "geonameId": 909129,
+      "toponymName": "Lusaka Province",
+      "countryId": "895949",
+      "fcl": "A",
+      "population": 3186336,
+      "countryCode": "ZM",
+      "name": "Lusaka Province",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "09"
+      },
+      "countryName": "Zambia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Lusaka",
+      "lat": "-15.41667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "10",
+      "lng": "32.07725",
+      "geonameId": 11154503,
+      "toponymName": "Muchinga Province",
+      "countryId": "895949",
+      "fcl": "A",
+      "population": 895058,
+      "countryCode": "ZM",
+      "name": "Muchinga",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "10"
+      },
+      "countryName": "Zambia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Muchinga",
+      "lat": "-10.54393",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "06",
+      "lng": "25",
+      "geonameId": 900594,
+      "toponymName": "North-Western Province",
+      "countryId": "895949",
+      "fcl": "A",
+      "population": 583350,
+      "countryCode": "ZM",
+      "name": "North-Western Province",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "06"
+      },
+      "countryName": "Zambia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "North-Western",
+      "lat": "-13",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "05",
+      "lng": "30.75",
+      "geonameId": 900601,
+      "toponymName": "Northern Province",
+      "countryId": "895949",
+      "fcl": "A",
+      "population": 1304435,
+      "countryCode": "ZM",
+      "name": "Northern Province",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "05"
+      },
+      "countryName": "Zambia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Northern",
+      "lat": "-9.75",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "07",
+      "lng": "27",
+      "geonameId": 896972,
+      "toponymName": "Southern Province",
+      "countryId": "895949",
+      "fcl": "A",
+      "population": 1853464,
+      "countryCode": "ZM",
+      "name": "Southern Province",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "07"
+      },
+      "countryName": "Zambia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Southern",
+      "lat": "-16.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "01",
+      "lng": "24",
+      "geonameId": 896140,
+      "toponymName": "Western Province",
+      "countryId": "895949",
+      "fcl": "A",
+      "population": 991500,
+      "countryCode": "ZM",
+      "name": "Western Province",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "01"
+      },
+      "countryName": "Zambia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Western",
+      "lat": "-15",
+      "fcode": "ADM1"
+    }
+  ]
+}

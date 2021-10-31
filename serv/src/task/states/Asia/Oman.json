@@ -1,0 +1,225 @@
+{
+  "totalResultsCount": 11,
+  "geonames": [
+    {
+      "adminCode1": "01",
+      "lng": "57.33333",
+      "geonameId": 411735,
+      "toponymName": "Muḩāfaz̧at ad Dākhilīyah",
+      "countryId": "286963",
+      "fcl": "A",
+      "population": 326521,
+      "countryCode": "OM",
+      "name": "Ad Dakhiliyah",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "DA"
+      },
+      "countryName": "Oman",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Ad Dakhiliyah",
+      "lat": "22.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "11",
+      "lng": "56.75",
+      "geonameId": 8394434,
+      "toponymName": "Al Batinah North Governorate",
+      "countryId": "286963",
+      "fcl": "A",
+      "population": 480000,
+      "countryCode": "OM",
+      "name": "Al Batinah North",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "BS"
+      },
+      "countryName": "Oman",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Al Batinah North",
+      "lat": "24",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "02",
+      "lng": "57.7",
+      "geonameId": 411736,
+      "toponymName": "Al Batinah South Governorate",
+      "countryId": "286963",
+      "fcl": "A",
+      "population": 668618,
+      "countryCode": "OM",
+      "name": "Al Batinah South",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "BJ"
+      },
+      "countryName": "Oman",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Al Batinah South",
+      "lat": "23.45",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "10",
+      "lng": "56.11667",
+      "geonameId": 7110710,
+      "toponymName": "Muḩāfaz̧at al Buraymī",
+      "countryId": "286963",
+      "fcl": "A",
+      "population": 115000,
+      "countryCode": "OM",
+      "name": "Al Buraimi",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "BU"
+      },
+      "countryName": "Oman",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Al Buraimi",
+      "lat": "24.21667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "09",
+      "lng": "55.95",
+      "geonameId": 411739,
+      "toponymName": "Az̧ Z̧āhirah",
+      "countryId": "286963",
+      "fcl": "A",
+      "population": 151664,
+      "countryCode": "OM",
+      "name": "Az̧ Z̧āhirah",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "ZA"
+      },
+      "countryName": "Oman",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Az̧ Z̧āhirah",
+      "lat": "22.9",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "08",
+      "lng": "54.18333",
+      "geonameId": 411742,
+      "toponymName": "Dhofar Governorate",
+      "countryId": "286963",
+      "fcl": "A",
+      "population": 458734,
+      "countryCode": "OM",
+      "name": "Dhofar",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "ZU"
+      },
+      "countryName": "Oman",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Dhofar",
+      "lat": "18.48333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "07",
+      "lng": "56.3",
+      "geonameId": 411741,
+      "toponymName": "Musandam",
+      "countryId": "286963",
+      "fcl": "A",
+      "population": 28218,
+      "countryCode": "OM",
+      "name": "Musandam",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "MU"
+      },
+      "countryName": "Oman",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Musandam",
+      "lat": "26.03333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "06",
+      "lng": "58.40366",
+      "geonameId": 411740,
+      "toponymName": "Muḩāfaz̧at Masqaţ",
+      "countryId": "286963",
+      "fcl": "A",
+      "population": 1560330,
+      "countryCode": "OM",
+      "name": "Muscat",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "MA"
+      },
+      "countryName": "Oman",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Muscat",
+      "lat": "23.5835",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "03",
+      "lng": "56.61667",
+      "geonameId": 411737,
+      "toponymName": "Muḩāfaz̧at al Wusţá",
+      "countryId": "286963",
+      "fcl": "A",
+      "population": 24196,
+      "countryCode": "OM",
+      "name": "Muḩāfaz̧at al Wusţá",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "WU"
+      },
+      "countryName": "Oman",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Al Wusţá",
+      "lat": "20.16667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "12",
+      "lng": "58.43333",
+      "geonameId": 8394433,
+      "toponymName": "Ash Sharqiyah North Governorate",
+      "countryId": "286963",
+      "fcl": "A",
+      "population": 280000,
+      "countryCode": "OM",
+      "name": "Northeastern Governorate",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SS"
+      },
+      "countryName": "Oman",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Northeastern Governorate",
+      "lat": "22.1",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "04",
+      "lng": "59.1",
+      "geonameId": 411738,
+      "toponymName": "Ash Sharqiyah South",
+      "countryId": "286963",
+      "fcl": "A",
+      "population": 323915,
+      "countryCode": "OM",
+      "name": "Southeastern Governorate",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SJ"
+      },
+      "countryName": "Oman",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Southeastern Governorate",
+      "lat": "21.65",
+      "fcode": "ADM1"
+    }
+  ]
+}

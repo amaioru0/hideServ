@@ -1,0 +1,85 @@
+{
+  "totalResultsCount": 4,
+  "geonames": [
+    {
+      "adminCode1": "03",
+      "lng": "151.85431",
+      "geonameId": 2082282,
+      "toponymName": "State of Chuuk",
+      "countryId": "2081918",
+      "fcl": "A",
+      "population": 54595,
+      "countryCode": "FM",
+      "name": "State of Chuuk",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "TRK"
+      },
+      "countryName": "Micronesia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Chuuk",
+      "lat": "7.44077",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "01",
+      "lng": "162.981",
+      "geonameId": 2082036,
+      "toponymName": "State of Kosrae",
+      "countryId": "2081918",
+      "fcl": "A",
+      "population": 7686,
+      "countryCode": "FM",
+      "name": "State of Kosrae",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "KSA"
+      },
+      "countryName": "Micronesia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Kosrae",
+      "lat": "5.325",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "02",
+      "lng": "158.2056",
+      "geonameId": 2081550,
+      "toponymName": "State of Pohnpei",
+      "countryId": "2081918",
+      "fcl": "A",
+      "population": 34486,
+      "countryCode": "FM",
+      "name": "State of Pohnpei",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "PNI"
+      },
+      "countryName": "Micronesia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Pohnpei",
+      "lat": "6.964",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "04",
+      "lng": "138.097",
+      "geonameId": 2081175,
+      "toponymName": "State of Yap",
+      "countryId": "2081918",
+      "fcl": "A",
+      "population": 11241,
+      "countryCode": "FM",
+      "name": "State of Yap",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "YAP"
+      },
+      "countryName": "Micronesia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Yap",
+      "lat": "9.538",
+      "fcode": "ADM1"
+    }
+  ]
+}

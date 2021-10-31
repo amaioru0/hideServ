@@ -1,0 +1,22 @@
+{
+  "totalResultsCount": 1,
+  "geonames": [
+    {
+      "adminCode1": "RE",
+      "lng": "55.60206",
+      "geonameId": 6690283,
+      "toponymName": "Réunion",
+      "countryId": "935317",
+      "fcl": "A",
+      "population": 794107,
+      "countryCode": "RE",
+      "name": "Réunion",
+      "fclName": "country, state, region,...",
+      "countryName": "Réunion",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Réunion",
+      "lat": "-21.10044",
+      "fcode": "ADM1"
+    }
+  ]
+}

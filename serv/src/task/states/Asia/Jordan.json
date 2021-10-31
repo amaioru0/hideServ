@@ -1,0 +1,245 @@
+{
+  "totalResultsCount": 12,
+  "geonames": [
+    {
+      "adminCode1": "20",
+      "lng": "35.75",
+      "geonameId": 443120,
+      "toponymName": "Ajloun",
+      "countryId": "248816",
+      "fcl": "A",
+      "population": 55000,
+      "countryCode": "JO",
+      "name": "Ajloun",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "AJ"
+      },
+      "countryName": "Jordan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Ajloun",
+      "lat": "32.33333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "16",
+      "lng": "36.33335",
+      "geonameId": 250439,
+      "toponymName": "Amman Governorate",
+      "countryId": "248816",
+      "fcl": "A",
+      "population": 1972712,
+      "countryCode": "JO",
+      "name": "Amman",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "AM"
+      },
+      "countryName": "Jordan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Amman",
+      "lat": "31.58369",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "21",
+      "lng": "35.33333",
+      "geonameId": 443122,
+      "toponymName": "Muḩāfaz̧at al ‘Aqabah",
+      "countryId": "248816",
+      "fcl": "A",
+      "population": 139200,
+      "countryCode": "JO",
+      "name": "Aqaba",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "AQ"
+      },
+      "countryName": "Jordan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Aqaba",
+      "lat": "29.75",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "02",
+      "lng": "35.66667",
+      "geonameId": 250751,
+      "toponymName": "Muḩāfaz̧at al Balqā’",
+      "countryId": "248816",
+      "fcl": "A",
+      "population": 409500,
+      "countryCode": "JO",
+      "name": "Balqa",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "BA"
+      },
+      "countryName": "Jordan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Balqa",
+      "lat": "32",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "18",
+      "lng": "35.83333",
+      "geonameId": 248944,
+      "toponymName": "Irbid",
+      "countryId": "248816",
+      "fcl": "A",
+      "population": 942069,
+      "countryCode": "JO",
+      "name": "Irbid",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "IR"
+      },
+      "countryName": "Jordan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Irbid",
+      "lat": "32.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "22",
+      "lng": "35.91667",
+      "geonameId": 443121,
+      "toponymName": "Jerash",
+      "countryId": "248816",
+      "fcl": "A",
+      "population": 156585,
+      "countryCode": "JO",
+      "name": "Jerash",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "JA"
+      },
+      "countryName": "Jordan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Jerash",
+      "lat": "32.25",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "09",
+      "lng": "35.75",
+      "geonameId": 250625,
+      "toponymName": "Al Karak",
+      "countryId": "248816",
+      "fcl": "A",
+      "population": 207335,
+      "countryCode": "JO",
+      "name": "Karak",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "KA"
+      },
+      "countryName": "Jordan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Karak",
+      "lat": "31.16667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "23",
+      "lng": "35.66667",
+      "geonameId": 443123,
+      "toponymName": "Muḩāfaz̧at Mādabā",
+      "countryId": "248816",
+      "fcl": "A",
+      "population": 131900,
+      "countryCode": "JO",
+      "name": "Madaba",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "MD"
+      },
+      "countryName": "Jordan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Madaba",
+      "lat": "31.58333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "15",
+      "lng": "37.91667",
+      "geonameId": 250583,
+      "toponymName": "Al Mafraq",
+      "countryId": "248816",
+      "fcl": "A",
+      "population": 246783,
+      "countryCode": "JO",
+      "name": "Mafraq",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "MA"
+      },
+      "countryName": "Jordan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Mafraq",
+      "lat": "32.33333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "19",
+      "lng": "36.58333",
+      "geonameId": 248380,
+      "toponymName": "Muḩāfaz̧at Ma‘ān",
+      "countryId": "248816",
+      "fcl": "A",
+      "population": 121400,
+      "countryCode": "JO",
+      "name": "Ma’an",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "MN"
+      },
+      "countryName": "Jordan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Ma’an",
+      "lat": "30.33333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "12",
+      "lng": "35.58333",
+      "geonameId": 250199,
+      "toponymName": "Muḩāfaz̧at aţ Ţafīlah",
+      "countryId": "248816",
+      "fcl": "A",
+      "population": 89400,
+      "countryCode": "JO",
+      "name": "Tafielah",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "AT"
+      },
+      "countryName": "Jordan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Tafielah",
+      "lat": "30.75",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "17",
+      "lng": "36.07773",
+      "geonameId": 250092,
+      "toponymName": "Muḩāfaz̧at az Zarqā’",
+      "countryId": "248816",
+      "fcl": "A",
+      "population": 910800,
+      "countryCode": "JO",
+      "name": "Zarqa",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "AZ"
+      },
+      "countryName": "Jordan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Zarqa",
+      "lat": "32.08374",
+      "fcode": "ADM1"
+    }
+  ]
+}

@@ -1,0 +1,546 @@
+{
+  "totalResultsCount": 27,
+  "geonames": [
+    {
+      "adminCode1": "01",
+      "lng": "32.06068",
+      "geonameId": 710802,
+      "toponymName": "Cherkasy Oblast",
+      "countryId": "690791",
+      "fcl": "A",
+      "population": 1335064,
+      "countryCode": "UA",
+      "name": "Cherkasy Oblast",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "71"
+      },
+      "countryName": "Ukraine",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Cherkasy Oblast",
+      "lat": "49.44521",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "02",
+      "lng": "32",
+      "geonameId": 710734,
+      "toponymName": "Chernihivska Oblast",
+      "countryId": "690791",
+      "fcl": "A",
+      "population": 1156609,
+      "countryCode": "UA",
+      "name": "Chernihiv",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "74"
+      },
+      "countryName": "Ukraine",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Chernihiv",
+      "lat": "51.33333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "03",
+      "lng": "25.93263",
+      "geonameId": 710720,
+      "toponymName": "Chernivtsi Oblast",
+      "countryId": "690791",
+      "fcl": "A",
+      "population": 904374,
+      "countryCode": "UA",
+      "name": "Chernivtsi Oblast",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "77"
+      },
+      "countryName": "Ukraine",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Chernivtsi Oblast",
+      "lat": "48.29068",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "11",
+      "lng": "34",
+      "geonameId": 703883,
+      "toponymName": "Autonomous Republic of Crimea",
+      "countryId": "690791",
+      "fcl": "A",
+      "population": 1907106,
+      "countryCode": "UA",
+      "name": "Crimea",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "43"
+      },
+      "countryName": "Ukraine",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Crimea",
+      "lat": "45",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "04",
+      "lng": "35.03052",
+      "geonameId": 709929,
+      "toponymName": "Dnipropetrovsk Oblast",
+      "countryId": "690791",
+      "fcl": "A",
+      "population": 3206477,
+      "countryCode": "UA",
+      "name": "Dnipropetrovsk Oblast",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "12"
+      },
+      "countryName": "Ukraine",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Dnipropetrovsk Oblast",
+      "lat": "48.46681",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "05",
+      "lng": "37.66667",
+      "geonameId": 709716,
+      "toponymName": "Donetska Oblast",
+      "countryId": "690791",
+      "fcl": "A",
+      "population": 4622900,
+      "countryCode": "UA",
+      "name": "Donetsk Oblast",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "14"
+      },
+      "countryName": "Ukraine",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Donetsk Oblast",
+      "lat": "48",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "06",
+      "lng": "24.71374",
+      "geonameId": 707470,
+      "toponymName": "Ivano-Frankivsk Oblast",
+      "countryId": "690791",
+      "fcl": "A",
+      "population": 1373252,
+      "countryCode": "UA",
+      "name": "Ivano-Frankivsk Oblast",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "26"
+      },
+      "countryName": "Ukraine",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Ivano-Frankivsk Oblast",
+      "lat": "48.92319",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "07",
+      "lng": "36.5",
+      "geonameId": 706482,
+      "toponymName": "Kharkivska Oblast",
+      "countryId": "690791",
+      "fcl": "A",
+      "population": 2808701,
+      "countryCode": "UA",
+      "name": "Kharkiv Oblast",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "63"
+      },
+      "countryName": "Ukraine",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Kharkiv",
+      "lat": "49.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "08",
+      "lng": "32.61589",
+      "geonameId": 706442,
+      "toponymName": "Kherson Oblast",
+      "countryId": "690791",
+      "fcl": "A",
+      "population": 1037640,
+      "countryCode": "UA",
+      "name": "Kherson Oblast",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "65"
+      },
+      "countryName": "Ukraine",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Kherson Oblast",
+      "lat": "46.6406",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "09",
+      "lng": "26.9784",
+      "geonameId": 706370,
+      "toponymName": "Khmelnytskyy Oblast",
+      "countryId": "690791",
+      "fcl": "A",
+      "population": 1264705,
+      "countryCode": "UA",
+      "name": "Khmelnytskyy Oblast",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "68"
+      },
+      "countryName": "Ukraine",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Khmelnytskyy Oblast",
+      "lat": "49.41985",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "13",
+      "lng": "30.23163",
+      "geonameId": 703446,
+      "toponymName": "Kyiv Oblast",
+      "countryId": "690791",
+      "fcl": "A",
+      "population": 1727800,
+      "countryCode": "UA",
+      "name": "Kiev",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "32"
+      },
+      "countryName": "Ukraine",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Kiev",
+      "lat": "50.24018",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "10",
+      "lng": "32.266",
+      "geonameId": 705811,
+      "toponymName": "Kirovohrad Oblast",
+      "countryId": "690791",
+      "fcl": "A",
+      "population": 945549,
+      "countryCode": "UA",
+      "name": "Kirovohrad Oblast",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "35"
+      },
+      "countryName": "Ukraine",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Kirovohrad Oblast",
+      "lat": "48.51052",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "12",
+      "lng": "30.54896",
+      "geonameId": 703447,
+      "toponymName": "Misto Kyiv",
+      "countryId": "690791",
+      "fcl": "A",
+      "population": 2847200,
+      "countryCode": "UA",
+      "name": "Kyiv City",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "30"
+      },
+      "countryName": "Ukraine",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Kyiv City",
+      "lat": "50.4429",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "14",
+      "lng": "39",
+      "geonameId": 702657,
+      "toponymName": "Luhanska Oblast",
+      "countryId": "690791",
+      "fcl": "A",
+      "population": 2409000,
+      "countryCode": "UA",
+      "name": "Luhansk Oblast",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "09"
+      },
+      "countryName": "Ukraine",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Luhansk",
+      "lat": "49",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "15",
+      "lng": "23.91667",
+      "geonameId": 702549,
+      "toponymName": "Lvivska Oblast",
+      "countryId": "690791",
+      "fcl": "A",
+      "population": 2725900,
+      "countryCode": "UA",
+      "name": "Lviv Oblast",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "46"
+      },
+      "countryName": "Ukraine",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Lviv Oblast",
+      "lat": "49.75",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "16",
+      "lng": "31.99758",
+      "geonameId": 700567,
+      "toponymName": "Mykolayiv Oblast",
+      "countryId": "690791",
+      "fcl": "A",
+      "population": 1131096,
+      "countryCode": "UA",
+      "name": "Mykolayiv Oblast",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "48"
+      },
+      "countryName": "Ukraine",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Mykolayiv Oblast",
+      "lat": "46.97464",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "17",
+      "lng": "30.7484",
+      "geonameId": 698738,
+      "toponymName": "Odeska Oblast",
+      "countryId": "690791",
+      "fcl": "A",
+      "population": 2380308,
+      "countryCode": "UA",
+      "name": "Odessa",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "51"
+      },
+      "countryName": "Ukraine",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Odessa",
+      "lat": "46.4577",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "18",
+      "lng": "34.54301",
+      "geonameId": 696634,
+      "toponymName": "Poltava Oblast",
+      "countryId": "690791",
+      "fcl": "A",
+      "population": 1400439,
+      "countryCode": "UA",
+      "name": "Poltava Oblast",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "53"
+      },
+      "countryName": "Ukraine",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Poltava Oblast",
+      "lat": "49.59212",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "19",
+      "lng": "26.5",
+      "geonameId": 695592,
+      "toponymName": "Rivnenska Oblast",
+      "countryId": "690791",
+      "fcl": "A",
+      "population": 1154682,
+      "countryCode": "UA",
+      "name": "Rivne",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "56"
+      },
+      "countryName": "Ukraine",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Rivne",
+      "lat": "51",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "20",
+      "lng": "33.53851",
+      "geonameId": 694422,
+      "toponymName": "Sebastopol City",
+      "countryId": "690791",
+      "fcl": "A",
+      "population": 416263,
+      "countryCode": "UA",
+      "name": "Sevastopol City",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "40"
+      },
+      "countryName": "Ukraine",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Sevastopol City",
+      "lat": "44.55525",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "21",
+      "lng": "34",
+      "geonameId": 692196,
+      "toponymName": "Sumska Oblast",
+      "countryId": "690791",
+      "fcl": "A",
+      "population": 1221368,
+      "countryCode": "UA",
+      "name": "Sumy",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "59"
+      },
+      "countryName": "Ukraine",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Sumy",
+      "lat": "51",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "22",
+      "lng": "25.59154",
+      "geonameId": 691649,
+      "toponymName": "Ternopil Oblast",
+      "countryId": "690791",
+      "fcl": "A",
+      "population": 1045879,
+      "countryCode": "UA",
+      "name": "Ternopil Oblast",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "61"
+      },
+      "countryName": "Ukraine",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Ternopil Oblast",
+      "lat": "49.55579",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "25",
+      "lng": "22.28871",
+      "geonameId": 687869,
+      "toponymName": "Zakarpattia Oblast",
+      "countryId": "690791",
+      "fcl": "A",
+      "population": 1241887,
+      "numberOfChildren": 11,
+      "countryCode": "UA",
+      "name": "Transcarpathia",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "21"
+      },
+      "countryName": "Ukraine",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Transcarpathia",
+      "lat": "48.62645",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "23",
+      "lng": "28.46583",
+      "geonameId": 689559,
+      "toponymName": "Vinnytsya Oblast",
+      "countryId": "690791",
+      "fcl": "A",
+      "population": 1560394,
+      "countryCode": "UA",
+      "name": "Vinnytsya Oblast",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "05"
+      },
+      "countryName": "Ukraine",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Vinnytsya Oblast",
+      "lat": "49.23385",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "24",
+      "lng": "24.86667",
+      "geonameId": 689064,
+      "toponymName": "Volynska Oblast",
+      "countryId": "690791",
+      "fcl": "A",
+      "population": 1036891,
+      "countryCode": "UA",
+      "name": "Volyn",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "07"
+      },
+      "countryName": "Ukraine",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Volyn",
+      "lat": "51.16667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "26",
+      "lng": "35.14057",
+      "geonameId": 687699,
+      "toponymName": "Zaporizhzhya Oblast",
+      "countryId": "690791",
+      "fcl": "A",
+      "population": 1705836,
+      "countryCode": "UA",
+      "name": "Zaporizhzhya Oblast",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "23"
+      },
+      "countryName": "Ukraine",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Zaporizhzhya Oblast",
+      "lat": "47.83972",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "27",
+      "lng": "28.5",
+      "geonameId": 686966,
+      "toponymName": "Zhytomyrska Oblast",
+      "countryId": "690791",
+      "fcl": "A",
+      "population": 1328158,
+      "countryCode": "UA",
+      "name": "Zhytomyr",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "18"
+      },
+      "countryName": "Ukraine",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Zhytomyr",
+      "lat": "50.58333",
+      "fcode": "ADM1"
+    }
+  ]
+}

@@ -1,0 +1,365 @@
+{
+  "totalResultsCount": 18,
+  "geonames": [
+    {
+      "adminCode1": "09",
+      "lng": "29.4",
+      "geonameId": 428514,
+      "toponymName": "Bubanza Province",
+      "countryId": "433561",
+      "fcl": "A",
+      "population": 354427,
+      "countryCode": "BI",
+      "name": "Bubanza",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "BB"
+      },
+      "countryName": "Burundi",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Bubanza",
+      "lat": "-3.11667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "24",
+      "lng": "29.3547",
+      "geonameId": 7303939,
+      "toponymName": "Bujumbura Mairie Province",
+      "countryId": "433561",
+      "fcl": "A",
+      "population": 800000,
+      "countryCode": "BI",
+      "name": "Bujumbura Mairie",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "BM"
+      },
+      "countryName": "Burundi",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Bujumbura Mairie",
+      "lat": "-3.3802",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "25",
+      "lng": "29.46259",
+      "geonameId": 7303940,
+      "toponymName": "Bujumbura Rural Province",
+      "countryId": "433561",
+      "fcl": "A",
+      "population": 555933,
+      "countryCode": "BI",
+      "name": "Bujumbura Rural",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "BL"
+      },
+      "countryName": "Burundi",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Bujumbura Rural",
+      "lat": "-3.4627",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "10",
+      "lng": "29.63333",
+      "geonameId": 423327,
+      "toponymName": "Bururi Province",
+      "countryId": "433561",
+      "fcl": "A",
+      "population": 493490,
+      "countryCode": "BI",
+      "name": "Bururi",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "BR"
+      },
+      "countryName": "Burundi",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Bururi",
+      "lat": "-3.85",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "11",
+      "lng": "30.58333",
+      "geonameId": 427700,
+      "toponymName": "Cankuzo Province",
+      "countryId": "433561",
+      "fcl": "A",
+      "population": 202283,
+      "countryCode": "BI",
+      "name": "Cankuzo",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "CA"
+      },
+      "countryName": "Burundi",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Cankuzo",
+      "lat": "-3.13333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "12",
+      "lng": "29.25",
+      "geonameId": 430020,
+      "toponymName": "Cibitoke Province",
+      "countryId": "433561",
+      "fcl": "A",
+      "population": 490949,
+      "countryCode": "BI",
+      "name": "Cibitoke",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "CI"
+      },
+      "countryName": "Burundi",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Cibitoke",
+      "lat": "-2.88333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "13",
+      "lng": "29.95",
+      "geonameId": 426271,
+      "toponymName": "Gitega Province",
+      "countryId": "433561",
+      "fcl": "A",
+      "population": 675016,
+      "countryCode": "BI",
+      "name": "Gitega",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "GI"
+      },
+      "countryName": "Burundi",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Gitega",
+      "lat": "-3.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "14",
+      "lng": "30.13333",
+      "geonameId": 428218,
+      "toponymName": "Karuzi Province",
+      "countryId": "433561",
+      "fcl": "A",
+      "population": 479683,
+      "countryCode": "BI",
+      "name": "Karuzi",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "KR"
+      },
+      "countryName": "Burundi",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Karuzi",
+      "lat": "-3.125",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "15",
+      "lng": "29.66667",
+      "geonameId": 430951,
+      "toponymName": "Kayanza Province",
+      "countryId": "433561",
+      "fcl": "A",
+      "population": 486917,
+      "countryCode": "BI",
+      "name": "Kayanza",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "KY"
+      },
+      "countryName": "Burundi",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Kayanza",
+      "lat": "-3.06667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "16",
+      "lng": "30.16667",
+      "geonameId": 432455,
+      "toponymName": "Kirundo Province",
+      "countryId": "433561",
+      "fcl": "A",
+      "population": 602089,
+      "countryCode": "BI",
+      "name": "Kirundo",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "KI"
+      },
+      "countryName": "Burundi",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Kirundo",
+      "lat": "-2.58333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "17",
+      "lng": "29.75278",
+      "geonameId": 422233,
+      "toponymName": "Makamba Province",
+      "countryId": "433561",
+      "fcl": "A",
+      "population": 499682,
+      "countryCode": "BI",
+      "name": "Makamba",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "MA"
+      },
+      "countryName": "Burundi",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Makamba",
+      "lat": "-4.16667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "22",
+      "lng": "29.66667",
+      "geonameId": 425550,
+      "toponymName": "Muramvya Province",
+      "countryId": "433561",
+      "fcl": "A",
+      "population": 303482,
+      "countryCode": "BI",
+      "name": "Muramvya",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "MU"
+      },
+      "countryName": "Burundi",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Muramvya",
+      "lat": "-3.25",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "18",
+      "lng": "30.33333",
+      "geonameId": 431747,
+      "toponymName": "Muyinga Province",
+      "countryId": "433561",
+      "fcl": "A",
+      "population": 595947,
+      "countryCode": "BI",
+      "name": "Muyinga",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "MY"
+      },
+      "countryName": "Burundi",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Muyinga",
+      "lat": "-2.83333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "23",
+      "lng": "29.66667",
+      "geonameId": 434386,
+      "toponymName": "Province de Mwaro",
+      "countryId": "433561",
+      "fcl": "A",
+      "population": 274890,
+      "countryCode": "BI",
+      "name": "Mwaro",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "MW"
+      },
+      "countryName": "Burundi",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Mwaro",
+      "lat": "-3.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "19",
+      "lng": "29.925",
+      "geonameId": 430567,
+      "toponymName": "Ngozi Province",
+      "countryId": "433561",
+      "fcl": "A",
+      "population": 719158,
+      "countryCode": "BI",
+      "name": "Ngozi",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "NG"
+      },
+      "countryName": "Burundi",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Ngozi",
+      "lat": "-2.875",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "26",
+      "lng": "29.44765",
+      "geonameId": 11184798,
+      "toponymName": "Rumonge Province",
+      "countryId": "433561",
+      "fcl": "A",
+      "population": 35000,
+      "countryCode": "BI",
+      "name": "Rumonge",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "RM"
+      },
+      "countryName": "Burundi",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Rumonge",
+      "lat": "-3.96478",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "20",
+      "lng": "30.1",
+      "geonameId": 434147,
+      "toponymName": "Rutana Province",
+      "countryId": "433561",
+      "fcl": "A",
+      "population": 293572,
+      "countryCode": "BI",
+      "name": "Rutana",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "RT"
+      },
+      "countryName": "Burundi",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Rutana",
+      "lat": "-3.86667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "21",
+      "lng": "30.31667",
+      "geonameId": 426699,
+      "toponymName": "Ruyigi Province",
+      "countryId": "433561",
+      "fcl": "A",
+      "population": 369797,
+      "countryCode": "BI",
+      "name": "Ruyigi",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "RY"
+      },
+      "countryName": "Burundi",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Ruyigi",
+      "lat": "-3.45",
+      "fcode": "ADM1"
+    }
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "totalResultsCount": 10,
+  "geonames": [
+    {
+      "adminCode1": "10",
+      "lng": "27.91667",
+      "geonameId": 932932,
+      "toponymName": "Berea",
+      "countryId": "932692",
+      "fcl": "A",
+      "population": 66863,
+      "countryCode": "LS",
+      "name": "Berea",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "D"
+      },
+      "countryName": "Lesotho",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Berea",
+      "lat": "-29.16667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "11",
+      "lng": "28.56667",
+      "geonameId": 932888,
+      "toponymName": "Butha-Buthe",
+      "countryId": "932692",
+      "fcl": "A",
+      "population": 188480,
+      "countryCode": "LS",
+      "name": "Butha-Buthe",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "B"
+      },
+      "countryName": "Lesotho",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Butha-Buthe",
+      "lat": "-28.8",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "12",
+      "lng": "28.25266",
+      "geonameId": 932700,
+      "toponymName": "Leribe District",
+      "countryId": "932692",
+      "fcl": "A",
+      "population": 414314,
+      "countryCode": "LS",
+      "name": "Leribe",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "C"
+      },
+      "countryName": "Lesotho",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Leribe",
+      "lat": "-29.03651",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "13",
+      "lng": "27.50262",
+      "geonameId": 932615,
+      "toponymName": "Mafeteng District",
+      "countryId": "932692",
+      "fcl": "A",
+      "population": 351601,
+      "countryCode": "LS",
+      "name": "Mafeteng District",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "E"
+      },
+      "countryName": "Lesotho",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Mafeteng",
+      "lat": "-29.8041",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "14",
+      "lng": "27.83333",
+      "geonameId": 932506,
+      "toponymName": "Maseru",
+      "countryId": "932692",
+      "fcl": "A",
+      "population": 316155,
+      "countryCode": "LS",
+      "name": "Maseru",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "A"
+      },
+      "countryName": "Lesotho",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Maseru",
+      "lat": "-29.58333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "15",
+      "lng": "27.8",
+      "geonameId": 932439,
+      "toponymName": "Mohale’s Hoek District",
+      "countryId": "932692",
+      "fcl": "A",
+      "population": 174924,
+      "countryCode": "LS",
+      "name": "Mohale’s Hoek District",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "F"
+      },
+      "countryName": "Lesotho",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Mohaleʼs Hoek",
+      "lat": "-30.06667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "16",
+      "lng": "29.03333",
+      "geonameId": 932418,
+      "toponymName": "Mokhotlong",
+      "countryId": "932692",
+      "fcl": "A",
+      "population": 149044,
+      "countryCode": "LS",
+      "name": "Mokhotlong",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "J"
+      },
+      "countryName": "Lesotho",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Mokhotlong",
+      "lat": "-29.21667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "17",
+      "lng": "28.75",
+      "geonameId": 932219,
+      "toponymName": "Qacha’s Nek",
+      "countryId": "932692",
+      "fcl": "A",
+      "population": 71876,
+      "countryCode": "LS",
+      "name": "Qacha’s Nek",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "H"
+      },
+      "countryName": "Lesotho",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Qachaʼs Nek",
+      "lat": "-30",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "18",
+      "lng": "28",
+      "geonameId": 932184,
+      "toponymName": "Quthing",
+      "countryId": "932692",
+      "fcl": "A",
+      "population": 228800,
+      "countryCode": "LS",
+      "name": "Quthing",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "G"
+      },
+      "countryName": "Lesotho",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Quthing",
+      "lat": "-30.36667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "19",
+      "lng": "28.6",
+      "geonameId": 932011,
+      "toponymName": "Thaba-Tseka",
+      "countryId": "932692",
+      "fcl": "A",
+      "population": 158144,
+      "countryCode": "LS",
+      "name": "Thaba-Tseka",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "K"
+      },
+      "countryName": "Lesotho",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Thaba-Tseka",
+      "lat": "-29.56667",
+      "fcode": "ADM1"
+    }
+  ]
+}

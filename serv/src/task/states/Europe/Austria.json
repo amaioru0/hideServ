@@ -1,0 +1,185 @@
+{
+  "totalResultsCount": 9,
+  "geonames": [
+    {
+      "adminCode1": "01",
+      "lng": "16.41667",
+      "geonameId": 2781194,
+      "toponymName": "Burgenland",
+      "countryId": "2782113",
+      "fcl": "A",
+      "population": 281022,
+      "countryCode": "AT",
+      "name": "Burgenland",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "1"
+      },
+      "countryName": "Austria",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Burgenland",
+      "lat": "47.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "02",
+      "lng": "13.83333",
+      "geonameId": 2774686,
+      "toponymName": "Kärnten",
+      "countryId": "2782113",
+      "fcl": "A",
+      "population": 565762,
+      "countryCode": "AT",
+      "name": "Carinthia",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "2"
+      },
+      "countryName": "Austria",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Carinthia",
+      "lat": "46.75",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "03",
+      "lng": "15.75",
+      "geonameId": 2770542,
+      "toponymName": "Niederösterreich",
+      "countryId": "2782113",
+      "fcl": "A",
+      "population": 1576622,
+      "countryCode": "AT",
+      "name": "Lower Austria",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "3"
+      },
+      "countryName": "Austria",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Lower Austria",
+      "lat": "48.33333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "05",
+      "lng": "13.25",
+      "geonameId": 2766823,
+      "toponymName": "Salzburg",
+      "countryId": "2782113",
+      "fcl": "A",
+      "population": 533083,
+      "countryCode": "AT",
+      "name": "Salzburg",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "5"
+      },
+      "countryName": "Austria",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Salzburg",
+      "lat": "47.41667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "06",
+      "lng": "15.16667",
+      "geonameId": 2764581,
+      "toponymName": "Steiermark",
+      "countryId": "2782113",
+      "fcl": "A",
+      "population": 1185175,
+      "countryCode": "AT",
+      "name": "Styria",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "6"
+      },
+      "countryName": "Austria",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Styria",
+      "lat": "47.25",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "07",
+      "lng": "11.33333",
+      "geonameId": 2763586,
+      "toponymName": "Tirol",
+      "countryId": "2782113",
+      "fcl": "A",
+      "population": 692214,
+      "countryCode": "AT",
+      "name": "Tyrol",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "7"
+      },
+      "countryName": "Austria",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Tyrol",
+      "lat": "47.25",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "04",
+      "lng": "14",
+      "geonameId": 2769848,
+      "toponymName": "Oberösterreich",
+      "countryId": "2782113",
+      "fcl": "A",
+      "population": 1400851,
+      "countryCode": "AT",
+      "name": "Upper Austria",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "4"
+      },
+      "countryName": "Austria",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Upper Austria",
+      "lat": "48.25",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "09",
+      "lng": "16.37169",
+      "geonameId": 2761367,
+      "toponymName": "Wien",
+      "countryId": "2782113",
+      "fcl": "A",
+      "population": 1569316,
+      "countryCode": "AT",
+      "name": "Vienna",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "9"
+      },
+      "countryName": "Austria",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Vienna",
+      "lat": "48.2082",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "08",
+      "lng": "9.91667",
+      "geonameId": 2762300,
+      "toponymName": "Vorarlberg",
+      "countryId": "2782113",
+      "fcl": "A",
+      "population": 359737,
+      "countryCode": "AT",
+      "name": "Vorarlberg",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "8"
+      },
+      "countryName": "Austria",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Vorarlberg",
+      "lat": "47.25",
+      "fcode": "ADM1"
+    }
+  ]
+}

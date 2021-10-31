@@ -1,0 +1,105 @@
+{
+  "totalResultsCount": 5,
+  "geonames": [
+    {
+      "adminCode1": "04",
+      "lng": "68.77974",
+      "geonameId": 7280679,
+      "toponymName": "Dushanbe",
+      "countryId": "1220409",
+      "fcl": "A",
+      "population": 680000,
+      "countryCode": "TJ",
+      "name": "Dushanbe",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "DU"
+      },
+      "countryName": "Tajikistan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Dushanbe",
+      "lat": "38.5577",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "01",
+      "lng": "73",
+      "geonameId": 1221692,
+      "toponymName": "Gorno-Badakhshan",
+      "countryId": "1220409",
+      "fcl": "A",
+      "population": 225606,
+      "countryCode": "TJ",
+      "name": "Gorno-Badakhshan",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "GB"
+      },
+      "countryName": "Tajikistan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Gorno-Badakhshan",
+      "lat": "38",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "RR",
+      "lng": "70.18066",
+      "geonameId": 6452615,
+      "toponymName": "Districts of Republican Subordination",
+      "countryId": "1220409",
+      "fcl": "A",
+      "population": 1606900,
+      "countryCode": "TJ",
+      "name": "Republican Subordination",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "RA"
+      },
+      "countryName": "Tajikistan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Republican Subordination",
+      "lat": "38.86537",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "02",
+      "lng": "69",
+      "geonameId": 1347488,
+      "toponymName": "Viloyati Khatlon",
+      "countryId": "1220409",
+      "fcl": "A",
+      "population": 2337744,
+      "countryCode": "TJ",
+      "name": "Viloyati Khatlon",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "KT"
+      },
+      "countryName": "Tajikistan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Khatlon",
+      "lat": "37.83333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "03",
+      "lng": "69",
+      "geonameId": 1221092,
+      "toponymName": "Viloyati Sughd",
+      "countryId": "1220409",
+      "fcl": "A",
+      "population": 1989843,
+      "countryCode": "TJ",
+      "name": "Viloyati Sughd",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SU"
+      },
+      "countryName": "Tajikistan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Sughd",
+      "lat": "40",
+      "fcode": "ADM1"
+    }
+  ]
+}

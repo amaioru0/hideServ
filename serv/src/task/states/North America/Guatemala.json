@@ -1,0 +1,445 @@
+{
+  "totalResultsCount": 22,
+  "geonames": [
+    {
+      "adminCode1": "01",
+      "lng": "-90",
+      "geonameId": 3599773,
+      "toponymName": "Departamento de Alta Verapaz",
+      "countryId": "3595528",
+      "fcl": "A",
+      "population": 776246,
+      "countryCode": "GT",
+      "name": "Departamento de Alta Verapaz",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "AV"
+      },
+      "countryName": "Guatemala",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Alta Verapaz",
+      "lat": "15.66667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "02",
+      "lng": "-90.33333",
+      "geonameId": 3599602,
+      "toponymName": "Departamento de Baja Verapaz",
+      "countryId": "3595528",
+      "fcl": "A",
+      "population": 270521,
+      "countryCode": "GT",
+      "name": "Departamento de Baja Verapaz",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "BV"
+      },
+      "countryName": "Guatemala",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Baja Verapaz",
+      "lat": "15.08333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "03",
+      "lng": "-90.91667",
+      "geonameId": 3598571,
+      "toponymName": "Departamento de Chimaltenango",
+      "countryId": "3595528",
+      "fcl": "A",
+      "population": 648615,
+      "countryCode": "GT",
+      "name": "Departamento de Chimaltenango",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "CM"
+      },
+      "countryName": "Guatemala",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Chimaltenango",
+      "lat": "14.66667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "04",
+      "lng": "-89.41667",
+      "geonameId": 3598464,
+      "toponymName": "Departamento de Chiquimula",
+      "countryId": "3595528",
+      "fcl": "A",
+      "population": 79815,
+      "countryCode": "GT",
+      "name": "Departamento de Chiquimula",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "CQ"
+      },
+      "countryName": "Guatemala",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Chiquimula",
+      "lat": "14.66667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "05",
+      "lng": "-90",
+      "geonameId": 3596416,
+      "toponymName": "Departamento de El Progreso",
+      "countryId": "3595528",
+      "fcl": "A",
+      "population": 163537,
+      "countryCode": "GT",
+      "name": "Departamento de El Progreso",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "PR"
+      },
+      "countryName": "Guatemala",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "El Progreso",
+      "lat": "14.83333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "06",
+      "lng": "-91",
+      "geonameId": 3595802,
+      "toponymName": "Departamento de Escuintla",
+      "countryId": "3595528",
+      "fcl": "A",
+      "population": 538746,
+      "countryCode": "GT",
+      "name": "Departamento de Escuintla",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "ES"
+      },
+      "countryName": "Guatemala",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Escuintla",
+      "lat": "14.16667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "07",
+      "lng": "-90.5",
+      "geonameId": 3595530,
+      "toponymName": "Departamento de Guatemala",
+      "countryId": "3595528",
+      "fcl": "A",
+      "population": 2541581,
+      "countryCode": "GT",
+      "name": "Departamento de Guatemala",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "GU"
+      },
+      "countryName": "Guatemala",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Guatemala",
+      "lat": "14.66667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "08",
+      "lng": "-91.58333",
+      "geonameId": 3595415,
+      "toponymName": "Departamento de Huehuetenango",
+      "countryId": "3595528",
+      "fcl": "A",
+      "population": 846544,
+      "countryCode": "GT",
+      "name": "Departamento de Huehuetenango",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "HU"
+      },
+      "countryName": "Guatemala",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Huehuetenango",
+      "lat": "15.66667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "09",
+      "lng": "-89",
+      "geonameId": 3595259,
+      "toponymName": "Departamento de Izabal",
+      "countryId": "3595528",
+      "fcl": "A",
+      "population": 314306,
+      "countryCode": "GT",
+      "name": "Departamento de Izabal",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "IZ"
+      },
+      "countryName": "Guatemala",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Izabal",
+      "lat": "15.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "10",
+      "lng": "-89.91667",
+      "geonameId": 3595236,
+      "toponymName": "Departamento de Jalapa",
+      "countryId": "3595528",
+      "fcl": "A",
+      "population": 390500,
+      "countryCode": "GT",
+      "name": "Departamento de Jalapa",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "JA"
+      },
+      "countryName": "Guatemala",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Jalapa",
+      "lat": "14.58333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "11",
+      "lng": "-89.83333",
+      "geonameId": 3595067,
+      "toponymName": "Departamento de Jutiapa",
+      "countryId": "3595528",
+      "fcl": "A",
+      "population": 6398,
+      "countryCode": "GT",
+      "name": "Departamento de Jutiapa",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "JU"
+      },
+      "countryName": "Guatemala",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Jutiapa",
+      "lat": "14.16667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "13",
+      "lng": "-91.66667",
+      "geonameId": 3590978,
+      "toponymName": "Departamento de Quetzaltenango",
+      "countryId": "3595528",
+      "fcl": "A",
+      "population": 667139,
+      "countryCode": "GT",
+      "name": "Departamento de Quetzaltenango",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "QZ"
+      },
+      "countryName": "Guatemala",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Quetzaltenango",
+      "lat": "14.75",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "15",
+      "lng": "-91.83333",
+      "geonameId": 3590857,
+      "toponymName": "Departamento de Retalhuleu",
+      "countryId": "3595528",
+      "fcl": "A",
+      "population": 40000,
+      "countryCode": "GT",
+      "name": "Departamento de Retalhuleu",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "RE"
+      },
+      "countryName": "Guatemala",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Retalhuleu",
+      "lat": "14.33333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "16",
+      "lng": "-90.75",
+      "geonameId": 3590686,
+      "toponymName": "Departamento de Sacatepéquez",
+      "countryId": "3595528",
+      "fcl": "A",
+      "population": 56000,
+      "countryCode": "GT",
+      "name": "Departamento de Sacatepéquez",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SA"
+      },
+      "countryName": "Guatemala",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Sacatepéquez",
+      "lat": "14.58333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "17",
+      "lng": "-91.91667",
+      "geonameId": 3589801,
+      "toponymName": "Departamento de San Marcos",
+      "countryId": "3595528",
+      "fcl": "A",
+      "population": 794951,
+      "countryCode": "GT",
+      "name": "Departamento de San Marcos",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SM"
+      },
+      "countryName": "Guatemala",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "San Marcos",
+      "lat": "15",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "18",
+      "lng": "-90.3",
+      "geonameId": 3589172,
+      "toponymName": "Departamento de Santa Rosa",
+      "countryId": "3595528",
+      "fcl": "A",
+      "population": 301370,
+      "countryCode": "GT",
+      "name": "Departamento de Santa Rosa",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SR"
+      },
+      "countryName": "Guatemala",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Santa Rosa",
+      "lat": "14.16667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "19",
+      "lng": "-91.25",
+      "geonameId": 3588697,
+      "toponymName": "Departamento de Sololá",
+      "countryId": "3595528",
+      "fcl": "A",
+      "population": 307661,
+      "countryCode": "GT",
+      "name": "Departamento de Sololá",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SO"
+      },
+      "countryName": "Guatemala",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Sololá",
+      "lat": "14.66667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "21",
+      "lng": "-91.33333",
+      "geonameId": 3588257,
+      "toponymName": "Departamento de Totonicapán",
+      "countryId": "3595528",
+      "fcl": "A",
+      "population": 339254,
+      "countryCode": "GT",
+      "name": "Departamento de Totonicapán",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "TO"
+      },
+      "countryName": "Guatemala",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Totonicapán",
+      "lat": "15",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "22",
+      "lng": "-89.5",
+      "geonameId": 3587586,
+      "toponymName": "Departamento de Zacapa",
+      "countryId": "3595528",
+      "fcl": "A",
+      "population": 245374,
+      "countryCode": "GT",
+      "name": "Departamento de Zacapa",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "ZA"
+      },
+      "countryName": "Guatemala",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Zacapa",
+      "lat": "15",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "12",
+      "lng": "-90",
+      "geonameId": 3591410,
+      "toponymName": "Departamento del Petén",
+      "countryId": "3595528",
+      "fcl": "A",
+      "population": 366735,
+      "countryCode": "GT",
+      "name": "Departamento del Petén",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "PE"
+      },
+      "countryName": "Guatemala",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Petén",
+      "lat": "16.83333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "14",
+      "lng": "-90.91667",
+      "geonameId": 3590964,
+      "toponymName": "Departamento del Quiché",
+      "countryId": "3595528",
+      "fcl": "A",
+      "population": 955705,
+      "countryCode": "GT",
+      "name": "Departamento del Quiché",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "QC"
+      },
+      "countryName": "Guatemala",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Quiché",
+      "lat": "15.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "20",
+      "lng": "-91.43046",
+      "geonameId": 3588668,
+      "toponymName": "Departamento de Suchitepéquez",
+      "countryId": "3595528",
+      "fcl": "A",
+      "population": 554695,
+      "countryCode": "GT",
+      "name": "Suchitepeque",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SU"
+      },
+      "countryName": "Guatemala",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Suchitepeque",
+      "lat": "14.38084",
+      "fcode": "ADM1"
+    }
+  ]
+}

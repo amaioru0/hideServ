@@ -1,0 +1,445 @@
+{
+  "totalResultsCount": 22,
+  "geonames": [
+    {
+      "adminCode1": "79",
+      "lng": "24.03333",
+      "geonameId": 7602688,
+      "toponymName": "Al Buţnān",
+      "countryId": "2215636",
+      "fcl": "A",
+      "population": 159536,
+      "countryCode": "LY",
+      "name": "Al Buţnān",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "BU"
+      },
+      "countryName": "Libya",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Al Buţnān",
+      "lat": "29.93333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "63",
+      "lng": "21.81667",
+      "geonameId": 443289,
+      "toponymName": "Al Jabal al Akhḑar",
+      "countryId": "2215636",
+      "fcl": "A",
+      "population": 206180,
+      "countryCode": "LY",
+      "name": "Al Jabal al Akhḑar",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "JA"
+      },
+      "countryName": "Libya",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Al Jabal al Akhḑar",
+      "lat": "32.15",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "81",
+      "lng": "12.91667",
+      "geonameId": 7602690,
+      "toponymName": "Al Jafārah",
+      "countryId": "2215636",
+      "fcl": "A",
+      "population": 451175,
+      "countryCode": "LY",
+      "name": "Al Jafārah",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "JI"
+      },
+      "countryName": "Libya",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Al Jafārah",
+      "lat": "32.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "64",
+      "lng": "17.05",
+      "geonameId": 2219944,
+      "toponymName": "Al Jufrah",
+      "countryId": "2215636",
+      "fcl": "A",
+      "population": 47538,
+      "countryCode": "LY",
+      "name": "Al Jufrah",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "JU"
+      },
+      "countryName": "Libya",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Al Jufrah",
+      "lat": "27.73333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "65",
+      "lng": "22.21667",
+      "geonameId": 88932,
+      "toponymName": "Al Kufrah",
+      "countryId": "2215636",
+      "fcl": "A",
+      "population": 55690,
+      "countryCode": "LY",
+      "name": "Al Kufrah",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "KF"
+      },
+      "countryName": "Libya",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Al Kufrah",
+      "lat": "23.76667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "66",
+      "lng": "21.2",
+      "geonameId": 88904,
+      "toponymName": "Al Marj",
+      "countryId": "2215636",
+      "fcl": "A",
+      "population": 85315,
+      "countryCode": "LY",
+      "name": "Al Marj",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "MJ"
+      },
+      "countryName": "Libya",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Al Marj",
+      "lat": "31.78333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "82",
+      "lng": "14.16667",
+      "geonameId": 7602691,
+      "toponymName": "Al Marqab",
+      "countryId": "2215636",
+      "fcl": "A",
+      "population": 432202,
+      "countryCode": "LY",
+      "name": "Al Marqab",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "MB"
+      },
+      "countryName": "Libya",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Al Marqab",
+      "lat": "32.16667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "83",
+      "lng": "21.38333",
+      "geonameId": 7602692,
+      "toponymName": "Al Wāḩāt",
+      "countryId": "2215636",
+      "fcl": "A",
+      "population": 179155,
+      "countryCode": "LY",
+      "name": "Al Wāḩāt",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "WA"
+      },
+      "countryName": "Libya",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Al Wāḩāt",
+      "lat": "28.66667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "67",
+      "lng": "11.9",
+      "geonameId": 2593778,
+      "toponymName": "An Nuqāţ al Khams",
+      "countryId": "2215636",
+      "fcl": "A",
+      "population": 287662,
+      "countryCode": "LY",
+      "name": "An Nuqāţ al Khams",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "NQ"
+      },
+      "countryName": "Libya",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "An Nuqāţ al Khams",
+      "lat": "32.63333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "68",
+      "lng": "12.51667",
+      "geonameId": 2218972,
+      "toponymName": "Az Zāwiyah",
+      "countryId": "2215636",
+      "fcl": "A",
+      "population": 290993,
+      "countryCode": "LY",
+      "name": "Az Zāwiyah",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "ZA"
+      },
+      "countryName": "Libya",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Az Zāwiyah",
+      "lat": "32.46667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "70",
+      "lng": "22.66667",
+      "geonameId": 87204,
+      "toponymName": "Darnah",
+      "countryId": "2215636",
+      "fcl": "A",
+      "population": 163351,
+      "countryCode": "LY",
+      "name": "Darnah",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "DR"
+      },
+      "countryName": "Libya",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Darnah",
+      "lat": "31.83333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "71",
+      "lng": "10.58333",
+      "geonameId": 2217350,
+      "toponymName": "Ghāt",
+      "countryId": "2215636",
+      "fcl": "A",
+      "population": 23518,
+      "countryCode": "LY",
+      "name": "Ghāt",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "GT"
+      },
+      "countryName": "Libya",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Ghāt",
+      "lat": "25.91667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "80",
+      "lng": "13",
+      "geonameId": 7602689,
+      "toponymName": "Jabal al Gharbi District",
+      "countryId": "2215636",
+      "fcl": "A",
+      "population": 304159,
+      "countryCode": "LY",
+      "name": "Jabal al Gharbi",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "JG"
+      },
+      "countryName": "Libya",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Jabal al Gharbi",
+      "lat": "30.46666",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "73",
+      "lng": "15.6",
+      "geonameId": 2214602,
+      "toponymName": "Murzuq",
+      "countryId": "2215636",
+      "fcl": "A",
+      "population": 78621,
+      "countryCode": "LY",
+      "name": "Murzuq",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "MQ"
+      },
+      "countryName": "Libya",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Murzuq",
+      "lat": "24.6",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "74",
+      "lng": "10.83333",
+      "geonameId": 2214432,
+      "toponymName": "Nālūt",
+      "countryId": "2215636",
+      "fcl": "A",
+      "population": 93848,
+      "countryCode": "LY",
+      "name": "Nālūt",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "NL"
+      },
+      "countryName": "Libya",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Nālūt",
+      "lat": "30.18333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "75",
+      "lng": "14.96667",
+      "geonameId": 2212774,
+      "toponymName": "Sabhā",
+      "countryId": "2215636",
+      "fcl": "A",
+      "population": 134162,
+      "countryCode": "LY",
+      "name": "Sabhā",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SB"
+      },
+      "countryName": "Libya",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Sabhā",
+      "lat": "26.9",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "69",
+      "lng": "20.18738",
+      "geonameId": 88318,
+      "toponymName": "Sha‘bīyat Banghāzī",
+      "countryId": "2215636",
+      "fcl": "A",
+      "population": 1110000,
+      "countryCode": "LY",
+      "name": "Sha‘bīyat Banghāzī",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "BA"
+      },
+      "countryName": "Libya",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Banghāzī",
+      "lat": "32.08723",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "72",
+      "lng": "15.07324",
+      "geonameId": 2214845,
+      "toponymName": "Sha‘bīyat Mişrātah",
+      "countryId": "2215636",
+      "fcl": "A",
+      "population": 550938,
+      "countryCode": "LY",
+      "name": "Sha‘bīyat Mişrātah",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "MI"
+      },
+      "countryName": "Libya",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Mişrātah",
+      "lat": "32.31035",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "76",
+      "lng": "16.85",
+      "geonameId": 2210553,
+      "toponymName": "Surt",
+      "countryId": "2215636",
+      "fcl": "A",
+      "population": 170763,
+      "countryCode": "LY",
+      "name": "Surt",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SR"
+      },
+      "countryName": "Libya",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Surt",
+      "lat": "30.03333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "77",
+      "lng": "13.4",
+      "geonameId": 2210245,
+      "toponymName": "Tripoli",
+      "countryId": "2215636",
+      "fcl": "A",
+      "population": 1065405,
+      "countryCode": "LY",
+      "name": "Tripoli",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "TB"
+      },
+      "countryName": "Libya",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Tripoli",
+      "lat": "32.56667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "84",
+      "lng": "12.7",
+      "geonameId": 7602693,
+      "toponymName": "Wādī al Ḩayāt",
+      "countryId": "2215636",
+      "fcl": "A",
+      "population": 76858,
+      "countryCode": "LY",
+      "name": "Wādī al Ḩayāt",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "WD"
+      },
+      "countryName": "Libya",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Wādī al Ḩayāt",
+      "lat": "26.31667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "78",
+      "lng": "12.73333",
+      "geonameId": 2219413,
+      "toponymName": "Wādī ash Shāţi’",
+      "countryId": "2215636",
+      "fcl": "A",
+      "population": 78532,
+      "countryCode": "LY",
+      "name": "Wādī ash Shāţi’",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "WS"
+      },
+      "countryName": "Libya",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Ash Shāţiʼ",
+      "lat": "27.8",
+      "fcode": "ADM1"
+    }
+  ]
+}

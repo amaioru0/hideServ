@@ -1,0 +1,325 @@
+{
+  "totalResultsCount": 16,
+  "geonames": [
+    {
+      "adminCode1": "01",
+      "lng": "26",
+      "geonameId": 933851,
+      "toponymName": "Central District",
+      "countryId": "933860",
+      "fcl": "A",
+      "population": 188174,
+      "countryCode": "BW",
+      "name": "Central",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "CE"
+      },
+      "countryName": "Botswana",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Central",
+      "lat": "-22",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "12",
+      "lng": "25",
+      "geonameId": 933840,
+      "toponymName": "Chobe District",
+      "countryId": "933860",
+      "fcl": "A",
+      "population": 19908,
+      "countryCode": "BW",
+      "name": "Chobe District",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "CH"
+      },
+      "countryName": "Botswana",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Chobe",
+      "lat": "-18.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "13",
+      "lng": "27.50778",
+      "geonameId": 11778168,
+      "toponymName": "City of Francistown",
+      "countryId": "933860",
+      "fcl": "A",
+      "population": 150800,
+      "countryCode": "BW",
+      "name": "City of Francistown",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "FR"
+      },
+      "countryName": "Botswana",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "City of Francistown",
+      "lat": "-21.17",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "14",
+      "lng": "25.91194",
+      "geonameId": 11778169,
+      "toponymName": "Gaborone",
+      "countryId": "933860",
+      "fcl": "A",
+      "population": 231626,
+      "countryCode": "BW",
+      "name": "Gaborone",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "GA"
+      },
+      "countryName": "Botswana",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Gaborone",
+      "lat": "-24.64639",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "03",
+      "lng": "22",
+      "geonameId": 933758,
+      "toponymName": "Ghanzi District",
+      "countryId": "933860",
+      "fcl": "A",
+      "population": 36675,
+      "countryCode": "BW",
+      "name": "Ghanzi",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "GH"
+      },
+      "countryName": "Botswana",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Ghanzi",
+      "lat": "-22",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "15",
+      "lng": "24.72806",
+      "geonameId": 11778170,
+      "toponymName": "Jwaneng",
+      "countryId": "933860",
+      "fcl": "A",
+      "population": 18063,
+      "countryCode": "BW",
+      "name": "Jwaneng",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "JW"
+      },
+      "countryName": "Botswana",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Jwaneng",
+      "lat": "-24.60167",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "04",
+      "lng": "22",
+      "geonameId": 933657,
+      "toponymName": "Kgalagadi District",
+      "countryId": "933860",
+      "fcl": "A",
+      "population": 42049,
+      "countryCode": "BW",
+      "name": "Kgalagadi",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "KG"
+      },
+      "countryName": "Botswana",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Kgalagadi",
+      "lat": "-25",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "05",
+      "lng": "26.5",
+      "geonameId": 933654,
+      "toponymName": "Kgatleng District",
+      "countryId": "933860",
+      "fcl": "A",
+      "population": 79665,
+      "countryCode": "BW",
+      "name": "Kgatleng",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "KL"
+      },
+      "countryName": "Botswana",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Kgatleng",
+      "lat": "-24.25",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "06",
+      "lng": "25",
+      "geonameId": 933562,
+      "toponymName": "Kweneng District",
+      "countryId": "933860",
+      "fcl": "A",
+      "population": 230335,
+      "countryCode": "BW",
+      "name": "Kweneng",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "KW"
+      },
+      "countryName": "Botswana",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Kweneng",
+      "lat": "-24",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "16",
+      "lng": "25.68083",
+      "geonameId": 11778171,
+      "toponymName": "Lobatse",
+      "countryId": "933860",
+      "fcl": "A",
+      "population": 30000,
+      "countryCode": "BW",
+      "name": "Lobatse",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "LO"
+      },
+      "countryName": "Botswana",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Lobatse",
+      "lat": "-25.21417",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "10",
+      "lng": "25",
+      "geonameId": 933043,
+      "toponymName": "Southern District",
+      "countryId": "933860",
+      "fcl": "A",
+      "population": 179888,
+      "countryCode": "BW",
+      "name": "Ngwaketsi",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SO"
+      },
+      "countryName": "Botswana",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Ngwaketsi",
+      "lat": "-25",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "08",
+      "lng": "27.5",
+      "geonameId": 933210,
+      "toponymName": "North East District",
+      "countryId": "933860",
+      "fcl": "A",
+      "population": 89979,
+      "countryCode": "BW",
+      "name": "North-East",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "NE"
+      },
+      "countryName": "Botswana",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "North-East",
+      "lat": "-21",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "11",
+      "lng": "22.5",
+      "geonameId": 933230,
+      "toponymName": "North West District",
+      "countryId": "933860",
+      "fcl": "A",
+      "population": 81978,
+      "countryCode": "BW",
+      "name": "North-West",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "NW"
+      },
+      "countryName": "Botswana",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "North-West",
+      "lat": "-20",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "17",
+      "lng": "27.83472",
+      "geonameId": 11778172,
+      "toponymName": "Selibe Phikwe",
+      "countryId": "933860",
+      "fcl": "A",
+      "population": 49724,
+      "countryCode": "BW",
+      "name": "Selibe Phikwe",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SP"
+      },
+      "countryName": "Botswana",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Selibe Phikwe",
+      "lat": "-21.97583",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "09",
+      "lng": "25.75",
+      "geonameId": 933044,
+      "toponymName": "South East District",
+      "countryId": "933860",
+      "fcl": "A",
+      "population": 276319,
+      "countryCode": "BW",
+      "name": "South-East",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SE"
+      },
+      "countryName": "Botswana",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "South-East",
+      "lat": "-25",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "18",
+      "lng": "26.22444",
+      "geonameId": 11778173,
+      "toponymName": "Sowa Town",
+      "countryId": "933860",
+      "fcl": "A",
+      "population": 2879,
+      "countryCode": "BW",
+      "name": "Sowa Town",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "ST"
+      },
+      "countryName": "Botswana",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Sowa Town",
+      "lat": "-20.56361",
+      "fcode": "ADM1"
+    }
+  ]
+}

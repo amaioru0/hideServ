@@ -1,0 +1,165 @@
+{
+  "totalResultsCount": 8,
+  "geonames": [
+    {
+      "adminCode1": "01",
+      "lng": "10.25",
+      "geonameId": 2448083,
+      "toponymName": "Agadez",
+      "countryId": "2440476",
+      "fcl": "A",
+      "population": 511188,
+      "countryCode": "NE",
+      "name": "Agadez",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "1"
+      },
+      "countryName": "Niger",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Agadez",
+      "lat": "19.75",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "02",
+      "lng": "13.5",
+      "geonameId": 2445702,
+      "toponymName": "Diffa",
+      "countryId": "2440476",
+      "fcl": "A",
+      "population": 489531,
+      "countryCode": "NE",
+      "name": "Diffa",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "2"
+      },
+      "countryName": "Niger",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Diffa",
+      "lat": "16",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "03",
+      "lng": "3.6",
+      "geonameId": 2445486,
+      "toponymName": "Dosso Region",
+      "countryId": "2440476",
+      "fcl": "A",
+      "population": 2078339,
+      "countryCode": "NE",
+      "name": "Dosso Region",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "3"
+      },
+      "countryName": "Niger",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Dosso",
+      "lat": "13.2",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "04",
+      "lng": "7.25",
+      "geonameId": 2441289,
+      "toponymName": "Maradi",
+      "countryId": "2440476",
+      "fcl": "A",
+      "population": 3117810,
+      "countryCode": "NE",
+      "name": "Maradi",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "4"
+      },
+      "countryName": "Niger",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Maradi",
+      "lat": "14.25",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "08",
+      "lng": "2.10528",
+      "geonameId": 2595294,
+      "toponymName": "Niamey",
+      "countryId": "2440476",
+      "fcl": "A",
+      "population": 1302910,
+      "countryCode": "NE",
+      "name": "Niamey",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "8"
+      },
+      "countryName": "Niger",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Niamey",
+      "lat": "13.52139",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "06",
+      "lng": "5.5",
+      "geonameId": 2439374,
+      "toponymName": "Tahoua",
+      "countryId": "2440476",
+      "fcl": "A",
+      "population": 2741922,
+      "countryCode": "NE",
+      "name": "Tahoua",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "5"
+      },
+      "countryName": "Niger",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Tahoua",
+      "lat": "16",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "09",
+      "lng": "2.08333",
+      "geonameId": 2595293,
+      "toponymName": "Tillaberi Region",
+      "countryId": "2440476",
+      "fcl": "A",
+      "population": 2572125,
+      "countryCode": "NE",
+      "name": "Tillaberi Region",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "6"
+      },
+      "countryName": "Niger",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Tillabéri",
+      "lat": "14.33333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "07",
+      "lng": "10.5",
+      "geonameId": 2437797,
+      "toponymName": "Zinder",
+      "countryId": "2440476",
+      "fcl": "A",
+      "population": 2916929,
+      "countryCode": "NE",
+      "name": "Zinder",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "7"
+      },
+      "countryName": "Niger",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Zinder",
+      "lat": "15",
+      "fcode": "ADM1"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "totalResultsCount": 1,
+  "geonames": [
+    {
+      "adminCode1": "MQ",
+      "lng": "-60.99961",
+      "geonameId": 6690603,
+      "toponymName": "Martinique",
+      "countryId": "3570311",
+      "fcl": "A",
+      "population": 397730,
+      "countryCode": "MQ",
+      "name": "Martinique",
+      "fclName": "country, state, region,...",
+      "countryName": "Martinique",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Martinique",
+      "lat": "14.66655",
+      "fcode": "ADM1"
+    }
+  ]
+}

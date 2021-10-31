@@ -1,0 +1,85 @@
+{
+  "totalResultsCount": 4,
+  "geonames": [
+    {
+      "adminCode1": "085",
+      "lng": "145.771",
+      "geonameId": 7733156,
+      "toponymName": "Northern Islands Municipality",
+      "countryId": "4041468",
+      "fcl": "A",
+      "population": 85,
+      "countryCode": "MP",
+      "name": "Northern Islands",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "N"
+      },
+      "countryName": "Northern Mariana Islands",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Northern Islands",
+      "lat": "18.11",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "100",
+      "lng": "145.201",
+      "geonameId": 4041530,
+      "toponymName": "Rota Municipality",
+      "countryId": "4041468",
+      "fcl": "A",
+      "population": 2527,
+      "countryCode": "MP",
+      "name": "Rota",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "R"
+      },
+      "countryName": "Northern Mariana Islands",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Rota",
+      "lat": "14.154",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "110",
+      "lng": "145.74081",
+      "geonameId": 4041552,
+      "toponymName": "Saipan Municipality",
+      "countryId": "4041468",
+      "fcl": "A",
+      "population": 48220,
+      "countryCode": "MP",
+      "name": "Saipan",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "S"
+      },
+      "countryName": "Northern Mariana Islands",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Saipan",
+      "lat": "15.16847",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "120",
+      "lng": "145.616",
+      "geonameId": 4041650,
+      "toponymName": "Tinian Municipality",
+      "countryId": "4041468",
+      "fcl": "A",
+      "population": 3540,
+      "countryCode": "MP",
+      "name": "Tinian",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "T"
+      },
+      "countryName": "Northern Mariana Islands",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Tinian",
+      "lat": "15.029",
+      "fcode": "ADM1"
+    }
+  ]
+}

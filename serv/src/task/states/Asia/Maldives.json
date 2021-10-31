@@ -1,0 +1,425 @@
+{
+  "totalResultsCount": 21,
+  "geonames": [
+    {
+      "adminCode1": "01",
+      "lng": "73.16841",
+      "geonameId": 1281893,
+      "toponymName": "Addu Atoll",
+      "countryId": "1282028",
+      "fcl": "A",
+      "population": 18941,
+      "countryCode": "MV",
+      "name": "Addu Atoll",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "01"
+      },
+      "countryName": "Maldives",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Seenu",
+      "lat": "-0.68694",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "31",
+      "lng": "72.97312",
+      "geonameId": 1282478,
+      "toponymName": "Baa Atholhu",
+      "countryId": "1282028",
+      "fcl": "A",
+      "population": 11910,
+      "countryCode": "MV",
+      "name": "Baa Atholhu",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "20"
+      },
+      "countryName": "Maldives",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Baa Atholhu",
+      "lat": "4.89104",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "32",
+      "lng": "73.012",
+      "geonameId": 1282447,
+      "toponymName": "Dhaalu Atholhu",
+      "countryId": "1282028",
+      "fcl": "A",
+      "population": 6694,
+      "countryCode": "MV",
+      "name": "Dhaalu Atholhu",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "17"
+      },
+      "countryName": "Maldives",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Dhaalu Atholhu",
+      "lat": "2.94875",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "33",
+      "lng": "72.97933",
+      "geonameId": 1282393,
+      "toponymName": "Faafu Atholhu",
+      "countryId": "1282028",
+      "fcl": "A",
+      "population": 4641,
+      "countryCode": "MV",
+      "name": "Faafu Atholhu",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "14"
+      },
+      "countryName": "Maldives",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Faafu Atholhu",
+      "lat": "3.10609",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "34",
+      "lng": "73.50921",
+      "geonameId": 1282329,
+      "toponymName": "Gaafu Alifu Atholhu",
+      "countryId": "1282028",
+      "fcl": "A",
+      "population": 12116,
+      "countryCode": "MV",
+      "name": "Gaafu Alif Atoll",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "27"
+      },
+      "countryName": "Maldives",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Gaafu Alif Atoll",
+      "lat": "0.38569",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "35",
+      "lng": "73.10162",
+      "geonameId": 1282328,
+      "toponymName": "Gaafu Dhaalu Atholhu",
+      "countryId": "1282028",
+      "fcl": "A",
+      "population": 18485,
+      "countryCode": "MV",
+      "name": "Gaafu Dhaalu Atoll",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "28"
+      },
+      "countryName": "Maldives",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Gaafu Dhaalu Atoll",
+      "lat": "0.22028",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "42",
+      "lng": "73.42491",
+      "geonameId": 1281945,
+      "toponymName": "Gnaviyani Atoll",
+      "countryId": "1282028",
+      "fcl": "A",
+      "population": 11140,
+      "countryCode": "MV",
+      "name": "Gnyaviyani Atoll",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "29"
+      },
+      "countryName": "Maldives",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Gnyaviyani Atoll",
+      "lat": "-0.29693",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "36",
+      "lng": "72.97981",
+      "geonameId": 1282294,
+      "toponymName": "Haa Alifu Atholhu",
+      "countryId": "1282028",
+      "fcl": "A",
+      "population": 22737,
+      "countryCode": "MV",
+      "name": "Haa Alifu Atholhu",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "07"
+      },
+      "countryName": "Maldives",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Haa Alifu Atholhu",
+      "lat": "7.0218",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "37",
+      "lng": "73.18859",
+      "geonameId": 1282293,
+      "toponymName": "Haa Dhaalu Atholhu",
+      "countryId": "1282028",
+      "fcl": "A",
+      "population": 23875,
+      "countryCode": "MV",
+      "name": "Haa Dhaalu Atholhu",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "23"
+      },
+      "countryName": "Maldives",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Haa Dhaalu Atholhu",
+      "lat": "6.82625",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "38",
+      "lng": "73.49918",
+      "geonameId": 1282208,
+      "toponymName": "Kaafu Atoll",
+      "countryId": "1282028",
+      "fcl": "A",
+      "population": 15169,
+      "countryCode": "MV",
+      "name": "Kaafu Atoll",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "26"
+      },
+      "countryName": "Maldives",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Kaafu Atoll",
+      "lat": "4.16958",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "05",
+      "lng": "73.57291",
+      "geonameId": 1282101,
+      "toponymName": "Laamu Atholhu",
+      "countryId": "1282028",
+      "fcl": "A",
+      "population": 12869,
+      "countryCode": "MV",
+      "name": "Laamu Atholhu",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "05"
+      },
+      "countryName": "Maldives",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Laamu",
+      "lat": "2.10347",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "39",
+      "lng": "73.58416",
+      "geonameId": 1282096,
+      "toponymName": "Lhaviyani Atholhu",
+      "countryId": "1282028",
+      "fcl": "A",
+      "population": 11104,
+      "countryCode": "MV",
+      "name": "Lhaviyani Atholhu",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "03"
+      },
+      "countryName": "Maldives",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Lhaviyani Atholhu",
+      "lat": "5.28055",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "40",
+      "lng": "73.50833",
+      "geonameId": 1337624,
+      "toponymName": "Maale",
+      "countryId": "1282028",
+      "fcl": "A",
+      "population": 105000,
+      "countryCode": "MV",
+      "name": "Male",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "MLE"
+      },
+      "countryName": "Maldives",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Male",
+      "lat": "4.175",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "41",
+      "lng": "73.35194",
+      "geonameId": 1281985,
+      "toponymName": "Meemu Atholhu",
+      "countryId": "1282028",
+      "fcl": "A",
+      "population": 6459,
+      "countryCode": "MV",
+      "name": "Meemu Atholhu",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "12"
+      },
+      "countryName": "Maldives",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Meemu Atholhu",
+      "lat": "2.77528",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "43",
+      "lng": "73.38873",
+      "geonameId": 1281937,
+      "toponymName": "Noonu Atoll",
+      "countryId": "1282028",
+      "fcl": "A",
+      "population": 14502,
+      "countryCode": "MV",
+      "name": "Noonu Atoll",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "25"
+      },
+      "countryName": "Maldives",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Noonu Atoll",
+      "lat": "5.96486",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "30",
+      "lng": "72.96933",
+      "geonameId": 1282497,
+      "toponymName": "Alifu Atholhu",
+      "countryId": "1282028",
+      "fcl": "A",
+      "population": 6140,
+      "countryCode": "MV",
+      "name": "Northern Ari Atoll",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "02"
+      },
+      "countryName": "Maldives",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Northern Ari Atoll",
+      "lat": "4.265",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "44",
+      "lng": "72.98495",
+      "geonameId": 1281918,
+      "toponymName": "Raa Atholhu",
+      "countryId": "1282028",
+      "fcl": "A",
+      "population": 24500,
+      "countryCode": "MV",
+      "name": "Raa Atoll",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "13"
+      },
+      "countryName": "Maldives",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Raa Atoll",
+      "lat": "5.76347",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "45",
+      "lng": "73.19763",
+      "geonameId": 1281892,
+      "toponymName": "Shaviyani Atholhu",
+      "countryId": "1282028",
+      "fcl": "A",
+      "population": 16542,
+      "countryCode": "MV",
+      "name": "Shaviyani Atholhu",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "24"
+      },
+      "countryName": "Maldives",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Shaviyani Atholhu",
+      "lat": "6.32125",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "10346475",
+      "lng": "72.83",
+      "geonameId": 10346475,
+      "toponymName": "Southern Ari Atoll",
+      "countryId": "1282028",
+      "fcl": "A",
+      "population": 8145,
+      "countryCode": "MV",
+      "name": "Southern Ari Atoll",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "00"
+      },
+      "countryName": "Maldives",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Southern Ari Atoll",
+      "lat": "3.65",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "46",
+      "lng": "73.11791",
+      "geonameId": 1281881,
+      "toponymName": "Thaa Atholhu",
+      "countryId": "1282028",
+      "fcl": "A",
+      "population": 13846,
+      "countryCode": "MV",
+      "name": "Thaa Atholhu",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "08"
+      },
+      "countryName": "Maldives",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Thaa Atholhu",
+      "lat": "2.1943",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "47",
+      "lng": "73.58535",
+      "geonameId": 1281843,
+      "toponymName": "Vaavu Atholhu",
+      "countryId": "1282028",
+      "fcl": "A",
+      "population": 2144,
+      "countryCode": "MV",
+      "name": "Vaavu Atholhu",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "04"
+      },
+      "countryName": "Maldives",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Vaavu Atholhu",
+      "lat": "3.37014",
+      "fcode": "ADM1"
+    }
+  ]
+}

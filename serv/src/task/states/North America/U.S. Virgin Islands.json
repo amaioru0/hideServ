@@ -1,0 +1,65 @@
+{
+  "totalResultsCount": 3,
+  "geonames": [
+    {
+      "adminCode1": "010",
+      "lng": "-64.74795",
+      "geonameId": 7267902,
+      "toponymName": "Saint Croix Island",
+      "countryId": "4796775",
+      "fcl": "A",
+      "population": 50601,
+      "countryCode": "VI",
+      "name": "Saint Croix Island",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "C"
+      },
+      "countryName": "U.S. Virgin Islands",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Saint Croix Island",
+      "lat": "17.73563",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "020",
+      "lng": "-64.73771",
+      "geonameId": 7267903,
+      "toponymName": "Saint John Island",
+      "countryId": "4796775",
+      "fcl": "A",
+      "population": 4170,
+      "countryCode": "VI",
+      "name": "Saint John Island",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "J"
+      },
+      "countryName": "U.S. Virgin Islands",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Saint John Island",
+      "lat": "18.32758",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "030",
+      "lng": "-64.92755",
+      "geonameId": 7267904,
+      "toponymName": "Saint Thomas Island",
+      "countryId": "4796775",
+      "fcl": "A",
+      "population": 51634,
+      "countryCode": "VI",
+      "name": "Saint Thomas Island",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "T"
+      },
+      "countryName": "U.S. Virgin Islands",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Saint Thomas Island",
+      "lat": "18.34537",
+      "fcode": "ADM1"
+    }
+  ]
+}

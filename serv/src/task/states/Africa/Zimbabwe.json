@@ -1,0 +1,205 @@
+{
+  "totalResultsCount": 10,
+  "geonames": [
+    {
+      "adminCode1": "09",
+      "lng": "28.55",
+      "geonameId": 1105843,
+      "toponymName": "Bulawayo Province",
+      "countryId": "878675",
+      "fcl": "A",
+      "population": 650000,
+      "countryCode": "ZW",
+      "name": "Bulawayo",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "BU"
+      },
+      "countryName": "Zimbabwe",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Bulawayo",
+      "lat": "-20.14167",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "10",
+      "lng": "31.05833",
+      "geonameId": 1105844,
+      "toponymName": "Harare Province",
+      "countryId": "878675",
+      "fcl": "A",
+      "population": 1606000,
+      "countryCode": "ZW",
+      "name": "Harare",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "HA"
+      },
+      "countryName": "Zimbabwe",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Harare",
+      "lat": "-17.85417",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "01",
+      "lng": "32.41667",
+      "geonameId": 887358,
+      "toponymName": "Manicaland Province",
+      "countryId": "878675",
+      "fcl": "A",
+      "population": 1590136,
+      "countryCode": "ZW",
+      "name": "Manicaland",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "MA"
+      },
+      "countryName": "Zimbabwe",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Manicaland",
+      "lat": "-19",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "03",
+      "lng": "31.2",
+      "geonameId": 886843,
+      "toponymName": "Mashonaland Central Province",
+      "countryId": "878675",
+      "fcl": "A",
+      "population": 1054077,
+      "countryCode": "ZW",
+      "name": "Mashonaland Central",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "MC"
+      },
+      "countryName": "Zimbabwe",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Mashonaland Central",
+      "lat": "-16.7",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "04",
+      "lng": "31.66667",
+      "geonameId": 886842,
+      "toponymName": "Mashonaland East Province",
+      "countryId": "878675",
+      "fcl": "A",
+      "population": 1167065,
+      "countryCode": "ZW",
+      "name": "Mashonaland East Province",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "ME"
+      },
+      "countryName": "Zimbabwe",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Mashonaland East",
+      "lat": "-17.96667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "05",
+      "lng": "29.75",
+      "geonameId": 886841,
+      "toponymName": "Mashonaland West Province",
+      "countryId": "878675",
+      "fcl": "A",
+      "population": 1270629,
+      "countryCode": "ZW",
+      "name": "Mashonaland West",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "MW"
+      },
+      "countryName": "Zimbabwe",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Mashonaland West",
+      "lat": "-17.16667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "08",
+      "lng": "31.4",
+      "geonameId": 886761,
+      "toponymName": "Masvingo Province",
+      "countryId": "878675",
+      "fcl": "A",
+      "population": 1485090,
+      "countryCode": "ZW",
+      "name": "Masvingo Province",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "MV"
+      },
+      "countryName": "Zimbabwe",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Masvingo",
+      "lat": "-20.6",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "06",
+      "lng": "27.41667",
+      "geonameId": 886748,
+      "toponymName": "Matabeleland North Province",
+      "countryId": "878675",
+      "fcl": "A",
+      "population": 749017,
+      "countryCode": "ZW",
+      "name": "Matabeleland North",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "MN"
+      },
+      "countryName": "Zimbabwe",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Matabeleland North",
+      "lat": "-18.83333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "07",
+      "lng": "28.8",
+      "geonameId": 886747,
+      "toponymName": "Matabeleland South Province",
+      "countryId": "878675",
+      "fcl": "A",
+      "population": 683893,
+      "countryCode": "ZW",
+      "name": "Matabeleland South Province",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "MS"
+      },
+      "countryName": "Zimbabwe",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Matabeleland South",
+      "lat": "-20.9",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "02",
+      "lng": "29.8",
+      "geonameId": 886119,
+      "toponymName": "Midlands Province",
+      "countryId": "878675",
+      "fcl": "A",
+      "population": 1514459,
+      "countryCode": "ZW",
+      "name": "Midlands Province",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "MI"
+      },
+      "countryName": "Zimbabwe",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Midlands",
+      "lat": "-19.2",
+      "fcode": "ADM1"
+    }
+  ]
+}

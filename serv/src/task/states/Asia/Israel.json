@@ -1,0 +1,142 @@
+{
+  "totalResultsCount": 7,
+  "geonames": [
+    {
+      "adminCode1": "02",
+      "lng": "34.91667",
+      "geonameId": 294904,
+      "toponymName": "Central District",
+      "countryId": "294640",
+      "fcl": "A",
+      "population": 1854900,
+      "countryCode": "IL",
+      "name": "Central District",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "M"
+      },
+      "countryName": "Israel",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Central District",
+      "lat": "32.08333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "04",
+      "lng": "35",
+      "geonameId": 294800,
+      "toponymName": "Haifa",
+      "countryId": "294640",
+      "fcl": "A",
+      "population": 926700,
+      "countryCode": "IL",
+      "name": "Haifa",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "HA"
+      },
+      "countryName": "Israel",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Haifa",
+      "lat": "32.58333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "06",
+      "lng": "35",
+      "geonameId": 293198,
+      "toponymName": "Jerusalem",
+      "countryId": "294640",
+      "fcl": "A",
+      "population": 889300,
+      "countryCode": "IL",
+      "name": "Jerusalem",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "JM"
+      },
+      "countryName": "Israel",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Jerusalem",
+      "lat": "31.75",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "WE",
+      "lng": "35.18635",
+      "geonameId": 11821181,
+      "toponymName": "Judea and Samaria Area",
+      "countryId": "294640",
+      "fcl": "A",
+      "population": 407000,
+      "countryCode": "IL",
+      "name": "Judea and Samaria Area",
+      "fclName": "country, state, region,...",
+      "countryName": "Israel",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Judea and Samaria Area",
+      "lat": "32.10578",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "03",
+      "lng": "35.46667",
+      "geonameId": 294824,
+      "toponymName": "Northern District",
+      "countryId": "294640",
+      "fcl": "A",
+      "population": 1197985,
+      "countryCode": "IL",
+      "name": "Northern District",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "Z"
+      },
+      "countryName": "Israel",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Northern District",
+      "lat": "32.86667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "01",
+      "lng": "34.83333",
+      "geonameId": 294952,
+      "toponymName": "Southern District",
+      "countryId": "294640",
+      "fcl": "A",
+      "population": 1146600,
+      "countryCode": "IL",
+      "name": "Southern District",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "D"
+      },
+      "countryName": "Israel",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Southern District",
+      "lat": "30.66667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "05",
+      "lng": "34.79995",
+      "geonameId": 293396,
+      "toponymName": "Tel Aviv District",
+      "countryId": "294640",
+      "fcl": "A",
+      "population": 1221600,
+      "countryCode": "IL",
+      "name": "Tel Aviv",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "TA"
+      },
+      "countryName": "Israel",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Tel Aviv",
+      "lat": "32.08414",
+      "fcode": "ADM1"
+    }
+  ]
+}

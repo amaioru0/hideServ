@@ -1,0 +1,525 @@
+{
+  "totalResultsCount": 26,
+  "geonames": [
+    {
+      "adminCode1": "01",
+      "lng": "-78.23333",
+      "geonameId": 3699699,
+      "toponymName": "Amazonas",
+      "countryId": "3932488",
+      "fcl": "A",
+      "population": 443025,
+      "countryCode": "PE",
+      "name": "Amazonas",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "AMA"
+      },
+      "countryName": "Peru",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Amazonas",
+      "lat": "-5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "02",
+      "lng": "-77.75",
+      "geonameId": 3699674,
+      "toponymName": "Ancash",
+      "countryId": "3932488",
+      "fcl": "A",
+      "population": 1039415,
+      "countryCode": "PE",
+      "name": "Ancash",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "ANC"
+      },
+      "countryName": "Peru",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Ancash",
+      "lat": "-9.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "04",
+      "lng": "-72.25",
+      "geonameId": 3947319,
+      "toponymName": "Arequipa",
+      "countryId": "3932488",
+      "fcl": "A",
+      "population": 1218168,
+      "countryCode": "PE",
+      "name": "Arequipa",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "ARE"
+      },
+      "countryName": "Peru",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Arequipa",
+      "lat": "-16",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "05",
+      "lng": "-74.25",
+      "geonameId": 3947018,
+      "toponymName": "Ayacucho",
+      "countryId": "3932488",
+      "fcl": "A",
+      "population": 619522,
+      "countryCode": "PE",
+      "name": "Ayacucho",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "AYA"
+      },
+      "countryName": "Peru",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Ayacucho",
+      "lat": "-14",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "06",
+      "lng": "-78.83333",
+      "geonameId": 3699087,
+      "toponymName": "Cajamarca",
+      "countryId": "3932488",
+      "fcl": "A",
+      "population": 1359023,
+      "countryCode": "PE",
+      "name": "Cajamarca",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "CAJ"
+      },
+      "countryName": "Peru",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Cajamarca",
+      "lat": "-6.25",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "07",
+      "lng": "-77.125",
+      "geonameId": 3946080,
+      "toponymName": "Callao",
+      "countryId": "3932488",
+      "fcl": "A",
+      "population": 839271,
+      "countryCode": "PE",
+      "name": "Callao",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "CAL"
+      },
+      "countryName": "Peru",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Callao",
+      "lat": "-12.05139",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "08",
+      "lng": "-72.25",
+      "geonameId": 3941583,
+      "toponymName": "Cusco",
+      "countryId": "3932488",
+      "fcl": "A",
+      "population": 1171503,
+      "countryCode": "PE",
+      "name": "Cusco",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "CUS"
+      },
+      "countryName": "Peru",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Cusco",
+      "lat": "-13",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "18",
+      "lng": "-70.91992",
+      "geonameId": 3934607,
+      "toponymName": "Departamento de Moquegua",
+      "countryId": "3932488",
+      "fcl": "A",
+      "population": 163757,
+      "countryCode": "PE",
+      "name": "Departamento de Moquegua",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "MOQ"
+      },
+      "countryName": "Peru",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Moquegua",
+      "lat": "-16.83662",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "09",
+      "lng": "-75",
+      "geonameId": 3939467,
+      "toponymName": "Huancavelica",
+      "countryId": "3932488",
+      "fcl": "A",
+      "population": 454797,
+      "countryCode": "PE",
+      "name": "Huancavelica",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "HUV"
+      },
+      "countryName": "Peru",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Huancavelica",
+      "lat": "-13",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "11",
+      "lng": "-75.49972",
+      "geonameId": 3938526,
+      "toponymName": "Ica",
+      "countryId": "3932488",
+      "fcl": "A",
+      "population": 709556,
+      "countryCode": "PE",
+      "name": "Ica",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "ICA"
+      },
+      "countryName": "Peru",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Ica",
+      "lat": "-14.3325",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "12",
+      "lng": "-75",
+      "geonameId": 3937485,
+      "toponymName": "Junín",
+      "countryId": "3932488",
+      "fcl": "A",
+      "population": 1274781,
+      "countryCode": "PE",
+      "name": "Junin",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "JUN"
+      },
+      "countryName": "Peru",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Junin",
+      "lat": "-11.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "13",
+      "lng": "-78.5",
+      "geonameId": 3695781,
+      "toponymName": "La Libertad",
+      "countryId": "3932488",
+      "fcl": "A",
+      "population": 1617050,
+      "countryCode": "PE",
+      "name": "La Libertad",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "LAL"
+      },
+      "countryName": "Peru",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "La Libertad",
+      "lat": "-8",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "14",
+      "lng": "-80",
+      "geonameId": 3695753,
+      "toponymName": "Lambayeque",
+      "countryId": "3932488",
+      "fcl": "A",
+      "population": 1091535,
+      "countryCode": "PE",
+      "name": "Lambayeque",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "LAM"
+      },
+      "countryName": "Peru",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Lambayeque",
+      "lat": "-6.33333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "LMA",
+      "lng": "-76.83333",
+      "geonameId": 3936451,
+      "toponymName": "Provincia de Lima",
+      "countryId": "3932488",
+      "fcl": "A",
+      "population": 7605742,
+      "countryCode": "PE",
+      "name": "Lima",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "LMA"
+      },
+      "countryName": "Peru",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Lima",
+      "lat": "-12",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "15",
+      "lng": "-76.45",
+      "geonameId": 3936452,
+      "toponymName": "Lima",
+      "countryId": "3932488",
+      "fcl": "A",
+      "population": 8481415,
+      "countryCode": "PE",
+      "name": "Lima region",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "LIM"
+      },
+      "countryName": "Peru",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Lima region",
+      "lat": "-11.85",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "16",
+      "lng": "-74.5",
+      "geonameId": 3695238,
+      "toponymName": "Loreto",
+      "countryId": "3932488",
+      "fcl": "A",
+      "population": 884144,
+      "countryCode": "PE",
+      "name": "Loreto",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "LOR"
+      },
+      "countryName": "Peru",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Loreto",
+      "lat": "-4",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "17",
+      "lng": "-70.25",
+      "geonameId": 3935619,
+      "toponymName": "Madre de Dios",
+      "countryId": "3932488",
+      "fcl": "A",
+      "population": 109555,
+      "countryCode": "PE",
+      "name": "Madre de Dios",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "MDD"
+      },
+      "countryName": "Peru",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Madre de Dios",
+      "lat": "-12",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "19",
+      "lng": "-75.25",
+      "geonameId": 3932834,
+      "toponymName": "Pasco",
+      "countryId": "3932488",
+      "fcl": "A",
+      "population": 277475,
+      "countryCode": "PE",
+      "name": "Pasco",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "PAS"
+      },
+      "countryName": "Peru",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Pasco",
+      "lat": "-10.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "20",
+      "lng": "-80.33333",
+      "geonameId": 3693525,
+      "toponymName": "Piura",
+      "countryId": "3932488",
+      "fcl": "A",
+      "population": 1630772,
+      "countryCode": "PE",
+      "name": "Piura",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "PIU"
+      },
+      "countryName": "Peru",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Piura",
+      "lat": "-5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "21",
+      "lng": "-70",
+      "geonameId": 3931275,
+      "toponymName": "Puno",
+      "countryId": "3932488",
+      "fcl": "A",
+      "population": 1364362,
+      "countryCode": "PE",
+      "name": "Puno",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "PUN"
+      },
+      "countryName": "Peru",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Puno",
+      "lat": "-15",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "03",
+      "lng": "-73",
+      "geonameId": 3947421,
+      "toponymName": "Región de Apurímac",
+      "countryId": "3932488",
+      "fcl": "A",
+      "population": 418882,
+      "countryCode": "PE",
+      "name": "Región de Apurímac",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "APU"
+      },
+      "countryName": "Peru",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Apurímac",
+      "lat": "-14",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "10",
+      "lng": "-76",
+      "geonameId": 3696416,
+      "toponymName": "Región de Huánuco",
+      "countryId": "3932488",
+      "fcl": "A",
+      "population": 730871,
+      "countryCode": "PE",
+      "name": "Región de Huánuco",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "HUC"
+      },
+      "countryName": "Peru",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Huanuco",
+      "lat": "-9.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "22",
+      "lng": "-76.83333",
+      "geonameId": 3692385,
+      "toponymName": "Región de San Martín",
+      "countryId": "3932488",
+      "fcl": "A",
+      "population": 778545,
+      "countryCode": "PE",
+      "name": "Región de San Martín",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SAM"
+      },
+      "countryName": "Peru",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "San Martín",
+      "lat": "-7",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "23",
+      "lng": "-70.33333",
+      "geonameId": 3928127,
+      "toponymName": "Tacna",
+      "countryId": "3932488",
+      "fcl": "A",
+      "population": 274496,
+      "countryCode": "PE",
+      "name": "Tacna",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "TAC"
+      },
+      "countryName": "Peru",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Tacna",
+      "lat": "-17.66667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "24",
+      "lng": "-80.5",
+      "geonameId": 3691146,
+      "toponymName": "Tumbes",
+      "countryId": "3932488",
+      "fcl": "A",
+      "population": 191713,
+      "countryCode": "PE",
+      "name": "Tumbes",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "TUM"
+      },
+      "countryName": "Peru",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Tumbes",
+      "lat": "-3.83333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "25",
+      "lng": "-73.5",
+      "geonameId": 3691099,
+      "toponymName": "Ucayali",
+      "countryId": "3932488",
+      "fcl": "A",
+      "population": 432195,
+      "countryCode": "PE",
+      "name": "Ucayali",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "UCA"
+      },
+      "countryName": "Peru",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Ucayali",
+      "lat": "-9.75",
+      "fcode": "ADM1"
+    }
+  ]
+}

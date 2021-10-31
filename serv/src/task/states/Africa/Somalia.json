@@ -1,0 +1,365 @@
+{
+  "totalResultsCount": 18,
+  "geonames": [
+    {
+      "adminCode1": "21",
+      "lng": "43.5",
+      "geonameId": 6268943,
+      "toponymName": "Gobolka Awdal",
+      "countryId": "51537",
+      "fcl": "A",
+      "population": 673263,
+      "countryCode": "SO",
+      "name": "Awdal",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "AW"
+      },
+      "countryName": "Somalia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Awdal",
+      "lat": "10.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "01",
+      "lng": "44",
+      "geonameId": 64982,
+      "toponymName": "Gobolka Bakool",
+      "countryId": "51537",
+      "fcl": "A",
+      "population": 370000,
+      "countryCode": "SO",
+      "name": "Bakool",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "BK"
+      },
+      "countryName": "Somalia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Bakool",
+      "lat": "4",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "02",
+      "lng": "45.4",
+      "geonameId": 64833,
+      "toponymName": "Gobolka Banaadir",
+      "countryId": "51537",
+      "fcl": "A",
+      "population": 1650000,
+      "countryCode": "SO",
+      "name": "Banaadir",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "BN"
+      },
+      "countryName": "Somalia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Banaadir",
+      "lat": "2.11667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "03",
+      "lng": "50",
+      "geonameId": 64661,
+      "toponymName": "Gobolka Bari",
+      "countryId": "51537",
+      "fcl": "A",
+      "population": 720000,
+      "countryCode": "SO",
+      "name": "Bari",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "BR"
+      },
+      "countryName": "Somalia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Bari",
+      "lat": "10",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "04",
+      "lng": "43.5",
+      "geonameId": 64538,
+      "toponymName": "Gobolka Bay",
+      "countryId": "51537",
+      "fcl": "A",
+      "population": 1467345,
+      "countryCode": "SO",
+      "name": "Bay",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "BY"
+      },
+      "countryName": "Somalia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Bay",
+      "lat": "3",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "05",
+      "lng": "47",
+      "geonameId": 59362,
+      "toponymName": "Gobolka Galguduud",
+      "countryId": "51537",
+      "fcl": "A",
+      "population": 800000,
+      "countryCode": "SO",
+      "name": "Galguduud",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "GA"
+      },
+      "countryName": "Somalia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Galguduud",
+      "lat": "5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "06",
+      "lng": "42",
+      "geonameId": 58802,
+      "toponymName": "Gobolka Gedo",
+      "countryId": "51537",
+      "fcl": "A",
+      "population": 508000,
+      "countryCode": "SO",
+      "name": "Gedo",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "GE"
+      },
+      "countryName": "Somalia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Gedo",
+      "lat": "3",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "07",
+      "lng": "45.5",
+      "geonameId": 57060,
+      "toponymName": "Gobolka Hiiraan",
+      "countryId": "51537",
+      "fcl": "A",
+      "population": 2500000,
+      "countryCode": "SO",
+      "name": "Hiiraan",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "HI"
+      },
+      "countryName": "Somalia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Hiiraan",
+      "lat": "4",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "09",
+      "lng": "42",
+      "geonameId": 56083,
+      "toponymName": "Gobolka Jubbada Hoose",
+      "countryId": "51537",
+      "fcl": "A",
+      "population": 267000,
+      "countryCode": "SO",
+      "name": "Lower Jubba",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "JH"
+      },
+      "countryName": "Somalia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Lower Juba",
+      "lat": "0",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "14",
+      "lng": "44.41667",
+      "geonameId": 51966,
+      "toponymName": "Gobolka Shabeellaha Hoose",
+      "countryId": "51537",
+      "fcl": "A",
+      "population": 1200000,
+      "countryCode": "SO",
+      "name": "Lower Shabeelle",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SH"
+      },
+      "countryName": "Somalia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Lower Shabeelle",
+      "lat": "1.83333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "08",
+      "lng": "42.66667",
+      "geonameId": 56084,
+      "toponymName": "Gobolka Jubbada Dhexe",
+      "countryId": "51537",
+      "fcl": "A",
+      "population": 360000,
+      "countryCode": "SO",
+      "name": "Middle Jubba",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "JD"
+      },
+      "countryName": "Somalia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Middle Juba",
+      "lat": "1.33333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "13",
+      "lng": "46",
+      "geonameId": 51967,
+      "toponymName": "Gobolka Shabeellaha Dhexe",
+      "countryId": "51537",
+      "fcl": "A",
+      "population": 516000,
+      "countryCode": "SO",
+      "name": "Middle Shabele",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SD"
+      },
+      "countryName": "Somalia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Middle Shabele",
+      "lat": "3",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "10",
+      "lng": "48",
+      "geonameId": 53707,
+      "toponymName": "Gobolka Mudug",
+      "countryId": "51537",
+      "fcl": "A",
+      "population": 733964,
+      "countryCode": "SO",
+      "name": "Mudug",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "MU"
+      },
+      "countryName": "Somalia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Mudug",
+      "lat": "7",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "18",
+      "lng": "49",
+      "geonameId": 53477,
+      "toponymName": "Gobolka Nugaal",
+      "countryId": "51537",
+      "fcl": "A",
+      "population": 516000,
+      "countryCode": "SO",
+      "name": "Nugaal",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "NU"
+      },
+      "countryName": "Somalia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Nugaal",
+      "lat": "8.16667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "12",
+      "lng": "48",
+      "geonameId": 52187,
+      "toponymName": "Gobolka Sanaag",
+      "countryId": "51537",
+      "fcl": "A",
+      "population": 544000,
+      "countryCode": "SO",
+      "name": "Sanaag",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SA"
+      },
+      "countryName": "Somalia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Sanaag",
+      "lat": "10.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "22",
+      "lng": "47.5",
+      "geonameId": 6268947,
+      "toponymName": "Gobolka Sool",
+      "countryId": "51537",
+      "fcl": "A",
+      "population": 327428,
+      "countryCode": "SO",
+      "name": "Sool",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SO"
+      },
+      "countryName": "Somalia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Sool",
+      "lat": "8.66667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "19",
+      "lng": "45.41667",
+      "geonameId": 51230,
+      "toponymName": "Gobolka Togdheer",
+      "countryId": "51537",
+      "fcl": "A",
+      "population": 350000,
+      "countryCode": "SO",
+      "name": "Togdheer",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "TO"
+      },
+      "countryName": "Somalia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Togdheer",
+      "lat": "9.33333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "20",
+      "lng": "44.5",
+      "geonameId": 50360,
+      "toponymName": "Gobolka Woqooyi Galbeed",
+      "countryId": "51537",
+      "fcl": "A",
+      "population": 1240000,
+      "countryCode": "SO",
+      "name": "Woqooyi Galbeed",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "WO"
+      },
+      "countryName": "Somalia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Woqooyi Galbeed",
+      "lat": "10",
+      "fcode": "ADM1"
+    }
+  ]
+}

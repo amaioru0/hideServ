@@ -1,0 +1,265 @@
+{
+  "totalResultsCount": 13,
+  "geonames": [
+    {
+      "adminCode1": "11",
+      "lng": "42.95",
+      "geonameId": 108179,
+      "toponymName": "'Asir Region",
+      "countryId": "102358",
+      "fcl": "A",
+      "population": 2188461,
+      "countryCode": "SA",
+      "name": "'Asir Region",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "14"
+      },
+      "countryName": "Saudi Arabia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "'Asir Region",
+      "lat": "19.15",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "02",
+      "lng": "41.43333",
+      "geonameId": 109954,
+      "toponymName": "Al Bahah Region",
+      "countryId": "102358",
+      "fcl": "A",
+      "population": 380799,
+      "countryCode": "SA",
+      "name": "Al Bahah Region",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "11"
+      },
+      "countryName": "Saudi Arabia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Al Bahah Region",
+      "lat": "20.16667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "20",
+      "lng": "39.6",
+      "geonameId": 109470,
+      "toponymName": "Al Jawf Region",
+      "countryId": "102358",
+      "fcl": "A",
+      "population": 369282,
+      "countryCode": "SA",
+      "name": "Al Jawf Region",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "12"
+      },
+      "countryName": "Saudi Arabia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Al Jawf Region",
+      "lat": "30.05",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "08",
+      "lng": "43.46667",
+      "geonameId": 108933,
+      "toponymName": "Al-Qassim Region",
+      "countryId": "102358",
+      "fcl": "A",
+      "population": 1016756,
+      "countryCode": "SA",
+      "name": "Al-Qassim Region",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "05"
+      },
+      "countryName": "Saudi Arabia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Al-Qassim Region",
+      "lat": "27.08333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "06",
+      "lng": "49.75",
+      "geonameId": 108241,
+      "toponymName": "Eastern Province",
+      "countryId": "102358",
+      "fcl": "A",
+      "population": 3421191,
+      "countryCode": "SA",
+      "name": "Eastern Province",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "04"
+      },
+      "countryName": "Saudi Arabia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Eastern Province",
+      "lat": "24",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "13",
+      "lng": "41.45",
+      "geonameId": 106280,
+      "toponymName": "Ha'il Region",
+      "countryId": "102358",
+      "fcl": "A",
+      "population": 597144,
+      "countryCode": "SA",
+      "name": "Ha'il Region",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "06"
+      },
+      "countryName": "Saudi Arabia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Ha'il Region",
+      "lat": "27.4",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "17",
+      "lng": "42.66667",
+      "geonameId": 105298,
+      "toponymName": "Jazan Region",
+      "countryId": "102358",
+      "fcl": "A",
+      "population": 1212393,
+      "countryCode": "SA",
+      "name": "Jazan Region",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "09"
+      },
+      "countryName": "Saudi Arabia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Jazan Region",
+      "lat": "17.33333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "14",
+      "lng": "41.20422",
+      "geonameId": 104514,
+      "toponymName": "Mecca Region",
+      "countryId": "102358",
+      "fcl": "A",
+      "population": 5899358,
+      "countryCode": "SA",
+      "name": "Mecca Region",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "02"
+      },
+      "countryName": "Saudi Arabia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Mecca Region",
+      "lat": "21.62425",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "05",
+      "lng": "39.5",
+      "geonameId": 109224,
+      "toponymName": "Medina Region",
+      "countryId": "102358",
+      "fcl": "A",
+      "population": 1547487,
+      "countryCode": "SA",
+      "name": "Medina Region",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "03"
+      },
+      "countryName": "Saudi Arabia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Medina Region",
+      "lat": "24.9",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "16",
+      "lng": "46.91667",
+      "geonameId": 103628,
+      "toponymName": "Najran Region",
+      "countryId": "102358",
+      "fcl": "A",
+      "population": 429332,
+      "countryCode": "SA",
+      "name": "Najran Region",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "10"
+      },
+      "countryName": "Saudi Arabia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Najran Region",
+      "lat": "18.41667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "15",
+      "lng": "42.41667",
+      "geonameId": 109579,
+      "toponymName": "Northern Borders Region",
+      "countryId": "102358",
+      "fcl": "A",
+      "population": 320524,
+      "countryCode": "SA",
+      "name": "Northern Borders Region",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "08"
+      },
+      "countryName": "Saudi Arabia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Northern Borders Region",
+      "lat": "30.25",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "10",
+      "lng": "45.55",
+      "geonameId": 108411,
+      "toponymName": "Riyadh Region",
+      "countryId": "102358",
+      "fcl": "A",
+      "population": 5588987,
+      "countryCode": "SA",
+      "name": "Riyadh Region",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "01"
+      },
+      "countryName": "Saudi Arabia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Riyadh Region",
+      "lat": "23.05",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "19",
+      "lng": "37.16667",
+      "geonameId": 101627,
+      "toponymName": "Tabuk Region",
+      "countryId": "102358",
+      "fcl": "A",
+      "population": 708860,
+      "countryCode": "SA",
+      "name": "Tabuk Region",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "07"
+      },
+      "countryName": "Saudi Arabia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Tabuk Region",
+      "lat": "28.25",
+      "fcode": "ADM1"
+    }
+  ]
+}

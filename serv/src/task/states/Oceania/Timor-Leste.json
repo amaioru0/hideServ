@@ -1,0 +1,265 @@
+{
+  "totalResultsCount": 13,
+  "geonames": [
+    {
+      "adminCode1": "AL",
+      "lng": "125.6375",
+      "geonameId": 1651815,
+      "toponymName": "Aileu",
+      "countryId": "1966436",
+      "fcl": "A",
+      "population": 45512,
+      "countryCode": "TL",
+      "name": "Aileu",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "AL"
+      },
+      "countryName": "Timor-Leste",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Aileu",
+      "lat": "-8.69167",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "AN",
+      "lng": "125.525",
+      "geonameId": 1651809,
+      "toponymName": "Ainaro",
+      "countryId": "1966436",
+      "fcl": "A",
+      "population": 39671,
+      "countryCode": "TL",
+      "name": "Ainaro",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "AN"
+      },
+      "countryName": "Timor-Leste",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Ainaro",
+      "lat": "-9.025",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "BA",
+      "lng": "126.475",
+      "geonameId": 1649538,
+      "toponymName": "Baucau",
+      "countryId": "1966436",
+      "fcl": "A",
+      "population": 111484,
+      "countryCode": "TL",
+      "name": "Baucau",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "BA"
+      },
+      "countryName": "Timor-Leste",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Baucau",
+      "lat": "-8.54167",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "BO",
+      "lng": "125.21667",
+      "geonameId": 1648513,
+      "toponymName": "Bobonaro",
+      "countryId": "1966436",
+      "fcl": "A",
+      "population": 89787,
+      "countryCode": "TL",
+      "name": "Bobonaro",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "BO"
+      },
+      "countryName": "Timor-Leste",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Bobonaro",
+      "lat": "-8.95",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "CO",
+      "lng": "125.25",
+      "geonameId": 1639462,
+      "toponymName": "Kovalima",
+      "countryId": "1966436",
+      "fcl": "A",
+      "population": 111484,
+      "countryCode": "TL",
+      "name": "Cova Lima",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "CO"
+      },
+      "countryName": "Timor-Leste",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Cova Lima",
+      "lat": "-9.26667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "DI",
+      "lng": "125.66667",
+      "geonameId": 1645456,
+      "toponymName": "Díli",
+      "countryId": "1966436",
+      "fcl": "A",
+      "population": 245873,
+      "countryCode": "TL",
+      "name": "Díli",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "DI"
+      },
+      "countryName": "Timor-Leste",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Díli",
+      "lat": "-8.55",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "ER",
+      "lng": "125.38778",
+      "geonameId": 1644865,
+      "toponymName": "Ermera",
+      "countryId": "1966436",
+      "fcl": "A",
+      "population": 100000,
+      "countryCode": "TL",
+      "name": "Ermera",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "ER"
+      },
+      "countryName": "Timor-Leste",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Ermera",
+      "lat": "-8.83028",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "LA",
+      "lng": "126.97",
+      "geonameId": 1638294,
+      "toponymName": "Lautein",
+      "countryId": "1966436",
+      "fcl": "A",
+      "population": 60218,
+      "countryCode": "TL",
+      "name": "Lautém",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "LA"
+      },
+      "countryName": "Timor-Leste",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Lautém",
+      "lat": "-8.51472",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "LI",
+      "lng": "125.31667",
+      "geonameId": 1637729,
+      "toponymName": "Liquiçá",
+      "countryId": "1966436",
+      "fcl": "A",
+      "population": 63329,
+      "countryCode": "TL",
+      "name": "Liquiçá",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "LI"
+      },
+      "countryName": "Timor-Leste",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Liquiçá",
+      "lat": "-8.65",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "MT",
+      "lng": "125.95",
+      "geonameId": 1636525,
+      "toponymName": "Manatuto",
+      "countryId": "1966436",
+      "fcl": "A",
+      "population": 43246,
+      "countryCode": "TL",
+      "name": "Manatuto",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "MT"
+      },
+      "countryName": "Timor-Leste",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Manatuto",
+      "lat": "-8.71667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "MF",
+      "lng": "125.77778",
+      "geonameId": 1636309,
+      "toponymName": "Manufahi",
+      "countryId": "1966436",
+      "fcl": "A",
+      "population": 48894,
+      "countryCode": "TL",
+      "name": "Manufahi",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "MF"
+      },
+      "countryName": "Timor-Leste",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Manufahi",
+      "lat": "-8.99861",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "OE",
+      "lng": "124.29306",
+      "geonameId": 1651539,
+      "toponymName": "Oecusse",
+      "countryId": "1966436",
+      "fcl": "A",
+      "population": 57469,
+      "countryCode": "TL",
+      "name": "Oecusse",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "OE"
+      },
+      "countryName": "Timor-Leste",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Oecusse",
+      "lat": "-9.31361",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "VI",
+      "lng": "126.36",
+      "geonameId": 1622470,
+      "toponymName": "Viqueque",
+      "countryId": "1966436",
+      "fcl": "A",
+      "population": 70177,
+      "countryCode": "TL",
+      "name": "Viqueque",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "VI"
+      },
+      "countryName": "Timor-Leste",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Viqueque",
+      "lat": "-8.78722",
+      "fcode": "ADM1"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "totalResultsCount": 1,
+  "geonames": [
+    {
+      "adminCode1": "00",
+      "lng": "7.41981",
+      "geonameId": 3319178,
+      "toponymName": "Commune de Monaco",
+      "countryId": "2993457",
+      "fcl": "A",
+      "population": 32020,
+      "countryCode": "MC",
+      "name": "Municipality of Monaco",
+      "fclName": "country, state, region,...",
+      "countryName": "Monaco",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "",
+      "lat": "43.73216",
+      "fcode": "ADM1"
+    }
+  ]
+}

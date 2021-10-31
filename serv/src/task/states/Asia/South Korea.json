@@ -1,0 +1,345 @@
+{
+  "totalResultsCount": 17,
+  "geonames": [
+    {
+      "adminCode1": "10",
+      "lng": "129.05",
+      "geonameId": 1838519,
+      "toponymName": "Busan",
+      "countryId": "1835841",
+      "fcl": "A",
+      "population": 3525913,
+      "countryCode": "KR",
+      "name": "Busan",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "26"
+      },
+      "countryName": "South Korea",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Busan",
+      "lat": "35.13333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "17",
+      "lng": "127",
+      "geonameId": 1845105,
+      "toponymName": "Chungcheongnam-do",
+      "countryId": "1835841",
+      "fcl": "A",
+      "population": 2033019,
+      "countryCode": "KR",
+      "name": "Chungcheongnam-do",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "44"
+      },
+      "countryName": "South Korea",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Chungcheongnam-do",
+      "lat": "36.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "15",
+      "lng": "128.55",
+      "geonameId": 1835327,
+      "toponymName": "Daegu",
+      "countryId": "1835841",
+      "fcl": "A",
+      "population": 2527566,
+      "countryCode": "KR",
+      "name": "Daegu",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "27"
+      },
+      "countryName": "South Korea",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Daegu",
+      "lat": "35.8",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "19",
+      "lng": "127.41667",
+      "geonameId": 1835224,
+      "toponymName": "Daejeon",
+      "countryId": "1835841",
+      "fcl": "A",
+      "population": 1539154,
+      "countryCode": "KR",
+      "name": "Daejeon",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "30"
+      },
+      "countryName": "South Korea",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Daejeon",
+      "lat": "36.33333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "06",
+      "lng": "128.25",
+      "geonameId": 1843125,
+      "toponymName": "Gangwon-do",
+      "countryId": "1835841",
+      "fcl": "A",
+      "population": 1542147,
+      "countryCode": "KR",
+      "name": "Gangwon-do",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "42"
+      },
+      "countryName": "South Korea",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Gangwon-do",
+      "lat": "37.75",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "18",
+      "lng": "126.91667",
+      "geonameId": 1841808,
+      "toponymName": "Gwangju",
+      "countryId": "1835841",
+      "fcl": "A",
+      "population": 1471324,
+      "countryCode": "KR",
+      "name": "Gwangju",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "29"
+      },
+      "countryName": "South Korea",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Gwangju",
+      "lat": "35.16667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "13",
+      "lng": "127.25",
+      "geonameId": 1841610,
+      "toponymName": "Gyeonggi-do",
+      "countryId": "1835841",
+      "fcl": "A",
+      "population": 12093000,
+      "countryCode": "KR",
+      "name": "Gyeonggi-do",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "41"
+      },
+      "countryName": "South Korea",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Gyeonggi-do",
+      "lat": "37.6",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "14",
+      "lng": "128.75",
+      "geonameId": 1841597,
+      "toponymName": "Gyeongsangbuk-do",
+      "countryId": "1835841",
+      "fcl": "A",
+      "population": 2708787,
+      "countryCode": "KR",
+      "name": "Gyeongsangbuk-do",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "47"
+      },
+      "countryName": "South Korea",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Gyeongsangbuk-do",
+      "lat": "36.33333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "20",
+      "lng": "128.25",
+      "geonameId": 1902028,
+      "toponymName": "Gyeongsangnam-do",
+      "countryId": "1835841",
+      "fcl": "A",
+      "population": 3344403,
+      "countryCode": "KR",
+      "name": "Gyeongsangnam-do",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "48"
+      },
+      "countryName": "South Korea",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Gyeongsangnam-do",
+      "lat": "35.25",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "12",
+      "lng": "126.70017",
+      "geonameId": 1843561,
+      "toponymName": "Incheon",
+      "countryId": "1835841",
+      "fcl": "A",
+      "population": 2900898,
+      "countryCode": "KR",
+      "name": "Incheon",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "28"
+      },
+      "countryName": "South Korea",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Incheon",
+      "lat": "37.46178",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "01",
+      "lng": "126.5",
+      "geonameId": 1846265,
+      "toponymName": "Jeju-do",
+      "countryId": "1835841",
+      "fcl": "A",
+      "population": 604771,
+      "countryCode": "KR",
+      "name": "Jeju-do",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "49"
+      },
+      "countryName": "South Korea",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Jeju-do",
+      "lat": "33.41667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "03",
+      "lng": "127.25",
+      "geonameId": 1845789,
+      "toponymName": "Jeollabuk-do",
+      "countryId": "1835841",
+      "fcl": "A",
+      "population": 1871747,
+      "countryCode": "KR",
+      "name": "Jeollabuk-do",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "45"
+      },
+      "countryName": "South Korea",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Jeollabuk-do",
+      "lat": "35.75",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "16",
+      "lng": "127",
+      "geonameId": 1845788,
+      "toponymName": "Jeollanam-do",
+      "countryId": "1835841",
+      "fcl": "A",
+      "population": 1902324,
+      "countryCode": "KR",
+      "name": "Jeollanam-do",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "46"
+      },
+      "countryName": "South Korea",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Jeollanam-do",
+      "lat": "34.75",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "05",
+      "lng": "127.65685",
+      "geonameId": 1845106,
+      "toponymName": "Chungcheongbuk-do",
+      "countryId": "1835841",
+      "fcl": "A",
+      "population": 1578934,
+      "countryCode": "KR",
+      "name": "North Chungcheong",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "43"
+      },
+      "countryName": "South Korea",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "North Chungcheong",
+      "lat": "36.82153",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "22",
+      "lng": "127.29239",
+      "geonameId": 8394437,
+      "toponymName": "Sejong-si",
+      "countryId": "1835841",
+      "fcl": "A",
+      "population": 122263,
+      "countryCode": "KR",
+      "name": "Sejong-si",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "50"
+      },
+      "countryName": "South Korea",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Sejong-si",
+      "lat": "36.59296",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "11",
+      "lng": "127",
+      "geonameId": 1835847,
+      "toponymName": "Seoul",
+      "countryId": "1835841",
+      "fcl": "A",
+      "population": 10349312,
+      "countryCode": "KR",
+      "name": "Seoul",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "11"
+      },
+      "countryName": "South Korea",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Seoul",
+      "lat": "37.58333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "21",
+      "lng": "129.26667",
+      "geonameId": 1833742,
+      "toponymName": "Ulsan",
+      "countryId": "1835841",
+      "fcl": "A",
+      "population": 1163690,
+      "countryCode": "KR",
+      "name": "Ulsan",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "31"
+      },
+      "countryName": "South Korea",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Ulsan",
+      "lat": "35.56667",
+      "fcode": "ADM1"
+    }
+  ]
+}

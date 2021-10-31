@@ -1,0 +1,85 @@
+{
+  "totalResultsCount": 4,
+  "geonames": [
+    {
+      "adminCode1": "16",
+      "lng": "50.58333",
+      "geonameId": 7090954,
+      "toponymName": "Capital Governorate",
+      "countryId": "290291",
+      "fcl": "A",
+      "population": 329510,
+      "countryCode": "BH",
+      "name": "Manama",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "13"
+      },
+      "countryName": "Bahrain",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Manama",
+      "lat": "26.21667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "15",
+      "lng": "50.61667",
+      "geonameId": 290333,
+      "toponymName": "Muharraq Governorate",
+      "countryId": "290291",
+      "fcl": "A",
+      "population": 189114,
+      "countryCode": "BH",
+      "name": "Muharraq",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "15"
+      },
+      "countryName": "Bahrain",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Muharraq",
+      "lat": "26.25",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "19",
+      "lng": "50.46667",
+      "geonameId": 7090974,
+      "toponymName": "Northern Governorate",
+      "countryId": "290291",
+      "fcl": "A",
+      "population": 276949,
+      "countryCode": "BH",
+      "name": "Northern Governorate",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "17"
+      },
+      "countryName": "Bahrain",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Northern Governorate",
+      "lat": "26.15",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "17",
+      "lng": "50.58333",
+      "geonameId": 7090972,
+      "toponymName": "Southern Governorate",
+      "countryId": "290291",
+      "fcl": "A",
+      "population": 91450,
+      "countryCode": "BH",
+      "name": "Southern Governorate",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "14"
+      },
+      "countryName": "Bahrain",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Southern Governorate",
+      "lat": "25.86667",
+      "fcode": "ADM1"
+    }
+  ]
+}

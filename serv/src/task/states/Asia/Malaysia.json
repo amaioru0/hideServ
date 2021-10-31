@@ -1,0 +1,325 @@
+{
+  "totalResultsCount": 16,
+  "geonames": [
+    {
+      "adminCode1": "01",
+      "lng": "103.5",
+      "geonameId": 1733049,
+      "toponymName": "Johor",
+      "countryId": "1733045",
+      "fcl": "A",
+      "population": 3348283,
+      "countryCode": "MY",
+      "name": "Johor",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "01"
+      },
+      "countryName": "Malaysia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Johor",
+      "lat": "2",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "02",
+      "lng": "100.66667",
+      "geonameId": 1733048,
+      "toponymName": "Kedah",
+      "countryId": "1733045",
+      "fcl": "A",
+      "population": 1890098,
+      "countryCode": "MY",
+      "name": "Kedah",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "02"
+      },
+      "countryName": "Malaysia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Kedah",
+      "lat": "6",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "03",
+      "lng": "102",
+      "geonameId": 1733044,
+      "toponymName": "Kelantan",
+      "countryId": "1733045",
+      "fcl": "A",
+      "population": 1635000,
+      "countryCode": "MY",
+      "name": "Kelantan",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "03"
+      },
+      "countryName": "Malaysia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Kelantan",
+      "lat": "5.33333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "14",
+      "lng": "101.68653",
+      "geonameId": 1733046,
+      "toponymName": "Kuala Lumpur",
+      "countryId": "1733045",
+      "fcl": "A",
+      "population": 1453975,
+      "countryCode": "MY",
+      "name": "Kuala Lumpur",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "14"
+      },
+      "countryName": "Malaysia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Kuala Lumpur",
+      "lat": "3.14309",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "15",
+      "lng": "115.2",
+      "geonameId": 1734240,
+      "toponymName": "Labuan",
+      "countryId": "1733045",
+      "fcl": "A",
+      "population": 86908,
+      "countryCode": "MY",
+      "name": "Labuan",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "15"
+      },
+      "countryName": "Malaysia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Labuan",
+      "lat": "5.33333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "04",
+      "lng": "102.25",
+      "geonameId": 1733035,
+      "toponymName": "Melaka",
+      "countryId": "1733045",
+      "fcl": "A",
+      "population": 788706,
+      "countryCode": "MY",
+      "name": "Melaka",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "04"
+      },
+      "countryName": "Malaysia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Melaka",
+      "lat": "2.25",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "05",
+      "lng": "102.16667",
+      "geonameId": 1733043,
+      "toponymName": "Negeri Sembilan",
+      "countryId": "1733045",
+      "fcl": "A",
+      "population": 997071,
+      "countryCode": "MY",
+      "name": "Negeri Sembilan",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "05"
+      },
+      "countryName": "Malaysia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Negeri Sembilan",
+      "lat": "2.75",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "06",
+      "lng": "102.75",
+      "geonameId": 1733042,
+      "toponymName": "Pahang",
+      "countryId": "1733045",
+      "fcl": "A",
+      "population": 1443365,
+      "countryCode": "MY",
+      "name": "Pahang",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "06"
+      },
+      "countryName": "Malaysia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Pahang",
+      "lat": "3.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "09",
+      "lng": "100.25848",
+      "geonameId": 1733047,
+      "toponymName": "Pulau Pinang",
+      "countryId": "1733045",
+      "fcl": "A",
+      "population": 1520143,
+      "countryCode": "MY",
+      "name": "Penang",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "07"
+      },
+      "countryName": "Malaysia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Penang",
+      "lat": "5.37677",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "07",
+      "lng": "101",
+      "geonameId": 1733041,
+      "toponymName": "Perak",
+      "countryId": "1733045",
+      "fcl": "A",
+      "population": 2258428,
+      "countryCode": "MY",
+      "name": "Perak",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "08"
+      },
+      "countryName": "Malaysia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Perak",
+      "lat": "5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "08",
+      "lng": "100.25",
+      "geonameId": 1733040,
+      "toponymName": "Perlis",
+      "countryId": "1733045",
+      "fcl": "A",
+      "population": 217510,
+      "countryCode": "MY",
+      "name": "Perlis",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "09"
+      },
+      "countryName": "Malaysia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Perlis",
+      "lat": "6.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "17",
+      "lng": "101.7",
+      "geonameId": 1996552,
+      "toponymName": "Putrajaya",
+      "countryId": "1733045",
+      "fcl": "A",
+      "population": 67964,
+      "countryCode": "MY",
+      "name": "Putrajaya",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "16"
+      },
+      "countryName": "Malaysia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Putrajaya",
+      "lat": "2.91667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "16",
+      "lng": "117",
+      "geonameId": 1733039,
+      "toponymName": "Sabah",
+      "countryId": "1733045",
+      "fcl": "A",
+      "population": 285000,
+      "countryCode": "MY",
+      "name": "Sabah",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "12"
+      },
+      "countryName": "Malaysia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Sabah",
+      "lat": "5.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "11",
+      "lng": "113.5",
+      "geonameId": 1733038,
+      "toponymName": "Sarawak",
+      "countryId": "1733045",
+      "fcl": "A",
+      "population": 2420009,
+      "countryCode": "MY",
+      "name": "Sarawak",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "13"
+      },
+      "countryName": "Malaysia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Sarawak",
+      "lat": "2.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "12",
+      "lng": "101.5",
+      "geonameId": 1733037,
+      "toponymName": "Selangor",
+      "countryId": "1733045",
+      "fcl": "A",
+      "population": 5411324,
+      "countryCode": "MY",
+      "name": "Selangor",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "10"
+      },
+      "countryName": "Malaysia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Selangor",
+      "lat": "3.16667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "13",
+      "lng": "103",
+      "geonameId": 1733036,
+      "toponymName": "Terengganu",
+      "countryId": "1733045",
+      "fcl": "A",
+      "population": 1015776,
+      "countryCode": "MY",
+      "name": "Terengganu",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "11"
+      },
+      "countryName": "Malaysia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Terengganu",
+      "lat": "5",
+      "fcode": "ADM1"
+    }
+  ]
+}

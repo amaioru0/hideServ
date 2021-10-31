@@ -1,0 +1,205 @@
+{
+  "totalResultsCount": 10,
+  "geonames": [
+    {
+      "adminCode1": "07",
+      "lng": "-72",
+      "geonameId": 3728069,
+      "toponymName": "Centre",
+      "countryId": "3723988",
+      "fcl": "A",
+      "population": 565043,
+      "countryCode": "HT",
+      "name": "Centre",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "CE"
+      },
+      "countryName": "Haiti",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Centre",
+      "lat": "19",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "15",
+      "lng": "-73.4285",
+      "geonameId": 7115999,
+      "toponymName": "Département de Nippes",
+      "countryId": "3723988",
+      "fcl": "A",
+      "population": 266000,
+      "countryCode": "HT",
+      "name": "Département de Nippes",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "NI"
+      },
+      "countryName": "Haiti",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Nippes",
+      "lat": "18.44835",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "06",
+      "lng": "-72.5",
+      "geonameId": 3731053,
+      "toponymName": "Département de l'Artibonite",
+      "countryId": "3723988",
+      "fcl": "A",
+      "population": 1727524,
+      "countryCode": "HT",
+      "name": "Département de l'Artibonite",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "AR"
+      },
+      "countryName": "Haiti",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Artibonite",
+      "lat": "19.33333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "11",
+      "lng": "-72.29141",
+      "geonameId": 3719432,
+      "toponymName": "Département de l'Ouest",
+      "countryId": "3723988",
+      "fcl": "A",
+      "population": 3664620,
+      "countryCode": "HT",
+      "name": "Département de l'Ouest",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "OU"
+      },
+      "countryName": "Haiti",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Ouest",
+      "lat": "18.66381",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "10",
+      "lng": "-71.85713",
+      "geonameId": 3719540,
+      "toponymName": "Département du Nord-Est",
+      "countryId": "3723988",
+      "fcl": "A",
+      "population": 300493,
+      "countryCode": "HT",
+      "name": "Département du Nord-Est",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "NE"
+      },
+      "countryName": "Haiti",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Nord-Est",
+      "lat": "19.48897",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "14",
+      "lng": "-74.08333",
+      "geonameId": 3724613,
+      "toponymName": "Grandans",
+      "countryId": "3723988",
+      "fcl": "A",
+      "population": 337000,
+      "countryCode": "HT",
+      "name": "Grandans",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "GA"
+      },
+      "countryName": "Haiti",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "GrandʼAnse",
+      "lat": "18.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "09",
+      "lng": "-72.3",
+      "geonameId": 3719543,
+      "toponymName": "Nord",
+      "countryId": "3723988",
+      "fcl": "A",
+      "population": 872200,
+      "countryCode": "HT",
+      "name": "Nord",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "ND"
+      },
+      "countryName": "Haiti",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Nord",
+      "lat": "19.6",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "03",
+      "lng": "-73",
+      "geonameId": 3719536,
+      "toponymName": "Nord-Ouest",
+      "countryId": "3723988",
+      "fcl": "A",
+      "population": 728807,
+      "countryCode": "HT",
+      "name": "Nord-Ouest",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "NO"
+      },
+      "countryName": "Haiti",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Nord-Ouest",
+      "lat": "19.83333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "12",
+      "lng": "-73.73333",
+      "geonameId": 3716952,
+      "toponymName": "Sud",
+      "countryId": "3723988",
+      "fcl": "A",
+      "population": 704760,
+      "countryCode": "HT",
+      "name": "Sud",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SD"
+      },
+      "countryName": "Haiti",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Sud",
+      "lat": "18.3",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "13",
+      "lng": "-72.4",
+      "geonameId": 3716950,
+      "toponymName": "Sud-Est",
+      "countryId": "3723988",
+      "fcl": "A",
+      "population": 518200,
+      "countryCode": "HT",
+      "name": "Sud-Est",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SE"
+      },
+      "countryName": "Haiti",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Sud-Est",
+      "lat": "18.3",
+      "fcode": "ADM1"
+    }
+  ]
+}

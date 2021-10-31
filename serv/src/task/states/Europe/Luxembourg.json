@@ -1,0 +1,245 @@
+{
+  "totalResultsCount": 12,
+  "geonames": [
+    {
+      "adminCode1": "CA",
+      "lng": "5.97031",
+      "geonameId": 2960696,
+      "toponymName": "Capellen",
+      "countryId": "2960313",
+      "fcl": "A",
+      "population": 37873,
+      "countryCode": "LU",
+      "name": "Capellen",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "CA"
+      },
+      "countryName": "Luxembourg",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Capellen",
+      "lat": "49.63678",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "CL",
+      "lng": "6.02236",
+      "geonameId": 2960683,
+      "toponymName": "Clervaux",
+      "countryId": "2960313",
+      "fcl": "A",
+      "population": 13237,
+      "countryCode": "LU",
+      "name": "Clervaux",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "CL"
+      },
+      "countryName": "Luxembourg",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Clervaux",
+      "lat": "50.07852",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "DI",
+      "lng": "6.1475",
+      "geonameId": 2960656,
+      "toponymName": "Diekirch",
+      "countryId": "2960313",
+      "fcl": "A",
+      "population": 32543,
+      "countryCode": "LU",
+      "name": "Diekirch",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "DI"
+      },
+      "countryName": "Luxembourg",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Diekirch",
+      "lat": "49.86155",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "EC",
+      "lng": "6.39024",
+      "geonameId": 2960629,
+      "toponymName": "Canton d'Echternach",
+      "countryId": "2960313",
+      "fcl": "A",
+      "population": 18899,
+      "countryCode": "LU",
+      "name": "Echternach",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "EC"
+      },
+      "countryName": "Luxembourg",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Echternach",
+      "lat": "49.78872",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "ES",
+      "lng": "6.03333",
+      "geonameId": 2960599,
+      "toponymName": "Canton d'Esch-sur-Alzette",
+      "countryId": "2960313",
+      "fcl": "A",
+      "population": 176820,
+      "countryCode": "LU",
+      "name": "Esch-sur-Alzette",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "ES"
+      },
+      "countryName": "Luxembourg",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Esch-sur-Alzette",
+      "lat": "49.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "GR",
+      "lng": "6.34307",
+      "geonameId": 2960514,
+      "toponymName": "Grevenmacher",
+      "countryId": "2960313",
+      "fcl": "A",
+      "population": 3888,
+      "countryCode": "LU",
+      "name": "Grevenmacher",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "GR"
+      },
+      "countryName": "Luxembourg",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Grevenmacher",
+      "lat": "49.68341",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "LU",
+      "lng": "6.17289",
+      "geonameId": 2960315,
+      "toponymName": "Luxembourg",
+      "countryId": "2960313",
+      "fcl": "A",
+      "population": 182607,
+      "countryCode": "LU",
+      "name": "Luxembourg",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "LU"
+      },
+      "countryName": "Luxembourg",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Luxembourg",
+      "lat": "49.61427",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "ME",
+      "lng": "6.12717",
+      "geonameId": 2960275,
+      "toponymName": "Mersch",
+      "countryId": "2960313",
+      "fcl": "A",
+      "population": 24212,
+      "countryCode": "LU",
+      "name": "Mersch",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "ME"
+      },
+      "countryName": "Luxembourg",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Mersch",
+      "lat": "49.75636",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "RD",
+      "lng": "5.88731",
+      "geonameId": 2960161,
+      "toponymName": "Redange",
+      "countryId": "2960313",
+      "fcl": "A",
+      "population": 14470,
+      "countryCode": "LU",
+      "name": "Redange",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "RD"
+      },
+      "countryName": "Luxembourg",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Redange",
+      "lat": "49.79716",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "RM",
+      "lng": "6.31779",
+      "geonameId": 2960152,
+      "toponymName": "Remich",
+      "countryId": "2960313",
+      "fcl": "A",
+      "population": 17882,
+      "countryCode": "LU",
+      "name": "Remich",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "RM"
+      },
+      "countryName": "Luxembourg",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Remich",
+      "lat": "49.54323",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "VD",
+      "lng": "6.16618",
+      "geonameId": 2960020,
+      "toponymName": "Vianden",
+      "countryId": "2960313",
+      "fcl": "A",
+      "population": 3147,
+      "countryCode": "LU",
+      "name": "Vianden",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "VD"
+      },
+      "countryName": "Luxembourg",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Vianden",
+      "lat": "49.93256",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "WI",
+      "lng": "5.907",
+      "geonameId": 2959975,
+      "toponymName": "Wiltz",
+      "countryId": "2960313",
+      "fcl": "A",
+      "population": 16735,
+      "countryCode": "LU",
+      "name": "Wiltz",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "WI"
+      },
+      "countryName": "Luxembourg",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Wiltz",
+      "lat": "49.94698",
+      "fcode": "ADM1"
+    }
+  ]
+}

@@ -1,0 +1,368 @@
+{
+  "totalResultsCount": 18,
+  "geonames": [
+    {
+      "adminCode1": "HCW",
+      "lng": "114.14486",
+      "geonameId": 7533598,
+      "toponymName": "Central and Western District",
+      "countryId": "1819730",
+      "fcl": "A",
+      "population": 251519,
+      "countryCode": "HK",
+      "name": "Central and Western District",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "HCW"
+      },
+      "countryName": "Hong Kong",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Central and Western",
+      "lat": "22.28219",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "HEA",
+      "lng": "114.22519",
+      "geonameId": 7533608,
+      "toponymName": "Eastern",
+      "countryId": "1819730",
+      "fcl": "A",
+      "population": 587690,
+      "countryCode": "HK",
+      "name": "Eastern",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "HEA"
+      },
+      "countryName": "Hong Kong",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Eastern",
+      "lat": "22.27722",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "NIS",
+      "lng": "113.96038",
+      "geonameId": 1819708,
+      "toponymName": "Islands District",
+      "countryId": "1819730",
+      "fcl": "A",
+      "population": 140188,
+      "countryCode": "HK",
+      "name": "Islands District",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "NIS"
+      },
+      "countryName": "Hong Kong",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Islands",
+      "lat": "22.26382",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "KKC",
+      "lng": "114.19121",
+      "geonameId": 7533612,
+      "toponymName": "Kowloon City",
+      "countryId": "1819730",
+      "fcl": "A",
+      "population": 362501,
+      "countryCode": "HK",
+      "name": "Kowloon City",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "KKC"
+      },
+      "countryName": "Hong Kong",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Kowloon City",
+      "lat": "22.32866",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "NKT",
+      "lng": "114.10004",
+      "geonameId": 7533615,
+      "toponymName": "Kwai Tsing",
+      "countryId": "1819730",
+      "fcl": "A",
+      "population": 523300,
+      "countryCode": "HK",
+      "name": "Kwai Tsing",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "NKT"
+      },
+      "countryName": "Hong Kong",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Kwai Tsing",
+      "lat": "22.35288",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "KKT",
+      "lng": "114.22581",
+      "geonameId": 7533614,
+      "toponymName": "Kwun Tong",
+      "countryId": "1819730",
+      "fcl": "A",
+      "population": 587423,
+      "numberOfChildren": 1,
+      "countryCode": "HK",
+      "name": "Kwun Tong",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "KKT"
+      },
+      "countryName": "Hong Kong",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Kwun Tong",
+      "lat": "22.31326",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "NNO",
+      "lng": "114.13812",
+      "geonameId": 7533617,
+      "toponymName": "North",
+      "countryId": "1819730",
+      "fcl": "A",
+      "population": 280730,
+      "countryCode": "HK",
+      "name": "North",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "NNO"
+      },
+      "countryName": "Hong Kong",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "North",
+      "lat": "22.49471",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "NSK",
+      "lng": "114.27017",
+      "geonameId": 1819049,
+      "toponymName": "Sai Kung District",
+      "countryId": "1819730",
+      "fcl": "A",
+      "population": 406442,
+      "numberOfChildren": 2,
+      "countryCode": "HK",
+      "name": "Sai Kung District",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "NSK"
+      },
+      "countryName": "Hong Kong",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Sai Kung",
+      "lat": "22.38198",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "NST",
+      "lng": "114.19534",
+      "geonameId": 7533618,
+      "toponymName": "Sha Tin",
+      "countryId": "1819730",
+      "fcl": "A",
+      "population": 630273,
+      "numberOfChildren": 2,
+      "countryCode": "HK",
+      "name": "Sha Tin",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "NST"
+      },
+      "countryName": "Hong Kong",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Sha Tin",
+      "lat": "22.38715",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "KSS",
+      "lng": "114.1625",
+      "geonameId": 7533611,
+      "toponymName": "Sham Shui Po",
+      "countryId": "1819730",
+      "fcl": "A",
+      "population": 365540,
+      "countryCode": "HK",
+      "name": "Sham Shui Po",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "KSS"
+      },
+      "countryName": "Hong Kong",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Sham Shui Po",
+      "lat": "22.32989",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "HSO",
+      "lng": "114.20769",
+      "geonameId": 7533609,
+      "toponymName": "Southern",
+      "countryId": "1819730",
+      "fcl": "A",
+      "population": 275162,
+      "countryCode": "HK",
+      "name": "Southern",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "HSO"
+      },
+      "countryName": "Hong Kong",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Southern",
+      "lat": "22.24112",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "NTP",
+      "lng": "114.1654",
+      "geonameId": 1818672,
+      "toponymName": "Tai Po District",
+      "countryId": "1819730",
+      "fcl": "A",
+      "population": 293542,
+      "countryCode": "HK",
+      "name": "Tai Po District",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "NTP"
+      },
+      "countryName": "Hong Kong",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Tai Po",
+      "lat": "22.43995",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "NTW",
+      "lng": "114.10598",
+      "geonameId": 1818458,
+      "toponymName": "Tsuen Wan District",
+      "countryId": "1819730",
+      "fcl": "A",
+      "population": 288728,
+      "countryCode": "HK",
+      "name": "Tsuen Wan District",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "NTW"
+      },
+      "countryName": "Hong Kong",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Tsuen Wan",
+      "lat": "22.37908",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "NTM",
+      "lng": "113.96792",
+      "geonameId": 7533616,
+      "toponymName": "Tuen Mun",
+      "countryId": "1819730",
+      "fcl": "A",
+      "population": 502035,
+      "countryCode": "HK",
+      "name": "Tuen Mun",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "NTM"
+      },
+      "countryName": "Hong Kong",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Tuen Mun",
+      "lat": "22.39161",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "HWC",
+      "lng": "114.17232",
+      "geonameId": 7533607,
+      "toponymName": "Wan Chai",
+      "countryId": "1819730",
+      "fcl": "A",
+      "population": 155196,
+      "countryCode": "HK",
+      "name": "Wan Chai",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "HWC"
+      },
+      "countryName": "Hong Kong",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Wan Chai",
+      "lat": "22.27702",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "KWT",
+      "lng": "114.19302",
+      "geonameId": 7533613,
+      "toponymName": "Wong Tai Sin",
+      "countryId": "1819730",
+      "fcl": "A",
+      "population": 423521,
+      "countryCode": "HK",
+      "name": "Wong Tai Sin",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "KWT"
+      },
+      "countryName": "Hong Kong",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Wong Tai Sin",
+      "lat": "22.34299",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "KYT",
+      "lng": "114.16923",
+      "geonameId": 7533610,
+      "toponymName": "Yau Tsim Mong",
+      "countryId": "1819730",
+      "fcl": "A",
+      "population": 280548,
+      "countryCode": "HK",
+      "name": "Yau Tsim Mong",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "KYT"
+      },
+      "countryName": "Hong Kong",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Yau Tsim Mong",
+      "lat": "22.31327",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "NYL",
+      "lng": "114.05",
+      "geonameId": 1818224,
+      "toponymName": "Yuen Long District",
+      "countryId": "1819730",
+      "fcl": "A",
+      "population": 534192,
+      "countryCode": "HK",
+      "name": "Yuen Long District",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "NYL"
+      },
+      "countryName": "Hong Kong",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Yuen Long",
+      "lat": "22.41667",
+      "fcode": "ADM1"
+    }
+  ]
+}

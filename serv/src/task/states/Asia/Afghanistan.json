@@ -1,0 +1,685 @@
+{
+  "totalResultsCount": 34,
+  "geonames": [
+    {
+      "adminCode1": "01",
+      "lng": "72",
+      "geonameId": 1147745,
+      "toponymName": "Badakhshān",
+      "countryId": "1149361",
+      "fcl": "A",
+      "population": 1062937,
+      "countryCode": "AF",
+      "name": "Badakhshan",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "BDS"
+      },
+      "countryName": "Afghanistan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Badakhshan",
+      "lat": "36.75",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "02",
+      "lng": "63.75",
+      "geonameId": 1147707,
+      "toponymName": "Bādghīs",
+      "countryId": "1149361",
+      "fcl": "A",
+      "population": 792155,
+      "countryCode": "AF",
+      "name": "Badghis",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "BDG"
+      },
+      "countryName": "Afghanistan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Badghis",
+      "lat": "35",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "03",
+      "lng": "69",
+      "geonameId": 1147537,
+      "toponymName": "Wilāyat-e Baghlān",
+      "countryId": "1149361",
+      "fcl": "A",
+      "population": 872234,
+      "countryCode": "AF",
+      "name": "Baghlan",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "BGL"
+      },
+      "countryName": "Afghanistan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Baghlan",
+      "lat": "35.75",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "30",
+      "lng": "67",
+      "geonameId": 1147288,
+      "toponymName": "Balkh",
+      "countryId": "1149361",
+      "fcl": "A",
+      "population": 1245100,
+      "countryCode": "AF",
+      "name": "Balkh",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "BAL"
+      },
+      "countryName": "Afghanistan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Balkh",
+      "lat": "36.75",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "05",
+      "lng": "67.25",
+      "geonameId": 1147239,
+      "toponymName": "Wilāyat-e Bāmyān",
+      "countryId": "1149361",
+      "fcl": "A",
+      "population": 484648,
+      "countryCode": "AF",
+      "name": "Bamyan",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "BAM"
+      },
+      "countryName": "Afghanistan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Bamyan",
+      "lat": "34.75",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "41",
+      "lng": "66.25",
+      "geonameId": 6957553,
+      "toponymName": "Daykundi Province",
+      "countryId": "1149361",
+      "fcl": "A",
+      "population": 440000,
+      "countryCode": "AF",
+      "name": "Daykundi",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "DAY"
+      },
+      "countryName": "Afghanistan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Daykundi",
+      "lat": "33.75",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "06",
+      "lng": "62.5",
+      "geonameId": 1142263,
+      "toponymName": "Farāh",
+      "countryId": "1149361",
+      "fcl": "A",
+      "population": 470939,
+      "countryCode": "AF",
+      "name": "Farah",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "FRA"
+      },
+      "countryName": "Afghanistan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Farah",
+      "lat": "32.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "07",
+      "lng": "64.83333",
+      "geonameId": 1142226,
+      "toponymName": "Faryab Province",
+      "countryId": "1149361",
+      "fcl": "A",
+      "population": 913866,
+      "countryCode": "AF",
+      "name": "Faryab",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "FYB"
+      },
+      "countryName": "Afghanistan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Faryab",
+      "lat": "36.25",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "08",
+      "lng": "67.75",
+      "geonameId": 1141268,
+      "toponymName": "Wilāyat-e Ghaznī",
+      "countryId": "1149361",
+      "fcl": "A",
+      "population": 1168800,
+      "countryCode": "AF",
+      "name": "Ghazni",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "GHA"
+      },
+      "countryName": "Afghanistan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Ghazni",
+      "lat": "33.33333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "09",
+      "lng": "65",
+      "geonameId": 1141103,
+      "toponymName": "Wilāyat-e Ghōr",
+      "countryId": "1149361",
+      "fcl": "A",
+      "population": 657200,
+      "countryCode": "AF",
+      "name": "Ghowr",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "GHO"
+      },
+      "countryName": "Afghanistan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Ghowr",
+      "lat": "34",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "10",
+      "lng": "64",
+      "geonameId": 1140043,
+      "toponymName": "Helmand",
+      "countryId": "1149361",
+      "fcl": "A",
+      "population": 925666,
+      "countryCode": "AF",
+      "name": "Helmand",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "HEL"
+      },
+      "countryName": "Afghanistan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Helmand",
+      "lat": "31",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "11",
+      "lng": "62",
+      "geonameId": 1140025,
+      "toponymName": "Herāt",
+      "countryId": "1149361",
+      "fcl": "A",
+      "population": 1382139,
+      "countryCode": "AF",
+      "name": "Herat",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "HER"
+      },
+      "countryName": "Afghanistan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Herat",
+      "lat": "34.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "31",
+      "lng": "65.83333",
+      "geonameId": 1139049,
+      "toponymName": "Wilāyat-e Jowzjān",
+      "countryId": "1149361",
+      "fcl": "A",
+      "population": 747618,
+      "countryCode": "AF",
+      "name": "Jowzjan",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "JOW"
+      },
+      "countryName": "Afghanistan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Jowzjan",
+      "lat": "36.83333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "13",
+      "lng": "69.41667",
+      "geonameId": 1138957,
+      "toponymName": "Wilāyat-e Kābul",
+      "countryId": "1149361",
+      "fcl": "A",
+      "population": 3138338,
+      "countryCode": "AF",
+      "name": "Kabul",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "KAB"
+      },
+      "countryName": "Afghanistan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Kabul",
+      "lat": "34.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "23",
+      "lng": "65.75",
+      "geonameId": 1138335,
+      "toponymName": "Kandahār",
+      "countryId": "1149361",
+      "fcl": "A",
+      "population": 1665487,
+      "countryCode": "AF",
+      "name": "Kandahar",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "KAN"
+      },
+      "countryName": "Afghanistan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Kandahar",
+      "lat": "31",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "14",
+      "lng": "69.58333",
+      "geonameId": 1138255,
+      "toponymName": "Wilāyat-e Kāpīsā",
+      "countryId": "1149361",
+      "fcl": "A",
+      "population": 472584,
+      "countryCode": "AF",
+      "name": "Kapisa",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "KAP"
+      },
+      "countryName": "Afghanistan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Kapisa",
+      "lat": "35",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "37",
+      "lng": "69.88333",
+      "geonameId": 1444362,
+      "toponymName": "Velāyat-e Khowst",
+      "countryId": "1149361",
+      "fcl": "A",
+      "population": 283283,
+      "countryCode": "AF",
+      "name": "Khost",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "KHO"
+      },
+      "countryName": "Afghanistan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Khowst",
+      "lat": "33.38333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "34",
+      "lng": "71.13333",
+      "geonameId": 1135702,
+      "toponymName": "Wilāyat-e Kunaṟ",
+      "countryId": "1149361",
+      "fcl": "A",
+      "population": 562411,
+      "countryCode": "AF",
+      "name": "Kunar",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "KNR"
+      },
+      "countryName": "Afghanistan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Kunar",
+      "lat": "34.95",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "24",
+      "lng": "68.75",
+      "geonameId": 1135690,
+      "toponymName": "Kunduz",
+      "countryId": "1149361",
+      "fcl": "A",
+      "population": 718823,
+      "countryCode": "AF",
+      "name": "Kunduz",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "KDZ"
+      },
+      "countryName": "Afghanistan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Kunduz",
+      "lat": "36.75",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "35",
+      "lng": "70.18333",
+      "geonameId": 1135022,
+      "toponymName": "Wilāyat-e Laghmān",
+      "countryId": "1149361",
+      "fcl": "A",
+      "population": 651326,
+      "countryCode": "AF",
+      "name": "Laghman",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "LAG"
+      },
+      "countryName": "Afghanistan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Laghman",
+      "lat": "34.78333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "17",
+      "lng": "69.25",
+      "geonameId": 1134561,
+      "toponymName": "Wilāyat-e Lōgar",
+      "countryId": "1149361",
+      "fcl": "A",
+      "population": 373100,
+      "countryCode": "AF",
+      "name": "Logar",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "LOG"
+      },
+      "countryName": "Afghanistan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Logar",
+      "lat": "34",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "18",
+      "lng": "70.41667",
+      "geonameId": 1132366,
+      "toponymName": "Nangarhār",
+      "countryId": "1149361",
+      "fcl": "A",
+      "population": 1538444,
+      "countryCode": "AF",
+      "name": "Nangarhar",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "NAN"
+      },
+      "countryName": "Afghanistan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Nangarhar",
+      "lat": "34.33333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "19",
+      "lng": "62.5",
+      "geonameId": 1131821,
+      "toponymName": "Wilāyat-e Nīmrōz",
+      "countryId": "1149361",
+      "fcl": "A",
+      "population": 234086,
+      "countryCode": "AF",
+      "name": "Nimroz",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "NIM"
+      },
+      "countryName": "Afghanistan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Nimroz",
+      "lat": "31",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "38",
+      "lng": "70.83333",
+      "geonameId": 1444363,
+      "toponymName": "Velāyat-e Nūrestān",
+      "countryId": "1149361",
+      "fcl": "A",
+      "population": 130000,
+      "countryCode": "AF",
+      "name": "Nuristan",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "NUR"
+      },
+      "countryName": "Afghanistan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Nuristan",
+      "lat": "35.3",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "39",
+      "lng": "66",
+      "geonameId": 1131461,
+      "toponymName": "Uruzgān",
+      "countryId": "1149361",
+      "fcl": "A",
+      "population": 301867,
+      "countryCode": "AF",
+      "name": "Oruzgan",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "URU"
+      },
+      "countryName": "Afghanistan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Oruzgan",
+      "lat": "32.83333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "36",
+      "lng": "69.33333",
+      "geonameId": 1131257,
+      "toponymName": "Wilāyat-e Paktiyā",
+      "countryId": "1149361",
+      "fcl": "A",
+      "population": 503572,
+      "countryCode": "AF",
+      "name": "Paktia",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "PIA"
+      },
+      "countryName": "Afghanistan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Paktia",
+      "lat": "33.66667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "29",
+      "lng": "68.75",
+      "geonameId": 1131256,
+      "toponymName": "Wilāyat-e Paktīkā",
+      "countryId": "1149361",
+      "fcl": "A",
+      "population": 476740,
+      "countryCode": "AF",
+      "name": "Paktika",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "PKA"
+      },
+      "countryName": "Afghanistan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Paktika",
+      "lat": "32.41667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "42",
+      "lng": "69.98291",
+      "geonameId": 6957555,
+      "toponymName": "Panjshir",
+      "countryId": "1149361",
+      "fcl": "A",
+      "population": 146100,
+      "countryCode": "AF",
+      "name": "Panjshir",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "PAN"
+      },
+      "countryName": "Afghanistan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Panjshir",
+      "lat": "35.40248",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "40",
+      "lng": "68.91667",
+      "geonameId": 1131054,
+      "toponymName": "Parwān",
+      "countryId": "1149361",
+      "fcl": "A",
+      "population": 786152,
+      "countryCode": "AF",
+      "name": "Parwan",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "PAR"
+      },
+      "countryName": "Afghanistan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Parwan",
+      "lat": "35",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "32",
+      "lng": "67.66667",
+      "geonameId": 1127766,
+      "toponymName": "Samangān",
+      "countryId": "1149361",
+      "fcl": "A",
+      "population": 599331,
+      "countryCode": "AF",
+      "name": "Samangan",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SAM"
+      },
+      "countryName": "Afghanistan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Samangan",
+      "lat": "36",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "33",
+      "lng": "66.16667",
+      "geonameId": 1127106,
+      "toponymName": "Sar-e Pul",
+      "countryId": "1149361",
+      "fcl": "A",
+      "population": 727277,
+      "countryCode": "AF",
+      "name": "Sar-e Pul",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SAR"
+      },
+      "countryName": "Afghanistan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Sar-e Pol",
+      "lat": "35.83333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "26",
+      "lng": "69.75",
+      "geonameId": 1123230,
+      "toponymName": "Wilāyat-e Takhār",
+      "countryId": "1149361",
+      "fcl": "A",
+      "population": 933700,
+      "countryCode": "AF",
+      "name": "Takhar",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "TAK"
+      },
+      "countryName": "Afghanistan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Takhar",
+      "lat": "36.66667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "27",
+      "lng": "68",
+      "geonameId": 1121863,
+      "toponymName": "Wardak",
+      "countryId": "1149361",
+      "fcl": "A",
+      "population": 342048,
+      "countryCode": "AF",
+      "name": "Wardak",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "WAR"
+      },
+      "countryName": "Afghanistan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Vardak",
+      "lat": "34.25",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "28",
+      "lng": "67.25",
+      "geonameId": 1121143,
+      "toponymName": "Wilāyat-e Zābul",
+      "countryId": "1149361",
+      "fcl": "A",
+      "population": 444585,
+      "countryCode": "AF",
+      "name": "Zabul",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "ZAB"
+      },
+      "countryName": "Afghanistan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Zabul",
+      "lat": "32.25",
+      "fcode": "ADM1"
+    }
+  ]
+}

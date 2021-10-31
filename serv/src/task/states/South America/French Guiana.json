@@ -1,0 +1,22 @@
+{
+  "totalResultsCount": 1,
+  "geonames": [
+    {
+      "adminCode1": "GF",
+      "lng": "-52.99856",
+      "geonameId": 6690605,
+      "toponymName": "Guyane",
+      "countryId": "3381670",
+      "fcl": "A",
+      "population": 213031,
+      "countryCode": "GF",
+      "name": "Guyane",
+      "fclName": "country, state, region,...",
+      "countryName": "French Guiana",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Guyane",
+      "lat": "3.99929",
+      "fcode": "ADM1"
+    }
+  ]
+}

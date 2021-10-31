@@ -1,0 +1,65 @@
+{
+  "totalResultsCount": 3,
+  "geonames": [
+    {
+      "adminCode1": "01",
+      "lng": "-14.3625",
+      "geonameId": 2411430,
+      "toponymName": "Ascension",
+      "countryId": "3370751",
+      "fcl": "A",
+      "population": 1035,
+      "countryCode": "SH",
+      "name": "Ascension",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "AC"
+      },
+      "countryName": "Saint Helena",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Ascension",
+      "lat": "-7.94167",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "02",
+      "lng": "-5.71817",
+      "geonameId": 6930057,
+      "toponymName": "Saint Helena",
+      "countryId": "3370751",
+      "fcl": "A",
+      "population": 4255,
+      "countryCode": "SH",
+      "name": "St. Helena",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "HL"
+      },
+      "countryName": "Saint Helena",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Saint Helena",
+      "lat": "-15.93183",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "03",
+      "lng": "-12.28343",
+      "geonameId": 3370684,
+      "toponymName": "Tristan da Cunha",
+      "countryId": "3370751",
+      "fcl": "A",
+      "population": 271,
+      "countryCode": "SH",
+      "name": "Tristan da Cunha",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "TA"
+      },
+      "countryName": "Saint Helena",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Tristan da Cunha",
+      "lat": "-37.11284",
+      "fcode": "ADM1"
+    }
+  ]
+}

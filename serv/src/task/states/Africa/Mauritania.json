@@ -1,0 +1,305 @@
+{
+  "totalResultsCount": 15,
+  "geonames": [
+    {
+      "adminCode1": "07",
+      "lng": "-10.25",
+      "geonameId": 2381972,
+      "toponymName": "Adrar",
+      "countryId": "2378080",
+      "fcl": "A",
+      "population": 59670,
+      "countryCode": "MR",
+      "name": "Adrar",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "07"
+      },
+      "countryName": "Mauritania",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Adrar",
+      "lat": "20.75",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "03",
+      "lng": "-11.58333",
+      "geonameId": 2381344,
+      "toponymName": "Assaba",
+      "countryId": "2378080",
+      "fcl": "A",
+      "population": 285142,
+      "countryCode": "MR",
+      "name": "Assaba",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "03"
+      },
+      "countryName": "Mauritania",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Assaba",
+      "lat": "16.58333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "05",
+      "lng": "-13.4",
+      "geonameId": 2380635,
+      "toponymName": "Brakna",
+      "countryId": "2378080",
+      "fcl": "A",
+      "population": 256827,
+      "countryCode": "MR",
+      "name": "Brakna",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "05"
+      },
+      "countryName": "Mauritania",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Brakna",
+      "lat": "17.25",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "08",
+      "lng": "-16.16667",
+      "geonameId": 2380426,
+      "toponymName": "Dakhlet Nouadhibou",
+      "countryId": "2378080",
+      "fcl": "A",
+      "population": 80181,
+      "countryCode": "MR",
+      "name": "Dakhlet-Nouadhibou",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "08"
+      },
+      "countryName": "Mauritania",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Dakhlet Nouadhibou",
+      "lat": "20.71667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "04",
+      "lng": "-12.83333",
+      "geonameId": 2379384,
+      "toponymName": "Gorgol",
+      "countryId": "2378080",
+      "fcl": "A",
+      "population": 274337,
+      "countryCode": "MR",
+      "name": "Gorgol",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "04"
+      },
+      "countryName": "Mauritania",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Gorgol",
+      "lat": "16",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "10",
+      "lng": "-12.13333",
+      "geonameId": 2379216,
+      "toponymName": "Guidimaka",
+      "countryId": "2378080",
+      "fcl": "A",
+      "population": 219674,
+      "countryCode": "MR",
+      "name": "Guidimaka",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "10"
+      },
+      "countryName": "Mauritania",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Guidimaka",
+      "lat": "15.38333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "01",
+      "lng": "-7",
+      "geonameId": 2379025,
+      "toponymName": "Hodh ech Chargui",
+      "countryId": "2378080",
+      "fcl": "A",
+      "population": 298625,
+      "countryCode": "MR",
+      "name": "Hodh Ech Chargi",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "01"
+      },
+      "countryName": "Mauritania",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Hodh Ech Chargi",
+      "lat": "18.88333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "02",
+      "lng": "-9.83333",
+      "geonameId": 2379024,
+      "toponymName": "Hodh El Gharbi",
+      "countryId": "2378080",
+      "fcl": "A",
+      "population": 243246,
+      "countryCode": "MR",
+      "name": "Hodh El Gharbi",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "02"
+      },
+      "countryName": "Mauritania",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Hodh El Gharbi",
+      "lat": "16.58333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "12",
+      "lng": "-15.08333",
+      "geonameId": 2378903,
+      "toponymName": "Inchiri",
+      "countryId": "2378080",
+      "fcl": "A",
+      "population": 11500,
+      "countryCode": "MR",
+      "name": "Inchiri",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "12"
+      },
+      "countryName": "Mauritania",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Inchiri",
+      "lat": "20",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "14",
+      "lng": "-15.91667",
+      "geonameId": 11496392,
+      "toponymName": "Nouakchott Nord",
+      "countryId": "2378080",
+      "fcl": "A",
+      "population": 367000,
+      "countryCode": "MR",
+      "name": "Nouakchott Nord",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "14"
+      },
+      "countryName": "Mauritania",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Nouakchott Nord",
+      "lat": "18.23333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "13",
+      "lng": "-15.98333",
+      "geonameId": 11496391,
+      "toponymName": "Nouakchott Ouest",
+      "countryId": "2378080",
+      "fcl": "A",
+      "population": 165000,
+      "countryCode": "MR",
+      "name": "Nouakchott Ouest",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "13"
+      },
+      "countryName": "Mauritania",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Nouakchott Ouest",
+      "lat": "18.26667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "15",
+      "lng": "-15.95",
+      "geonameId": 11496393,
+      "toponymName": "Nouakchott Sud",
+      "countryId": "2378080",
+      "fcl": "A",
+      "population": 425000,
+      "countryCode": "MR",
+      "name": "Nouakchott Sud",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "15"
+      },
+      "countryName": "Mauritania",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Nouakchott Sud",
+      "lat": "17.96667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "09",
+      "lng": "-10.33333",
+      "geonameId": 2376551,
+      "toponymName": "Tagant",
+      "countryId": "2378080",
+      "fcl": "A",
+      "population": 64808,
+      "countryCode": "MR",
+      "name": "Tagant",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "09"
+      },
+      "countryName": "Mauritania",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Tagant",
+      "lat": "18.66667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "11",
+      "lng": "-9.5",
+      "geonameId": 2375989,
+      "toponymName": "Tiris Zemmour",
+      "countryId": "2378080",
+      "fcl": "A",
+      "population": 63306,
+      "countryCode": "MR",
+      "name": "Tiris-Zemmour",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "11"
+      },
+      "countryName": "Mauritania",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Tiris Zemmour",
+      "lat": "24.25",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "06",
+      "lng": "-14.65878",
+      "geonameId": 2375742,
+      "toponymName": "Wilaya du Trarza",
+      "countryId": "2378080",
+      "fcl": "A",
+      "population": 269946,
+      "countryCode": "MR",
+      "name": "Trarza",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "06"
+      },
+      "countryName": "Mauritania",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Trarza",
+      "lat": "17.8665",
+      "fcode": "ADM1"
+    }
+  ]
+}

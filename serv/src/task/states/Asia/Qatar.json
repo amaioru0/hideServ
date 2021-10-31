@@ -1,0 +1,165 @@
+{
+  "totalResultsCount": 8,
+  "geonames": [
+    {
+      "adminCode1": "04",
+      "lng": "51.31667",
+      "geonameId": 389465,
+      "toponymName": "Baladīyat al Khawr wa adh Dhakhīrah",
+      "countryId": "289688",
+      "fcl": "A",
+      "population": 33690,
+      "countryCode": "QA",
+      "name": "Al Khor",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "KH"
+      },
+      "countryName": "Qatar",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Al Khor",
+      "lat": "25.76667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "10",
+      "lng": "51.33333",
+      "geonameId": 389472,
+      "toponymName": "Al Wakrah",
+      "countryId": "289688",
+      "fcl": "A",
+      "population": 31546,
+      "countryCode": "QA",
+      "name": "Al Wakrah",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "WA"
+      },
+      "countryName": "Qatar",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Al Wakrah",
+      "lat": "24.85",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "14",
+      "lng": "50.98755",
+      "geonameId": 11777514,
+      "toponymName": "Al-Shahaniya",
+      "countryId": "289688",
+      "fcl": "A",
+      "population": 187571,
+      "countryCode": "QA",
+      "name": "Al-Shahaniya",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SH"
+      },
+      "countryName": "Qatar",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Al-Shahaniya",
+      "lat": "25.37381",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "09",
+      "lng": "51.33333",
+      "geonameId": 389467,
+      "toponymName": "Baladīyat Umm Şalāl",
+      "countryId": "289688",
+      "fcl": "A",
+      "population": 33909,
+      "countryCode": "QA",
+      "name": "Baladīyat Umm Şalāl",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "US"
+      },
+      "countryName": "Qatar",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Baladīyat Umm Şalāl",
+      "lat": "25.46667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "01",
+      "lng": "51.5",
+      "geonameId": 389470,
+      "toponymName": "Baladīyat ad Dawḩah",
+      "countryId": "289688",
+      "fcl": "A",
+      "population": 344939,
+      "countryCode": "QA",
+      "name": "Baladīyat ad Dawḩah",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "DA"
+      },
+      "countryName": "Qatar",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Baladīyat ad Dawḩah",
+      "lat": "25.3",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "06",
+      "lng": "51",
+      "geonameId": 389469,
+      "toponymName": "Baladīyat ar Rayyān",
+      "countryId": "289688",
+      "fcl": "A",
+      "population": 286514,
+      "countryCode": "QA",
+      "name": "Baladīyat ar Rayyān",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "RA"
+      },
+      "countryName": "Qatar",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Baladīyat ar Rayyān",
+      "lat": "24.91667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "08",
+      "lng": "51.2",
+      "geonameId": 389462,
+      "toponymName": "Baladīyat ash Shamāl",
+      "countryId": "289688",
+      "fcl": "A",
+      "population": 5510,
+      "countryCode": "QA",
+      "name": "Baladīyat ash Shamāl",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "MS"
+      },
+      "countryName": "Qatar",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Madīnat ash Shamāl",
+      "lat": "25.98333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "13",
+      "lng": "51.45",
+      "geonameId": 8030540,
+      "toponymName": "Baladīyat az̧ Z̧a‘āyin",
+      "countryId": "289688",
+      "fcl": "A",
+      "population": 43176,
+      "countryCode": "QA",
+      "name": "Baladīyat az̧ Z̧a‘āyin",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "ZA"
+      },
+      "countryName": "Qatar",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Baladīyat az̧ Z̧a‘āyin",
+      "lat": "25.51667",
+      "fcode": "ADM1"
+    }
+  ]
+}

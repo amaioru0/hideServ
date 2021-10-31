@@ -1,0 +1,162 @@
+{
+  "totalResultsCount": 8,
+  "geonames": [
+    {
+      "adminCode1": "03",
+      "lng": "5.63558",
+      "geonameId": 2310307,
+      "toponymName": "Provincia de Annobón",
+      "countryId": "2309096",
+      "fcl": "A",
+      "population": 4433,
+      "countryCode": "GQ",
+      "name": "Annobon",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "AN"
+      },
+      "countryName": "Equatorial Guinea",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Annobon",
+      "lat": "-1.43829",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "04",
+      "lng": "8.78333",
+      "geonameId": 2566978,
+      "toponymName": "Provincia de Bioko Norte",
+      "countryId": "2309096",
+      "fcl": "A",
+      "population": 231629,
+      "countryCode": "GQ",
+      "name": "Bioko Norte",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "BN"
+      },
+      "countryName": "Equatorial Guinea",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Bioko Norte",
+      "lat": "3.68333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "05",
+      "lng": "8.66667",
+      "geonameId": 2566979,
+      "toponymName": "Provincia de Bioko Sur",
+      "countryId": "2309096",
+      "fcl": "A",
+      "population": 25972,
+      "countryCode": "GQ",
+      "name": "Bioko Sur",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "BS"
+      },
+      "countryName": "Equatorial Guinea",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Bioko Sur",
+      "lat": "3.41667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "06",
+      "lng": "10.41667",
+      "geonameId": 2566980,
+      "toponymName": "Provincia de Centro Sur",
+      "countryId": "2309096",
+      "fcl": "A",
+      "population": 129620,
+      "countryCode": "GQ",
+      "name": "Centro Sur",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "CS"
+      },
+      "countryName": "Equatorial Guinea",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Centro Sur",
+      "lat": "1.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "10",
+      "lng": "10.82252",
+      "geonameId": 12168385,
+      "toponymName": "Djibloho",
+      "countryId": "2309096",
+      "fcl": "A",
+      "population": 0,
+      "countryCode": "GQ",
+      "name": "Djibloho",
+      "fclName": "country, state, region,...",
+      "countryName": "Equatorial Guinea",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Djibloho",
+      "lat": "1.59358",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "07",
+      "lng": "11",
+      "geonameId": 2566981,
+      "toponymName": "Provincia de Kié-Ntem",
+      "countryId": "2309096",
+      "fcl": "A",
+      "population": 161807,
+      "countryCode": "GQ",
+      "name": "Kié-Ntem",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "KN"
+      },
+      "countryName": "Equatorial Guinea",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Kié-Ntem",
+      "lat": "2.05",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "08",
+      "lng": "9.75",
+      "geonameId": 2566982,
+      "toponymName": "Provincia de Litoral",
+      "countryId": "2309096",
+      "fcl": "A",
+      "population": 300000,
+      "countryCode": "GQ",
+      "name": "Litoral",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "LI"
+      },
+      "countryName": "Equatorial Guinea",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Litoral",
+      "lat": "1.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "09",
+      "lng": "11.1",
+      "geonameId": 2566983,
+      "toponymName": "Provincia de Wele-Nzas",
+      "countryId": "2309096",
+      "fcl": "A",
+      "population": 157000,
+      "countryCode": "GQ",
+      "name": "Wele-Nzas",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "WN"
+      },
+      "countryName": "Equatorial Guinea",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Wele-Nzas",
+      "lat": "1.5",
+      "fcode": "ADM1"
+    }
+  ]
+}

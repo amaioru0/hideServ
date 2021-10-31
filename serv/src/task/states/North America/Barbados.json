@@ -1,0 +1,225 @@
+{
+  "totalResultsCount": 11,
+  "geonames": [
+    {
+      "adminCode1": "01",
+      "lng": "-59.52418",
+      "geonameId": 3373988,
+      "toponymName": "Christ Church",
+      "countryId": "3374084",
+      "fcl": "A",
+      "population": 48119,
+      "countryCode": "BB",
+      "name": "Christ Church",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "01"
+      },
+      "countryName": "Barbados",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Christ Church",
+      "lat": "13.08734",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "02",
+      "lng": "-59.5783",
+      "geonameId": 3373580,
+      "toponymName": "Saint Andrew",
+      "countryId": "3374084",
+      "fcl": "A",
+      "population": 6436,
+      "countryCode": "BB",
+      "name": "Saint Andrew",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "02"
+      },
+      "countryName": "Barbados",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Saint Andrew",
+      "lat": "13.23986",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "03",
+      "lng": "-59.54345",
+      "geonameId": 3373572,
+      "toponymName": "Saint George",
+      "countryId": "3374084",
+      "fcl": "A",
+      "population": 19530,
+      "countryCode": "BB",
+      "name": "Saint George",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "03"
+      },
+      "countryName": "Barbados",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Saint George",
+      "lat": "13.13933",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "04",
+      "lng": "-59.61956",
+      "geonameId": 3373570,
+      "toponymName": "Saint James",
+      "countryId": "3374084",
+      "fcl": "A",
+      "population": 21454,
+      "countryCode": "BB",
+      "name": "Saint James",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "04"
+      },
+      "countryName": "Barbados",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Saint James",
+      "lat": "13.21183",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "05",
+      "lng": "-59.50303",
+      "geonameId": 3373569,
+      "toponymName": "Saint John",
+      "countryId": "3374084",
+      "fcl": "A",
+      "population": 10421,
+      "countryCode": "BB",
+      "name": "Saint John",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "05"
+      },
+      "countryName": "Barbados",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Saint John",
+      "lat": "13.17581",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "06",
+      "lng": "-59.54418",
+      "geonameId": 3373568,
+      "toponymName": "Saint Joseph",
+      "countryId": "3374084",
+      "fcl": "A",
+      "population": 7764,
+      "countryCode": "BB",
+      "name": "Saint Joseph",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "06"
+      },
+      "countryName": "Barbados",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Saint Joseph",
+      "lat": "13.2056",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "07",
+      "lng": "-59.61937",
+      "geonameId": 3373565,
+      "toponymName": "Saint Lucy",
+      "countryId": "3374084",
+      "fcl": "A",
+      "population": 9706,
+      "countryCode": "BB",
+      "name": "Saint Lucy",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "07"
+      },
+      "countryName": "Barbados",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Saint Lucy",
+      "lat": "13.30728",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "08",
+      "lng": "-59.59817",
+      "geonameId": 3373557,
+      "toponymName": "Saint Michael",
+      "countryId": "3374084",
+      "fcl": "A",
+      "population": 99609,
+      "countryCode": "BB",
+      "name": "Saint Michael",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "08"
+      },
+      "countryName": "Barbados",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Saint Michael",
+      "lat": "13.12633",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "09",
+      "lng": "-59.61585",
+      "geonameId": 3373554,
+      "toponymName": "Saint Peter",
+      "countryId": "3374084",
+      "fcl": "A",
+      "population": 11544,
+      "countryCode": "BB",
+      "name": "Saint Peter",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "09"
+      },
+      "countryName": "Barbados",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Saint Peter",
+      "lat": "13.26096",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "10",
+      "lng": "-59.46402",
+      "geonameId": 3373553,
+      "toponymName": "Saint Philip",
+      "countryId": "3374084",
+      "fcl": "A",
+      "population": 20944,
+      "countryCode": "BB",
+      "name": "Saint Philip",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "10"
+      },
+      "countryName": "Barbados",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Saint Philip",
+      "lat": "13.1339",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "11",
+      "lng": "-59.58787",
+      "geonameId": 3373551,
+      "toponymName": "Saint Thomas",
+      "countryId": "3374084",
+      "fcl": "A",
+      "population": 11850,
+      "countryCode": "BB",
+      "name": "Saint Thomas",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "11"
+      },
+      "countryName": "Barbados",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Saint Thomas",
+      "lat": "13.17932",
+      "fcode": "ADM1"
+    }
+  ]
+}

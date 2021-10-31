@@ -1,0 +1,205 @@
+{
+  "totalResultsCount": 10,
+  "geonames": [
+    {
+      "adminCode1": "02",
+      "lng": "-61.36667",
+      "geonameId": 3575632,
+      "toponymName": "Saint Andrew",
+      "countryId": "3575830",
+      "fcl": "A",
+      "population": 11122,
+      "countryCode": "DM",
+      "name": "Saint Andrew",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "02"
+      },
+      "countryName": "Dominica",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Saint Andrew",
+      "lat": "15.56667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "03",
+      "lng": "-61.28333",
+      "geonameId": 3575630,
+      "toponymName": "Saint David",
+      "countryId": "3575830",
+      "fcl": "A",
+      "population": 7014,
+      "countryCode": "DM",
+      "name": "Saint David",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "03"
+      },
+      "countryName": "Dominica",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Saint David",
+      "lat": "15.46667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "04",
+      "lng": "-61.36667",
+      "geonameId": 3575628,
+      "toponymName": "Saint George",
+      "countryId": "3575830",
+      "fcl": "A",
+      "population": 20441,
+      "countryCode": "DM",
+      "name": "Saint George",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "04"
+      },
+      "countryName": "Dominica",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Saint George",
+      "lat": "15.3",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "05",
+      "lng": "-61.45",
+      "geonameId": 3575626,
+      "toponymName": "Saint John",
+      "countryId": "3575830",
+      "fcl": "A",
+      "population": 5010,
+      "countryCode": "DM",
+      "name": "Saint John",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "05"
+      },
+      "countryName": "Dominica",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Saint John",
+      "lat": "15.58333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "06",
+      "lng": "-61.43333",
+      "geonameId": 3575625,
+      "toponymName": "Saint Joseph",
+      "countryId": "3575830",
+      "fcl": "A",
+      "population": 6213,
+      "countryCode": "DM",
+      "name": "Saint Joseph",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "06"
+      },
+      "countryName": "Dominica",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Saint Joseph",
+      "lat": "15.43333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "07",
+      "lng": "-61.36726",
+      "geonameId": 3575622,
+      "toponymName": "Saint Luke",
+      "countryId": "3575830",
+      "fcl": "A",
+      "population": 1603,
+      "countryCode": "DM",
+      "name": "Saint Luke",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "07"
+      },
+      "countryName": "Dominica",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Saint Luke",
+      "lat": "15.25094",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "08",
+      "lng": "-61.36667",
+      "geonameId": 3575621,
+      "toponymName": "Saint Mark",
+      "countryId": "3575830",
+      "fcl": "A",
+      "population": 1904,
+      "countryCode": "DM",
+      "name": "Saint Mark",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "08"
+      },
+      "countryName": "Dominica",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Saint Mark",
+      "lat": "15.21667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "09",
+      "lng": "-61.3",
+      "geonameId": 3575620,
+      "toponymName": "Saint Patrick",
+      "countryId": "3575830",
+      "fcl": "A",
+      "population": 8918,
+      "countryCode": "DM",
+      "name": "Saint Patrick",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "09"
+      },
+      "countryName": "Dominica",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Saint Patrick",
+      "lat": "15.28333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "10",
+      "lng": "-61.38333",
+      "geonameId": 3575619,
+      "toponymName": "Saint Paul",
+      "countryId": "3575830",
+      "fcl": "A",
+      "population": 7515,
+      "countryCode": "DM",
+      "name": "Saint Paul",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "10"
+      },
+      "countryName": "Dominica",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Saint Paul",
+      "lat": "15.35",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "11",
+      "lng": "-61.45",
+      "geonameId": 3575618,
+      "toponymName": "Saint Peter",
+      "countryId": "3575830",
+      "fcl": "A",
+      "population": 1604,
+      "countryCode": "DM",
+      "name": "Saint Peter",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "11"
+      },
+      "countryName": "Dominica",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Saint Peter",
+      "lat": "15.51667",
+      "fcode": "ADM1"
+    }
+  ]
+}

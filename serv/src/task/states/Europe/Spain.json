@@ -1,0 +1,385 @@
+{
+  "totalResultsCount": 19,
+  "geonames": [
+    {
+      "adminCode1": "51",
+      "lng": "-4.58333",
+      "geonameId": 2593109,
+      "toponymName": "Andalusia",
+      "countryId": "2510769",
+      "fcl": "A",
+      "population": 8302923,
+      "countryCode": "ES",
+      "name": "Andalusia",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "AN"
+      },
+      "countryName": "Spain",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Andalusia",
+      "lat": "37.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "52",
+      "lng": "-0.66667",
+      "geonameId": 3336899,
+      "toponymName": "Aragon",
+      "countryId": "2510769",
+      "fcl": "A",
+      "population": 1345473,
+      "countryCode": "ES",
+      "name": "Aragon",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "AR"
+      },
+      "countryName": "Spain",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Aragon",
+      "lat": "41.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "34",
+      "lng": "-6",
+      "geonameId": 3114710,
+      "toponymName": "Principality of Asturias",
+      "countryId": "2510769",
+      "fcl": "A",
+      "population": 1085289,
+      "countryCode": "ES",
+      "name": "Asturias",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "AS"
+      },
+      "countryName": "Spain",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Asturias",
+      "lat": "43.33333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "07",
+      "lng": "2.90314",
+      "geonameId": 2521383,
+      "toponymName": "Comunitat Autònoma de les Illes Balears",
+      "countryId": "2510769",
+      "fcl": "A",
+      "population": 1095426,
+      "countryCode": "ES",
+      "name": "Balearic Islands",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "IB"
+      },
+      "countryName": "Spain",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Balearic Islands",
+      "lat": "39.58876",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "59",
+      "lng": "-2.75",
+      "geonameId": 3336903,
+      "toponymName": "Euskal Autonomia Erkidegoa",
+      "countryId": "2510769",
+      "fcl": "A",
+      "population": 2172175,
+      "countryCode": "ES",
+      "name": "Basque Country",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "PV"
+      },
+      "countryName": "Spain",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Basque Country",
+      "lat": "43",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "53",
+      "lng": "-15.5",
+      "geonameId": 2593110,
+      "toponymName": "Canary Islands",
+      "countryId": "2510769",
+      "fcl": "A",
+      "population": 2103992,
+      "countryCode": "ES",
+      "name": "Canary Islands",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "CN"
+      },
+      "countryName": "Spain",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Canary Islands",
+      "lat": "28",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "39",
+      "lng": "-4.03333",
+      "geonameId": 3336898,
+      "toponymName": "Cantabria",
+      "countryId": "2510769",
+      "fcl": "A",
+      "population": 589235,
+      "countryCode": "ES",
+      "name": "Cantabria",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "CB"
+      },
+      "countryName": "Spain",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Cantabria",
+      "lat": "43.2",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "55",
+      "lng": "-4.25",
+      "geonameId": 3336900,
+      "toponymName": "Castilla y León",
+      "countryId": "2510769",
+      "fcl": "A",
+      "population": 2563521,
+      "countryCode": "ES",
+      "name": "Castille and León",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "CL"
+      },
+      "countryName": "Spain",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Castille and León",
+      "lat": "41.66667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "54",
+      "lng": "-3",
+      "geonameId": 2593111,
+      "toponymName": "Castilla-La Mancha",
+      "countryId": "2510769",
+      "fcl": "A",
+      "population": 2081313,
+      "countryCode": "ES",
+      "name": "Castille-La Mancha",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "CM"
+      },
+      "countryName": "Spain",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Castille-La Mancha",
+      "lat": "39.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "56",
+      "lng": "1.86768",
+      "geonameId": 3336901,
+      "toponymName": "Catalunya",
+      "countryId": "2510769",
+      "fcl": "A",
+      "population": 7475420,
+      "countryCode": "ES",
+      "name": "Catalonia",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "CT"
+      },
+      "countryName": "Spain",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Catalonia",
+      "lat": "41.82046",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "CE",
+      "lng": "-5.3075",
+      "geonameId": 2519582,
+      "toponymName": "Ceuta",
+      "countryId": "2510769",
+      "fcl": "A",
+      "population": 78674,
+      "countryCode": "ES",
+      "name": "Ceuta",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "CE"
+      },
+      "countryName": "Spain",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Ceuta",
+      "lat": "35.89028",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "57",
+      "lng": "-6.16667",
+      "geonameId": 2593112,
+      "toponymName": "Extremadura",
+      "countryId": "2510769",
+      "fcl": "A",
+      "population": 1102410,
+      "countryCode": "ES",
+      "name": "Extremadura",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "EX"
+      },
+      "countryName": "Spain",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Extremadura",
+      "lat": "39.16667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "58",
+      "lng": "-7.86621",
+      "geonameId": 3336902,
+      "toponymName": "Galicia",
+      "countryId": "2510769",
+      "fcl": "A",
+      "population": 2796089,
+      "countryCode": "ES",
+      "name": "Galicia",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "GA"
+      },
+      "countryName": "Spain",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Galicia",
+      "lat": "42.75508",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "27",
+      "lng": "-2.5",
+      "geonameId": 3336897,
+      "toponymName": "La Rioja",
+      "countryId": "2510769",
+      "fcl": "A",
+      "population": 321702,
+      "countryCode": "ES",
+      "name": "La Rioja",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "RI"
+      },
+      "countryName": "Spain",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "La Rioja",
+      "lat": "42.3",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "29",
+      "lng": "-3.69063",
+      "geonameId": 3117732,
+      "toponymName": "Comunidad de Madrid",
+      "countryId": "2510769",
+      "fcl": "A",
+      "population": 6386932,
+      "countryCode": "ES",
+      "name": "Madrid",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "MD"
+      },
+      "countryName": "Spain",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Madrid",
+      "lat": "40.42526",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "ML",
+      "lng": "-2.94434",
+      "geonameId": 6362988,
+      "toponymName": "Melilla",
+      "countryId": "2510769",
+      "fcl": "A",
+      "population": 73460,
+      "countryCode": "ES",
+      "name": "Melilla",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "ML"
+      },
+      "countryName": "Spain",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Melilla",
+      "lat": "35.29215",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "31",
+      "lng": "-1.5",
+      "geonameId": 2513413,
+      "toponymName": "Región de Murcia",
+      "countryId": "2510769",
+      "fcl": "A",
+      "population": 1446520,
+      "countryCode": "ES",
+      "name": "Murcia",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "MC"
+      },
+      "countryName": "Spain",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Murcia",
+      "lat": "38",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "32",
+      "lng": "-1.66667",
+      "geonameId": 3115609,
+      "toponymName": "Navarra",
+      "countryId": "2510769",
+      "fcl": "A",
+      "population": 630578,
+      "countryCode": "ES",
+      "name": "Navarre",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "NC"
+      },
+      "countryName": "Spain",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Navarre",
+      "lat": "42.75",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "60",
+      "lng": "-0.75",
+      "geonameId": 2593113,
+      "toponymName": "Comunitat Valenciana",
+      "countryId": "2510769",
+      "fcl": "A",
+      "population": 5094675,
+      "countryCode": "ES",
+      "name": "Valencia",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "VC"
+      },
+      "countryName": "Spain",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Valencia",
+      "lat": "39.5",
+      "fcode": "ADM1"
+    }
+  ]
+}

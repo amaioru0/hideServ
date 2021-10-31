@@ -1,0 +1,145 @@
+{
+  "totalResultsCount": 7,
+  "geonames": [
+    {
+      "adminCode1": "06",
+      "lng": "73.9104",
+      "geonameId": 1184196,
+      "toponymName": "Azad Jammu and Kashmir",
+      "countryId": "1168579",
+      "fcl": "A",
+      "population": 4567982,
+      "countryCode": "PK",
+      "name": "Azad Jammu and Kashmir",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "JK"
+      },
+      "countryName": "Pakistan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Azad Kashmir",
+      "lat": "33.94718",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "02",
+      "lng": "65.64355",
+      "geonameId": 1183606,
+      "toponymName": "Balochistan",
+      "countryId": "1168579",
+      "fcl": "A",
+      "population": 7706478,
+      "countryCode": "PK",
+      "name": "Balochistan",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "BA"
+      },
+      "countryName": "Pakistan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Balochistan",
+      "lat": "28.47849",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "07",
+      "lng": "75",
+      "geonameId": 1168878,
+      "toponymName": "Gilgit-Baltistan",
+      "countryId": "1168579",
+      "fcl": "A",
+      "population": 1800000,
+      "countryCode": "PK",
+      "name": "Gilgit-Baltistan",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "GB"
+      },
+      "countryName": "Pakistan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Gilgit-Baltistan",
+      "lat": "36",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "08",
+      "lng": "73.13382",
+      "geonameId": 1162015,
+      "toponymName": "Islamabad",
+      "countryId": "1168579",
+      "fcl": "A",
+      "population": 1115396,
+      "countryCode": "PK",
+      "name": "Islamabad",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "IS"
+      },
+      "countryName": "Pakistan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Islamabad",
+      "lat": "33.71039",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "03",
+      "lng": "71.68611",
+      "geonameId": 1168873,
+      "toponymName": "Khyber Pakhtunkhwa Province",
+      "countryId": "1168579",
+      "fcl": "A",
+      "population": 22000000,
+      "countryCode": "PK",
+      "name": "Khyber Pakhtunkhwa",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "KP"
+      },
+      "countryName": "Pakistan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Khyber Pakhtunkhwa",
+      "lat": "33.98306",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "04",
+      "lng": "72.31667",
+      "geonameId": 1167710,
+      "toponymName": "Punjab Province",
+      "countryId": "1168579",
+      "fcl": "A",
+      "population": 85579866,
+      "countryCode": "PK",
+      "name": "Punjab",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "PB"
+      },
+      "countryName": "Pakistan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Punjab",
+      "lat": "30.85",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "05",
+      "lng": "68.76667",
+      "geonameId": 1164807,
+      "toponymName": "Sindh",
+      "countryId": "1168579",
+      "fcl": "A",
+      "population": 35992288,
+      "countryCode": "PK",
+      "name": "Sindh",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SD"
+      },
+      "countryName": "Pakistan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Sindh",
+      "lat": "26.13333",
+      "fcode": "ADM1"
+    }
+  ]
+}

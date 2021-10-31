@@ -1,0 +1,525 @@
+{
+  "totalResultsCount": 26,
+  "geonames": [
+    {
+      "adminCode1": "08",
+      "lng": "14.33333",
+      "geonameId": 2317277,
+      "toponymName": "Province du Kongo Central",
+      "countryId": "203312",
+      "fcl": "A",
+      "population": 3802736,
+      "countryCode": "CD",
+      "name": "Bas-Congo",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "BC"
+      },
+      "countryName": "DR Congo",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Bas-Congo",
+      "lat": "-5.33333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "13",
+      "lng": "24.73333",
+      "geonameId": 219402,
+      "toponymName": "Bas Uele",
+      "countryId": "203312",
+      "fcl": "A",
+      "population": 1093845,
+      "countryCode": "CD",
+      "name": "Bas-Uele",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "BU"
+      },
+      "countryName": "DR Congo",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Bas-Uele",
+      "lat": "2.8",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "02",
+      "lng": "18.93333",
+      "geonameId": 216661,
+      "toponymName": "Province de l’Équateur",
+      "countryId": "203312",
+      "fcl": "A",
+      "population": 7500000,
+      "countryCode": "CD",
+      "name": "Equateur",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "EQ"
+      },
+      "countryName": "DR Congo",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Équateur",
+      "lat": "0.2",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "14",
+      "lng": "27.81667",
+      "geonameId": 11288213,
+      "toponymName": "Province du Haut-Katanga",
+      "countryId": "203312",
+      "fcl": "A",
+      "population": 3960945,
+      "countryCode": "CD",
+      "name": "Haut-Katanga",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "HK"
+      },
+      "countryName": "DR Congo",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Haut-Katanga",
+      "lat": "-10.46667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "15",
+      "lng": "25",
+      "geonameId": 216141,
+      "toponymName": "Haut-Lomani",
+      "countryId": "203312",
+      "fcl": "A",
+      "population": 2540127,
+      "countryCode": "CD",
+      "name": "Haut-Lomami",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "HL"
+      },
+      "countryName": "DR Congo",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Haut-Lomami",
+      "lat": "-8.73333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "16",
+      "lng": "27.61667",
+      "geonameId": 216140,
+      "toponymName": "Haut Uele",
+      "countryId": "203312",
+      "fcl": "A",
+      "population": 1920867,
+      "countryCode": "CD",
+      "name": "Haut-Uele",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "HU"
+      },
+      "countryName": "DR Congo",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Haut-Uele",
+      "lat": "2.76667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "17",
+      "lng": "30.25",
+      "geonameId": 215709,
+      "toponymName": "Ituri",
+      "countryId": "203312",
+      "fcl": "A",
+      "population": 4241236,
+      "countryCode": "CD",
+      "name": "Ituri",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "IT"
+      },
+      "countryName": "DR Congo",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Ituri",
+      "lat": "1.56667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "18",
+      "lng": "21.41667",
+      "geonameId": 214140,
+      "toponymName": "Kasai Province",
+      "countryId": "203312",
+      "fcl": "A",
+      "population": 3200000,
+      "countryCode": "CD",
+      "name": "Kasai",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "KS"
+      },
+      "countryName": "DR Congo",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Kasai",
+      "lat": "-5.35",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "23",
+      "lng": "22.483",
+      "geonameId": 210596,
+      "toponymName": "Kasaï-Central",
+      "countryId": "203312",
+      "fcl": "A",
+      "population": 3000000,
+      "countryCode": "CD",
+      "name": "Kasai-Central",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "KC"
+      },
+      "countryName": "DR Congo",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Kasai-Central",
+      "lat": "-6.292",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "04",
+      "lng": "23.51667",
+      "geonameId": 214138,
+      "toponymName": "East Kasai",
+      "countryId": "203312",
+      "fcl": "A",
+      "population": 6500000,
+      "countryCode": "CD",
+      "name": "Kasai-Oriental",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "KE"
+      },
+      "countryName": "DR Congo",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Kasaï-Oriental",
+      "lat": "-6.18333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "06",
+      "lng": "15.97",
+      "geonameId": 2314300,
+      "toponymName": "Kinshasa City",
+      "countryId": "203312",
+      "fcl": "A",
+      "population": 164857,
+      "countryCode": "CD",
+      "name": "Kinshasa",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "KN"
+      },
+      "countryName": "DR Congo",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Kinshasa",
+      "lat": "-4.375",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "19",
+      "lng": "17.832",
+      "geonameId": 2313860,
+      "toponymName": "Kwango",
+      "countryId": "203312",
+      "fcl": "A",
+      "population": 1994036,
+      "countryCode": "CD",
+      "name": "Kwango",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "KG"
+      },
+      "countryName": "DR Congo",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Kwango",
+      "lat": "-6.542",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "20",
+      "lng": "18.81667",
+      "geonameId": 2313847,
+      "toponymName": "Kwilu",
+      "countryId": "203312",
+      "fcl": "A",
+      "population": 5174718,
+      "countryCode": "CD",
+      "name": "Kwilu",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "KL"
+      },
+      "countryName": "DR Congo",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Kwilu",
+      "lat": "-5.03333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "21",
+      "lng": "24.66667",
+      "geonameId": 11288214,
+      "toponymName": "Lomami",
+      "countryId": "203312",
+      "fcl": "A",
+      "population": 2048839,
+      "countryCode": "CD",
+      "name": "Lomami",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "LO"
+      },
+      "countryName": "DR Congo",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Lomami",
+      "lat": "-6.21667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "22",
+      "lng": "25.46667",
+      "geonameId": 922727,
+      "toponymName": "Lualaba",
+      "countryId": "203312",
+      "fcl": "A",
+      "population": 1677288,
+      "countryCode": "CD",
+      "name": "Lualaba",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "LU"
+      },
+      "countryName": "DR Congo",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Lualaba",
+      "lat": "-10.71667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "24",
+      "lng": "19.335",
+      "geonameId": 2313191,
+      "toponymName": "Mai Ndombe",
+      "countryId": "203312",
+      "fcl": "A",
+      "population": 1768327,
+      "countryCode": "CD",
+      "name": "Mai-Ndombe",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "MN"
+      },
+      "countryName": "DR Congo",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Mai-Ndombe",
+      "lat": "-2.591",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "10",
+      "lng": "26",
+      "geonameId": 209610,
+      "toponymName": "Province du Maniema",
+      "countryId": "203312",
+      "fcl": "A",
+      "population": 1718257,
+      "countryCode": "CD",
+      "name": "Maniema",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "MA"
+      },
+      "countryName": "DR Congo",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Maniema",
+      "lat": "-3",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "25",
+      "lng": "21.51667",
+      "geonameId": 208741,
+      "toponymName": "Mongala",
+      "countryId": "203312",
+      "fcl": "A",
+      "population": 1793564,
+      "countryCode": "CD",
+      "name": "Mongala",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "MO"
+      },
+      "countryName": "DR Congo",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Mongala",
+      "lat": "2.06667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "11",
+      "lng": "28.75",
+      "geonameId": 206938,
+      "toponymName": "Province du Nord-Kivu",
+      "countryId": "203312",
+      "fcl": "A",
+      "population": 4908824,
+      "countryCode": "CD",
+      "name": "Nord-Kivu",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "NK"
+      },
+      "countryName": "DR Congo",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Nord Kivu",
+      "lat": "-0.66667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "26",
+      "lng": "21.26667",
+      "geonameId": 11288215,
+      "toponymName": "Province du Nord-Ubangi",
+      "countryId": "203312",
+      "fcl": "A",
+      "population": 1482076,
+      "countryCode": "CD",
+      "name": "Nord-Ubangi",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "NU"
+      },
+      "countryName": "DR Congo",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Nord-Ubangi",
+      "lat": "3.65",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "27",
+      "lng": "23.45",
+      "geonameId": 205828,
+      "toponymName": "Sankuru",
+      "countryId": "203312",
+      "fcl": "A",
+      "population": 1374239,
+      "countryCode": "CD",
+      "name": "Sankuru",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SA"
+      },
+      "countryName": "DR Congo",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Sankuru",
+      "lat": "-4.96667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "12",
+      "lng": "28.25",
+      "geonameId": 205413,
+      "toponymName": "South Kivu Province",
+      "countryId": "203312",
+      "fcl": "A",
+      "population": 3909135,
+      "countryCode": "CD",
+      "name": "Sud-Kivu",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SK"
+      },
+      "countryName": "DR Congo",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "South Kivu",
+      "lat": "-3.16667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "28",
+      "lng": "19.35",
+      "geonameId": 11288216,
+      "toponymName": "Province du Sud-Ubangi",
+      "countryId": "203312",
+      "fcl": "A",
+      "population": 2744345,
+      "countryCode": "CD",
+      "name": "Sud-Ubangi",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SU"
+      },
+      "countryName": "DR Congo",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Sud-Ubangi",
+      "lat": "3.08333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "29",
+      "lng": "29.2",
+      "geonameId": 205253,
+      "toponymName": "Tanganika",
+      "countryId": "203312",
+      "fcl": "A",
+      "population": 3035852,
+      "countryCode": "CD",
+      "name": "Tanganyika",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "TA"
+      },
+      "countryName": "DR Congo",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Tanganyika",
+      "lat": "-5.93333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "30",
+      "lng": "25.21667",
+      "geonameId": 204704,
+      "toponymName": "Tshopo",
+      "countryId": "203312",
+      "fcl": "A",
+      "population": 2614630,
+      "countryCode": "CD",
+      "name": "Tshopo",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "TO"
+      },
+      "countryName": "DR Congo",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Tshopo",
+      "lat": "0.46667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "31",
+      "lng": "20.86667",
+      "geonameId": 204697,
+      "toponymName": "Tshuapa",
+      "countryId": "203312",
+      "fcl": "A",
+      "population": 1316855,
+      "countryCode": "CD",
+      "name": "Tshuapa",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "TU"
+      },
+      "countryName": "DR Congo",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Tshuapa",
+      "lat": "-0.21667",
+      "fcode": "ADM1"
+    }
+  ]
+}

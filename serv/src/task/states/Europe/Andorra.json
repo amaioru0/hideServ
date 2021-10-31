@@ -1,0 +1,145 @@
+{
+  "totalResultsCount": 7,
+  "geonames": [
+    {
+      "adminCode1": "07",
+      "lng": "1.49414",
+      "geonameId": 3041566,
+      "toponymName": "Andorra la Vella",
+      "countryId": "3041565",
+      "fcl": "A",
+      "population": 24211,
+      "countryCode": "AD",
+      "name": "Andorra la Vella",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "07"
+      },
+      "countryName": "Andorra",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Andorra la Vella",
+      "lat": "42.5045",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "02",
+      "lng": "1.65833",
+      "geonameId": 3041203,
+      "toponymName": "Canillo",
+      "countryId": "3041565",
+      "fcl": "A",
+      "population": 5067,
+      "countryCode": "AD",
+      "name": "Canillo",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "02"
+      },
+      "countryName": "Andorra",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Canillo",
+      "lat": "42.58333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "03",
+      "lng": "1.63333",
+      "geonameId": 3040684,
+      "toponymName": "Encamp",
+      "countryId": "3041565",
+      "fcl": "A",
+      "population": 13685,
+      "countryCode": "AD",
+      "name": "Encamp",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "03"
+      },
+      "countryName": "Andorra",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Encamp",
+      "lat": "42.53333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "08",
+      "lng": "1.56667",
+      "geonameId": 3338529,
+      "toponymName": "Escaldes-Engordany",
+      "countryId": "3041565",
+      "fcl": "A",
+      "population": 16391,
+      "countryCode": "AD",
+      "name": "Escaldes-Engordany",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "08"
+      },
+      "countryName": "Andorra",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Escaldes-Engordany",
+      "lat": "42.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "04",
+      "lng": "1.48333",
+      "geonameId": 3040131,
+      "toponymName": "La Massana",
+      "countryId": "3041565",
+      "fcl": "A",
+      "population": 8953,
+      "countryCode": "AD",
+      "name": "La Massana",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "04"
+      },
+      "countryName": "Andorra",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "La Massana",
+      "lat": "42.55417",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "05",
+      "lng": "1.52573",
+      "geonameId": 3039676,
+      "toponymName": "Ordino",
+      "countryId": "3041565",
+      "fcl": "A",
+      "population": 3467,
+      "countryCode": "AD",
+      "name": "Ordino",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "05"
+      },
+      "countryName": "Andorra",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Ordino",
+      "lat": "42.59758",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "06",
+      "lng": "1.48247",
+      "geonameId": 3039162,
+      "toponymName": "Sant Julià de Lòria",
+      "countryId": "3041565",
+      "fcl": "A",
+      "population": 9448,
+      "countryCode": "AD",
+      "name": "Sant Julià de Loria",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "06"
+      },
+      "countryName": "Andorra",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Sant Julià de Loria",
+      "lat": "42.46247",
+      "fcode": "ADM1"
+    }
+  ]
+}

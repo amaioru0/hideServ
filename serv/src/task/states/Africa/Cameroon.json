@@ -1,0 +1,205 @@
+{
+  "totalResultsCount": 10,
+  "geonames": [
+    {
+      "adminCode1": "10",
+      "lng": "13.25",
+      "geonameId": 2236015,
+      "toponymName": "Adamaoua Region",
+      "countryId": "2233387",
+      "fcl": "A",
+      "population": 495185,
+      "countryCode": "CM",
+      "name": "Adamaoua",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "AD"
+      },
+      "countryName": "Cameroon",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Adamaoua",
+      "lat": "6.83333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "11",
+      "lng": "11.83333",
+      "geonameId": 2233376,
+      "toponymName": "Centre Region",
+      "countryId": "2233387",
+      "fcl": "A",
+      "population": 2672533,
+      "countryCode": "CM",
+      "name": "Centre",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "CE"
+      },
+      "countryName": "Cameroon",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Centre",
+      "lat": "4.75",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "04",
+      "lng": "14.16667",
+      "geonameId": 2231835,
+      "toponymName": "East Region",
+      "countryId": "2233387",
+      "fcl": "A",
+      "population": 836906,
+      "countryCode": "CM",
+      "name": "East",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "ES"
+      },
+      "countryName": "Cameroon",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "East",
+      "lat": "3.83333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "12",
+      "lng": "14.5",
+      "geonameId": 2231755,
+      "toponymName": "Far North Region",
+      "countryId": "2233387",
+      "fcl": "A",
+      "population": 1855695,
+      "countryCode": "CM",
+      "name": "Far North",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "EN"
+      },
+      "countryName": "Cameroon",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Far North",
+      "lat": "11",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "05",
+      "lng": "10.13333",
+      "geonameId": 2229336,
+      "toponymName": "Littoral Region",
+      "countryId": "2233387",
+      "fcl": "A",
+      "population": 2202340,
+      "countryCode": "CM",
+      "name": "Littoral",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "LT"
+      },
+      "countryName": "Cameroon",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Littoral",
+      "lat": "4.26667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "13",
+      "lng": "14",
+      "geonameId": 2223603,
+      "toponymName": "North Region",
+      "countryId": "2233387",
+      "fcl": "A",
+      "population": 2442578,
+      "countryCode": "CM",
+      "name": "North",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "NO"
+      },
+      "countryName": "Cameroon",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "North",
+      "lat": "8.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "07",
+      "lng": "10.36667",
+      "geonameId": 2223602,
+      "toponymName": "North-West Region",
+      "countryId": "2233387",
+      "fcl": "A",
+      "population": 1728953,
+      "countryCode": "CM",
+      "name": "North-West",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "NW"
+      },
+      "countryName": "Cameroon",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "North-West",
+      "lat": "6.36667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "14",
+      "lng": "11.58333",
+      "geonameId": 2221789,
+      "toponymName": "South Region",
+      "countryId": "2233387",
+      "fcl": "A",
+      "population": 634655,
+      "countryCode": "CM",
+      "name": "South",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SU"
+      },
+      "countryName": "Cameroon",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "South",
+      "lat": "2.75",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "09",
+      "lng": "9.3",
+      "geonameId": 2221788,
+      "toponymName": "South-West Region",
+      "countryId": "2233387",
+      "fcl": "A",
+      "population": 1316079,
+      "countryCode": "CM",
+      "name": "South-West",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SW"
+      },
+      "countryName": "Cameroon",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "South-West",
+      "lat": "5.2",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "08",
+      "lng": "10.66667",
+      "geonameId": 2222934,
+      "toponymName": "West Region",
+      "countryId": "2233387",
+      "fcl": "A",
+      "population": 1339791,
+      "countryCode": "CM",
+      "name": "West",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "OU"
+      },
+      "countryName": "Cameroon",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "West",
+      "lat": "5.5",
+      "fcode": "ADM1"
+    }
+  ]
+}

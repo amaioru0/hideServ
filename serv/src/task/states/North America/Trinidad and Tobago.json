@@ -1,0 +1,305 @@
+{
+  "totalResultsCount": 15,
+  "geonames": [
+    {
+      "adminCode1": "01",
+      "lng": "-61.27917",
+      "geonameId": 3575052,
+      "toponymName": "Arima",
+      "countryId": "3573591",
+      "fcl": "A",
+      "population": 33606,
+      "countryCode": "TT",
+      "name": "Borough of Arima",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "ARI"
+      },
+      "countryName": "Trinidad and Tobago",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Borough of Arima",
+      "lat": "10.625",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "CHA",
+      "lng": "-61.41503",
+      "geonameId": 7521937,
+      "toponymName": "Chaguanas",
+      "countryId": "3573591",
+      "fcl": "A",
+      "population": 83516,
+      "countryCode": "TT",
+      "name": "Chaguanas",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "CHA"
+      },
+      "countryName": "Trinidad and Tobago",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Chaguanas",
+      "lat": "10.51718",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "CTT",
+      "lng": "-61.45117",
+      "geonameId": 7521938,
+      "toponymName": "Couva-Tabaquite-Talparo",
+      "countryId": "3573591",
+      "fcl": "A",
+      "population": 178410,
+      "countryCode": "TT",
+      "name": "Couva-Tabaquite-Talparo",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "CTT"
+      },
+      "countryName": "Trinidad and Tobago",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Couva-Tabaquite-Talparo",
+      "lat": "10.41792",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "DMN",
+      "lng": "-61.53417",
+      "geonameId": 7521939,
+      "toponymName": "Diego Martin",
+      "countryId": "3573591",
+      "fcl": "A",
+      "population": 102957,
+      "countryCode": "TT",
+      "name": "Diego Martin",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "DMN"
+      },
+      "countryName": "Trinidad and Tobago",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Diego Martin",
+      "lat": "10.7005",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "03",
+      "lng": "-61.08333",
+      "geonameId": 3574155,
+      "toponymName": "Mayaro",
+      "countryId": "3573591",
+      "fcl": "A",
+      "population": 35650,
+      "countryCode": "TT",
+      "name": "Mayaro",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "MRC"
+      },
+      "countryName": "Trinidad and Tobago",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Mayaro",
+      "lat": "10.16667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "PED",
+      "lng": "-61.46524",
+      "geonameId": 7521941,
+      "toponymName": "Penal/Debe",
+      "countryId": "3573591",
+      "fcl": "A",
+      "population": 89392,
+      "countryCode": "TT",
+      "name": "Penal/Debe",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "PED"
+      },
+      "countryName": "Trinidad and Tobago",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Penal/Debe",
+      "lat": "10.16778",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "PTF",
+      "lng": "-61.68197",
+      "geonameId": 7521943,
+      "toponymName": "Point Fortin",
+      "countryId": "3573591",
+      "fcl": "A",
+      "population": 20235,
+      "countryCode": "TT",
+      "name": "Point Fortin",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "PTF"
+      },
+      "countryName": "Trinidad and Tobago",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Point Fortin",
+      "lat": "10.184",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "05",
+      "lng": "-61.51667",
+      "geonameId": 3573891,
+      "toponymName": "City of Port of Spain",
+      "countryId": "3573591",
+      "fcl": "A",
+      "population": 37074,
+      "countryCode": "TT",
+      "name": "Port of Spain",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "POS"
+      },
+      "countryName": "Trinidad and Tobago",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Port of Spain",
+      "lat": "10.66389",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "PRT",
+      "lng": "-61.38182",
+      "geonameId": 7521942,
+      "toponymName": "Princes Town",
+      "countryId": "3573591",
+      "fcl": "A",
+      "population": 102375,
+      "countryCode": "TT",
+      "name": "Princes Town",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "PRT"
+      },
+      "countryName": "Trinidad and Tobago",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Princes Town",
+      "lat": "10.26746",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "10",
+      "lng": "-61.45037",
+      "geonameId": 3573739,
+      "toponymName": "San Fernando",
+      "countryId": "3573591",
+      "fcl": "A",
+      "population": 48838,
+      "countryCode": "TT",
+      "name": "San Fernando",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SFO"
+      },
+      "countryName": "Trinidad and Tobago",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "San Fernando",
+      "lat": "10.28127",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "SJL",
+      "lng": "-61.49752",
+      "geonameId": 7521946,
+      "toponymName": "San Juan/Laventille",
+      "countryId": "3573591",
+      "fcl": "A",
+      "population": 157258,
+      "countryCode": "TT",
+      "name": "San Juan/Laventille",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SJL"
+      },
+      "countryName": "Trinidad and Tobago",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "San Juan/Laventille",
+      "lat": "10.64964",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "SGE",
+      "lng": "-61.11772",
+      "geonameId": 7521944,
+      "toponymName": "Sangre Grande",
+      "countryId": "3573591",
+      "fcl": "A",
+      "population": 75766,
+      "countryCode": "TT",
+      "name": "Sangre Grande",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SGE"
+      },
+      "countryName": "Trinidad and Tobago",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Sangre Grande",
+      "lat": "10.5835",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "SIP",
+      "lng": "-61.50121",
+      "geonameId": 7521945,
+      "toponymName": "Siparia",
+      "countryId": "3573591",
+      "fcl": "A",
+      "population": 86949,
+      "countryCode": "TT",
+      "name": "Siparia",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SIP"
+      },
+      "countryName": "Trinidad and Tobago",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Siparia",
+      "lat": "10.13382",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "11",
+      "lng": "-60.66667",
+      "geonameId": 3573606,
+      "toponymName": "Tobago",
+      "countryId": "3573591",
+      "fcl": "A",
+      "population": 60874,
+      "countryCode": "TT",
+      "name": "Tobago",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "TOB"
+      },
+      "countryName": "Trinidad and Tobago",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Tobago",
+      "lat": "11.25",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "TUP",
+      "lng": "-61.38182",
+      "geonameId": 7521947,
+      "toponymName": "Tunapuna/Piarco",
+      "countryId": "3573591",
+      "fcl": "A",
+      "population": 215119,
+      "countryCode": "TT",
+      "name": "Tunapuna/Piarco",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "TUP"
+      },
+      "countryName": "Trinidad and Tobago",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Tunapuna/Piarco",
+      "lat": "10.63387",
+      "fcode": "ADM1"
+    }
+  ]
+}

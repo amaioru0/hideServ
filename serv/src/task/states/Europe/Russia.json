@@ -1,0 +1,1665 @@
+{
+  "totalResultsCount": 83,
+  "geonames": [
+    {
+      "adminCode1": "01",
+      "lng": "40.01045",
+      "geonameId": 584222,
+      "toponymName": "Respublika Adygeya",
+      "countryId": "2017370",
+      "fcl": "A",
+      "population": 439996,
+      "countryCode": "RU",
+      "name": "Adygeya Republic",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "AD"
+      },
+      "countryName": "Russia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Adygeya Republic",
+      "lat": "45.0001",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "03",
+      "lng": "87",
+      "geonameId": 1506272,
+      "toponymName": "Respublika Altay",
+      "countryId": "2017370",
+      "fcl": "A",
+      "population": 206168,
+      "countryCode": "RU",
+      "name": "Altai",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "AL"
+      },
+      "countryName": "Russia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Altai",
+      "lat": "51",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "04",
+      "lng": "83",
+      "geonameId": 1511732,
+      "toponymName": "Altayskiy Kray",
+      "countryId": "2017370",
+      "fcl": "A",
+      "population": 2586976,
+      "countryCode": "RU",
+      "name": "Altay Kray",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "ALT"
+      },
+      "countryName": "Russia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Altai Krai",
+      "lat": "52.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "05",
+      "lng": "128",
+      "geonameId": 2027748,
+      "toponymName": "Amur Oblast",
+      "countryId": "2017370",
+      "fcl": "A",
+      "population": 830103,
+      "countryCode": "RU",
+      "name": "Amur Oblast",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "AMU"
+      },
+      "countryName": "Russia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Amur Oblast",
+      "lat": "54",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "06",
+      "lng": "44",
+      "geonameId": 581043,
+      "toponymName": "Arkhangel’skaya Oblast’",
+      "countryId": "2017370",
+      "fcl": "A",
+      "population": 1262043,
+      "countryCode": "RU",
+      "name": "Arkhangelskaya",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "ARK"
+      },
+      "countryName": "Russia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Arkhangelskaya",
+      "lat": "64",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "07",
+      "lng": "48",
+      "geonameId": 580491,
+      "toponymName": "Astrakhanskaya Oblast’",
+      "countryId": "2017370",
+      "fcl": "A",
+      "population": 1010073,
+      "countryCode": "RU",
+      "name": "Astrakhanskaya Oblast’",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "AST"
+      },
+      "countryName": "Russia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Astrakhan",
+      "lat": "47",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "08",
+      "lng": "56",
+      "geonameId": 578853,
+      "toponymName": "Bashkortostan",
+      "countryId": "2017370",
+      "fcl": "A",
+      "population": 4072292,
+      "countryCode": "RU",
+      "name": "Bashkortostan Republic",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "BA"
+      },
+      "countryName": "Russia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Bashkortostan Republic",
+      "lat": "54",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "09",
+      "lng": "37.5",
+      "geonameId": 578071,
+      "toponymName": "Belgorod Oblast",
+      "countryId": "2017370",
+      "fcl": "A",
+      "population": 1511603,
+      "countryCode": "RU",
+      "name": "Belgorod Oblast",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "BEL"
+      },
+      "countryName": "Russia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Belgorod Oblast",
+      "lat": "50.75",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "10",
+      "lng": "33.5",
+      "geonameId": 571473,
+      "toponymName": "Bryansk Oblast",
+      "countryId": "2017370",
+      "fcl": "A",
+      "population": 1278217,
+      "countryCode": "RU",
+      "name": "Bryansk Oblast",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "BRY"
+      },
+      "countryName": "Russia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Bryansk Oblast",
+      "lat": "53",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "11",
+      "lng": "109",
+      "geonameId": 2050915,
+      "toponymName": "Respublika Buryatiya",
+      "countryId": "2017370",
+      "fcl": "A",
+      "population": 963335,
+      "countryCode": "RU",
+      "name": "Buryatiya Republic",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "BU"
+      },
+      "countryName": "Russia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Buryatiya Republic",
+      "lat": "53",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "12",
+      "lng": "45.83333",
+      "geonameId": 569665,
+      "toponymName": "Chechenskaya Respublika",
+      "countryId": "2017370",
+      "fcl": "A",
+      "population": 1210000,
+      "countryCode": "RU",
+      "name": "Chechnya Republic",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "CE"
+      },
+      "countryName": "Russia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Chechnya",
+      "lat": "43.25",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "13",
+      "lng": "60.5",
+      "geonameId": 1508290,
+      "toponymName": "Chelyabinsk Oblast",
+      "countryId": "2017370",
+      "fcl": "A",
+      "population": 3476217,
+      "countryCode": "RU",
+      "name": "Chelyabinsk",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "CHE"
+      },
+      "countryName": "Russia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Chelyabinsk",
+      "lat": "54",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "15",
+      "lng": "172",
+      "geonameId": 2126099,
+      "toponymName": "Chukotskiy Avtonomnyy Okrug",
+      "countryId": "2017370",
+      "fcl": "A",
+      "population": 50133,
+      "countryCode": "RU",
+      "name": "Chukotka",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "CHU"
+      },
+      "countryName": "Russia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Chukotka",
+      "lat": "67.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "16",
+      "lng": "47",
+      "geonameId": 567395,
+      "toponymName": "Chuvashskaya Respublika",
+      "countryId": "2017370",
+      "fcl": "A",
+      "population": 1301226,
+      "countryCode": "RU",
+      "name": "Chuvashia",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "CU"
+      },
+      "countryName": "Russia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Chuvashia",
+      "lat": "55.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "17",
+      "lng": "47",
+      "geonameId": 567293,
+      "toponymName": "Dagestan",
+      "countryId": "2017370",
+      "fcl": "A",
+      "population": 2576531,
+      "countryCode": "RU",
+      "name": "Dagestan Republic",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "DA"
+      },
+      "countryName": "Russia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Dagestan",
+      "lat": "43",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "19",
+      "lng": "45",
+      "geonameId": 556349,
+      "toponymName": "Respublika Ingushetiya",
+      "countryId": "2017370",
+      "fcl": "A",
+      "population": 499502,
+      "countryCode": "RU",
+      "name": "Ingushetiya Republic",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "IN"
+      },
+      "countryName": "Russia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Ingushetiya Republic",
+      "lat": "43.16667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "20",
+      "lng": "106",
+      "geonameId": 2023468,
+      "toponymName": "Irkutsk Oblast",
+      "countryId": "2017370",
+      "fcl": "A",
+      "population": 2428750,
+      "countryCode": "RU",
+      "name": "Irkutsk Oblast",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "IRK"
+      },
+      "countryName": "Russia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Irkutsk Oblast",
+      "lat": "56",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "21",
+      "lng": "41.75",
+      "geonameId": 555235,
+      "toponymName": "Ivanovo Oblast",
+      "countryId": "2017370",
+      "fcl": "A",
+      "population": 1061651,
+      "countryCode": "RU",
+      "name": "Ivanovo Oblast",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "IVA"
+      },
+      "countryName": "Russia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Ivanovo",
+      "lat": "57",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "22",
+      "lng": "43.5",
+      "geonameId": 554667,
+      "toponymName": "Kabardino-Balkarskaya Respublika",
+      "countryId": "2017370",
+      "fcl": "A",
+      "population": 928519,
+      "countryCode": "RU",
+      "name": "Kabardino-Balkariya Republic",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "KB"
+      },
+      "countryName": "Russia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Kabardino-Balkariya Republic",
+      "lat": "43.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "23",
+      "lng": "21.5",
+      "geonameId": 554230,
+      "toponymName": "Kaliningrad Oblast",
+      "countryId": "2017370",
+      "fcl": "A",
+      "population": 941873,
+      "countryCode": "RU",
+      "name": "Kaliningrad Oblast",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "KGD"
+      },
+      "countryName": "Russia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Kaliningrad",
+      "lat": "54.75",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "24",
+      "lng": "45.5",
+      "geonameId": 553972,
+      "toponymName": "Kalmykiya",
+      "countryId": "2017370",
+      "fcl": "A",
+      "population": 284668,
+      "countryCode": "RU",
+      "name": "Kalmykiya Republic",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "KL"
+      },
+      "countryName": "Russia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Kalmykiya Republic",
+      "lat": "46.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "25",
+      "lng": "35.5",
+      "geonameId": 553899,
+      "toponymName": "Kaluga Oblast",
+      "countryId": "2017370",
+      "fcl": "A",
+      "population": 1030145,
+      "countryCode": "RU",
+      "name": "Kaluga Oblast",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "KLU"
+      },
+      "countryName": "Russia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Kaluga",
+      "lat": "54.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "92",
+      "lng": "159",
+      "geonameId": 2125072,
+      "toponymName": "Kamchatka Krai",
+      "countryId": "2017370",
+      "fcl": "A",
+      "population": 322079,
+      "countryCode": "RU",
+      "name": "Kamchatka",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "KAM"
+      },
+      "countryName": "Russia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Kamchatka",
+      "lat": "55",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "27",
+      "lng": "42",
+      "geonameId": 552927,
+      "toponymName": "Karachayevo-Cherkesiya",
+      "countryId": "2017370",
+      "fcl": "A",
+      "population": 434488,
+      "countryCode": "RU",
+      "name": "Karachayevo-Cherkesiya Republic",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "KC"
+      },
+      "countryName": "Russia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Karachayevo-Cherkesiya Republic",
+      "lat": "44",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "28",
+      "lng": "32.5",
+      "geonameId": 552548,
+      "toponymName": "Respublika Kareliya",
+      "countryId": "2017370",
+      "fcl": "A",
+      "population": 632533,
+      "countryCode": "RU",
+      "name": "Karelia",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "KR"
+      },
+      "countryName": "Russia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Karelia",
+      "lat": "64",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "29",
+      "lng": "86",
+      "geonameId": 1503900,
+      "toponymName": "Kemerovo Oblast",
+      "countryId": "2017370",
+      "fcl": "A",
+      "population": 2827246,
+      "countryCode": "RU",
+      "name": "Kemerovo Oblast",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "KEM"
+      },
+      "countryName": "Russia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Kemerovo Oblast",
+      "lat": "55",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "30",
+      "lng": "134",
+      "geonameId": 2022888,
+      "toponymName": "Khabarovskiy Kray",
+      "countryId": "2017370",
+      "fcl": "A",
+      "population": 1394490,
+      "countryCode": "RU",
+      "name": "Khabarovsk",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "KHA"
+      },
+      "countryName": "Russia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Khabarovsk",
+      "lat": "55",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "31",
+      "lng": "90",
+      "geonameId": 1503834,
+      "toponymName": "Respublika Khakasiya",
+      "countryId": "2017370",
+      "fcl": "A",
+      "population": 532403,
+      "countryCode": "RU",
+      "name": "Khakasiya Republic",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "KK"
+      },
+      "countryName": "Russia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Khakasiya Republic",
+      "lat": "53.33333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "32",
+      "lng": "72",
+      "geonameId": 1503773,
+      "toponymName": "Khanty-Mansiyskiy Avtonomnyy Okrug-Yugra",
+      "countryId": "2017370",
+      "fcl": "A",
+      "population": 1460892,
+      "countryCode": "RU",
+      "name": "Khanty-Mansia",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "KHM"
+      },
+      "countryName": "Russia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Khanty-Mansia",
+      "lat": "62",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "33",
+      "lng": "50",
+      "geonameId": 548389,
+      "toponymName": "Kirov Oblast",
+      "countryId": "2017370",
+      "fcl": "A",
+      "population": 1457862,
+      "countryCode": "RU",
+      "name": "Kirov Oblast",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "KIR"
+      },
+      "countryName": "Russia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Kirov",
+      "lat": "58",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "34",
+      "lng": "54",
+      "geonameId": 545854,
+      "toponymName": "Komi",
+      "countryId": "2017370",
+      "fcl": "A",
+      "population": 901189,
+      "countryCode": "RU",
+      "name": "Komi",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "KO"
+      },
+      "countryName": "Russia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Komi",
+      "lat": "64",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "37",
+      "lng": "44",
+      "geonameId": 543871,
+      "toponymName": "Kostroma Oblast",
+      "countryId": "2017370",
+      "fcl": "A",
+      "population": 667562,
+      "countryCode": "RU",
+      "name": "Kostroma Oblast",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "KOS"
+      },
+      "countryName": "Russia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Kostroma Oblast",
+      "lat": "58.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "38",
+      "lng": "38.97675",
+      "geonameId": 542415,
+      "toponymName": "Krasnodarskiy Kray",
+      "countryId": "2017370",
+      "fcl": "A",
+      "population": 5191490,
+      "countryCode": "RU",
+      "name": "Krasnodarskiy Kray",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "KDA"
+      },
+      "countryName": "Russia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Krasnodarskiy",
+      "lat": "44.98811",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "91",
+      "lng": "93",
+      "geonameId": 1502020,
+      "toponymName": "Krasnoyarskiy Kray",
+      "countryId": "2017370",
+      "fcl": "A",
+      "population": 2845899,
+      "countryCode": "RU",
+      "name": "Krasnoyarskiy Kray",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "KYA"
+      },
+      "countryName": "Russia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Krasnoyarskiy",
+      "lat": "58",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "40",
+      "lng": "64",
+      "geonameId": 1501312,
+      "toponymName": "Kurgan Oblast",
+      "countryId": "2017370",
+      "fcl": "A",
+      "population": 910807,
+      "countryCode": "RU",
+      "name": "Kurgan Oblast",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "KGN"
+      },
+      "countryName": "Russia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Kurgan Oblast",
+      "lat": "55.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "41",
+      "lng": "36",
+      "geonameId": 538555,
+      "toponymName": "Kursk Oblast",
+      "countryId": "2017370",
+      "fcl": "A",
+      "population": 1207091,
+      "countryCode": "RU",
+      "name": "Kursk Oblast",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "KRS"
+      },
+      "countryName": "Russia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Kursk",
+      "lat": "51.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "42",
+      "lng": "32",
+      "geonameId": 536199,
+      "toponymName": "Leningrad Oblast",
+      "countryId": "2017370",
+      "fcl": "A",
+      "population": 1778857,
+      "countryCode": "RU",
+      "name": "Leningradskaya Oblast'",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "LEN"
+      },
+      "countryName": "Russia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Leningradskaya Oblast'",
+      "lat": "60",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "43",
+      "lng": "39",
+      "geonameId": 535120,
+      "toponymName": "Lipetsk Oblast",
+      "countryId": "2017370",
+      "fcl": "A",
+      "population": 1173513,
+      "countryCode": "RU",
+      "name": "Lipetsk Oblast",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "LIP"
+      },
+      "countryName": "Russia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Lipetsk Oblast",
+      "lat": "52.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "44",
+      "lng": "154",
+      "geonameId": 2123627,
+      "toponymName": "Magadan Oblast",
+      "countryId": "2017370",
+      "fcl": "A",
+      "population": 156996,
+      "countryCode": "RU",
+      "name": "Magadan Oblast",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "MAG"
+      },
+      "countryName": "Russia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Magadan Oblast",
+      "lat": "63",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "45",
+      "lng": "48",
+      "geonameId": 529352,
+      "toponymName": "Respublika Mariy-El",
+      "countryId": "2017370",
+      "fcl": "A",
+      "population": 696459,
+      "countryCode": "RU",
+      "name": "Mariy-El Republic",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "ME"
+      },
+      "countryName": "Russia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Mariy-El Republic",
+      "lat": "56.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "46",
+      "lng": "44",
+      "geonameId": 525369,
+      "toponymName": "Respublika Mordoviya",
+      "countryId": "2017370",
+      "fcl": "A",
+      "population": 868531,
+      "countryCode": "RU",
+      "name": "Mordoviya Republic",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "MO"
+      },
+      "countryName": "Russia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Mordoviya Republic",
+      "lat": "54.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "48",
+      "lng": "37.60667",
+      "geonameId": 524894,
+      "toponymName": "Moskva",
+      "countryId": "2017370",
+      "fcl": "A",
+      "population": 11503501,
+      "countryCode": "RU",
+      "name": "Moscow",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "MOW"
+      },
+      "countryName": "Russia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Moscow",
+      "lat": "55.76167",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "47",
+      "lng": "36.71631",
+      "geonameId": 524925,
+      "toponymName": "Moscow Oblast",
+      "countryId": "2017370",
+      "fcl": "A",
+      "population": 7095120,
+      "countryCode": "RU",
+      "name": "Moscow Oblast",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "MOS"
+      },
+      "countryName": "Russia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Moscow Oblast",
+      "lat": "55.81363",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "49",
+      "lng": "34",
+      "geonameId": 524304,
+      "toponymName": "Murmansk Oblast",
+      "countryId": "2017370",
+      "fcl": "A",
+      "population": 841894,
+      "countryCode": "RU",
+      "name": "Murmansk",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "MUR"
+      },
+      "countryName": "Russia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Murmansk",
+      "lat": "68",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "50",
+      "lng": "54",
+      "geonameId": 522652,
+      "toponymName": "Nenetskiy Avtonomnyy Okrug",
+      "countryId": "2017370",
+      "fcl": "A",
+      "population": 42090,
+      "countryCode": "RU",
+      "name": "Nenets",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "NEN"
+      },
+      "countryName": "Russia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Nenets",
+      "lat": "67.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "51",
+      "lng": "45",
+      "geonameId": 559838,
+      "toponymName": "Nizhny Novgorod Oblast",
+      "countryId": "2017370",
+      "fcl": "A",
+      "population": 3310597,
+      "countryCode": "RU",
+      "name": "Nizhny Novgorod Oblast",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "NIZ"
+      },
+      "countryName": "Russia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Nizhny Novgorod Oblast",
+      "lat": "56",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "68",
+      "lng": "44.25",
+      "geonameId": 519969,
+      "toponymName": "North Ossetia",
+      "countryId": "2017370",
+      "fcl": "A",
+      "population": 722902,
+      "countryCode": "RU",
+      "name": "North Ossetia",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SE"
+      },
+      "countryName": "Russia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "North Ossetia",
+      "lat": "43",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "52",
+      "lng": "32.5",
+      "geonameId": 519324,
+      "toponymName": "Novgorod Oblast",
+      "countryId": "2017370",
+      "fcl": "A",
+      "population": 634111,
+      "countryCode": "RU",
+      "name": "Novgorod Oblast",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "NGR"
+      },
+      "countryName": "Russia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Novgorod Oblast",
+      "lat": "58.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "53",
+      "lng": "80",
+      "geonameId": 1496745,
+      "toponymName": "Novosibirsk Oblast",
+      "countryId": "2017370",
+      "fcl": "A",
+      "population": 2665911,
+      "countryCode": "RU",
+      "name": "Novosibirsk Oblast",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "NVS"
+      },
+      "countryName": "Russia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Novosibirsk Oblast",
+      "lat": "55",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "54",
+      "lng": "73",
+      "geonameId": 1496152,
+      "toponymName": "Omsk Oblast",
+      "countryId": "2017370",
+      "fcl": "A",
+      "population": 2054238,
+      "countryCode": "RU",
+      "name": "Omsk Oblast",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "OMS"
+      },
+      "countryName": "Russia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Omsk",
+      "lat": "56",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "56",
+      "lng": "36.25",
+      "geonameId": 514801,
+      "toponymName": "Orel Oblast",
+      "countryId": "2017370",
+      "fcl": "A",
+      "population": 848808,
+      "countryCode": "RU",
+      "name": "Orel Oblast",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "ORL"
+      },
+      "countryName": "Russia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Orel Oblast",
+      "lat": "53",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "55",
+      "lng": "56",
+      "geonameId": 515001,
+      "toponymName": "Orenburg Oblast",
+      "countryId": "2017370",
+      "fcl": "A",
+      "population": 2033072,
+      "countryCode": "RU",
+      "name": "Orenburg Oblast",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "ORE"
+      },
+      "countryName": "Russia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Orenburg Oblast",
+      "lat": "52",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "57",
+      "lng": "44.5",
+      "geonameId": 511555,
+      "toponymName": "Penza Oblast",
+      "countryId": "2017370",
+      "fcl": "A",
+      "population": 1433768,
+      "countryCode": "RU",
+      "name": "Penza Oblast",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "PNZ"
+      },
+      "countryName": "Russia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Penza",
+      "lat": "53",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "90",
+      "lng": "57",
+      "geonameId": 511180,
+      "toponymName": "Perm Krai",
+      "countryId": "2017370",
+      "fcl": "A",
+      "population": 2819421,
+      "countryCode": "RU",
+      "name": "Perm Krai",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "PER"
+      },
+      "countryName": "Russia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Perm",
+      "lat": "59",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "59",
+      "lng": "135",
+      "geonameId": 2017623,
+      "toponymName": "Primorskiy Kray",
+      "countryId": "2017370",
+      "fcl": "A",
+      "population": 2021901,
+      "countryCode": "RU",
+      "name": "Primorskiy (Maritime) Kray",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "PRI"
+      },
+      "countryName": "Russia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Primorskiy (Maritime) Kray",
+      "lat": "45",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "60",
+      "lng": "29",
+      "geonameId": 504338,
+      "toponymName": "Pskov Oblast",
+      "countryId": "2017370",
+      "fcl": "A",
+      "population": 673423,
+      "countryCode": "RU",
+      "name": "Pskov Oblast",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "PSK"
+      },
+      "countryName": "Russia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Pskov Oblast",
+      "lat": "57.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "61",
+      "lng": "41.08083",
+      "geonameId": 501165,
+      "toponymName": "Rostov Oblast",
+      "countryId": "2017370",
+      "fcl": "A",
+      "population": 4397303,
+      "countryCode": "RU",
+      "name": "Rostov",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "ROS"
+      },
+      "countryName": "Russia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Rostov",
+      "lat": "47.44032",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "62",
+      "lng": "40.5",
+      "geonameId": 500059,
+      "toponymName": "Ryazan Oblast",
+      "countryId": "2017370",
+      "fcl": "A",
+      "population": 1197310,
+      "countryCode": "RU",
+      "name": "Ryazan Oblast",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "RYA"
+      },
+      "countryName": "Russia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Ryazan Oblast",
+      "lat": "54.25",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "63",
+      "lng": "130",
+      "geonameId": 2013162,
+      "toponymName": "Respublika Sakha (Yakutiya)",
+      "countryId": "2017370",
+      "fcl": "A",
+      "population": 918293,
+      "countryCode": "RU",
+      "name": "Sakha",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SA"
+      },
+      "countryName": "Russia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Sakha",
+      "lat": "65",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "64",
+      "lng": "143",
+      "geonameId": 2121529,
+      "toponymName": "Sakhalin Oblast",
+      "countryId": "2017370",
+      "fcl": "A",
+      "population": 497973,
+      "countryCode": "RU",
+      "name": "Sakhalin Oblast",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SAK"
+      },
+      "countryName": "Russia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Sakhalin Oblast",
+      "lat": "50",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "65",
+      "lng": "50",
+      "geonameId": 499068,
+      "toponymName": "Samara Oblast",
+      "countryId": "2017370",
+      "fcl": "A",
+      "population": 3201272,
+      "countryCode": "RU",
+      "name": "Samara Oblast",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SAM"
+      },
+      "countryName": "Russia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Samara Oblast",
+      "lat": "53",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "67",
+      "lng": "47",
+      "geonameId": 498671,
+      "toponymName": "Saratovskaya Oblast",
+      "countryId": "2017370",
+      "fcl": "A",
+      "population": 2648495,
+      "countryCode": "RU",
+      "name": "Saratovskaya Oblast",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SAR"
+      },
+      "countryName": "Russia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Saratovskaya Oblast",
+      "lat": "51.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "69",
+      "lng": "33",
+      "geonameId": 491684,
+      "toponymName": "Smolensk Oblast",
+      "countryId": "2017370",
+      "fcl": "A",
+      "population": 1022035,
+      "countryCode": "RU",
+      "name": "Smolenskaya Oblast’",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SMO"
+      },
+      "countryName": "Russia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Smolenskaya Oblast’",
+      "lat": "55",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "66",
+      "lng": "30.25",
+      "geonameId": 536203,
+      "toponymName": "Sankt-Peterburg",
+      "countryId": "2017370",
+      "fcl": "A",
+      "population": 5132000,
+      "countryCode": "RU",
+      "name": "St.-Petersburg",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SPE"
+      },
+      "countryName": "Russia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "St.-Petersburg",
+      "lat": "59.91667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "70",
+      "lng": "44",
+      "geonameId": 487839,
+      "toponymName": "Stavropol’skiy Kray",
+      "countryId": "2017370",
+      "fcl": "A",
+      "population": 2799600,
+      "countryCode": "RU",
+      "name": "Stavropol’ Kray",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "STA"
+      },
+      "countryName": "Russia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Stavropol’ Kray",
+      "lat": "45",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "71",
+      "lng": "62",
+      "geonameId": 1490542,
+      "toponymName": "Sverdlovsk Oblast",
+      "countryId": "2017370",
+      "fcl": "A",
+      "population": 4412629,
+      "countryCode": "RU",
+      "name": "Sverdlovsk Oblast",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SVE"
+      },
+      "countryName": "Russia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Sverdlovsk",
+      "lat": "58",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "72",
+      "lng": "41.5",
+      "geonameId": 484638,
+      "toponymName": "Tambov Oblast",
+      "countryId": "2017370",
+      "fcl": "A",
+      "population": 1143906,
+      "countryCode": "RU",
+      "name": "Tambov Oblast",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "TAM"
+      },
+      "countryName": "Russia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Tambov",
+      "lat": "52.75",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "73",
+      "lng": "51",
+      "geonameId": 484048,
+      "toponymName": "Tatarstan",
+      "countryId": "2017370",
+      "fcl": "A",
+      "population": 3786488,
+      "countryCode": "RU",
+      "name": "Tatarstan Republic",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "TA"
+      },
+      "countryName": "Russia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Tatarstan Republic",
+      "lat": "55.33333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "75",
+      "lng": "82.5",
+      "geonameId": 1489421,
+      "toponymName": "Tomsk Oblast",
+      "countryId": "2017370",
+      "fcl": "A",
+      "population": 1049069,
+      "countryCode": "RU",
+      "name": "Tomsk Oblast",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "TOM"
+      },
+      "countryName": "Russia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Tomsk Oblast",
+      "lat": "58.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "93",
+      "lng": "117",
+      "geonameId": 7779061,
+      "toponymName": "Transbaikal Territory",
+      "countryId": "2017370",
+      "fcl": "A",
+      "population": 1107107,
+      "countryCode": "RU",
+      "name": "Transbaikal Territory",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "ZAB"
+      },
+      "countryName": "Russia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Transbaikal Territory",
+      "lat": "52",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "76",
+      "lng": "37.5",
+      "geonameId": 480508,
+      "toponymName": "Tula Oblast",
+      "countryId": "2017370",
+      "fcl": "A",
+      "population": 1628465,
+      "countryCode": "RU",
+      "name": "Tula Oblast",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "TUL"
+      },
+      "countryName": "Russia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Tula",
+      "lat": "54",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "77",
+      "lng": "35.00488",
+      "geonameId": 480041,
+      "toponymName": "Tverskaya Oblast’",
+      "countryId": "2017370",
+      "fcl": "A",
+      "population": 1425582,
+      "countryCode": "RU",
+      "name": "Tver’ Oblast",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "TVE"
+      },
+      "countryName": "Russia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Tver’ Oblast",
+      "lat": "57.00964",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "78",
+      "lng": "68.5",
+      "geonameId": 1488747,
+      "toponymName": "Tyumenskaya Oblast’",
+      "countryId": "2017370",
+      "fcl": "A",
+      "population": 1316577,
+      "countryCode": "RU",
+      "name": "Tyumen’ Oblast",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "TYU"
+      },
+      "countryName": "Russia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Tyumen’ Oblast",
+      "lat": "57.33333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "79",
+      "lng": "95",
+      "geonameId": 1488873,
+      "toponymName": "Respublika Tyva",
+      "countryId": "2017370",
+      "fcl": "A",
+      "population": 307930,
+      "countryCode": "RU",
+      "name": "Tyva Republic",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "TY"
+      },
+      "countryName": "Russia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Republic of Tyva",
+      "lat": "51.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "80",
+      "lng": "53",
+      "geonameId": 479613,
+      "toponymName": "Udmurtskaya Respublika",
+      "countryId": "2017370",
+      "fcl": "A",
+      "population": 1552897,
+      "countryCode": "RU",
+      "name": "Udmurtiya Republic",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "UD"
+      },
+      "countryName": "Russia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Udmurtiya Republic",
+      "lat": "57",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "81",
+      "lng": "48",
+      "geonameId": 479119,
+      "toponymName": "Ulyanovsk Oblast",
+      "countryId": "2017370",
+      "fcl": "A",
+      "population": 1350713,
+      "countryCode": "RU",
+      "name": "Ulyanovsk",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "ULY"
+      },
+      "countryName": "Russia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Ulyanovsk",
+      "lat": "54",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "83",
+      "lng": "40.5",
+      "geonameId": 826294,
+      "toponymName": "Vladimirskaya Oblast’",
+      "countryId": "2017370",
+      "fcl": "A",
+      "population": 1443693,
+      "countryCode": "RU",
+      "name": "Vladimirskaya Oblast’",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "VLA"
+      },
+      "countryName": "Russia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Vladimir",
+      "lat": "56",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "84",
+      "lng": "44",
+      "geonameId": 472755,
+      "toponymName": "Volgograd Oblast",
+      "countryId": "2017370",
+      "fcl": "A",
+      "population": 2610161,
+      "countryCode": "RU",
+      "name": "Volgograd Oblast",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "VGG"
+      },
+      "countryName": "Russia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Volgograd Oblast",
+      "lat": "49",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "85",
+      "lng": "42",
+      "geonameId": 472454,
+      "toponymName": "Vologda Oblast",
+      "countryId": "2017370",
+      "fcl": "A",
+      "population": 1245037,
+      "countryCode": "RU",
+      "name": "Vologda Oblast",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "VLG"
+      },
+      "countryName": "Russia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Vologda",
+      "lat": "60",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "86",
+      "lng": "40.5",
+      "geonameId": 472039,
+      "toponymName": "Voronezh Oblast",
+      "countryId": "2017370",
+      "fcl": "A",
+      "population": 2345910,
+      "countryCode": "RU",
+      "name": "Voronezh Oblast",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "VOR"
+      },
+      "countryName": "Russia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Voronezj",
+      "lat": "51",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "87",
+      "lng": "76",
+      "geonameId": 1486462,
+      "toponymName": "Yamalo-Nenetskiy Avtonomnyy Okrug",
+      "countryId": "2017370",
+      "fcl": "A",
+      "population": 522904,
+      "countryCode": "RU",
+      "name": "Yamalo-Nenets",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "YAN"
+      },
+      "countryName": "Russia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Yamalo-Nenets",
+      "lat": "66",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "88",
+      "lng": "39.5",
+      "geonameId": 468898,
+      "toponymName": "Yaroslavskaya Oblast’",
+      "countryId": "2017370",
+      "fcl": "A",
+      "population": 1338750,
+      "countryCode": "RU",
+      "name": "Yaroslavl Oblast",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "YAR"
+      },
+      "countryName": "Russia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Yaroslavl Oblast",
+      "lat": "58",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "89",
+      "lng": "132",
+      "geonameId": 2026639,
+      "toponymName": "Yevrey (Jewish) Autonomous Oblast",
+      "countryId": "2017370",
+      "fcl": "A",
+      "population": 176558,
+      "countryCode": "RU",
+      "name": "Yevrey (Jewish) Autonomous Oblast",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "YEV"
+      },
+      "countryName": "Russia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Jewish Autonomous Oblast",
+      "lat": "48.5",
+      "fcode": "ADM1"
+    }
+  ]
+}

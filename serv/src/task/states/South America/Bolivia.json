@@ -1,0 +1,185 @@
+{
+  "totalResultsCount": 9,
+  "geonames": [
+    {
+      "adminCode1": "01",
+      "lng": "-64.33333",
+      "geonameId": 3920177,
+      "toponymName": "Departamento de Chuquisaca",
+      "countryId": "3923057",
+      "fcl": "A",
+      "population": 528796,
+      "countryCode": "BO",
+      "name": "Departamento de Chuquisaca",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "H"
+      },
+      "countryName": "Bolivia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Chuquisaca",
+      "lat": "-20",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "02",
+      "lng": "-65.66667",
+      "geonameId": 3919966,
+      "toponymName": "Departamento de Cochabamba",
+      "countryId": "3923057",
+      "fcl": "A",
+      "population": 1639857,
+      "countryCode": "BO",
+      "name": "Departamento de Cochabamba",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "C"
+      },
+      "countryName": "Bolivia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Cochabamba",
+      "lat": "-17.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "04",
+      "lng": "-68",
+      "geonameId": 3911924,
+      "toponymName": "Departamento de La Paz",
+      "countryId": "3923057",
+      "fcl": "A",
+      "population": 2603388,
+      "countryCode": "BO",
+      "name": "Departamento de La Paz",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "L"
+      },
+      "countryName": "Bolivia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "La Paz",
+      "lat": "-15.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "06",
+      "lng": "-67.66667",
+      "geonameId": 3908600,
+      "toponymName": "Departamento de Pando",
+      "countryId": "3923057",
+      "fcl": "A",
+      "population": 103092,
+      "countryCode": "BO",
+      "name": "Departamento de Pando",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "N"
+      },
+      "countryName": "Bolivia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Pando",
+      "lat": "-11.33333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "07",
+      "lng": "-67",
+      "geonameId": 3907580,
+      "toponymName": "Departamento de Potosí",
+      "countryId": "3923057",
+      "fcl": "A",
+      "population": 754689,
+      "countryCode": "BO",
+      "name": "Departamento de Potosí",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "P"
+      },
+      "countryName": "Bolivia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Potosí",
+      "lat": "-20.66667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "08",
+      "lng": "-61.5",
+      "geonameId": 3904907,
+      "toponymName": "Departamento de Santa Cruz",
+      "countryId": "3923057",
+      "fcl": "A",
+      "population": 2657762,
+      "countryCode": "BO",
+      "name": "Departamento de Santa Cruz",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "S"
+      },
+      "countryName": "Bolivia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Santa Cruz",
+      "lat": "-17.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "09",
+      "lng": "-64",
+      "geonameId": 3903319,
+      "toponymName": "Departamento de Tarija",
+      "countryId": "3923057",
+      "fcl": "A",
+      "population": 478577,
+      "countryCode": "BO",
+      "name": "Departamento de Tarija",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "T"
+      },
+      "countryName": "Bolivia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Tarija",
+      "lat": "-21.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "03",
+      "lng": "-65.5",
+      "geonameId": 3923172,
+      "toponymName": "El Beni",
+      "countryId": "3923057",
+      "fcl": "A",
+      "population": 422008,
+      "countryCode": "BO",
+      "name": "El Beni",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "B"
+      },
+      "countryName": "Bolivia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "El Beni",
+      "lat": "-14",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "05",
+      "lng": "-67.5",
+      "geonameId": 3909233,
+      "toponymName": "Departamento de Oruro",
+      "countryId": "3923057",
+      "fcl": "A",
+      "population": 488584,
+      "countryCode": "BO",
+      "name": "Oruro",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "O"
+      },
+      "countryName": "Bolivia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Oruro",
+      "lat": "-18.66667",
+      "fcode": "ADM1"
+    }
+  ]
+}

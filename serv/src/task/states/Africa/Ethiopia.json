@@ -1,0 +1,225 @@
+{
+  "totalResultsCount": 11,
+  "geonames": [
+    {
+      "adminCode1": "44",
+      "lng": "38.75",
+      "geonameId": 444178,
+      "toponymName": "Addis Ababa",
+      "countryId": "337996",
+      "fcl": "A",
+      "population": 3384569,
+      "countryCode": "ET",
+      "name": "Addis Ababa",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "AA"
+      },
+      "countryName": "Ethiopia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Addis Ababa",
+      "lat": "9",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "46",
+      "lng": "38.5",
+      "geonameId": 444180,
+      "toponymName": "Amhara Region",
+      "countryId": "337996",
+      "fcl": "A",
+      "population": 17221976,
+      "countryCode": "ET",
+      "name": "Amhara",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "AM"
+      },
+      "countryName": "Ethiopia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Amhara",
+      "lat": "11.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "47",
+      "lng": "35.5",
+      "geonameId": 444181,
+      "toponymName": "Benishangul-Gumuz Region",
+      "countryId": "337996",
+      "fcl": "A",
+      "population": 784345,
+      "countryCode": "ET",
+      "name": "Bīnshangul Gumuz",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "BE"
+      },
+      "countryName": "Ethiopia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Bīnshangul Gumuz",
+      "lat": "11",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "48",
+      "lng": "42.014",
+      "geonameId": 444182,
+      "toponymName": "Dire Dawa Region",
+      "countryId": "337996",
+      "fcl": "A",
+      "population": 607321,
+      "countryCode": "ET",
+      "name": "Dire Dawa",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "DD"
+      },
+      "countryName": "Ethiopia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Dire Dawa",
+      "lat": "9.567",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "49",
+      "lng": "34.5",
+      "geonameId": 444183,
+      "toponymName": "Gambela Region",
+      "countryId": "337996",
+      "fcl": "A",
+      "population": 435999,
+      "countryCode": "ET",
+      "name": "Gambela",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "GA"
+      },
+      "countryName": "Ethiopia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Gambela",
+      "lat": "7.83333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "50",
+      "lng": "42.16667",
+      "geonameId": 444184,
+      "toponymName": "Harari Region",
+      "countryId": "337996",
+      "fcl": "A",
+      "population": 183415,
+      "countryCode": "ET",
+      "name": "Harari",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "HA"
+      },
+      "countryName": "Ethiopia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Harari",
+      "lat": "9.25",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "51",
+      "lng": "39",
+      "geonameId": 444185,
+      "toponymName": "Oromiya Region",
+      "countryId": "337996",
+      "fcl": "A",
+      "population": 27158471,
+      "countryCode": "ET",
+      "name": "Oromiya",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "OR"
+      },
+      "countryName": "Ethiopia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Oromiya",
+      "lat": "8",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "54",
+      "lng": "36.7273",
+      "geonameId": 444188,
+      "toponymName": "Southern Nations, Nationalities, and People's Region",
+      "countryId": "337996",
+      "fcl": "A",
+      "population": 15042531,
+      "countryCode": "ET",
+      "name": "SNNPR",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SN"
+      },
+      "countryName": "Ethiopia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "SNNPR",
+      "lat": "6.05862",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "52",
+      "lng": "44",
+      "geonameId": 444186,
+      "toponymName": "Somali Region",
+      "countryId": "337996",
+      "fcl": "A",
+      "population": 5318000,
+      "countryCode": "ET",
+      "name": "Somali",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SO"
+      },
+      "countryName": "Ethiopia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Somali",
+      "lat": "7",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "53",
+      "lng": "38.83333",
+      "geonameId": 444187,
+      "toponymName": "Tigray Region",
+      "countryId": "337996",
+      "fcl": "A",
+      "population": 5247005,
+      "countryCode": "ET",
+      "name": "Tigray",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "TI"
+      },
+      "countryName": "Ethiopia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Tigray",
+      "lat": "14.16667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "45",
+      "lng": "41.5",
+      "geonameId": 444179,
+      "toponymName": "Afar Region",
+      "countryId": "337996",
+      "fcl": "A",
+      "population": 1602995,
+      "countryCode": "ET",
+      "name": "Āfar",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "AF"
+      },
+      "countryName": "Ethiopia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Āfar",
+      "lat": "12",
+      "fcode": "ADM1"
+    }
+  ]
+}

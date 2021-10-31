@@ -1,0 +1,425 @@
+{
+  "totalResultsCount": 21,
+  "geonames": [
+    {
+      "adminCode1": "02",
+      "lng": "15.33333",
+      "geonameId": 2721357,
+      "toponymName": "Blekinge County",
+      "countryId": "2661886",
+      "fcl": "A",
+      "population": 152315,
+      "countryCode": "SE",
+      "name": "Blekinge",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "K"
+      },
+      "countryName": "Sweden",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Blekinge",
+      "lat": "56.33333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "10",
+      "lng": "14.5",
+      "geonameId": 2699767,
+      "toponymName": "Dalarna County",
+      "countryId": "2661886",
+      "fcl": "A",
+      "population": 276555,
+      "countryCode": "SE",
+      "name": "Dalarna",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "W"
+      },
+      "countryName": "Sweden",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Dalarna",
+      "lat": "61",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "05",
+      "lng": "18.5",
+      "geonameId": 2711508,
+      "toponymName": "Gotland County",
+      "countryId": "2661886",
+      "fcl": "A",
+      "population": 57241,
+      "countryCode": "SE",
+      "name": "Gotland",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "I"
+      },
+      "countryName": "Sweden",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Gotland",
+      "lat": "57.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "03",
+      "lng": "16.25",
+      "geonameId": 2712411,
+      "toponymName": "Gävleborg County",
+      "countryId": "2661886",
+      "fcl": "A",
+      "population": 276637,
+      "countryCode": "SE",
+      "name": "Gävleborg",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "X"
+      },
+      "countryName": "Sweden",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Gävleborg",
+      "lat": "61.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "06",
+      "lng": "13",
+      "geonameId": 2708794,
+      "toponymName": "Halland County",
+      "countryId": "2661886",
+      "fcl": "A",
+      "population": 304116,
+      "countryCode": "SE",
+      "name": "Halland",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "N"
+      },
+      "countryName": "Sweden",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Halland",
+      "lat": "56.75",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "07",
+      "lng": "14.66667",
+      "geonameId": 2703330,
+      "toponymName": "Jämtland County",
+      "countryId": "2661886",
+      "fcl": "A",
+      "population": 126201,
+      "countryCode": "SE",
+      "name": "Jämtland",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "Z"
+      },
+      "countryName": "Sweden",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Jämtland",
+      "lat": "63",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "08",
+      "lng": "14.5",
+      "geonameId": 2702976,
+      "toponymName": "Jönköping County",
+      "countryId": "2661886",
+      "fcl": "A",
+      "population": 339116,
+      "countryCode": "SE",
+      "name": "Jönköping",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "F"
+      },
+      "countryName": "Sweden",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Jönköping",
+      "lat": "57.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "09",
+      "lng": "16",
+      "geonameId": 2702259,
+      "toponymName": "Kalmar",
+      "countryId": "2661886",
+      "fcl": "A",
+      "population": 244670,
+      "countryCode": "SE",
+      "name": "Kalmar",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "H"
+      },
+      "countryName": "Sweden",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Kalmar",
+      "lat": "57.33333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "12",
+      "lng": "14.66667",
+      "geonameId": 2699050,
+      "toponymName": "Kronoberg County",
+      "countryId": "2661886",
+      "fcl": "A",
+      "population": 185887,
+      "countryCode": "SE",
+      "name": "Kronoberg",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "G"
+      },
+      "countryName": "Sweden",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Kronoberg",
+      "lat": "56.66667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "14",
+      "lng": "20",
+      "geonameId": 604010,
+      "toponymName": "Norrbotten County",
+      "countryId": "2661886",
+      "fcl": "A",
+      "population": 248637,
+      "countryCode": "SE",
+      "name": "Norrbotten",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "BD"
+      },
+      "countryName": "Sweden",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Norrbotten",
+      "lat": "67",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "27",
+      "lng": "13.5",
+      "geonameId": 3337385,
+      "toponymName": "Skåne County",
+      "countryId": "2661886",
+      "fcl": "A",
+      "population": 1263088,
+      "countryCode": "SE",
+      "name": "Skåne",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "M"
+      },
+      "countryName": "Sweden",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Skåne",
+      "lat": "55.98333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "26",
+      "lng": "18",
+      "geonameId": 2673722,
+      "toponymName": "Stockholm County",
+      "countryId": "2661886",
+      "fcl": "A",
+      "population": 2127006,
+      "countryCode": "SE",
+      "name": "Stockholm",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "AB"
+      },
+      "countryName": "Sweden",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Stockholm",
+      "lat": "59.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "18",
+      "lng": "16.66667",
+      "geonameId": 2676207,
+      "toponymName": "Södermanland County",
+      "countryId": "2661886",
+      "fcl": "A",
+      "population": 274723,
+      "countryCode": "SE",
+      "name": "Södermanland",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "D"
+      },
+      "countryName": "Sweden",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Södermanland",
+      "lat": "59.25",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "21",
+      "lng": "17.75",
+      "geonameId": 2666218,
+      "toponymName": "Uppsala County",
+      "countryId": "2661886",
+      "fcl": "A",
+      "population": 341977,
+      "countryCode": "SE",
+      "name": "Uppsala",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "C"
+      },
+      "countryName": "Sweden",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Uppsala",
+      "lat": "60",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "22",
+      "lng": "13.25",
+      "geonameId": 2664870,
+      "toponymName": "Värmland County",
+      "countryId": "2661886",
+      "fcl": "A",
+      "population": 273080,
+      "countryCode": "SE",
+      "name": "Värmland",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "S"
+      },
+      "countryName": "Sweden",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Värmland",
+      "lat": "59.75",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "23",
+      "lng": "17.5",
+      "geonameId": 2664415,
+      "toponymName": "Västerbotten County",
+      "countryId": "2661886",
+      "fcl": "A",
+      "population": 260217,
+      "countryCode": "SE",
+      "name": "Västerbotten",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "AC"
+      },
+      "countryName": "Sweden",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Västerbotten",
+      "lat": "65",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "24",
+      "lng": "17.5",
+      "geonameId": 2664292,
+      "toponymName": "Västernorrland County",
+      "countryId": "2661886",
+      "fcl": "A",
+      "population": 241981,
+      "countryCode": "SE",
+      "name": "Västernorrland",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "Y"
+      },
+      "countryName": "Sweden",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Västernorrland",
+      "lat": "63",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "25",
+      "lng": "16.33333",
+      "geonameId": 2664179,
+      "toponymName": "Västmanland County",
+      "countryId": "2661886",
+      "fcl": "A",
+      "population": 256224,
+      "countryCode": "SE",
+      "name": "Västmanland",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "U"
+      },
+      "countryName": "Sweden",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Västmanland",
+      "lat": "59.75",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "28",
+      "lng": "13",
+      "geonameId": 3337386,
+      "toponymName": "Västra Götaland County",
+      "countryId": "2661886",
+      "fcl": "A",
+      "population": 1600447,
+      "countryCode": "SE",
+      "name": "Västra Götaland",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "O"
+      },
+      "countryName": "Sweden",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Västra Götaland",
+      "lat": "58",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "15",
+      "lng": "15",
+      "geonameId": 2686655,
+      "toponymName": "Örebro County",
+      "countryId": "2661886",
+      "fcl": "A",
+      "population": 283113,
+      "countryCode": "SE",
+      "name": "Örebro",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "T"
+      },
+      "countryName": "Sweden",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Örebro",
+      "lat": "59.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "16",
+      "lng": "15.75",
+      "geonameId": 2685867,
+      "toponymName": "Östergötland County",
+      "countryId": "2661886",
+      "fcl": "A",
+      "population": 433784,
+      "countryCode": "SE",
+      "name": "Östergötland",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "E"
+      },
+      "countryName": "Sweden",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Östergötland",
+      "lat": "58.41667",
+      "fcode": "ADM1"
+    }
+  ]
+}

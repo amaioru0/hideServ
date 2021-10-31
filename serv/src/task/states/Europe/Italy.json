@@ -1,0 +1,405 @@
+{
+  "totalResultsCount": 20,
+  "geonames": [
+    {
+      "adminCode1": "01",
+      "lng": "13.75",
+      "geonameId": 3183560,
+      "toponymName": "Abruzzo",
+      "countryId": "3175395",
+      "fcl": "A",
+      "population": 1311580,
+      "countryCode": "IT",
+      "name": "Abruzzo",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "65"
+      },
+      "countryName": "Italy",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Abruzzo",
+      "lat": "42.25",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "19",
+      "lng": "7.25",
+      "geonameId": 3164857,
+      "toponymName": "Regione Autonoma Valle d'Aosta",
+      "countryId": "3175395",
+      "fcl": "A",
+      "population": 125666,
+      "countryCode": "IT",
+      "name": "Aosta Valley",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "23"
+      },
+      "countryName": "Italy",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Aosta Valley",
+      "lat": "45.75",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "13",
+      "lng": "16.73378",
+      "geonameId": 3169778,
+      "toponymName": "Puglia",
+      "countryId": "3175395",
+      "fcl": "A",
+      "population": 4029681,
+      "countryCode": "IT",
+      "name": "Apulia",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "75"
+      },
+      "countryName": "Italy",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Apulia",
+      "lat": "41.00164",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "02",
+      "lng": "16.11396",
+      "geonameId": 3182306,
+      "toponymName": "Basilicata",
+      "countryId": "3175395",
+      "fcl": "A",
+      "population": 562869,
+      "countryCode": "IT",
+      "name": "Basilicate",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "77"
+      },
+      "countryName": "Italy",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Basilicate",
+      "lat": "40.5041",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "03",
+      "lng": "16.5",
+      "geonameId": 2525468,
+      "toponymName": "Calabria",
+      "countryId": "3175395",
+      "fcl": "A",
+      "population": 1947131,
+      "countryCode": "IT",
+      "name": "Calabria",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "78"
+      },
+      "countryName": "Italy",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Calabria",
+      "lat": "39",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "04",
+      "lng": "14.92053",
+      "geonameId": 3181042,
+      "toponymName": "Campania",
+      "countryId": "3175395",
+      "fcl": "A",
+      "population": 5801692,
+      "countryCode": "IT",
+      "name": "Campania",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "72"
+      },
+      "countryName": "Italy",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Campania",
+      "lat": "40.91056",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "05",
+      "lng": "10.98361",
+      "geonameId": 3177401,
+      "toponymName": "Emilia-Romagna",
+      "countryId": "3175395",
+      "fcl": "A",
+      "population": 4459477,
+      "countryCode": "IT",
+      "name": "Emilia-Romagna",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "45"
+      },
+      "countryName": "Italy",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Emilia-Romagna",
+      "lat": "44.5444",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "06",
+      "lng": "13",
+      "geonameId": 3176525,
+      "toponymName": "Friuli Venezia Giulia",
+      "countryId": "3175395",
+      "fcl": "A",
+      "population": 1215220,
+      "countryCode": "IT",
+      "name": "Friuli Venezia Giulia",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "36"
+      },
+      "countryName": "Italy",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Friuli Venezia Giulia",
+      "lat": "46",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "07",
+      "lng": "12.77878",
+      "geonameId": 3174976,
+      "toponymName": "Lazio",
+      "countryId": "3175395",
+      "fcl": "A",
+      "population": 5879082,
+      "countryCode": "IT",
+      "name": "Latium",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "62"
+      },
+      "countryName": "Italy",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Latium",
+      "lat": "42.07762",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "08",
+      "lng": "8.83333",
+      "geonameId": 3174725,
+      "toponymName": "Liguria",
+      "countryId": "3175395",
+      "fcl": "A",
+      "population": 1550640,
+      "countryCode": "IT",
+      "name": "Liguria",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "42"
+      },
+      "countryName": "Italy",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Liguria",
+      "lat": "44.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "09",
+      "lng": "9.5",
+      "geonameId": 3174618,
+      "toponymName": "Lombardia",
+      "countryId": "3175395",
+      "fcl": "A",
+      "population": 10059681,
+      "countryCode": "IT",
+      "name": "Lombardy",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "25"
+      },
+      "countryName": "Italy",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Lombardy",
+      "lat": "45.66667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "11",
+      "lng": "14.5",
+      "geonameId": 3173222,
+      "toponymName": "Molise",
+      "countryId": "3175395",
+      "fcl": "A",
+      "population": 305617,
+      "countryCode": "IT",
+      "name": "Molise",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "67"
+      },
+      "countryName": "Italy",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Molise",
+      "lat": "41.66667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "12",
+      "lng": "8",
+      "geonameId": 3170831,
+      "toponymName": "Piemonte",
+      "countryId": "3175395",
+      "fcl": "A",
+      "population": 4356522,
+      "countryCode": "IT",
+      "name": "Piedmont",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "21"
+      },
+      "countryName": "Italy",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Piedmont",
+      "lat": "45",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "14",
+      "lng": "9",
+      "geonameId": 2523228,
+      "toponymName": "Sardegna",
+      "countryId": "3175395",
+      "fcl": "A",
+      "population": 1639591,
+      "countryCode": "IT",
+      "name": "Sardinia",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "88"
+      },
+      "countryName": "Italy",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Sardinia",
+      "lat": "40",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "15",
+      "lng": "14.25",
+      "geonameId": 2523119,
+      "toponymName": "Sicilia",
+      "countryId": "3175395",
+      "fcl": "A",
+      "population": 4999891,
+      "countryCode": "IT",
+      "name": "Sicily",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "82"
+      },
+      "countryName": "Italy",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Sicily",
+      "lat": "37.75",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "10",
+      "lng": "13.25",
+      "geonameId": 3174004,
+      "toponymName": "Marche",
+      "countryId": "3175395",
+      "fcl": "A",
+      "population": 1525271,
+      "countryCode": "IT",
+      "name": "The Marches",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "57"
+      },
+      "countryName": "Italy",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "The Marches",
+      "lat": "43.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "17",
+      "lng": "11.33333",
+      "geonameId": 3165244,
+      "toponymName": "Trentino-Alto Adige",
+      "countryId": "3175395",
+      "fcl": "A",
+      "population": 1071636,
+      "countryCode": "IT",
+      "name": "Trentino-Alto Adige",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "32"
+      },
+      "countryName": "Italy",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Trentino-Alto Adige",
+      "lat": "46.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "16",
+      "lng": "11",
+      "geonameId": 3165361,
+      "toponymName": "Toscana",
+      "countryId": "3175395",
+      "fcl": "A",
+      "population": 3729641,
+      "countryCode": "IT",
+      "name": "Tuscany",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "52"
+      },
+      "countryName": "Italy",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Tuscany",
+      "lat": "43.41667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "18",
+      "lng": "12.5",
+      "geonameId": 3165048,
+      "toponymName": "Umbria",
+      "countryId": "3175395",
+      "fcl": "A",
+      "population": 882015,
+      "countryCode": "IT",
+      "name": "Umbria",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "55"
+      },
+      "countryName": "Italy",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Umbria",
+      "lat": "43",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "20",
+      "lng": "11.75",
+      "geonameId": 3164604,
+      "toponymName": "Veneto",
+      "countryId": "3175395",
+      "fcl": "A",
+      "population": 4906910,
+      "countryCode": "IT",
+      "name": "Veneto",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "34"
+      },
+      "countryName": "Italy",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Veneto",
+      "lat": "45.5",
+      "fcode": "ADM1"
+    }
+  ]
+}

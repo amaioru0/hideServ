@@ -1,0 +1,205 @@
+{
+  "totalResultsCount": 10,
+  "geonames": [
+    {
+      "adminCode1": "01",
+      "lng": "-61.01566",
+      "geonameId": 3576891,
+      "toponymName": "Anse-la-Raye",
+      "countryId": "3576468",
+      "fcl": "A",
+      "population": 6394,
+      "countryCode": "LC",
+      "name": "Anse-la-Raye",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "01"
+      },
+      "countryName": "Saint Lucia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Anse-la-Raye",
+      "lat": "13.91207",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "12",
+      "lng": "-61.06326",
+      "geonameId": 11351387,
+      "toponymName": "Canaries",
+      "countryId": "3576468",
+      "fcl": "A",
+      "population": 1862,
+      "countryCode": "LC",
+      "name": "Canaries",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "12"
+      },
+      "countryName": "Saint Lucia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Canaries",
+      "lat": "13.90466",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "03",
+      "lng": "-60.97",
+      "geonameId": 3576810,
+      "toponymName": "Castries",
+      "countryId": "3576468",
+      "fcl": "A",
+      "population": 68400,
+      "countryCode": "LC",
+      "name": "Castries",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "02"
+      },
+      "countryName": "Saint Lucia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Castries",
+      "lat": "13.98404",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "04",
+      "lng": "-61.02819",
+      "geonameId": 3576794,
+      "toponymName": "Choiseul",
+      "countryId": "3576468",
+      "fcl": "A",
+      "population": 5933,
+      "countryCode": "LC",
+      "name": "Choiseul",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "03"
+      },
+      "countryName": "Saint Lucia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Choiseul",
+      "lat": "13.80157",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "05",
+      "lng": "-60.91919",
+      "geonameId": 3576764,
+      "toponymName": "Dennery",
+      "countryId": "3576468",
+      "fcl": "A",
+      "population": 13179,
+      "countryCode": "LC",
+      "name": "Dennery",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "05"
+      },
+      "countryName": "Saint Lucia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Dennery",
+      "lat": "13.92507",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "06",
+      "lng": "-60.94494",
+      "geonameId": 3576685,
+      "toponymName": "Gros-Islet",
+      "countryId": "3576468",
+      "fcl": "A",
+      "population": 25000,
+      "countryCode": "LC",
+      "name": "Gros-Islet",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "06"
+      },
+      "countryName": "Saint Lucia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Gros-Islet",
+      "lat": "14.05366",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "07",
+      "lng": "-61.00309",
+      "geonameId": 3576662,
+      "toponymName": "Laborie",
+      "countryId": "3576468",
+      "fcl": "A",
+      "population": 7185,
+      "countryCode": "LC",
+      "name": "Laborie",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "07"
+      },
+      "countryName": "Saint Lucia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Laborie",
+      "lat": "13.7867",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "08",
+      "lng": "-60.94563",
+      "geonameId": 3576567,
+      "toponymName": "Micoud",
+      "countryId": "3576468",
+      "fcl": "A",
+      "population": 16143,
+      "countryCode": "LC",
+      "name": "Micoud",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "08"
+      },
+      "countryName": "Saint Lucia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Micoud",
+      "lat": "13.82041",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "09",
+      "lng": "-61.02493",
+      "geonameId": 3576441,
+      "toponymName": "Soufrière",
+      "countryId": "3576468",
+      "fcl": "A",
+      "population": 7935,
+      "countryCode": "LC",
+      "name": "Soufrière",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "10"
+      },
+      "countryName": "Saint Lucia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Soufrière",
+      "lat": "13.84541",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "10",
+      "lng": "-60.96588",
+      "geonameId": 3576413,
+      "toponymName": "Vieux-Fort",
+      "countryId": "3576468",
+      "fcl": "A",
+      "population": 15132,
+      "countryCode": "LC",
+      "name": "Vieux-Fort",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "11"
+      },
+      "countryName": "Saint Lucia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Vieux-Fort",
+      "lat": "13.78407",
+      "fcode": "ADM1"
+    }
+  ]
+}

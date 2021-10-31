@@ -1,0 +1,145 @@
+{
+  "totalResultsCount": 7,
+  "geonames": [
+    {
+      "adminCode1": "01",
+      "lng": "-84.5",
+      "geonameId": 3624953,
+      "toponymName": "Provincia de Alajuela",
+      "countryId": "3624060",
+      "fcl": "A",
+      "population": 885571,
+      "countryCode": "CR",
+      "name": "Provincia de Alajuela",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "A"
+      },
+      "countryName": "Costa Rica",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Alajuela",
+      "lat": "10.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "02",
+      "lng": "-83.75",
+      "geonameId": 3624368,
+      "toponymName": "Provincia de Cartago",
+      "countryId": "3624060",
+      "fcl": "A",
+      "population": 490903,
+      "countryCode": "CR",
+      "name": "Provincia de Cartago",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "C"
+      },
+      "countryName": "Costa Rica",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Cartago",
+      "lat": "9.83333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "03",
+      "lng": "-85.25",
+      "geonameId": 3623582,
+      "toponymName": "Provincia de Guanacaste",
+      "countryId": "3624060",
+      "fcl": "A",
+      "population": 354154,
+      "countryCode": "CR",
+      "name": "Provincia de Guanacaste",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "G"
+      },
+      "countryName": "Costa Rica",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Guanacaste",
+      "lat": "10.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "04",
+      "lng": "-84",
+      "geonameId": 3623484,
+      "toponymName": "Provincia de Heredia",
+      "countryId": "3624060",
+      "fcl": "A",
+      "population": 433677,
+      "countryCode": "CR",
+      "name": "Provincia de Heredia",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "H"
+      },
+      "countryName": "Costa Rica",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Heredia",
+      "lat": "10.33333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "06",
+      "lng": "-83.21667",
+      "geonameId": 3623064,
+      "toponymName": "Provincia de Limón",
+      "countryId": "3624060",
+      "fcl": "A",
+      "population": 386862,
+      "countryCode": "CR",
+      "name": "Provincia de Limón",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "L"
+      },
+      "countryName": "Costa Rica",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Limón",
+      "lat": "10",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "07",
+      "lng": "-84.83068",
+      "geonameId": 3622226,
+      "toponymName": "Provincia de Puntarenas",
+      "countryId": "3624060",
+      "fcl": "A",
+      "population": 410929,
+      "countryCode": "CR",
+      "name": "Provincia de Puntarenas",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "P"
+      },
+      "countryName": "Costa Rica",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Puntarenas",
+      "lat": "9.97794",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "08",
+      "lng": "-84",
+      "geonameId": 3621837,
+      "toponymName": "Provincia de San José",
+      "countryId": "3624060",
+      "fcl": "A",
+      "population": 1404242,
+      "countryCode": "CR",
+      "name": "Provincia de San José",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SJ"
+      },
+      "countryName": "Costa Rica",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "San José",
+      "lat": "9.66667",
+      "fcode": "ADM1"
+    }
+  ]
+}

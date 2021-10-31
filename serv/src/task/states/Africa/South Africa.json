@@ -1,0 +1,185 @@
+{
+  "totalResultsCount": 9,
+  "geonames": [
+    {
+      "adminCode1": "05",
+      "lng": "26",
+      "geonameId": 1085593,
+      "toponymName": "Eastern Cape",
+      "countryId": "953987",
+      "fcl": "A",
+      "population": 6490714,
+      "countryCode": "ZA",
+      "name": "Eastern Cape",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "EC"
+      },
+      "countryName": "South Africa",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Eastern Cape",
+      "lat": "-32",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "06",
+      "lng": "28.25",
+      "geonameId": 1085594,
+      "toponymName": "Gauteng",
+      "countryId": "953987",
+      "fcl": "A",
+      "population": 10058121,
+      "countryCode": "ZA",
+      "name": "Gauteng",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "GP"
+      },
+      "countryName": "South Africa",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Gauteng",
+      "lat": "-26.08333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "02",
+      "lng": "30",
+      "geonameId": 972062,
+      "toponymName": "KwaZulu-Natal",
+      "countryId": "953987",
+      "fcl": "A",
+      "population": 10154469,
+      "countryCode": "ZA",
+      "name": "KwaZulu-Natal",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "KZN"
+      },
+      "countryName": "South Africa",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "KwaZulu-Natal",
+      "lat": "-29",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "09",
+      "lng": "29.5",
+      "geonameId": 1085597,
+      "toponymName": "Limpopo",
+      "countryId": "953987",
+      "fcl": "A",
+      "population": 5494928,
+      "countryCode": "ZA",
+      "name": "Limpopo",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "LP"
+      },
+      "countryName": "South Africa",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Limpopo",
+      "lat": "-24",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "07",
+      "lng": "30",
+      "geonameId": 1085595,
+      "toponymName": "Mpumalanga",
+      "countryId": "953987",
+      "fcl": "A",
+      "population": 3409743,
+      "countryCode": "ZA",
+      "name": "Mpumalanga",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "MP"
+      },
+      "countryName": "South Africa",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Mpumalanga",
+      "lat": "-26",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "10",
+      "lng": "26",
+      "geonameId": 1085598,
+      "toponymName": "North West",
+      "countryId": "953987",
+      "fcl": "A",
+      "population": 3895126,
+      "countryCode": "ZA",
+      "name": "North West",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "NW"
+      },
+      "countryName": "South Africa",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "North-West",
+      "lat": "-26.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "08",
+      "lng": "22",
+      "geonameId": 1085596,
+      "toponymName": "Northern Cape",
+      "countryId": "953987",
+      "fcl": "A",
+      "population": 819380,
+      "countryCode": "ZA",
+      "name": "Northern Cape",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "NC"
+      },
+      "countryName": "South Africa",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Northern Cape",
+      "lat": "-29.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "03",
+      "lng": "26",
+      "geonameId": 967573,
+      "toponymName": "Free State",
+      "countryId": "953987",
+      "fcl": "A",
+      "population": 2740946,
+      "countryCode": "ZA",
+      "name": "Orange Free State",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "FS"
+      },
+      "countryName": "South Africa",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Orange Free State",
+      "lat": "-29",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "11",
+      "lng": "20",
+      "geonameId": 1085599,
+      "toponymName": "Western Cape",
+      "countryId": "953987",
+      "fcl": "A",
+      "population": 4988154,
+      "countryCode": "ZA",
+      "name": "Western Cape",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "WC"
+      },
+      "countryName": "South Africa",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Western Cape",
+      "lat": "-34",
+      "fcode": "ADM1"
+    }
+  ]
+}

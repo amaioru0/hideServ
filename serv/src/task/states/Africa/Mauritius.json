@@ -1,0 +1,245 @@
+{
+  "totalResultsCount": 12,
+  "geonames": [
+    {
+      "adminCode1": "21",
+      "lng": "56.61667",
+      "geonameId": 448254,
+      "toponymName": "Agalega Islands",
+      "countryId": "934292",
+      "fcl": "A",
+      "population": 289,
+      "countryCode": "MU",
+      "name": "Agalega Islands",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "AG"
+      },
+      "countryName": "Mauritius",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Agalega Islands",
+      "lat": "-10.4",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "12",
+      "lng": "57.41667",
+      "geonameId": 934718,
+      "toponymName": "Black River District",
+      "countryId": "934292",
+      "fcl": "A",
+      "population": 70046,
+      "countryCode": "MU",
+      "name": "Black River District",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "BL"
+      },
+      "countryName": "Mauritius",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Black River",
+      "lat": "-20.33333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "22",
+      "lng": "59.63333",
+      "geonameId": 1106583,
+      "toponymName": "Cargados Carajos",
+      "countryId": "934292",
+      "fcl": "A",
+      "population": 63,
+      "countryCode": "MU",
+      "name": "Cargados Carajos",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "CC"
+      },
+      "countryName": "Mauritius",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Cargados Carajos",
+      "lat": "-16.63333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "13",
+      "lng": "57.71667",
+      "geonameId": 934522,
+      "toponymName": "Flacq District",
+      "countryId": "934292",
+      "fcl": "A",
+      "population": 138447,
+      "countryCode": "MU",
+      "name": "Flacq District",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "FL"
+      },
+      "countryName": "Mauritius",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Flacq",
+      "lat": "-20.23333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "14",
+      "lng": "57.63333",
+      "geonameId": 934466,
+      "toponymName": "Grand Port District",
+      "countryId": "934292",
+      "fcl": "A",
+      "population": 115391,
+      "countryCode": "MU",
+      "name": "Grand Port District",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "GP"
+      },
+      "countryName": "Mauritius",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Grand Port",
+      "lat": "-20.41667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "15",
+      "lng": "57.56667",
+      "geonameId": 934275,
+      "toponymName": "Moka District",
+      "countryId": "934292",
+      "fcl": "A",
+      "population": 80544,
+      "countryCode": "MU",
+      "name": "Moka District",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "MO"
+      },
+      "countryName": "Mauritius",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Moka",
+      "lat": "-20.25",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "16",
+      "lng": "57.55972",
+      "geonameId": 934212,
+      "toponymName": "Pamplemousses District",
+      "countryId": "934292",
+      "fcl": "A",
+      "population": 133870,
+      "countryCode": "MU",
+      "name": "Pamplemousses District",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "PA"
+      },
+      "countryName": "Mauritius",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Pamplemousses",
+      "lat": "-20.09583",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "17",
+      "lng": "57.48333",
+      "geonameId": 934166,
+      "toponymName": "Plaines Wilhems District",
+      "countryId": "934292",
+      "fcl": "A",
+      "population": 385034,
+      "countryCode": "MU",
+      "name": "Plaines Wilhems District",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "PW"
+      },
+      "countryName": "Mauritius",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Plaines Wilhems",
+      "lat": "-20.3",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "18",
+      "lng": "57.525",
+      "geonameId": 934153,
+      "toponymName": "Port Louis District",
+      "countryId": "934292",
+      "fcl": "A",
+      "population": 133789,
+      "countryCode": "MU",
+      "name": "Port Louis District",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "PL"
+      },
+      "countryName": "Mauritius",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Port Louis",
+      "lat": "-20.16667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "19",
+      "lng": "57.64167",
+      "geonameId": 934090,
+      "toponymName": "Rivière du Rempart District",
+      "countryId": "934292",
+      "fcl": "A",
+      "population": 107250,
+      "countryCode": "MU",
+      "name": "Rivière du Rempart District",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "RR"
+      },
+      "countryName": "Mauritius",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Rivière du Rempart",
+      "lat": "-20.05833",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "23",
+      "lng": "63.416",
+      "geonameId": 1547449,
+      "toponymName": "Rodrigues",
+      "countryId": "934292",
+      "fcl": "A",
+      "population": 36403,
+      "countryCode": "MU",
+      "name": "Rodrigues",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "RO"
+      },
+      "countryName": "Mauritius",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Rodrigues",
+      "lat": "-19.701",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "20",
+      "lng": "57.5",
+      "geonameId": 934017,
+      "toponymName": "Savanne District",
+      "countryId": "934292",
+      "fcl": "A",
+      "population": 70158,
+      "countryCode": "MU",
+      "name": "Savanne District",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SA"
+      },
+      "countryName": "Mauritius",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Savanne",
+      "lat": "-20.46667",
+      "fcode": "ADM1"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "totalResultsCount": 4,
+  "geonames": [
+    {
+      "adminCode1": "01",
+      "lng": "31.33333",
+      "geonameId": 935085,
+      "toponymName": "Hhohho",
+      "countryId": "934841",
+      "fcl": "A",
+      "population": 308366,
+      "countryCode": "SZ",
+      "name": "Hhohho",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "HH"
+      },
+      "countryName": "Eswatini",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Hhohho",
+      "lat": "-26.08333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "02",
+      "lng": "31.87",
+      "geonameId": 935042,
+      "toponymName": "Lubombo District",
+      "countryId": "934841",
+      "fcl": "A",
+      "population": 224435,
+      "countryCode": "SZ",
+      "name": "Lubombo District",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "LU"
+      },
+      "countryName": "Eswatini",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Lubombo",
+      "lat": "-26.5",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "03",
+      "lng": "31.25",
+      "geonameId": 934994,
+      "toponymName": "Manzini",
+      "countryId": "934841",
+      "fcl": "A",
+      "population": 354155,
+      "countryCode": "SZ",
+      "name": "Manzini",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "MA"
+      },
+      "countryName": "Eswatini",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Manzini",
+      "lat": "-26.58333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "04",
+      "lng": "31.4",
+      "geonameId": 934867,
+      "toponymName": "Shiselweni District",
+      "countryId": "934841",
+      "fcl": "A",
+      "population": 234981,
+      "countryCode": "SZ",
+      "name": "Shiselweni District",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SH"
+      },
+      "countryName": "Eswatini",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Shiselweni",
+      "lat": "-27.05",
+      "fcode": "ADM1"
+    }
+  ]
+}

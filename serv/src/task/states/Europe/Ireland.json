@@ -1,0 +1,85 @@
+{
+  "totalResultsCount": 4,
+  "geonames": [
+    {
+      "adminCode1": "C",
+      "lng": "-8.63333",
+      "geonameId": 7521313,
+      "toponymName": "Connaught",
+      "countryId": "2963597",
+      "fcl": "A",
+      "population": 542547,
+      "countryCode": "IE",
+      "name": "Connaught",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "C"
+      },
+      "countryName": "Ireland",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Connaught",
+      "lat": "53.87",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "L",
+      "lng": "-7.02121",
+      "geonameId": 7521314,
+      "toponymName": "Leinster",
+      "countryId": "2963597",
+      "fcl": "A",
+      "population": 2504814,
+      "countryCode": "IE",
+      "name": "Leinster",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "L"
+      },
+      "countryName": "Ireland",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Leinster",
+      "lat": "53.16667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "M",
+      "lng": "-8.71667",
+      "geonameId": 7521315,
+      "toponymName": "Munster",
+      "countryId": "2963597",
+      "fcl": "A",
+      "population": 1246088,
+      "countryCode": "IE",
+      "name": "Munster",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "M"
+      },
+      "countryName": "Ireland",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Munster",
+      "lat": "52.34333",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "U",
+      "lng": "-7.9395",
+      "geonameId": 7521316,
+      "toponymName": "Ulster",
+      "countryId": "2963597",
+      "fcl": "A",
+      "population": 2101164,
+      "countryCode": "IE",
+      "name": "Ulster",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "U"
+      },
+      "countryName": "Ireland",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Ulster",
+      "lat": "54.92732",
+      "fcode": "ADM1"
+    }
+  ]
+}

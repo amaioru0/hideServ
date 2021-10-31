@@ -1,0 +1,65 @@
+{
+  "totalResultsCount": 3,
+  "geonames": [
+    {
+      "adminCode1": "98611",
+      "lng": "-178.11876",
+      "geonameId": 4034884,
+      "toponymName": "Alo",
+      "countryId": "4034749",
+      "fcl": "A",
+      "population": 2998,
+      "countryCode": "WF",
+      "name": "Alo",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "AL"
+      },
+      "countryName": "Wallis and Futuna",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Alo",
+      "lat": "-14.30664",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "98612",
+      "lng": "-178.16667",
+      "geonameId": 4034776,
+      "toponymName": "Sigave",
+      "countryId": "4034749",
+      "fcl": "A",
+      "population": 1894,
+      "countryCode": "WF",
+      "name": "Sigave",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "SG"
+      },
+      "countryName": "Wallis and Futuna",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Sigave",
+      "lat": "-14.26667",
+      "fcode": "ADM1"
+    },
+    {
+      "adminCode1": "98613",
+      "lng": "-176.22053",
+      "geonameId": 4034759,
+      "toponymName": "Uvéa",
+      "countryId": "4034749",
+      "fcl": "A",
+      "population": 10731,
+      "countryCode": "WF",
+      "name": "Uvéa",
+      "fclName": "country, state, region,...",
+      "adminCodes1": {
+        "ISO3166_2": "UV"
+      },
+      "countryName": "Wallis and Futuna",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Uvea",
+      "lat": "-13.29884",
+      "fcode": "ADM1"
+    }
+  ]
+}
