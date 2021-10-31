@@ -6,7 +6,7 @@ hideServ - Unicode
 
 - to run geoServ you need anaconda 
 
-conda config --prepend channels conda-forge
+conda config --prepend channels conda-forge <br />
 conda create -n ox --strict-channel-priority osmnx
 
 
