@@ -22,6 +22,10 @@ const treasureSchema = new Schema(
       geoHash: {
           type: String,
           required: true,
+      },
+      cid: {
+        type: String,
+        required: true
       }
     },
   {

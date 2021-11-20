@@ -13,6 +13,9 @@ import hideWorldWide from './task/hideWorldWide';
 import MerkleTree from 'merkletreejs';
 import keccak256 from 'keccak256';
 import geohash  from "ngeohash";
+import CID from 'cids';
+const { ipfs } = require("./utils/ipfs");
+
 
 import TreasureModel from './models/treasure.model'
 
@@ -91,7 +94,7 @@ import TreasureModel from './models/treasure.model'
       }
       ch.sendToQueue(events, new Buffer(JSON.stringify(dataToProcess)));
     }
-    testEventChain()
+    // testEventChain()
 
     // consume responses
     ch.consume(results, async function (msg:any) {
@@ -115,8 +118,21 @@ import TreasureModel from './models/treasure.model'
         contractStandard: response.contractStandard,
         geoHash: geohash.encode(response.coords[0], response.coords[1])
       }
-      const createdTreasure = await TreasureModel.create(newTreasure);
+
+
+      // const imgdata = fs.readFileSync('./ipfsTest/alienFriend.png');
+      const ipfsx = await ipfs;
+
+      const newLocation = {
+          "geohash": `${newTreasure.geoHash}`
+      }
+      
+      const nftCID = await ipfsx.add(JSON.stringify(newLocation))
+      const createdTreasure = await TreasureModel.create({ ...newTreasure, cid: nftCID });
+
+      console.log(nftCID)
     }
+
     }, { noAck: true });
 
 
